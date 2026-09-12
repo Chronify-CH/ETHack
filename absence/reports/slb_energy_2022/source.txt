@@ -1,0 +1,4950 @@
+Overview
+03
+ 
+ 
+SLB at a glance
+04
+ 
+CEO and CSSO Introduction
+06
+ 
+Our Culture
+07
+ 
+Our Approach to Sustainability
+Sustainability Framework
+10
+ 
+ 
+ 
+Climate Action
+11
+ 
+ 
+Our Roadmap to Net Zero 
+15
+ 
+  
+Decarbonizing Customer 
+Operations
+20
+ 
+  
+New Energy and Transition 
+Opportunities 
+23
+ 
+ 
+ 
+People
+24
+ 
+ 
+Creating In-Country Value 
+27
+ 
+  
+Respecting Human Rights
+30
+ 
+ 
+Promoting Talent & DEI
+34
+ 
+ 
+ 
+Nature
+35
+ 
+ 
+Safeguarding Biodiversity
+36
+ 
+ 
+Protecting Natural Resources
+38
+ 
+ 
+Enabling Circularity
+Governance 
+40
+ 
+Sustainability Governance 
+41
+ 
+Ethics and Compliance 
+42
+ 
+Stakeholder Engagement 
+45
+ 
+Responsible Supply Chain
+48
+ 
+Health, Safety, and Environment
+ 
+50
+ 
+Data Privacy and Cyber Security
+Data 
+51 
+  
+Sustainability Accounting 
+Standards Board (SASB) Index
+53 
+ 
+UN SDG Alignment
+54 
+ 
+2022 Performance Data
+Contents
+About us
+Our purpose is to 
+ 
+create amazing 
+technology that unlocks 
+access to energy, 
+for
+ 
+the benefit of all.
+ 
+ 
+ 
+23%
+Revenue growth vs 2021
+>150
+>30%
+New technologies introduced across 
+the portfolio over the past three years
+Y ear-on-year revenue growth for our 
+Transition Technologies portfolio in 2022
+81%
+Increase in GAAP EPS year-on-year; 
+70% growth in EPS excluding charges 
+and credits
+†
+99,000
+>85
+Employees
+We recruited in more than 85 countries 
+in 2022
+>70
+Our more than 70 
+global technology 
+centers 
+drive innovation each day
+>100
+We have a global footprint in more 
+than 
+100 countries
+ and employees 
+representing almost twice as 
+many
+ 
+nationalities
+P
+02
+Back/Forward
+SLB  
+2022 Sustainability Report
+As innovators, that’s been our mission for
+nearly
+ 
+100 years. Today, it’s a global imperative.
+We
+ 
+are facing the world’s greatest balancing act –
+simultaneously reducing emissions while meeting
+ 
+the world’s growing energy demands.
+We’re working on the answers. Every day,
+a
+ 
+step closer. Our collective future depends
+on decarbonizing the fossil fuel industry, while
+ 
+innovating a new energy landscape.
+It’s what drives us. Ensuring progress for people and
+ 
+the planet, on the journey to net zero and beyond.
+For a balanced planet.
+
+SLB at a glance
+Our three engines of growth:
+Core
+Absent a major market disruption, 
+we maintain the view that upstream 
+spending is very resilient and decoupled 
+from near-term demand. We foresee 
+capital investment continuing to grow at 
+double-digit compound annual growth 
+rate (CAGR) in the upstream sector for 
+years ahead across Middle East, North 
+America Land, and Offshore basins. 
+This represents a very favorable 
+backdrop to SLB market positions and 
+will continue to support our ambition  
+for outperformance in this upcycle.
+Digital
+The quest for capital efficiency, asset 
+teams’ productivity, and cycle-time 
+reduction requires digital transformation 
+in our industry. We continue to expand 
+our digital market position and deliver a 
+high rate of revenue growth and highly 
+accretive margin results.
+New Energy
+The size of the energy transition 
+opportunity is immense for SLB. The rate 
+of market growth is very significant. We 
+are building a broad, diverse portfolio 
+across New Energy sectors, selected 
+for their materiality and adjacency to our 
+existing market strengths, and where we 
+can offer technology differentiation.
+>1,500
+Software customers
++20%*
+Expected increase in energy demand 
+by 2050
+>85%
+Top 100 oil and gas producers 
+use our software
+-25 GtCO2*
+Required annual reduction in industrial 
+and power-related emissions to achieve 
+net zero
+2x
+Expected digital revenue growth  
+from 2021-2025
+>$700B
+Estimated total addressable market
+For a balanced planet
+We are delivering innovation at speed and scale across the  
+energy landscape. Paving a path to net zero and beyond.
+2021 2025
+(estimated)
+>$550B
+$347B
+Source: SLB analysis, Rystad, S&P , IEA.
+UPSTREAM OIL AND GAS INVESTMENT  
+2021-2025
+*Source: IEA 2022.
+P03
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+CEO and CSSO Introduction
+The balanced planet. It’s an idea around which  
+we’ve centered our entire brand. But how can we  
+get there? And how can driving energy innovation 
+deliver on this commitment? 
+The world’s energy mix must transform into one that can 
+continue to meet demand safely, securely, and reliably 
+while decarbonizing for the future. At the same time, we 
+aren’t ready to fully transition from our existing energy 
+infrastructure. We must continue to deliver supply for a 
+growing world by decarbonizing oil and gas today as we 
+innovate the new energy systems of tomorrow.
+These aren’t easy challenges, and they can’t be solved 
+alone. Achieving balance will require new and diverse 
+investments, collaboration, and support across all 
+energy systems, and the energy industry must be a 
+key contributor. As an industry, we have repeatedly 
+demonstrated the ability to solve complex challenges, 
+and with our experience, knowledge, and scale, no one is 
+better suited or more strongly motivated to lead this next 
+chapter. The effects of climate change are accelerating, 
+and we view the energy transition as a key strategic 
+priority; it’s not only the right thing to do, but also crucial 
+to ensuring the long-term resilience of our business.
+Olivier Le Peuch
+Chief Executive Officer
+Dr. Katharina Beumelburg
+Chief Strategy and  
+Sustainability Officer
+2022 HIGHLIGHTS  
+ 
+Emissions intensity  
+improvement 
+in Scopes 1 and 2
+ 
+ 
+2022 Peer-leading 
+ESG Ratings 
+ MSCI AA
+ Sustainalytics 22.2, Medium Risk Rating
+ 
+ 
+Board Sustainability 
+Competencies 
+91% of the Board at year-end 2022 
+self-identified having substantial knowledge, 
+skills, or experience in energy transition 
+and sustainability matters
+ 
+ 
+Women comprised  
+30% of executive team 
+at year-end 2022, and represented  
+23.8% of all salaried positions
+ 
+>700,000 T CO2e  
+avoided emissions 
+using our impact quantification methodology, 
+our Transition Technologies™ saved more 
+than 700,000 metric tons of CO2e emissions 
+for our customers’ operations in 2022
+ 
+ 
+Peer-leading ESG 
+customer sentiment 
+as measured in our industry’s most  
+recognized third-party survey
+ 
+ 
+45% improvement 
+in total recordable injury frequency  
+rate from 2019
+Driving
+impact
+P04
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+At SLB, we have placed the global energy challenge at 
+the heart of who we are, and to solve it, we are embedding 
+sustainability in everything we do. In 2022, we 
+announced a bold new brand identity, SLB, centered on 
+driving the global shift to sustainable energy production. 
+As a technology leader and an energy-innovator, we find 
+this challenge exciting. We’re setting ambitious goals to 
+deliver measurable social and environmental progress, 
+and we’re partnering with customers, suppliers, and peers 
+to accelerate our impact. 
+After building our strategy in 2021, we shaped a culture to 
+support it, rooting each of our core values in sustainability, 
+and spent the past year operationalizing our ambitions 
+and delivering strong results across our three priorities: 
+Climate Action, People, and Nature. 
+We are executing on roadmaps to decarbonize 
+operations and achieve net-zero emissions, while 
+providing in-country value, respecting human rights, 
+and fully embracing all aspects of diversity, equity, and 
+inclusion. Oil and gas operations comprise around 10% 
+of global energy-related emissions. As the first company 
+in the energy services industry to include Scope 3 
+emissions in our 2050 net zero target, we are making a 
+significant impact throughout the value chain, not only 
+increasing our operational efficiency, but also developing 
+new technologies to help our customers optimize their 
+environmental footprint. And we continue to leverage our 
+global scale with localized expertise to deploy custom 
+sustainability solutions in each of our operating areas. 
+CEO and CSSO Introduction continued
+Dr. Katharina Beumelburg
+Chief Strategy and  
+Sustainability Officer
+Throughout the last century, the energy industry fueled 
+growth, ideas, and progress for all of humanity; now it 
+must fuel change. Together, we will pave the way to a 
+balanced planet through better practices, innovative 
+technology, and the commitment to help others across 
+the globe on their sustainability journey. We are proud 
+of the success we have achieved and look forward to 
+continuing our strong momentum in the years ahead.
+Olivier Le Peuch 
+Chief Executive Officer
+Throughout the last century, the 
+energy industry fueled growth, 
+ideas, and progress for all of 
+humanity; now it must fuel change.
+P05
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Our culture
+Our values help drive our  
+commitment to sustainability.
+We value:
+We are pioneers
+We innovate together
+We experiment,  
+learn and grow
+Technology
+Because our passion for 
+exploring enables us to solve the 
+world’s energy challenges. 
+We act with integrity
+We deliver today  
+and tomorrow
+We focus on what matters most
+Performance
+Because together, we deliver 
+outstanding results to build a 
+sustainable future. 
+We are safe
+We are inclusive
+We respect work  
+and personal life
+People
+Because our exceptional and 
+diverse people are the pulse 
+and spirit of who we are. 
+Our people bring our brand to life—enabling us to 
+deliver sustainable impact now and tomorrow. We 
+look to three core values that guide the decisions we 
+make as we pursue our ambitions. We are proud of our 
+strong culture which anchors our values and embeds 
+sustainability even deeper into SLB.
+ People are at the heart of our business. We are 
+committed to promoting diversity, equity and 
+inclusion. Across the world we’re building a truly 
+diverse workforce, safeguarding mental health and 
+wellbeing, and endeavoring to create more inclusive 
+environments —in the workplace, in our supply 
+chains, and in the communities where we work 
+and live.
+ As well as being part of our DNA, technology and 
+innovation are key enablers of our sustainability 
+framework. From invention to application, 
+our technologies enable safer, more efficient, 
+and more sustainable operations for both ourselves 
+and our customers. 
+ We leverage sustainability as a key performance 
+benchmark, as we believe performance is about 
+more than just financial results.
+P06
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+IN FOCUS
+The carbon budget curve shows the reduction in 
+CO2e emissions needed over the coming century to 
+limit the global rise in temperature to only 1.5 degC, 
+as set by the Paris Agreement. Climate change 
+projections show that the world will reach the budget 
+for this target just eight years from now—in 2030. 
+The carbon budget curveOur approach
+to sustainability
+For a Balanced Planet
+The world is facing its greatest balancing act: how to 
+provide reliable, accessible, and affordable energy 
+while rapidly decarbonizing for a sustainable future. 
+As a global technology company, driving energy 
+innovation for a balanced planet, SLB has a powerful 
+role to play in reducing emissions across many 
+industries while scaling new energy systems to help 
+meet demand. And we’re ready to rise to the challenge.
+We are the industry leader driving innovation in our oil 
+and gas core. A key aspect of our innovation efforts is 
+our commitment to decarbonizing our operations and 
+those of our customers. 
+We are a data solutions provider in the energy domain 
+and beyond with our digital business, which helps drive 
+performance, efficiency, and sustainability. 
+We are a technology solutions provider that develops 
+and scales the new energy systems of tomorrow. 
+As a symbol of our commitment to the challenge 
+ahead, we’ve based our new identity on the carbon 
+budget curve—the maximum net global CO2 
+emissions permissible to limit global warming to 
+1.5 degC. Our logo represents the journey we have 
+committed to and that we support for our customers. 
+Our curve represents the journey to net zero and 
+beyond, to bring balance back to the planet.
+Our sustainability reporting 
+is guided by our stakeholders 
+and third-party frameworks, 
+including
+ Sustainability Accounting 
+Standards Board (SASB) 
+ Task Force on Climate-Related 
+Financial Disclosure (TCFD) 
+ UN Sustainable Development 
+Goals (SDGs)
+ UN Guiding Principles on 
+Business and Human Rights 
+Reporting Framework.
+2020
+Carbon 
+budget 
+for 1.5°C
+0
+40
+Units GtCO2 /YR
+30
+20
+10
+2030 2040 2050 2060 2070 2080 2090 2100
+2020
+Carbon 
+budget 
+for 1.5°C
+0
+40
+Units GtCO2 /YR
+30
+20
+10
+2030 2040 2050 2060 2070 2080 2090 2100
+That means we must balance the emissions 
+of the next few decades with sustained net 
+negative carbon actions beyond 2050, to 
+protect ourselves and the planet. 
+Learn more here.
+P07
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Our approach to sustainability continued
+Balanced Sustainability Priorities
+Our sustainability strategy is focused on where 
+we believe we can make the biggest impact for 
+our company, our stakeholders, and society. 
+Our priorities are climate action, people, and 
+nature. Supporting our priorities are our enablers—
+robust governance and empowering local 
+initiatives—and our accelerators— technology 
+innovation, and partnerships.
+We are scaling our in-country value investments 
+and our local partnerships to drive positive actions 
+in support of the UN SDGs. We are doing this with a 
+significant focus on affordable and clean energy, to 
+have a greater impact where we live and work and in 
+support of a just transition. We have also accelerated 
+our journey through technology, innovation, and the 
+right partnerships to take significant steps to reduce 
+Scope 1, 2 and 3 emissions.
+In 2022, within each priority, we have taken the next 
+step of operationalizing sustainability throughout our 
+company, as illustrated by the following examples:
+ We are empowering our local teams to take 
+ownership of their sustainability strategies 
+enabled by learning and development 
+opportunities and a capital allocation program. 
+Employees from more than 50 countries 
+submitted almost 300 projects to the 
+Sustainability Impact Awards representing  
+an investment of over USD 25 million in 2023.
+ We have incentivized our employees by 
+implementing key performance objectives in 
+our compensation programs for Scope 1 and 
+2 greenhouse gas (GHG) emissions in our field 
+operations and facilities. 
+ We have developed an impact quantification 
+methodology to calculate customer avoided 
+emissions which allows us to recognize the 
+value we provide for our customers. 
+ Our new product development process 
+has sustainability elements integrated to 
+understand the environmental impact of our 
+technology investments.
+ We have taken our human rights program to the 
+next level focusing on higher-risk facilities and 
+our supply chain to empower local teams to 
+understand, assess and react to human rights 
+issues. This is complemented by partnering 
+with third-party organizations to assess human 
+rights risk exposure levels.
+ Our nature priority has evolved with a focus on 
+water stewardship within the company, in our 
+supply chain and within our communities. 
+ The primary focus of our circularity program 
+is the lifecycle of the tools and products that 
+we design and build. This global initiative is 
+led by the Technology Lifecycle Management 
+Program (TLM). In addition, we are implementing 
+programs at the local level that not only address 
+circularity but also provide opportunities 
+for local economic development. We are 
+focused on scaling the local programs that 
+can provide high-impact sustainability across 
+our organization.
+ With our commitment to continuous 
+improvement, we are constantly reviewing 
+ways to enhance our overall governance 
+framework. An important part of this framework 
+is our enterprise risk mapping program that 
+identifies material risks that could impact 
+our strategy. In 2022, we conducted an AI-
+enabled assessment of potential ESG risks 
+and stakeholder concerns. Based on this 
+assessment, we have re-committed to our 
+strategic sustainability focuses of Climate 
+Action, People and Nature. 
+Sustainability Framework
+Our accelerators
+ Technology and Innovation 
+Navigating the energy transition 
+and getting to net zero by 
+leveraging our technology 
+innovation.
+ Partnerships 
+Engaging employees and 
+collaborating with business 
+partners, customers, and the 
+communities in which we live 
+and work to broaden our  
+positive impact and expand  
+into energy verticals.
+Our enablers
+ Governance  
+Assuring that we act responsibly 
+and transparently across all 
+operations in our business 
+relationships and supply chain.
+ Empowering Local Teams 
+Supporting societies and 
+communities in contributing to 
+the SDGs by understanding 
+local impacts, aligning with local 
+priorities, and accelerating action.
+Climate Action
+ Our Roadmap to Net Zero
+ Decarbonizing Operations
+ New Energy and Transition Opportunities
+Nature
+ Safeguarding Biodiversity
+ Protecting Natural Resources
+ Enabling Circularity
+People
+ Creating In-Country Value
+ Respecting Human Rights
+ Promoting Diversity, Equity, and Inclusion
+P08
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Climate Action People Nature
+Our approach to sustainability continued
+Sustainability Impact Summary
+>700,000 T CO2e 
+avoided emissions
+with SLB Transition Technologies
+91 countries with active 
+sustainability projects 
+12% year-on-year 
+improvement in  
+gender pay gap
+Water-stressed areas 
+analysis performed for all 
+SLB locations worldwide
+10 water stewardship 
+projects
+for funding in 2023 
+11 water efficiency projects
+were awarded for funding in 2023
+Estimated water savings  
+of over 220,000 m3
+100-fold increase comparing to 2022
+Circularity Governance 
+led by our Technology Lifecycle 
+Management Organization
+Sustainability Impact  
+Awards created
+platform created to educate  
+and validate investment integrity
+22 community 
+investments
+in 2022
+55 In-Country Value  
+Sustainability Impact 
+Award projects  
+for 2023
+for funding in 2023
+Updated Human 
+Rights program
+50% of the research 
+budget dedicated to 
+CCUS, New Energy 
+and oil and gas 
+decarbonization 
+for our UK and US research centers
+MSCI’s 10 companies 
+that have published the 
+most thorough corporate 
+decarbonization targets 
+June 2022
+33% of our global Scope 2 
+consumption represents 
+renewable energy
+70% automation achieved 
+for our Scope 1 and 2 measurement workflows
+16% Scope 1 and 2 
+emissions intensity 
+reduction
+53% of Sustainability 
+Impact Award funding 
+allocated to climate action for 2023
+P09
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Focus areas:
+Three areas comprise our comprehensive 
+approach to driving energy transition: our 
+roadmap to net zero, decarbonizing customer 
+operations, and new energy and transition 
+opportunities. We are at the forefront of what 
+needs to happen. And we can make it happen.
+Our Roadmap to Net Zero 
+Our climate action strategy is underpinned by our 
+commitment to achieve net zero emissions by 
+2050, with interim targets in 2025 and 2030 to 
+track progress aligned with the 1.5 degC target of 
+the Paris Agreement. To achieve these goals across 
+all three scopes of emissions, we are implementing 
+a detailed roadmap of emission reduction actions 
+within each Division and geography and across the 
+short-, medium-, and long-term time horizons. As 
+our net zero commitment is inclusive of our value 
+chain, we are also working with our suppliers to help 
+them reduce their emissions footprint.
+Decarbonizing Customer Operations 
+Along with reducing our emissions footprint across 
+our own operations, we are working to help our 
+customers decarbonize their operations and avoid 
+additional GHG emissions.
+Investing in New Energy and  
+Transition Opportunities 
+Accelerating the transition to low-carbon  
+energy while meeting global energy demand 
+requires innovative and forward-thinking actions. 
+Finding alternatives to carbon-intensive energy 
+sources is not a task to be taken lightly. Our portfolio 
+of New Energy solutions represents a balanced 
+approach to industry decarbonization and clean 
+energy scalability.
+Climate action
+In 2022, we evolved our brand—
+putting climate action at the center of 
+our strategy, reflecting who we are as 
+a global technology company driving 
+energy innovation for a balanced 
+planet. Our vision is to define and drive 
+high performance and sustainability 
+by sharing the responsibility to act 
+now and to act fast to decarbonize 
+the world’s energy system. 
+Decarbonization is a pressing obligation 
+that transcends climate projections 
+and goals. Urgency is key, because 
+decarbonizing the planet is an ambitious 
+and complex task. 
+In 2021, we announced our 
+commitment to reach net zero emissions 
+by 2050, with interim science-based 
+targets to track progress. We were the 
+first company in the energy services 
+industry to include Scope 3 emissions 
+in our 2050 net zero target. 
+Today, close to 80% of our top 50 
+customers have made a net zero 
+commitment. The journey to net zero 
+is one that we will support for both our 
+existing customers, and new customers 
+in different industries. 
+Back/Forward
+P10
+Contents Search Print Back/Forward
+Climate ActionSustainability Framework:
+Nature
+GovernanceOverviewSLB  
+2022 Sustainability Report People
+
+In 2022, we developed and launched an overarching 
+strategy to reduce our carbon emissions and energy use 
+across our value chain.
+Central to this was our comprehensive digital platform for 
+greenhouse gas tracking that provides the visibility we 
+need to prioritize and take action across our businesses. 
+An internally developed digital dashboard enables us 
+to improve our data collection, connect our business 
+systems, and track our progress. This was a critical tool 
+in monitoring our progress towards our Scope 1 and 2 
+key performance objectives (KPOs) in 2022.
+Scope 1 and 2
+In 2022, we worked with teams across our geographies to 
+build detailed roadmaps to net zero, focused on reducing 
+Scope 1 and 2 emissions generated in our operations 
+and facilities, ensuring steady progress and consistent 
+measurement.
+Through our internal digital platform, operations teams 
+were able, for the first time, to track key sources of our 
+Scope 1 and 2 emissions and act in real time. 
+This visibility and associated actions are key reasons why 
+our Scope 1 and 2 emissions intensity per US dollar of 
+revenue decreased by 16% from 2021 to 2022. 
+Reducing GHG emissions in field operations 
+In 2022, our geography net zero roadmaps highlighted 
+the importance of taking action on key sources of fuel 
+use in our field operations. Our strategy is to focus on 
+operational efficiency, electrification, job design for fuel 
+intensive services, and low-carbon fuel alternatives. 
+Reducing and consolidating trips, engine idling 
+campaigns, and planning and logistics are key actions 
+taken to improve operational efficiency. Electrification 
+opportunities for light vehicles and equipment have been 
+assessed in 2022 and action plans prioritized based 
+on impact, availability, and infrastructure. Job design 
+for higher emission services such as stimulation can play 
+an important role in the overall emissions released during 
+the job. 
+Often there are different options such as alternate 
+technologies or techniques to reduce the overall fuel 
+consumption of the operations while still achieving our 
+client’s objective. Low-carbon fuels such as bio diesel, 
+ethanol, or synthetic fuels can offer lower carbon emissions 
+while still using the original internal combustion engines in 
+the vehicle or operational equipment. A pilot  
+of biofuels has been completed in Brazil in 2022. 
+In 2023, we will continue to focus on our emission 
+estimation accuracy, frequency, and visibility with a 
+specific focus on fuel used for field CO2e.
+Reducing GHG Emissions in Our Facilities 
+To reduce GHG emissions from our facilities, we are 
+focused on enhancing energy efficiency, reducing 
+energy consumption and switching to renewable power. 
+To achieve these goals, we have implemented several 
+initiatives, including: 
+  utilizing smart meters for real-time energy data 
+capture to detect opportunities for energy 
+optimization
+  encouraging and driving behavioral changes among 
+our population to promote energy efficiency and 
+drive energy savings
+  collaborating with energy consultants to undertake 
+extensive energy audits aimed at identifying long-
+term opportunities for reducing energy consumption
+  conducting energy efficiency upgrades to our 
+facilities, such as optimizing heating and cooling 
+cycles, and upgrading HVAC systems and insulation
+  prioritizing the procurement of renewable energy 
+sources to power our facilities, utilizing both onsite 
+and offsite options.
+Our Roadmap to Net Zero
+SLB is committed to achieving net 
+zero greenhouse gas emissions by 
+2050 aligned with the 1.5 degC 
+target of the Paris Agreement.
+30% 
+reduction in Scopes 1 and 2 
+by 2025
+50% 
+reduction in Scopes 1 and 2 
+by 2030
+30%
+reduction in Scope 3 by 2030
+Net Zero 
+by 2050
+All reduction targets are measured 
+against our 2019 baseline
+We reduced our Scope 1 and 2 
+carbon emissions intensity as 
+compared to 2021 by 16%
+P11
+Back/Forward
+SLB  
+2022 Sustainability Report
+Our Roadmap
+ to Net Zero
+2022 has been a year of focusing on 
+our emission reduction performance.
+
+Our Roadmap to Net Zero continued
+2019 2020 2021 2022
+Scope 1 and 2 0.070 0.083 0.076 0.064
+Scope 3 1.348 1.277 1.194 1.241
+Total (Scope 1, 2 and 3) 1.419 1.360 1.270 1.304
+GHG EMISSIONS INTENSITY METRIC TONS OF CO 2 e  
+PER THOUSAND DOLLARS OF REVENUE
+TOTAL GHG EMISSIONS 1
+IN MILLION METRIC TONS C0 2
+1  We use the principles and guidance established in The Greenhouse Gas 
+Protocol: A Corporate Accounting and Reporting Standard (Revised 
+Edition) to calculate our annual CO2e emissions in SLB. As part of the 
+process, we apply emission factors and Global Warming Potential (GWP) 
+factors to energy consumption data to derive CO2 e values. The GWP 
+factors are taken from the IPCC Fifth Assessment Report (AR5 – 20 year 
+and 100 year).
+By the end of 2022, our renewable power accounted 
+for more than 33% of our facilities’ overall electricity 
+consumption, which is equivalent to roughly 260,000 
+MWh. This figure includes green tariffs in regions such 
+as the US, Europe, India and Brazil, as well as onsite 
+generation projects in Egypt, India, Mexico, Russia, 
+Turkmenistan, Algeria, Pakistan, China, Libya, Algeria 
+and the Kingdom of Saudi Arabia.
+In April 2022, SLB finalized contracts to replace 
+conventional purchased power with 100% renewable 
+power for 138 sites in Texas. As part of this project, 
+SLB secured 42.75MW of wind power from the White 
+Mesa Wind project located in Crockett County, Texas. 
+This reduced our year-on-year Scope 2 facility emissions 
+by approximately 16%. This contract also protects SLB 
+from energy shortages, which can result in extreme 
+power price spikes.
+Following are some examples of how we are reducing 
+our GHG emissions.
+Behavior Change and Energy Efficiency 
+In France we signed the EcoWatt charter for responsible 
+energy consumption. As a result, we have committed to 
+reducing our consumption by 10%. We are also lowering 
+the temperatures of our sites to 19 degC during the winter 
+months and converting our real estate to geoenergy with 
+the SLB Celsius Energy solution. With our own Celsius 
+Energy solution, one of our technology centers reduced 
+energy consumption by 16% by implementing a focused 
+effort on monitoring consumption on a monthly basis.
+In 2022, SLB locations in France and Italy partnered  
+with third-party specialists for a pilot study of a new 
+energy management system that includes the installation 
+of IoT smart meters that allow live monitoring of energy 
+consumption and trends. This pilot project looks at the 
+behavior of the buildings, using a power consumption 
+profile considering historical consumption, HVAC, 
+humidity sensors and feedback loops and integrating 
+external data such as weather and direct sunlight. This 
+enables the facilities to track their energy consumption 
+and identify potential reduction opportunities by 
+eliminating energy waste. 
+2019
+46.7
+0
+32.1
+Scope 1 & 2 Scope 3
+29.2
+2020
+2021
+40
+50
+30
+20
+10
+36.6
+2022
+P12
+Back/Forward
+SLB  
+2022 Sustainability Report
+We continue to review our roadmap to net zero
+Learn more here.
+
+Our Roadmap to Net Zero continued
+Renewable Energy Switching 
+Our purchased renewable energy volume increased 
+in 2022 by 40% as compared to 2021. 
+Multiple facilities have converted to renewable energy 
+sources, reducing our CO2e emissions by 14,500 metric 
+tons per year. This includes facilities across the US, Brazil, 
+India, and Europe.
+In Europe, we now have over 60 facilities shifting to 
+renewables for electricity, supporting our reduction in 
+Scope 2 emissions. This has saved approximately 4,500 
+tons of CO2e annually, 
+In the Kingdom of Saudi Arabia, at our Middle East Center 
+for Reliability and Efficiency, we installed nearly 1,500 
+photovoltaic solar panels with an annual output of 260 
+MWh per year. This eliminates 600 metric tons of CO2e 
+annually and covers the entire electricity consumption of 
+the facility administration building while enabling savings 
+of USD 55,000 in annual electricity bills.
+In Pakistan, we installed a solar system at our base in 
+Islamabad. The system is saving the equivalent of over 
+215 metric tons of CO2e per year and providing power 
+back to the national grid. 
+In two of our facilities in China, we applied all three 
+behavioral, efficiency, and energy switching initiatives. 
+We installed LED lights and road lamps at our main 
+facilities saving the equivalent of 104 metric tons of 
+CO2e. Installation of solar panels at our Linggan facility 
+has resulted in annual electricity savings of 121,000 
+Kwh, equivalent to 80 metric tons of CO2e. At our new 
+Chengdu base, we are installing the Celsius Energy 
+geoenergy solution to provide heating and cooling. 
+When the base opens, this will reduce our air conditioning 
+electricity consumption by 35% and eliminate 205 metric 
+tons of CO2e per year. We also switched 18 commuting 
+vehicles to hybrid or purely electric resulting in a 
+reduction of 130 metric tons of CO2e.
+40% 
+Increase in volume of our 
+purchased renewable energy 
+by 40%
+In 2022, we initiated a number of three-year energy 
+saving projects with a third party to assess current 
+operating conditions, and signed contracts for 14 
+sites located in the UK, Canada, and the US. Based on 
+promising first-quarter 2023 results from five sites in 
+the UK we have expanded the project scope and are 
+engaging in feasibility studies for a number of sites in 
+Bahrain, Italy, Malaysia and the Kingdom of Saudi Arabia. 
+In 2022, we introduced a timer to reduce the idling time 
+of our fleet. As a result, we have seen a 50% reduction in 
+idling in our Alaska operations, equating to a reduction of 
+approximately 58 metric tons of CO2e. We also insulated 
+our East Camp facility to improve energy efficiency, 
+leading to a reduction of over 100 metric tons of CO2e 
+per year. 
+P13
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Scope 3
+While we initiated long-term upstream and downstream 
+actions in 2022 across our value chain to reduce our 
+Scope 3 emissions, our overall Scope 3 emissions 
+increased in two main areas due to significant 
+business growth.
+Upstream Scope 3 increased mainly in purchased goods 
+and services to support increased activity. In 2022, 19% 
+of our Scope 3 emissions came from purchased goods 
+and services. We engaged 1,240 suppliers through 
+our CDP Supply Chain program with 72% disclosure 
+rate, an improvement as compared to 2021. We also 
+incorporated a decarbonization challenge in our Supplier 
+Innovation program for suppliers to share ideas and best 
+practices around low-carbon products, and circular 
+solutions to decarbonize supply chain including logistics. 
+More details can be found in the Responsible Supply 
+Chain section of this report.
+Downstream Scope 3 increased in use of sold products, 
+specifically artificial lift pumping systems accounting for 
+the emissions from the electricity consumed over their 
+expected life span. In 2022, we focused on reducing 
+the emissions of our products and services through 
+technology innovation. We conducted decarbonization 
+workshops with experts from our Divisions. Through 
+collaboration we developed detailed strategy and action 
+plans for our higher emitting technologies. Beyond our 
+own Scope 3 emissions, we’re focused on technology 
+solutions to decarbonize our customers’ operations.
+Our Technology 
+Strengths
+Technical excellence  
+and integrity 
+Digital leadership
+Industry-leading  
+research and development
+Technology and Innovation 
+For the past century, SLB has continuously raised the 
+benchmark for innovation, proven by our long-standing 
+and continued track record of solutions, industry firsts, 
+and new industry standards. We have the ability to rapidly 
+deploy complex technology at scale globally from 
+our more than 70 technology centers. From invention 
+to application, our technologies rapidly enable safer, 
+more efficient, and more sustainable operations for our 
+customers, helping them decarbonize while also helping 
+SLB toward our net zero commitment.
+In 2022, we embedded sustainability deeper into our 
+new product development process, and today during 
+the development of new technologies, we consider 
+eight key sustainability requirements. The requirements 
+are verified at each stage of development and validated 
+by a lifecycle assessment (LCA) for Scope 3 emissions 
+intense products. 
+Our internal screening LCA methodology is leveraged 
+by our technology and product marketing teams for 
+comparative analysis and enables us to estimate the  
+GHG emission potential of each new product, establish  
+a benchmark, and amend if necessary. 
+We have also developed a number of models specifically 
+to describe workflows in upstream and midstream 
+operations, enabling our teams to assess many products 
+quickly to identify areas of focus and opportunities  
+for improvement. 
+For more than 340 new products proposed for  
+development in 2023, we evaluated and ranked the 
+emissions impact and the customer avoided emission 
+potential from the full deployment of the products to 
+the market. 
+Today more than 50% of the SLB research budget  
+for our UK and US research centers in 2023 is dedicated 
+to CCUS, New Energy, and oil and gas decarbonization 
+research. 
+Upskilling and engagement of the technology 
+organization is key to supporting our decarbonization 
+efforts. In 2022, we created dedicated technology 
+sustainability champions in our core services Divisions. 
+We also facilitated a technology innovation challenge, 
+inspiring more than 260 ideas from over 3,000 
+contributors. The top 30 proposals are now being 
+considered for capital allocation.
+P14
+Back/Forward
+SLB  
+2022 Sustainability Report
+Our Roadmap to Net Zero continued
+
+Transition Technologies
+A portfolio of technologies across SLB 
+that quantifiably enables our customers 
+to meaningfully reduce the footprint 
+of oil and gas operations, by reducing 
+GHG emissions, reducing water use 
+and reducing waste, together with five 
+other quantifiable attributes that drive 
+sustainability and support the UN SDGs.
+SLB End-to-End Emissions 
+Solutions™ (SEES)
+A range of consultative, technical, and 
+digital solutions specifically focused on 
+methane and routine flaring emissions, 
+built on three pillars – plan, measure, act.
+Drilling Emissions 
+Management
+A consultative offering that aims at 
+minimizing emissions during the well 
+construction process, through planning, 
+monitoring, and innovation. 
+P15
+Back/Forward
+SLB  
+2022 Sustainability Report
+Decarbonizing 
+ Customer Operations
+As the bedrock of the energy 
+transition, oil and gas remains an 
+important part of our energy mix 
+today. That’s why we need innovative 
+solutions to drive performance and 
+decarbonize oil and gas operations. 
+SLB has a critical role to play in the energy transition, 
+meeting the world’s energy needs with an increasing 
+proportion of low-carbon energy sources, carriers,  
+and storage technologies. 
+Along with our work to decarbonize the activities of our 
+existing customers, decarbonization technology is also  
+a leading area that is taking SLB beyond oil and gas.  
+We are now seeing customers in adjacent industries, 
+such as steel and cement processing, who need a way  
+to abate or reduce their greenhouse gas emissions. 
+Oil and gas operations’ Scope 1 and Scope 2 emissions 
+are estimated to contribute almost 10% of global 
+greenhouse gas emissions, or just over 5 Gt per year. 
+With hydrocarbons forecast to play a critical role during 
+the energy transition, oil and gas is a key sector to 
+decarbonize. Based on our Scope 3 inclusive inventory, 
+and global technology and operational footprints,  
+we are well positioned to address this challenge and 
+have an increasing range of footprint reduction offerings 
+aligned to it.
+
+Winner of 2022 
+SEAL Business 
+Sustainability 
+Award, which 
+honors leadership, 
+innovation and 
+commitment 
+to sustainable 
+business practices
+Decarbonizing Customer Operations continued
+Transition Technologies™ Portfolio
+What potential is there to access the energy  
+we depend on now in a better, cleaner way? 
+SLB is committed to quantifiably reducing the 
+environmental impact of operations in the oil and 
+gas industry, without compromising performance. 
+Our Transition Technologies portfolio comprises 
+technologies and services across SLB that enable 
+our customers to quantifiably improve sustainability 
+IN FOCUS
+In 2022, SLB announced plans to 
+collaborate and develop a digital platform 
+that will provide sustainability solutions 
+for hard-to-abate industrial sectors. 
+The proposed platform will enable 
+companies in industries such as oil and 
+gas, chemicals, utilities, cement and steel 
+to collect, measure, report and verify their 
+emissions, while also evaluating different 
+decarbonization pathways. Customers will 
+be able to measure and report baselines, 
+targets, emissions, offsets and credits, 
+which will help them manage their carbon 
+footprints more effectively by increasing 
+the availability and visibility of relevant data 
+in a transparent and flexible solution.
+SLB Launches Digital 
+Sustainability Platform
+and avoid emissions in their operations, while 
+simultaneously driving our traditional values  
+of performance, reliability, and quality. 
+The portfolio not only addresses our customers’ 
+Scope 1 and Scope 2 emissions, but additionally 
+focuses on their Scope 3 emissions related to 
+purchased goods and services. 
+The Transition Technologies address  
+five key themes across the oil and gas value chain
+Full field development 
+solutions
+Electrification  
+of infrastructure
+Address methane  
+emissions 
+Reduce or  
+eliminate flaring
+Minimize well 
+construction CO2 footprint
+We launched several new Transition 
+Technologies in 2022 to support the 
+decarbonization of oil and gas operations. 
+30%
+Our Transition Technologies portfolio 
+revenue grew more than 30% year on year, 
+and we project it will cross the USD 1 billion 
+revenue mark in 2023.
+P16
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Decarbonizing Customer Operations continued
+Address Methane Emissions
+Methane and routine flaring within oil and gas operations 
+contribute to over 2.5 Gt CO2e in greenhouse gas 
+emissions per year. An ever-evolving portfolio of solutions 
+across the industry means that more and more of these 
+sources of emissions can be eliminated by products and 
+solutions available today, and at a net economic benefit 
+to the operator. Eliminating methane and flare emissions 
+represents a compelling opportunity for the oil and gas 
+industry to reduce its impact.
+Launched in March 2022, SLB End-to-End Emissions 
+Solutions (SEES) comprises a comprehensive, robust 
+and flexible approach aimed at helping customers 
+reduce greenhouse gas emissions that result from 
+vented or fugitive methane and routine flaring. As energy 
+companies seek to operate in a more sustainable manner, 
+they will need to report and reduce their methane 
+emissions and flaring activity more reliably. 
+In addition, robust data and a digital foundation enables 
+customers to have a single secure and reliable place 
+for integrating multi-source emissions data with advice, 
+plans, and insights. 
+Supporting SEES are specific Transition Technologies 
+that can help eliminate vented or leaking methane. 
+Our Vx Spectra surface multiphase flowmeter achieves 
+accurate flow measurements and can replace a 
+conventional separator for individual well production 
+metering. Compared to a separator, using Vx Spectra 
+eliminates multiple sources of vented and fugitive 
+methane emissions. On a typical setup, pressurized 
+well gas is used for powering various pneumatic circuits 
+due to the cost and logistical implications of using 
+compressors. The use of separators also results in many 
+connections between components, any of which have 
+the potential to become a source of leaking (fugitive) 
+methane rich gas. 
+Supporting the  
+SEES business, SLB 
+joined, contributed to  
+or authored:
+  Methane Guiding Principles 
+Find out more here.
+  The OGCI’s Aiming for Zero  
+Methane Emissions Initiative  
+Find out more here.
+  As part of the Society of Petroleum 
+Engineers program of Distinguished 
+Lecturers, the presentation “Methane 
+Emissions: Our Obligation and Our 
+Opportunity” which will be presented 
+to over 30 SPE chapters in 2022-23. 
+  The road map and policies required to 
+reduce methane and flare activities from 
+the oil and gas industry at COP27 .
+75% 
+in the Eagle Ford in the US, using Vx 
+Spectra multiphase flowmeters helped 
+our customer Ensign reduce methane 
+emissions by 75%.
+Depending on the type of separator replaced, the annual 
+emissions savings enabled by Vx Spectra™ can equate to 
+between 50 and 500 metric tons of CO2e per separator 
+replaced per year. In the Eagle Ford in continental US, 
+using Vx Spectra multiphase flowmeters helped our 
+customer Ensign reduce methane emissions by 75%.
+To help address fugitive methane, we have the broadest 
+portfolio of API and ISO certified low emissions valves 
+in the industry.
+Eliminate or Reduce Flaring
+In 2021, gas flaring alone was responsible for 270 
+mega tons of CO2e emissions globally, according to 
+the International Energy Agency (IEA). 
+Our Transition Technologies portfolio includes products 
+and services that are aimed at eliminating or reducing 
+the impact of non-routine flaring from well testing, well 
+cleanup, and production boosting operations. Solutions 
+within SEES address routine flaring elimination or 
+reduction.
+Eliminating non-routine flaring is increasingly feasible 
+and represents one of the biggest impacts we are 
+having today in reducing GHG emissions in oil and 
+gas operations. 
+In Kazakhstan, we have been using our zero flaring 
+well testing and cleanup package to avoid emissions 
+by eliminating the need to flare hydrocarbons during 
+well cleanup operations. For Karachaganak Petroleum 
+Operating, this service avoided 1.3 million metric tons 
+of CO2e emissions over the past four years, compared 
+to conventional production boosting techniques.
+Our Ora™ platform’s deep transient testing capability 
+can replace drill stem test (DST) operations in many 
+cases. Along with reducing the overall time and footprint 
+compared to a DST, Ora deep transient testing eliminates 
+the need for flaring, resulting in an emissions reduction 
+of up to 96% compared to a DST operation with flaring.
+In the short term, as we continue to work towards 
+eliminating flaring from operations, improving flare 
+efficiency is key. To optimize flare efficiency, we are 
+working to implement light detection and ranging 
+flare measurements to understand the exact CO2 
+and methane outputs from the flare and adjust burn 
+settings to maximize combustion efficiency.
+31 T CO2e
+Trulink, which eliminates the need 
+for stationary directional surveys 
+during the drilling process, avoids 
+on average 31 metric tons of CO2e  
+of rig generator emissions per job. 
+VX Spectra in production, Singapore 
+Surface multiphase flowmeter providing 
+real-time continuous measurements enables 
+on-the-spot, rapid decision making to 
+optimize production
+P17
+Back/Forward
+SLB  
+2022 Sustainability Report
+Learn more here.
+Learn more here.
+Learn more here.
+
+Decarbonizing Customer Operations continued
+Learn more here.
+Our CemFIT Heal™ cementing solution contains a 
+reduced proportion of Portland cement compared 
+to standard oil and gas slurries. The reduction in 
+concentration of Portland cement, and its replacement 
+with less carbon intensive material, enables a reduction in 
+embodied carbon of 61% compared to traditional mixes 
+at equivalent densities. The total savings varies per well, 
+but for a typical total depth section the use of CemFIT 
+Heal can reduce embodied carbon by 34 metric tons 
+compared to Portland-based cements. 
+Building on this knowledge and capability, SLB sees 
+further possibilities for even greater savings related to 
+embodied carbon in cementing solutions, and this is a 
+key focus for our engineering teams.
+Best-in-class efficiency enablers consistently drive down 
+emissions and rig time. 
+The TruLink™ system, which eliminates the need for 
+stationary directional surveys during the drilling process, 
+can avoid 31 metric tons of CO2e of rig generator 
+emissions on an average job. 
+Using our intelligent power management system, 
+our introduction of software to proactively manage 
+rig generators together with battery storage reduces 
+rig emissions by 25%.
+Offshore waste treatment solutions such as the 
+ENVIROUNIT™ system reduces the requirement to 
+transport waste for disposal, driving down transportation-
+related emissions by approximately 500 metric tons of 
+CO2e per year for a single unit installed on a deepwater rig.
+Our end-to-end Drilling Emissions Management service 
+can help integrate the right Transition Technologies to 
+maximize decarbonization impact in well construction.
+Minimize Well Construction CO2 Footprint
+There are several significant sources of emissions that 
+relate to the well construction process – including the rig 
+generators, transportation of materials to and from the 
+rig, and processing of waste, in addition to the embodied 
+carbon that is emitted during the manufacture of items 
+that are used to construct the well – such as drilling fluids, 
+cement and steel tubulars. 
+We have a range of Transition Technologies that can 
+help reduce well construction CO2 footprint across these 
+various sources. 
+Embodied carbon related to well construction fluids 
+is reflected in our customers’ Scope 3 emissions for 
+purchased goods and services. In a typical Middle 
+Eastern land well, we estimate the embodied carbon 
+represents 40% of the total well construction-related 
+emissions. Helping customers reduce embodied carbon 
+is a key area where we can add value.
+Using high-performance water-based mud systems 
+reduces the embodied carbon related to drilling fluid 
+that is lost to the formation on every well. Our aqueous 
+HydraGlide™ system, when compared to a typical 
+oil-based mud with similar performance, offers on 
+average a 50% reduction in embodied carbon of 
+27 metric tons of CO2e per job.
+25% reduction 
+in rig emissions
+using our intelligent power management 
+system, introduction of software to 
+proactively manage rig generators 
+together with battery storage reduces 
+rig emissions by 25%.
+P18
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Decarbonizing Customer Operations continued
+Full Field Development Solutions
+Transition Technologies also enable emissions savings 
+in production operations from bespoke or integrated 
+solutions, where the savings can last for the entire 
+producing life of the asset. Solutions can range from 
+subsea production boosting technologies to low-energy 
+systems within midstream operations for fluid processing. 
+For subsea wells where powered production is required, 
+subsea boosting and compression systems can 
+substantially reduce energy consumption and emissions. 
+Offshore Norway, for Shell, in the Ormen Lange Field, 
+subsea multiphase compression is estimated to boost 
+average natural gas production by up to 30% while 
+reducing energy consumption by 50%. By moving the 
+compression point closer to the reservoir for subsea 
+wells, subsea gas compression significantly reduces 
+the energy required for production compared to the 
+more traditional approach of topside compression. 
+The reduction in energy consumption offers a path 
+to lower emissions. Learn More
+Our solutions also address customer Scope 3 emissions 
+related to purchased goods and services, or embodied 
+carbon. Reducing the size of steel-intensive offshore 
+infrastructure represents a considerable opportunity to 
+reduce emissions in the manufacturing process of the 
+infrastructure itself, because less steel is required. Aligned 
+to this challenge, Rapid™ multilateral systems can enable 
+improved reservoir access while minimizing the need 
+for topside infrastructure. Offshore Norway, this system 
+enabled Var Energi to save millions with the industry’s 
+first subsea retrofit multilateral wells and avoid 5,000 to 
+10,000 metric tons of CO2 emissions, by avoiding having 
+to construct two new subsea wells and procuring and 
+installing the associated infrastructure. Learn More
+To ensure our decarbonization-focused technologies 
+are incorporated early into the planning process, 
+we are building emissions calculations capabilities into 
+our software solutions that help with scenario planning, 
+such as field development planning.
+In our Core, our Production Systems Division 
+has technologies that enable our customers to 
+balance emissions produced through storage and 
+sequestration methodologies. 
+We have leading technology in gas treatment to capture 
+carbon for storage and sequestration. As an example, 
+Cynara™ membranes are used for bulk removal of CO2 
+from natural gas. Cynara allows for better selectivity, 
+leading to a smaller overall system footprint and lowering 
+the quantity of hydrocarbons in the permeate stream. 
+Replacing or reducing amine solvent use for acid 
+gas removal eliminates or decreases GHG emissions 
+associated with pumping and heating solvents. Moreover, 
+Cynara systems require no external energy or chemical 
+storage and disposal facilities. When combining 
+membranes for bulk removal of acid gas with solvents for 
+the final stage, a 30 to 50% reduction in emissions can 
+be achieved. Capturing and reinjecting the acid gas into 
+the subsurface leads to a 100% emissions reduction. 
+SLB has progressed this past year in replacing non-SLB 
+membranes with Cynara membranes. 
+Electrification of Infrastructure
+Electrification helps access renewable energy, offers 
+efficiency improvements compared to traditional 
+electrohydraulic systems, enables more production with 
+less infrastructure and enhances precision in the control 
+of production operations. 
+Although fully electric components offer advantages 
+compared to electrohydraulic systems at a component 
+level, there is a larger benefit when these components are 
+combined within integrated systems. This is especially 
+the case in the offshore environment. While the first fully 
+integrated electric offshore production systems, inclusive 
+of wells, subsea and topside, are still approximately two to 
+three years away, we are already seeing the sustainability 
+benefits of electrification now, both in terms of embodied 
+carbon reduction and maximizing the production from 
+each well.
+For offshore subsea production, SLB has developed 
+all-electric subsea actuators in a four-well subsea 
+production system can eliminate over 1,000 metric 
+tons of CO2e in embodied carbon compared to using 
+electro-hydraulic actuators.
+For offshore production with dry production trees, surface 
+electric actuators can help enable a significant reduction 
+in embodied carbon by enabling smaller platform 
+infrastructure compared to surface hydraulic actuators. 
+This is achieved through eliminating the need for an 
+electrohydraulic control unit and reducing or eliminating 
+the need for crew accommodation on the platform.
+Furthermore, electric well completions maximize the 
+performance from each well, helping operators meet 
+production targets with fewer wells and fewer emissions, 
+especially in the deepwater environment where a single 
+well can easily results in more than 5,000 metric tons of 
+CO2e GHG emissions. SLB’s Manara™ production and 
+reservoir management system enables control of more 
+than six reservoir zones per well, theoretically enabling 
+the same production as two or three wells that are built 
+with a more traditional hydraulic systems. The Manara 
+production and reservoir management system, has 
+been deployed on 13 wells with a total of 57 stations. 
+Learn More
+Drilling Emissions Management
+Drilling Emissions Management is an end-to-end service 
+which aims to help our customers and the wider industry 
+significantly reduce greenhouse gas emissions during 
+well construction activities. 
+Leveraging our footprint, domain expertise and innovative 
+technology solutions, this end-to-end integrated 
+service enables E&P operators to forecast, measure 
+and implement downhole and surface solutions both 
+in the planning phase and during operations to reduce 
+emissions in well construction. 
+We are already using the Drilling Emissions Management 
+service on integrated well construction projects with 
+fantastic results. During a pilot project in the Middle East, 
+we reduced total emissions by nearly 1,700 metric tons 
+of CO2e over 20 wells.
+P19
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Clamart, France 
+Leveraging Celsius Energy, SLB 
+can use the temperature below the 
+surface to regulate the climate of 
+your buildings using geoenergy. 
+New Energy and  
+ Transition Opportunities 
+Creating and scaling a diversified portfolio 
+of businesses focused on decarbonization and 
+clean energy technology is key to SLB’s future. 
+Our strategy is to leverage technology and our 
+global deployment platform to help a range of 
+industries—from those with highly energy-intensive 
+operations and hard-to-abate emissions to those 
+related to clean energy generation and usage 
+efficiency. Industrial sectors such as steel, cement, 
+petrochemicals, mining, and power are looking for 
+innovative, high-impact, and scalable solutions to 
+accelerate their journey to a low-carbon future. 
+Our focus is consistent with their ambitions for 
+decarbonization and clean energy solutions 
+at scale. 
+Our portfolio of New Energy solutions represents 
+a balanced approach to industry decarbonization 
+and clean energy scalability. 
+Geoenergy for Heating and Cooling
+Our extensive subsurface expertise provides 
+a significant advantage in harnessing 
+geoenergy—a low-carbon solution to generate 
+building thermal comfort. Leveraging Celsius 
+Energy, our innovative technology design and 
+deployment enables large facilities to reduce 
+their carbon footprint by switching from traditional 
+methods of heating and cooling to a geoenergy 
+solution. Results from diverse installations in France 
+show up to 75% reduction of energy consumption 
+and up to 85% reduction in CO2e emissions. 
+Geothermal Power
+Geothermal power uses the heat of the Earth to 
+generate electricity by tapping hot water and steam 
+zones that are continuously recharged naturally. 
+With decades of experience, we are supporting 
+many countries to accelerate their energy transition 
+by utilizing geothermal energy. For example, in 
+Oman we’ve evaluated data provided by Oman’s 
+national oil and gas data repository from more 
+than 7 ,000 oil, gas, and water wells to map sweet 
+spots for geothermal prospects. The next phase 
+of the project will assess the economic feasibility 
+of developing potential geothermal resources. 
+IN FOCUS
+In Taiwan, SLB and CPC Corporation, 
+Taiwan have signed a global strategic 
+cooperation framework agreement 
+that aims to achieve a goal of net zero 
+emissions by 2050. With this agreement, 
+the two companies will jointly carry out 
+the planning and deployment of projects 
+in geothermal energy, carbon neutrality, 
+and digital transformation. The signing 
+ceremony took place during the SLB 
+2022 Digital Integration Forum held in 
+Lucerne, Switzerland. 
+T aiwan 
+Learn more here.
+P20
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+New Energy and Transition Opportunities continued
+IN FOCUS
+SLB invests in and partners with early-
+stage to scale-up technology developers 
+in strategic areas. The team works closely 
+with SLB experts on market development, 
+commercial engagements, and the 
+integration of deployment partnerships on 
+the road maps defined for all our portfolio 
+companies. The start-ups have access to 
+our multi-disciplinary expert community, 
+industrialization capacity, and global footprint 
+to accelerate their market introduction and 
+scalability. Examples of the invested start-ups 
+that evolved to a be a technology partner in 
+SLB’s New Energy business include Gradiant, 
+a global water solutions provider that plays 
+a role in our sustainable lithium production 
+solution, and EnerVenue, a nickel-hydrogen 
+battery technology start-up.
+Driving Energy  
+Innovation
+Low-Carbon Hydrogen 
+Currently, most hydrogen is produced from natural 
+gas by processes that can emit large amounts of 
+CO2. However, low-carbon hydrogen is expected 
+to play a key role in the energy transition, either as 
+a clean fuel or as a feedstock for chemicals and 
+sustainable fuels. 
+We’ve invested in ZEG, a Norwegian start-up that 
+has developed a new technology for efficient 
+hydrogen production from natural gas coupled 
+with an integrated carbon capture process. 
+The CO2 capture rate is more than 95%. We have 
+also advanced in our development of a solid 
+oxide electrolyzer that uses a thermally charged 
+electrolysis process that consumes industrial heat, 
+meaning less additional energy is needed to split 
+water. The reduction in the amount of electricity 
+used for splitting water can result in up to 30% 
+improvement in efficiency. Currently, we’re working 
+on six pilot projects in the petrochemical, cement, 
+and steel industries. 
+The mobile laboratory and control room of 
+the SLB’s NeoLith Energy sustainable lithium 
+production pilot plant enables onsite quality 
+control of every step from extraction to 
+battery-grade lithium production. 
+Stationary Energy Storage 
+Stationary energy storage is key to the growth of 
+renewables in the energy grid. To replace traditional 
+controllable power generation with highly variable 
+renewable energy sources, power grids need both 
+vast amounts of renewable energy and energy storage 
+solutions to compensate for the intermittent supply. 
+Our approach is to develop energy storage solutions 
+that are affordable, secure, reliable, and resilient, 
+suitable for large-scale adoption. Leveraging our partner 
+EnerVenue’s nickel-hydrogen battery technology, 
+which provides an affordable alternative to lithium-ion 
+batteries for grid-scale storage, we have secured a pilot 
+with Nobian, the leading European producer of essential 
+industrial chemicals, to prove the scale-up potential of 
+our integrated solution for local energy storage. 
+Sustainable Battery-Grade Lithium
+SLB’s integrated technology for sustainable lithium 
+production combines direct lithium extraction (DLE), 
+purification, and concentration to maximize the recovery 
+of lithium and produce battery-grade material, while 
+minimizing the environmental impacts of lithium extraction 
+from brines. 
+In 2022, we entered into a partnership with Gradiant, 
+a global water solutions provider, to introduce a key 
+sustainable technology into the production process for 
+battery-grade lithium compounds. Either as part of our 
+integrated production flowsheet, or as a stand-alone 
+solution for new or existing lithium production operations, 
+the Gradiant technology is used to concentrate the lithium 
+solution and generate freshwater—a critical element in 
+sustainable lithium production from brine. The technology 
+enables high levels of lithium concentration in a fraction 
+of the time required by conventional methods, while 
+also reducing carbon emissions, energy consumption, 
+and capital costs compared with thermally based 
+technologies. 
+P21
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+New Energy and Transition Opportunities continued
+SLB’s New Energy Technology Impact Highlights
+Celsius Energy, a venture of SLB’s New Energy 
+business focused on heating and cooling solutions for 
+buildings, was awarded a contract for one of the ten 
+largest geoenergy projects in Europe, where demand 
+for low-carbon and locally sourced energy is rising. 
+This project, based in the eastern region of France, will 
+provide heating and cooling to dozens of buildings by 
+combining geoenergy and waste heat from the world’s 
+largest particle accelerator. Celsius Energy’s proprietary 
+technology will enable the project to be completed with 
+a limited drilling footprint of 17 4 bores and will leverage 
+patented digital modeling and control capability for smart 
+grid performance optimization. 
+REDA Thermal™ power-efficient geothermal electric 
+submersible pump reliably lifts fluids in high-enthalpy 
+geothermal wells, delivering high flow rates with maximum 
+electrical efficiency, minimal maintenance, and long 
+run life. Our REDA Thermal ESP has earned the Efficient 
+Solution label from the Solar Impulse Foundation after 
+a rigorous evaluation process. This label validates the 
+economic profitability of products and processes that 
+protect the environment and helps decision-makers 
+find efficient solutions to meet their environmental 
+commitments. The combination of reliability and 
+efficiency enables profitable production from geothermal 
+wells that were previously uneconomical to produce—
+with minimal parasitic power load. 
+In Turkey, Zorlu Enerji deployed a combination of the 
+REDA Thermal ESP and the high-horsepower permanent 
+magnet motor for geothermal power production from 
+high-enthalpy wells, with temperatures as high as 213 
+degC. This resulted in a net increase of 1.7 MW in the 
+geothermal power supplied to the electricity grid, with 
+decreased power consumption of 0.4 MW. 
+SLB joined a consortium led by the Net Zero Technology 
+Center with the aim to develop an offshore energy hub 
+project in Aberdeen. We are investing our digital and 
+domain expertise to model the future energy system 
+to help identify areas of inefficiency to create future 
+research opportunities at SLB.
+Clamart, France 
+Our state-of-the-art treatment  
+systems processing carbon
+“ CCUS is vital 
+in creating the 
+decarbonized energy 
+systems our planet 
+needs to balance 
+energy demand with 
+climate objectives.”
+ Olivier Le Peuch
+ Chief Executive Officer
+IN FOCUS
+In Norway, the Delfi™ digital platform was 
+selected by Northern Lights JV for the 
+first cross-border, open-source CO2 
+transport and storage infrastructure 
+network. CO2 will be shipped to an 
+onshore receiving terminal on the 
+Norwegian west coast before being 
+transported by pipeline for permanent 
+storage 2,600 meters under the 
+seabed. Northern Lights will use the Delfi 
+cognitive E&P platform to collaborate on 
+innovative digital solutions across the 
+CCS value chain and optimize the CO2 
+storage capacity evaluation process. 
+SLB Delfi™  
+Digital Platform
+Carbon Capture, Utilization,  
+and Sequestration (CCUS)
+The CCUS industry represents a fundamental solution for 
+decarbonization and is growing steadily, but in 2022 its 
+CO2 capture capacity was just 42 million metric tons per 
+year according to the IEA. The IEA estimates that CCUS 
+must remove more than 6 Gt of CO2 per year to reach net 
+zero by 2050, so there is a long way to go. We have been 
+partnering with inventive and forward-thinking companies 
+to meet this challenge by accelerating the industrialization 
+and scale-up of innovative technologies, such as 
+nonaqueous solvent (NAS) technology, which captures 
+CO2 from a broad range of industrial emissions. At the 
+same time, we are expanding our global CCUS footprint 
+across multiple sectors and industries via collaborations 
+such as the SLB and Linde collaboration.
+CCUS is seen as one of the critical technologies to 
+enable the world to achieve net zero. To deliver low-cost, 
+scalable CCUS projects, end-to-end digital solutions 
+are required. Microsoft and SLB are collaborating to 
+harness their combined digital and industrial expertise, 
+in order to provide our customers with highly scalable, 
+cloud-enabled CCUS solutions. By combining Microsoft 
+and SLB technologies, we are delivering next-generation 
+insights and visualization through advanced analytics, 
+augmented reality, and immersive collaboration. These 
+solutions will enable confident business decisions and 
+ultimately lead to a more sustainable world.
+P22
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+People are at the heart of our business. 
+Whether they’re our employees, 
+customers, contractors, involved in  
+our supply chain, or in the communities 
+where we live and work, everyone has 
+an equal right to a sustainable future.
+People
+Focus areas:
+Creating In-Country Value 
+Managing our socioeconomic impacts and 
+accelerating our contribution to the sustainable 
+development of host countries and communities 
+through partnerships and collaboration
+Respecting Human Rights 
+Respecting the inherent dignity of all people in line 
+with our public commitments to human rights global 
+standards—including the United Nations Guiding 
+Principles
+Promoting Talent and Diversity, Equity, 
+and Inclusion 
+Building a truly diverse workforce, safeguarding 
+mental health and wellbeing, and endeavoring to 
+create more inclusive environments across our 
+value chain
+Y ou can learn more about the key focus areas of our 
+integrated approach to People and our learning and 
+development pathways here.
+Our exceptional and diverse people 
+are the pulse and spirit of who we are. 
+We strive to advance social and 
+economic conditions in host countries 
+and communities; respect human rights 
+in our operations, business relationships 
+and supply chain; and promote diversity, 
+health, wellbeing, and social inclusion in 
+the workplace and across our value chain. 
+Identifying and managing positive and 
+negative business impacts on people, 
+and maintaining high ethical standards 
+are fundamental to our sustainability 
+efforts. We are committed to putting 
+safety, security and the wellbeing of our 
+people at the center of everything we 
+do, so that host countries, communities 
+and the energy industry can all prosper 
+on a lasting basis.
+By promoting inclusive socio-economic 
+development, we look to accelerate  
+a just energy transition and promote 
+sustainable development in line with  
+our business growth.
+Back/Forward
+P23
+Contents Search Print Back/Forward
+OverviewSLB  
+2022 Sustainability Report
+ People
+Nature
+Climate Action
+
+In 2022, our focus has been on enabling and accelerating 
+action, going beyond local content to create in-country 
+value, promote sustainable development, and deliver 
+innovative, scalable, and replicable projects.
+In 2022, our focus has been on enabling and accelerating 
+action, going beyond local content to create in-country 
+value, with the consideration of sustainable development, 
+designing and delivering innovative, scalable, and 
+replicable projects, and conducting activities aimed at 
+creating sustainable local impact. 
+Fostering linkages between in-country value and 
+sustainable development, our local teams are 
+empowered to use the UN SDGs as a framework to 
+identify different local value creation possibilities in 
+connection with our business activities. 
+We continue to build on the momentum of our approach, 
+giving advice and tools to local teams to manage legal 
+and contractual requirements, and supporting local hiring 
+and local sourcing of goods and services. 
+Creating In-Country
+Value
+Leveraging the 
+enablers and 
+accelerators of our 
+sustainability framework
+Governance
+To prioritize areas of investment at the 
+local level, we developed our digital 
+Sustainability Impact Platform to support 
+the complex task of quantifying impacts 
+and demonstrating value.
+Empowering Local Teams
+We launched our new Sustainability 
+Impact Awards to educate our people 
+and target our investments more 
+effectively and maximize the impacts 
+of our efforts. 
+Partnerships
+Looking forward, in 2023, we will launch our 
+Partnership Accelerator Program to support 
+local teams to promote and build successful 
+and effective partnerships that further 
+drive our in-country value and broaden 
+our sustainability impact.
+Technology and Innovation
+Building on our strengths, we look for 
+opportunities to improve sustainability 
+impact through technology.
+P24
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Creating In-Country Value continued
+Sustainability Impact Awards
+Capital allocation plays an important role in helping 
+SLB meet our sustainability commitments and drive 
+our in-country value through community and business 
+investment.
+SLB Sustainability Impact Awards, launched in 
+2022, allocate capital to local teams around the globe, 
+to design, select and deliver high-impact, innovative, 
+scalable, and replicable sustainability projects.
+Through this program we champion projects that have 
+a sustainable impact in our operations and facilities, and 
+in the communities where we work and live—now and in 
+the future. The awards enable our local teams around the 
+globe to implement projects that tackle local challenges 
+for a net zero, nature positive, and more equitable future.
+Business impacts
+Growth 
+Create new opportunities 
+for business growth
+Productivity
+Improve operational efficiency, 
+human capital management 
+or pricing power
+Risk Management
+Manage operational, legal, 
+reputational and supply chain risk
+Stakeholder impacts
+Customer Collaboration 
+Clear customer synergies 
+Employee Involvement
+Employees engaged, championing 
+and volunteering 
+Strategic Partnerships
+Clear external collaboration  
+or partnerships
+Positive impacts
+SDG Focus
+Alignment with local priorities  
+and country concerns
+Sustainability Focus
+Alignment with corporate aims 
+and objectives 
+SMART Outcomes
+Mapped to an SDG target
+P25
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Creating In-Country Value continued
+Economic inequality
+Increasing local livelihood opportunities 
+and helping to build a diverse economy 
+in the Amazonia region, SLB manages 
+an entrepreneurship program, 
+supporting community members to 
+develop new income generating skills, 
+especially women and individuals from 
+indigenous-led organizations. In 2022, 
+we partnered with seven organizations, 
+including a women’s association from 
+a remote Kichwa community in El Eden, 
+empowering more than 25 women, 
+through capacity building and provision 
+of equipment, to establish a social 
+enterprise to create and sell handicrafts 
+from vegetable fibers.
+Energy GHG emissions
+SLB has actively engaged in the Punto 
+Verde initiative with the Ministry of 
+Environment, certifying technologies, 
+tools and processes that have proven 
+environmental attributes, including 
+reducing emissions when compared 
+with traditional technologies. SLB was 
+the first company in the energy sector 
+to achieve Punto Verde “eco-efficient” 
+certified products and as of 2022 we 
+have 23 Transition Technologies and 
+29 projects certified. For example, our 
+certified compact drilling rig saves, 
+on average, 3.3 days of operations 
+per well drilled, significantly reducing 
+associated fuel consumption and 
+transportation needs.
+Biodiversity protection 
+In the Amazonia region of Ecuador, 
+our operations take place in areas 
+that are highly biodiverse. Protecting 
+wildlife and flora near our project 
+sites is very important to SLB and our 
+local stakeholders, and as part of our 
+biodiversity management plan, our 
+wildlife rescue brigades are responsible 
+for the relocation of species from these 
+project sites, in coordination with local 
+environmental authorities. In 2022, the 
+brigades intervened in 14 critical cases. 
+Ecuador 
+COUNTRY PINWHEEL IN ECUADOR
+Targeting areas of investment for impact
+Putting the SDGs at the heart of our in-country value approach, 
+our Country Pinwheels provide local teams with a consistent 
+methodology to identify the SDGs on which they can have the 
+greatest impact and target their efforts.
+In 2022, our local teams submitted sustainability plans aligned 
+with their priority SDGs, through a centralized platform. 
+Below is an example of targeted sustainability projects in Ecuador 
+in 2022.
+.... ---
+/ 
+/ 
+�� ---
+.... __ _ 
+G) 
+0 < 
+CD �::,
+3 
+CD 
+::, �
+CD --
+CD 
+(") � :;t 
+� 
+C 
+(I) 
+CJ 
+iE 
+(I) 
+(I) 
+C 
+w 
+ador 
+2022 
+� 
+� :::0 � 
+CD (I) � 
+::, --
+CD � � 
+� 
+0) 0) 
+(I) 
+O" (') � 
+co 
+(') �-
+(I) 9,. 
+CD (/l 
+::, (/l (I) 
+CD --- � :L-�'° -< 
+- - -____
+............ 
+I 
+I I 
+P26
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Respecting 
+ Human Rights
+Leveraging our Ethics and Compliance 
+Management System, in 2022, we strengthened 
+our risk management and assurance processes, 
+further embedding human rights due diligence 
+requirements in our internal controls, focusing 
+on our supply chain and our facilities.
+Our commitment to respecting human rights 
+SLB conducts business in a manner that preserves 
+and respects human dignity, as stated in our Code of 
+Conduct, which applies to all employees of the company, 
+contractors, suppliers, agents and business partners. 
+Respecting human rights is a key expectation of SLB 
+and we are committed to supporting the United Nations 
+Guiding Principles on Business and Human Rights and 
+embedding the UN Global Compact and its principles 
+into our day-to-day business activities.
+Learn more here.
+Managing Modern Slavery Risks
+To hold ourselves accountable to 
+the high standards of our Working 
+Conditions Requirements and improve 
+outcomes for workers around the globe, 
+SLB is developing assurance programs 
+to assess, address and manage decent 
+work, worker welfare and modern 
+slavery risks in SLB facilities and in our 
+supply chain.  
+Learn more here.
+2022 Human Rights Impacts
+IN OUR FACILITIES IN OUR SUPPLY CHAIN
+IN OUR FACILITIES  
+AND  SUPPLY CHAIN
+>50% 
+of all employees and 
+contractors in Australia 
+completed cultural awareness 
+training as part of a practical 
+demonstration of our 
+reconciliation journey with 
+Reconciliation Australia
+100+ 
+SLB drivers certified as 
+part of the Truckers Against 
+Trafficking training program 
+at our driver Training Center 
+in the US
+84 
+modules completed by SLB 
+suppliers on labor rights
+22 
+human rights  
+self-assessments 
+at SLB facilities
+Awarded best 
+Petrobras supplier 
+in the Human Rights category 
+Human rights 
+were discussed 
+as a topic 
+at the global SLB  
+supplier forum 
+100% 
+of SLB facilities underwent 
+third party assessment of 
+human rights risk
+12k  
+employees have received 
+human rights training
+350 
+of our suppliers completed  
+human rights questionnaires
+P27
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Respecting Human Rights continued
+Our Approach 
+We respect human rights in practice by: 
+  conducting due diligence to identify, assess 
+and manage potential human rights impacts
+  making human rights a topic our employees 
+can understand, recognize and act upon 
+  working with suppliers who respect and comply  
+with our Working Conditions Requirements
+  providing mechanisms for employees and third  
+parties to report any human rights concerns.
+2022 Human Rights Highlights
+Learn more here: 
+Learn more about our commitments, 
+approach, focus areas and the  
+strong governance framework  
+of our human rights program here
+1. TONE FROM THE TOP
+  SLB CSSO and Chief Legal Officer were featured in our new 
+“introduction to human rights” training.
+  Continued to convene our global Human Rights Working Group, with 
+senior representatives across SLB advising on priorities and reviewing 
+the operational effectiveness of the program.
+2. GOVERNANCE DOCUMENTS
+  Developed our Human Rights Framework, demonstrating how we 
+consistently embed and respect human rights in our culture and 
+throughout the business.
+  Updated our Working Conditions Requirements.
+4. RISK MANAGEMENT
+  Partnered with a third party to assess inherent human rights risk 
+exposure levels in SLB facilities around the globe, to prioritize sites 
+for additional awareness training.
+3. AWARENESS
+  Released an “introduction to human rights” awareness video for 
+employees covering key processes to implement our human rights 
+commitments. 
+  Extended our online continuous training materials to provide 
+targeted training to employees, contractors, and suppliers, adapted 
+from IPIECA and Building Responsibly labor rights training.
+5. THIRD-PARTY MANAGEMENT
+  Expanded our supply chain human rights due diligence program 
+in geographies throughout the world. 
+  Updated our approach to supplier training and engagement, 
+and added specific human rights language in our supplier contracts.
+  Developed and implemented contract-specific worker welfare plans 
+and modern slavery plans in six countries.
+6. ASSURANCE AND ACCOUNTABILITY
+  Piloted a human rights self-assessment tool in 11 SLB facilities, as 
+the basis for an assurance program to verify compliance with our 
+Working Conditions Requirements across our operations.
+  Reported our efforts to identify and prevent the risk of modern 
+slavery in our 2021 Modern Slavery Statement.
+A  S T R O N G 
+GOVERNANCE  
+FRAMEWORK TO  
+DRIVE ACTION
+FURTHER READING
+2023
+Working 
+Conditions
+Requirements
+Code of Conduct
+Sets out how we are expected to 
+behave, including our responsibility 
+to respect human rights
+Human Rights Position 
+Statement
+Consolidates our human rights 
+commitments and serves as the basis 
+for internal and external engagement 
+on human rights issues
+Human Rights Framework
+Outlines the human rights risk areas 
+we’ve identified and our approach 
+to further embedding human rights 
+throughout the business
+Working Conditions 
+Requirements
+Defines the minimum standards that 
+we require our facilities and suppliers 
+to respect and adhere to in relation to 
+workers’ rights
+P28
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Respecting Human Rights continued
+IN FOCUS
+Human rights are at the core of our anti-
+trafficking strategy, and we value the significant 
+role our employees play in tackling human rights 
+issues on the ground. Our North America Human 
+Trafficking Working Group, sponsored by the 
+SLB Chief Legal Officer, looks to mobilize SLB 
+employees and the energy industry to recognize 
+and respond to human trafficking in the US and 
+Canada. The group’s highlights in 2022 include: 
+  Introducing training at our Kellyville, Oklahoma, 
+and Crossfield, Alberta Driving Training Centers, 
+as part of the certified Truckers Against 
+Trafficking program. 
+  Partnering with Crime Stoppers Houston 
+at our HSE forum and exhibition in Houston 
+to raise awareness about human trafficking. 
+  Holding an anti-human trafficking virtual 
+awareness event, in collaboration with 
+RedM and our employee resource group 
+ConnectWomen, for more than 800 employees. 
+  Collaborating with SLB’s HSE team to develop 
+a new HSE for Y outh module about human 
+trafficking to educate our employees, their 
+families, and members of the communities 
+where we operate. 
+Supporting Industry Efforts  
+to Combat Human Trafficking 
+IN FOCUS
+In 2022, we completed a social risk assessment in Brazil, 
+to identify, assess and manage potential impacts and risks 
+to local communities associated with our two facilities in the 
+city of Macae, Rio de Janeiro. The SLB social risk assessment 
+process helps us to proactively manage social risks to people 
+and projects, as well as better understand and address the 
+practical benefits that can accrue to local communities.
+Improving the quality of relationships with our stakeholders 
+begins with engagement. Our team of local assessors 
+met with internal SLB stakeholders, customers, and 
+local stakeholders, including local authorities, non-profit 
+organizations, schools and universities and churches, 
+to discuss how we can better work together.
+Through this engagement, we verified that social risks 
+are properly incorporated into our risk management 
+processes, identified improvements for our community 
+grievance mechanism, and generated new opportunities for 
+collaboration to positively impact the lives of people affected 
+by our operations in Macae. 
+Completing a Social Risk 
+Assessment in Brazil 
+Human Rights in Action
+P29
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Promoting 
+ Talent & DEI
+We apply the principles and learnings of our 
+diversity, equity, and inclusion program across 
+our value chain to support achieving a fairer, 
+more prosperous world for all. 
+10
+nationalities on our 
+executive leadership team
+>85
+nationalities among 
+our managers
+30%
+of our executive team 
+and 23.8% of our salaried 
+employees are women
+DEI in the Workplace
+As a leading global technology company, with a workforce 
+consisting of approximately 99,000 people in more than 
+100 countries, one of SLB’s greatest strengths is the 
+diversity of our people. 
+Our national and cultural diversity is based in our philosophy 
+to recruit and develop people from the communities where 
+we work. As a result, we maintain a workforce nationality 
+mix aligned to the revenue derived from the countries in 
+which we work, as reflected in the charts at the right. Our 
+long-standing commitment to national and cultural diversity, 
+which is seen throughout every layer of SLB, fosters a culture 
+that is global in outlook, yet local in practice. 
+In addition to nationality and cultural diversity, gender 
+balance is an important part of our diversity, equity, and 
+inclusion strategy. We are committed to leading our industry 
+in gender diversity, and we are on track to reach our interim 
+milestone of having women represent 25% of our salaried 
+employees by 2025. Our next milestone is for women to 
+comprise 30% of our salaried employees by 2030. Our 
+2025 and 2030 targets include executive roles and all other 
+salaried positions. 
+Women represent 30% of our executive team as of 
+January 31, 2023, and 27% of SLB’s Board of Directors. 
+A total of 19.5% of our company (excluding contractors) 
+and 23.8% of our salaried employees were women as of 
+December 31, 2022.
+REVENUE CONTRIBUTION
+NATIONALITY MIX
+27%  Europe, CIS 
+and Africa
+38%  Europe, CIS 
+and Africa
+20% Latin America
+16% Latin America
+32%  Middle East 
+and Asia
+33%  Middle East 
+and Asia
+21% North America
+13% North America
+2022 DEI AWARDS
+Recognized as one of the  
+Best Places to Work for Disability Inclusion by the Disability 
+Equality Index (DEI)
+New Workplace Pride Global  Benchmark  member 
+and recognized as  
+one of the most inclusive companies for new arrivals 
+Iconic Companies Working to Create a Better World for All award 
+received during the Women Economic Forum 2022 in Ecuador
+Received second place  
+in the HappyTrainees index in France
+Forbes’ List of Mexico’s Best Employers 2022  
+SLB ranked number one in the Oil & Gas industry and number 
+three in the industry of Construction, Oil & Gas, Mining 
+and Chemicals
+SLB Malaysia Recognitions in 2022  
+Graduates in Malaysia ranked us as one of the most attractive 
+employers in Shared Services category, both in Top 100 
+Brand Awards and Graduates’ Choice Award , and also been 
+ranked as Top 1 employer of choice in the Graduate Choice 
+Award Malaysia
+Our priorities are: 
+  promoting a diverse workforce that supports national 
+representation, and the growth and development of 
+women and underrepresented groups while creating 
+an inclusive working environment where everyone can 
+bring their true self to work 
+  providing opportunities for diverse businesses to 
+participate in our supply chain
+  supporting positive social outcomes in the communities 
+where we work and live through inclusive educational 
+outreach programs and employee involvement. 
+Our focus in 2022:
+2022 has been a year of building on our strong Diversity, 
+Equity, and Inclusion (DEI) foundation, continuing to 
+improve our performance in inclusion, women and 
+pay equity, and leveraging our employee resource 
+groups (ERGs).
+We maintain a workforce nationality mix aligned to the 
+revenue derived from the countries in which we work. 
+P30
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Promoting Talent & DEI continued
+Women and Pay Equity
+In 2022, SLB released our first global Women and Pay 
+report relative to 2021 performance. 
+It was a pioneering act in the energy sector, aimed at 
+increasing the transparency of our pay practices to 
+employees and external stakeholders, and supporting 
+joint efforts industry wide to further attract female talent. 
+This report also serves as an accountability mechanism 
+for SLB’s gender balance targets, including our goal 
+of having 30% women in our salaried workforce  
+by 2030.
+In 2022, the equal pay gap average narrowed to 2.37% 
+in favor of men, driven by a higher average in experience 
+and age for the male workforce. The equal pay gap 
+median improved by 25% year on year to reach 1.75% 
+pay gap in favor of men. SLB’s goal to recruit more 
+women together with our culture of promotion from within 
+increases gender balance at all levels of the company. 
+This has led to a positive momentum for gender balance 
+and pay equity in 2022.
+Inclusion Index
+Our evolved culture emphasizes our commitment to real 
+inclusion. We are inclusive and nurture an environment 
+where our people can thrive as their true selves.
+Our exceptional and diverse people are the pulse 
+and spirit of who we are, enabling us to deliver the 
+extraordinary results needed for a sustainable future. 
+It’s fundamental that our people feel valued and included 
+so they can thrive, and we believe measuring inclusion 
+and providing feedback channels is key. 
+There is no standard way of measuring inclusion. 
+In 2022, SLB created an Inclusion Index using seven 
+key dimensions of inclusion, each assessed though 
+our annual employee engagement survey, Engage to 
+Excel. The survey answers provided a holistic view of our 
+people’s perception of inclusion across different parts of 
+the company, allowing SLB to identify and actions that will 
+help us evolve our behaviors. 
+In 2022, our overall Inclusion Index perception by 
+employees was scored at 71% both by all employees 
+and by women. 
+In 2023, inclusion has been set as a key People priority 
+across SLB. Progress against this index will be measured 
+at both the local and global levels. 
+2021 PAY GAP  
+2022 PAY GAP  
+EQUAL PAY GAP AVERAGE
+EQUAL PAY GAP AVERAGE
+EQUAL PAY GAP MEDIAN
+EQUAL PAY GAP MEDIAN
+-2.68%
+-2.37%
+-2.35%
+-1.75%
+-20%
+-20%
+-20%
+-20%
+0.00%
+0.00%
+0.00%
+0.00%
+20%
+20%
+20%
+20%
+FURTHER READING
+“ It’s clear that, in order 
+to move the needle 
+on gender balance, 
+we need to increase 
+transparency of our 
+pay practices to help 
+guide decision making 
+on both.”
+ Carmen Rando Bejar  
+Chief People Officer
+IN FOCUS
+In 2022, while women represented 
+30% of leadership roles, overall female 
+participation in Oman was 6%. To drive 
+change, the management team formed a 
+new gender balance committee whose 
+goal is to help us meet the SLB milestone 
+of 25% women in our salaried workforce 
+by 2025. To ensure that women’s 
+perspectives and work experience are 
+fully understood and integrated into 
+action plans, the committee began by 
+undertaking a “women in the workplace” 
+survey with Engage to Excel. Findings 
+are being used to formulate action plans 
+and scope a partnership with the Omani 
+non-profit organization, Lahunna, to 
+mentor SLB female employees and deliver 
+in 2023 their Sidrah Y outh Leadership 
+Program for young Omani women in the 
+communities where we work and live.
+Gender Balance 
+in Oman
+P31
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Promoting Talent & DEI continued
+Employee Resource Groups
+Our employee resource groups (ERGs) help us build a 
+diverse and inclusive environment by providing a safe 
+space for employee-led conversations while increasing 
+sense of belonging. They also support actions that 
+drive improvements in representation for the groups 
+they support. 
+The ERGs support under-represented groups where 
+there is a differential in the representation of a particular 
+subgroup in society and within the company. ERGs are 
+present in every country where SLB operates.
+Our ERGs
+Connect Women
+In 2022, Connect Women celebrated its 15-year 
+anniversary. 15 years of history, 15 years of making a 
+progressive impact in the company, 15 years of inspiring 
+our women and men everywhere, every day. For this 
+special event Connect Women orchestrated celebratory 
+webcasts with featured guests, testimonies and panel 
+discussions at all levels of the organization. 
+Connect Women was awarded a Performed by SLB 
+Award in 2022, recognizing its impact to the company’s 
+performance. The community has created a culture 
+promoting DEI through panel discussions, live sessions, 
+coffee talks, and employee engagements such as 
+bi-y early gender balance updates co-hosted by company 
+executives, celebrating International Women’s Day and 
+International Men’s Day. Over the years, it has organized 
+well over 100 webinars covering professional and 
+personal topics. 
+LGBT+ Allies
+In 2022, our LGBT+ Allies ERG celebrated its fourth 
+anniversary. We saw membership numbers increase by 
+over 30%, hitting the milestone of 1,000 members in over 
+45 countries. 
+We also participated in the Workplace Pride Global 
+Benchmark, an online tool that measures the LGBT+ 
+policies and practices for internationally active employers. 
+In the Workplace Pride LGBT+ Global Benchmark survey 
+we were recognized as the strongest first year participant 
+for scoring 10 points over their historical average of 
+first-year scores in the benchmark. 
+ThisAbility
+In 2022, ThisAbility, our ERG that seeks to empower 
+people with visible or non-visible disabilities, health 
+conditions, and care givers, marked the UN International 
+Day of Persons with Disabilities Day by holding multiple 
+internal awareness events. 130 of our facilities worldwide 
+lit their buildings in purple to highlight our support. 
+Black Organization for Leadership and Diversity
+Today BOLD has more than 700 members in its network. 
+In 2022, BOLD continued its outreach programs including 
+running an awareness campaign for the International Day 
+for the Elimination of Racial Discrimination, hosting a book 
+club, and building continual awareness around Black 
+health and wellness. 
+BOLD has strengthened the SLB Diverse Talent Pipeline 
+through increasing African American or people of African 
+descent applicant flow and hires, by focusing on three 
+Historically Black College and Universities for field and 
+function positions. 
+“ C onnect Women helps all of you, women 
+and men, and supports gender diversity 
+and gender balance in the company.”
+ O livier Le Peuch  
+Chief Executive Officer
+Women in Technology 
+In 2022, female technology employees from 
+16 technology centers came together at the Katy 
+Technology Center for a week of dialogue with 
+technology leadership, female students from Rice 
+University and female recruits. During the week, 
+small groups of women worked together to bring 
+their perspective and comments on SLB strategy 
+and business direction to the technology leadership.
+DEI in our Supply Chain
+In an effort to continue seeking diverse suppliers in 2022, 
+we collaborated with a third party to develop data- and 
+insight-driven insights into what supplier diversity looks 
+like for SLB around the globe, and to benchmark best-
+in-c lass supplier diversity programs.
+Driving momentum 
+for disability inclusion: 
+130 SLB locations 
+participated in 
+#PurpleLightUp Day
+P32
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+DEI in the Community
+Educational Outreach 
+Education connects SLB with the host counties 
+and communities where we operate and helps us 
+to build shared values. In alignment with UN SDG 4, 
+our investments in quality education—especially 
+among women and young people from underprivileged 
+backgrounds—provide a range of educational 
+experiences and learning spaces focused on technology 
+and STEM. Today our educational outreach efforts are 
+centered on three main programs:
+  Faculty For the Future – funding women from 
+developing economies to pursue PHd or post-doctoral 
+studies in STEM subjects at top universities worldwide, 
+managed by the SLB Foundation, a nonprofit 
+organization.
+  SLB Excellence in Education Development (SEED) 
+– providing STEM learning opportunities and creating 
+STEM-rich learning environments for young people 
+since 1998.
+  HSE for Youth – helping both young people in the 
+community and SLB employees’ children understand 
+and make better HSE-related decisions through 
+workshops led by trained volunteers from SLB.
+Promoting Talent & DEI continued
+IN FOCUS
+In Kakinada, India, our SEED program partnered with the 
+local government to facilitate computer science teacher 
+training and create a digital learning space, helping high 
+school students to become innovators and successful in 
+STEM fields.
+SEED Program
+2022
+Participating Teachers >1,600
+SLB Employee Volunteers >1,000
+SEED
+SEED worldwide 
+In 2022, the Faculty for the Future program, to endow 
+fellowships for female professors to increase representation 
+of women in STEM, hosted its 20th Forum in Cambridge, 
+UK, providing Fellows and Alumnae with the chance to share 
+research and life experience, and learn from distinguished 
+speakers how to raise their profiles as scientists and individuals. 
+Faculty for the Future Program
+2022
+New Fellowships Awarded 37
+Fellowships Renewed 57
+Total Fellows and Alumnae Since 2004 807
+Total Host Universities and Research Institutions 
+Since 2004
+333
+FACUL TY FOR THE FUTURE
+The SLB HSE team in Nigeria facilitated HSE For Y outh 
+workshops focused on climate change in two community 
+schools in Port Harcourt. After the end of the workshop, 
+the students made personal pledges on a graffiti wall to 
+demonstrate their commitment to taking climate action. 
+HSE for Y outh
+2022
+First Aid 61
+Internet Safety 23
+Climate Change and Environment 21
+Road Safety 10
+COVID -19 9
+Malaria Prevention 8
+Water Sanitation 4
+Injury Prevention 3
+HSE FOR YOUTH WORKSHOPS
+>116,000
+young people  
+participated 
+29 
+countries
+>700
+SEED events in 2022
+P33
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+SLB has identified three key 
+environmental areas of focus that 
+are significant for our operations, 
+based on stakeholder engagement, 
+impact, and risk. 
+Nature
+Focus areas:
+Safeguarding Biodiversity 
+We design and manage all our operations 
+to minimize the impact on ecosystems and 
+biodiversity across the life cycle of each facility, 
+activity, product, and service. 
+Protecting Natural Resources 
+We strive to minimize our impact on the environment 
+by preventing pollution, reducing natural resource 
+consumption and emissions, and reducing and 
+recycling waste. 
+Enabling Circularity 
+SLB enables circularity through responsible 
+resource procurement and waste management in 
+conjunction with engineered solutions to promote 
+the longevity of product use.
+Y ou can learn more about our integrated approach 
+to Nature here.Our focus is advancing environmental 
+sustainability by minimizing our impact on 
+ecosystems and biodiversity, conserving 
+natural resources, and promoting circularity 
+throughout the lifecycle of our technology. 
+In 2022, we focused on improving our 
+understanding of how, as SLB, we impact 
+environmental sustainability. We are building 
+our roadmap for the future, currently focused 
+on water and circularity, assigning clear 
+ownership within our company and setting 
+targets for the years to come.
+Back/Forward
+P34
+Contents Search Print Back/Forward
+Climate ActionSustainability Framework:
+Nature
+GovernanceOverviewSLB  
+2022 Sustainability Report People
+
+IN FOCUS
+The Offshore Atlantic Sustainability in Action week 
+was held in May 2022. The week saw 700+ volunteers 
+come together in almost 40 engagements organized 
+across several locations in Europe. This included both 
+internal and external engagements covering STEM, 
+environmental awareness, supplier engagement, 
+clean up drives, tree planting and much more.
+Approximately 200 people participated in these 
+external engagements, including school children 
+and suppliers. 18 sustainability initiatives focused on 
+nature and reduced personal consumption kicked-off 
+as part of the week across several locations.
+Offshore Atlantic 
+Sustainability in Action Safeguarding 
+ Biodiversity
+SLB designs and manages its operations to minimize 
+the impact on ecosystems and biodiversity across the 
+lifecycle of each facility, activity, product, or service. 
+In 2022, SLB focused on biodiversity protection—
+empowering our local teams to use our risk-based 
+process to protect wildlife, rehabilitate and restore 
+land, prevent land contamination and manage 
+decommissioning. 
+Biodiversity Protection
+In Brazil, we partnered with a third party to help preserve 
+the Biological Reserve União. Located in the state of Rio 
+de Janeiro, the reserve has more than 300 species of 
+native trees, in addition to bromeliads, orchids and vines, 
+and is also home to many endangered species which are 
+at risk due to human activity. The forest is important for 
+emissions removal and is essential to the maintenance 
+of springs and waterways, contributing to the water 
+supply of some of the surrounding communities. To 
+raise awareness, with the support of our employees, 
+their families, and our customers, we have created an 
+environmental education program for schools, and we 
+engineered walking trails to connect people with nature 
+– including enabling accessibility to the forest to those 
+with disabilities and mobility challenges. We have also 
+developed a program to monitor and protect over 15,000 
+native trees from invading species.
+In the Amazonian region, operations take place in areas 
+with potential of biodiversity risks. Rescue and relocation 
+of species is carried out in coordination with local 
+environmental authorities in partnership with our wildlife-
+rescue brigades. In 2022, our brigades intervened in 14 
+critical cases. In one case a baby capybara entered a 
+field camp. It was rescued and transported to a reserve 
+to be released into the wild according to local regulations. 
+In Peru, we collaborated with our customer PetroTal to 
+obtain a positive net balance through zero net biodiversity 
+loss. PetroTal operates in a remote location in the Pacaya 
+Samiria National Reserve, the second largest natural 
+protected area in Peru. To minimize habitat impacts, the 
+operational footprint should be minimized via reduction 
+of use of roads, lowering emission and eliminating 
+waste. SLB implemented lower-toxicity fluid systems, 
+reduced solid drilling waste by 60%, and reduced water 
+consumption and water discharge. 
+Empowering Local Teams
+Bird feeders that distribute food and water during the 
+winter and nesting period can help protect local bird 
+species from environmental factors such as destruction of 
+their habitat by growing urbanization, pollution, and noise 
+that can impact natural food availability. At our Clamart 
+facility in France, bird feeders are printed with our Fused 
+Deposition Modeling 3D printer using an acrylonitrile 
+styrene acrylate filament to provide weather resistance 
+and enhanced robustness. Nesting boxes and feeders 
+were also made from wooden crates that were previously 
+used to transport tools, and water points were installed for 
+local wildlife. To support the facility’s beehive, many trees, 
+lavender, sunflowers, raspberries, and other aromatic 
+plants were planted at the location. Employees attended 
+discovery sessions to learn about the bees and become 
+familiar with the work of beekeepers while waiting for the 
+honey to be collected.
+Also, in France, at our facility in Montpellier, employees 
+have created and are responsible for the maintenance 
+of a vegetable garden. Experts are consulted on the 
+planting schedule and the harvests will be distributed 
+to all employees. 
+A group of employees in Iraq have created a PAWS – 
+Animal Welfare Act Committee to protect animals around 
+SLB locations. The committee’s mission statement 
+focuses on the belief that animals deserve the ability to 
+live as they wish, without being negatively impacted by 
+humans. Key actions include keeping cats and dogs away 
+from the workshops and operational facilities, vaccinating 
+feral cat populations and monitoring them to avoid a rise 
+in the rat population. 
+P35
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Protecting Natural 
+ Resources
+SLB realizes the importance of respecting and 
+protecting the world’s natural resources. Understanding 
+our current water stewardship performance and 
+scaling future impact from efficiencies and technology 
+investment will be the basis for our success. 
+We are expanding our formal water stewardship strategy 
+beyond our existing water management process. Our strategy 
+includes metering, detailed reporting, and leveraging enhanced 
+water risk assessments. These actions will help us identify water 
+conservation opportunities and better understand the locations 
+where our facilities, employees, suppliers and communities are 
+most vulnerable to water risks. Our 2022 water stewardship 
+focus areas were our water risk assessment, water efficiency, 
+and water filtration, reuse and harvesting. 
+Water Risk Assessment
+To assess the risk of water scarcity in the areas where we 
+operate, we mapped all our facilities against worldwide water-
+stressed areas as defined by the World Resources Institute 
+Aqueduct Water Risk Atlas. This analysis enables us to prioritize 
+actions for investment in water recycling and restoration in the 
+most critical places. 
+Water Efficiency 
+By assessing our baseline water consumption metrics, we 
+can improve our water efficiency and provide the visibility 
+needed for our locations to prioritize and improve their water 
+stewardship. Our focus on water efficiency in 2022 enabled us 
+to identify our 2023 investment areas and develop our water 
+management framework. 
+Approximately 20% of approved 2022 Sustainability Impact 
+Award projects for funding in 2023 focused on water efficiency 
+or water conservation initiatives. One noteworthy project 
+is at the Middle East Learning Center which will treat and 
+recycle 100% of its wastewater from its facility and re-use it 
+for irrigation purposes. This initiative will impact approximately 
+110,000 cubic meters (m3) of water annually. 
+Smart metering for water is an effective tool for water efficiency 
+monitoring. In 2022, we have prepared for the deployment 
+of water smart meters in facilities covering 50% of our water 
+consumption globally, in an effort to provide data integrity for 
+our baseline. 
+Water Treatment
+Systems for comprehensive 
+management of produced water, 
+seawater, and wastewater
+WATER USE IN THOUSANDS OF CUBIC METERS
+2019
+5,602
+4,651
+3,625 3,604
+2,000
+3,000
+4,000
+5,000
+6,000
+2020
+2021
+2022
+We continue to review our approach 
+to protecting natural resources
+Learn more here.
+2022 WATER RISK ASSESSMENT
+Risk clarification
+ Low
+ Low – Medium
+ Medium – high
+ High
+ Extremely high
+P36
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Protecting Natural Resources continued
+Water Filtration, Reuse and Harvesting
+SLB is committed to responsibly managing shared water 
+resources by minimizing freshwater use and effluent 
+discharge. In 2022, SLB invested in water filtration, reuse 
+and harvesting pilot projects at 11 locations globally in an 
+effort to improve our water stewardship impact. Building 
+on these projects, we have allocated capital for 2023 
+to fund a portfolio of key water stewardship programs 
+representing an investment increase of 20% year on year.
+In Angola, we’ve added a water filtration system to the 
+wash bay at one of our largest facilities in Luanda. The 
+water is filtered, treated, and then re-used in the wash bay. 
+The system is saving approximately 5,000 m3 of water 
+per year. 
+Certain SLB field sites reuse water for cleaning purposes. 
+The used water is filtered, and then used as the first 
+wash in cleaning tools and machinery. This practice is 
+estimated to reduce water consumption by 10-20% each 
+year. Water reuse systems are incorporated in all new 
+construction and existing facility upgrades pending local 
+conditions and requirements. 
+At our largest facility in Oman, we installed a water 
+treatment plant, constructed by a regional supplier, to 
+help us treat process water for internal re-use. We are 
+currently saving approximately 30,000 m3 of water per 
+year, as well as reducing GHG emissions associated 
+with sewage removal transportation. Treated water is 
+now being returned to the process and used for irrigation 
+and landscaping applications. 
+Location Conservation Plans
+In order to minimize SLB’s impact on the environment, 
+all North America technology centers and mines, as well 
+as our top consuming sites in operations, were connected 
+to their energy, water, and waste data to assist with 
+establishing and maintaining a “Site Conservation 
+Program.” Using each site’s 2021 metrics as the baseline, 
+the plans take into account energy, water consumption, 
+waste production, and vehicle idling, and provide 
+information and instructions to support sustainability 
+planning and implementation to meet short- and long-
+term objectives. Locations are responsible for maintaining 
+their plans, and quarterly status reviews are held with the 
+management team and key improvements are shared 
+with other locations for review and inclusion in other 
+sites’ plans.
+IN FOCUS
+In partnership with T&D Sustentável, in Brazil, SLB implemented an integrated 
+water management system, which combines technology and specialized 
+services, with a focus on combating water waste, achieving savings 
+of approximately 2.7K m3 of water or approximately one Olympic size 
+swimming pool.
+Water saving system:  
+beyond water saving
+>$40,000 AND  
+~4.8K M 3  O F 
+WATER  SAVED
+10 MONTHS OF SERVICES PROVIDED BY T&D IN 2021/22
+Could supply  
+a city with 
+~38,000
+people for one day
+Would quench the thirst of 
+>2.7m
+children
+Implies a reduction of 
+>23t 
+of CO2, the equivalent  
+of planting nearly 
+950 trees
+Up to 
+55%
+of monthly  
+cost savings
+Source: T&D Sustentável
+P37
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+900+ 
+members in our online internal knowledge 
+sharing technical communities
+>300 
+repair experts supported the introduction of 
+circularity practices in maintenance locations 
+Enabling 
+ Circularity
+We develop engineered solutions 
+to maintain and recycle our assets  
+so that they have a longer useful life.
+To enable circularity throughout our company in 
+2022, we focused on maintaining and prolonging 
+our technologies, product reuse and redistribution, 
+refurbishment and remanufacturing techniques,  
+and recycling.
+SLB’s Technology Lifecycle Management (TLM) function 
+oversees the acquisition, maintenance, and improvement 
+of a wide range of assets, from land vehicles to downhole 
+mechanical and electrical tools with the goal of optimizing 
+reliability, sustainability, and performance to meet our 
+customers’ needs. 
+The engineering and maintenance teams within the TLM 
+function provide reliable and efficient maintenance of 
+our assets throughout our global maintenance network. 
+A key insight that comes from this network is the return 
+on experience from our people on the condition of our 
+assets while maintained. Through this, we continually seek 
+to extend useful life and expand operating envelopes, 
+thus enhancing circularity performance.
+Maintain and Prolong 
+To optimize the maintenance schedule based on 
+operating environment, TLM is moving from traditional 
+time-based maintenance to condition-based 
+maintenance. This reduces waste, reduces risk, 
+and extends the useful life of tools. 
+Why it matters: 
+Traditional time-based maintenance results in excessive 
+transportation and servicing. Assets are put on a 
+schedule to be moved and maintained regardless 
+of need, generating excess waste. By switching to 
+condition-based maintenance, we can optimize 
+maintenance levels for each asset based on needs, 
+reducing resources consumed during maintenance 
+and improving asset availability. This capability is being 
+further enhanced through new digital technologies 
+with intelligent health analyzers that advise on tool health 
+and maintenance needs.
+An additional benefit to condition-based maintenance 
+is prolonging the life of our assets through focusing on 
+component life limiters and performance enhancements. 
+The TLM organization is continually implementing design 
+changes and customizing maintenance schedules 
+to extend the life of the tools and their consumables 
+to support principles of circularity and reduce 
+transportation waste.
+OUR REPAIR NETWORK IN NUMBERSTOTAL WASTE GENERATED IN THOUSANDS  
+OF METRIC TONS
+2019
+639
+140
+110 109
+0
+100
+200
+300
+400
+500
+600
+700
+2020
+2021
+2022
+IN FOCUS
+SLB technologies use lithium batteries to provide 
+continual and on-demand power. This use 
+is evolving through leveraging each of the 
+circularity loop’s capabilities:
+ Maintain – Batteries are stored, prepared, 
+and distributed through the TLM network
+ Prolong – Battery life consumption is 
+tracked to ensure maximum utilization 
+during operations
+ Reuse – In 2022, SLB deployed a lithium 
+metal polymer rechargeable battery as a 
+replacement to the liquid cathode lithium 
+metal batteries
+ Recycle – In 2022, 46 tons of consumed 
+batteries were recycled at approved 
+recycling facilities.
+Additionally, in certain applications, SLB 
+technologies are able to run in battery-less 
+mode, eliminating the need for a battery.
+Lithium Batteries 
+IN FOCUS
+In our Reservoir Performance Division, 
+improvements to the circularity of our coiled 
+tubing technology has doubled the time 
+between intrusive servicing of its hydraulic 
+powerpack, reducing waste and extending 
+product life. Additionally, through modeling and 
+simulation combined with corrosion mitigation 
+practices, coiled tubing life has been extended 
+by 18%. These developments increase asset 
+uptime and reduce unnecessary maintenance,  
+logistics, and consumables.
+Coiled Tubing
+P38
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Enabling Circularity continued
+IN FOCUS
+In Guyana, to reduce our disposal of waste to landfills, 
+we have partnered with a local supplier to recycle 
+and re-purpose our plastic tote tanks. This is the first 
+company plastic recycling initiative in Guyana. We have 
+already shredded more than 4,000 tote tanks and 
+recycled the plastic to be made into detergent bottles. 
+Plastic Recycling
+IN FOCUS
+Enabling circularity for fluid ends in the demanding 
+conditions of unconventional fracturing operations for our 
+stimulation pumps resulted in reducing our CO2e footprint 
+by 500 tons. This was achieved by reducing premature 
+failures and realizing inherent life enabled through remote 
+surveillance and performing in-country rework programs 
+on damaged fluid ends to realize life extension.
+Stimulation
+IN FOCUS
+In the Well Construction Division, 
+through our component repair process, 
+we have utilised advanced techniques 
+such as extended reach weld repair, 
+high corrosion material and micro 
+laser welding along with thermal spray 
+and electroplating to extend the life of 
+tool collars far beyond legacy limits. 
+Since 2022, this process has saved 
+approximately 150,000 metric tons 
+of CO2e as compared to the alternative 
+of manufacturing a replacement.
+Technology Collars
+Reuse and Redistribute 
+To follow circularity principles, SLB technology is designed 
+in a modular manner enabling assets to be reconfigured easily 
+to meet our customers’ needs across different requirements 
+and to save resources. 
+Why it matters: 
+In the past, when a new requirement was given by a customer, 
+an asset could be completely redesigned as a standalone tool. 
+This would then require new asset manufacture, increasing 
+the fleet size and resources to maintain. Asset modularity 
+combined with a focus on fleet management helps to maximize 
+asset global availability, avoid new manufacture, decrease 
+transportation needs, and reduce maintenance requirements.
+Refurbish and Remanufacture 
+The TLM function has a network of repair experts, engineers 
+and third-party experts, as well as a defined qualification 
+processes to repair and recover components that historically 
+were disposed of.
+Why it matters: 
+TLM continually optimizes maintenance programs to minimize 
+wasteful servicing of assets. However, due to the nature of the 
+demands on our technology, when assets are disassembled to 
+component level, some parts will be required to be replaced. 
+Historically, these components were disposed of and replaced 
+with new ones. Through our repair network, techniques to 
+fully recover components to as-new condition have been 
+developed. This program greatly improves our circularity 
+capabilities for both mechanical and electrical components.
+SLB CIRCULARITY LOOP
+We continue to review our approach  
+to enabling circularity
+Learn more here.
+Finite materials
+Minimize Systematic 
+Leakage
+Suppliers
+SLB technology 
+centers and 
+manufacturing
+TLM maintenance 
+network
+SLB Operations
+20% + 
+life extension of more than 20% of collars 
+saving ~150,000 metric tons of CO2e 
+>360 
+qualified repairs to extend consumables’ life, 
+saving >85,000 metric tons of CO2e
+275 
+electronic parts refurbished saving 
+~500 metric tons of CO2e 
+265 
+metric tons of material recycled into new bits, 
+saving ~80 metric tons of CO2e
+WELL CONSTRUCTION NETWORK HIGHLIGHTS
+Maintain and 
+prolong
+Reuse and 
+redistribute
+Refurbish and 
+remanufacture
+Recycle
+Recycle 
+In collaboration with our Procurement and Supply Chain 
+(P&SC) team, TLM works with global experts and local suppliers 
+to identify economically viable recycling opportunities for 
+components or tools that are no longer usable.
+Why it matters:
+Inevitably, there is an end of useful life of all components and 
+tools used in our operations. By working with local recycling 
+facilities, we can reclaim scrap that can be re-used for 
+other applications. Working with local facilities also reduces 
+transportation needs.
+At our Houston technology center, under P&SC leadership, 
+drilling bits that have reached their end of life are recycled. 
+Most bits are made of tungsten-carbide matrix material that 
+can be pulverized, decontaminated, and returned to make new 
+bits. In 2022, the center doubled its year-over-year volume of 
+material sent for recycling, and is using up to 70% of reclaimed 
+powder to make new bits. 
+P39
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+We have embedded the management of 
+sustainability risks and opportunities at all 
+levels of our company, including robust 
+and effective Board oversight. 
+Sustainability
+Governance
+SLB’s executive management team is responsible for the 
+development and implementation of our sustainability 
+strategies and programs, with the oversight of our 
+Board of Directors (Board) and its committees. Our Chief 
+Strategy and Sustainability Officer (CSSO), a member of 
+our executive leadership team, ensures that sustainability 
+is at the core of our corporate strategy. The Vice 
+President of Sustainability, who reports to the CSSO, 
+is directly responsible for SLB’s social and environmental 
+sustainability and engages with SLB leadership, 
+employees, investors, and customers on sustainability 
+topics, including climate-related risks and opportunities. 
+Our line management is directly responsible for the 
+management and mitigation of the environmental impact 
+of our operations, with our environmental management 
+systems and standards being the responsibility of our 
+Vice President of HSE. 
+To support our sustainability governance processes, 
+we have identified sustainability champions for each 
+geography to define and develop our local sustainability 
+strategies. These champions are responsible for 
+planning and implementing their local annual 
+sustainability plans and net-zero road maps, and for 
+establishing accountability in delivering these plans. 
+They act as enablers—engaging with our local teams 
+to develop sustainability projects and better integrate 
+sustainability into operations. They are also responsible 
+for the Sustainability Impact Awards for their respective 
+geographies.
+Board Oversight of Sustainability
+The Board and its committees oversee the performance 
+and management of various environmental, social, 
+and other sustainability issues, including our energy 
+transition strategy, emissions reduction targets, climate 
+change, sustainability reporting, workforce health and 
+safety, human rights, diversity, equity and inclusion in our 
+workforce, and ethics and compliance. For example: 
+  The Board oversees SLB’s long- and short-term 
+strategy, including monitoring portfolio advancements 
+that focus on decarbonizing our Core businesses—
+such as our Transition Technologies and emissions 
+monitoring portfolios—as well as our SLB New Energy 
+investments in low-carbon and carbon-neutral energy 
+technologies. The Board oversees SLB’s roadmap to 
+reach its 2050 net zero commitment that is inclusive 
+of Scope 3 emissions and includes interim Scope 1, 2, 
+and 3 emissions reduction milestones.
+  The Board also oversees SLB’s enterprise risk 
+management process, as discussed under TCFD 
+Risk Management below, and reviews major risks 
+facing SLB, including geopolitical risks, acute and 
+chronic climate risks and energy transition risks. 
+  The Nominating and Governance Committee oversees 
+our sustainability programs, initiatives, and activities, 
+and receives regular updates from senior management 
+on the progress we are making towards a low-carbon 
+future. This committee also monitors and reviews 
+the effectiveness of SLB’s Ethics and Compliance 
+program, including our Code of Conduct and all 
+significant compliance allegations.
+  The New Energy and Innovation Committee provides 
+insights on the growth potential, maturity and viability 
+of SLB’s targeted New Energy business sectors, 
+and validates the sustainability impacts of growth 
+opportunities. 
+  The Board’s other committees oversee sustainability-
+related topics within their respective areas of 
+responsibility, such as the incorporation of 
+sustainability and diversity metrics into our short-term 
+incentive compensation programs (Compensation); 
+the conduct of sustainability-related reviews by our 
+internal audit team (Audit); operational risks such as 
+cybersecurity (Audit); the disclosure of ESG risks 
+(Audit and Nominating and Governance, jointly); and 
+the development of our sustainable finance strategy, 
+including financial instruments with rates linked to 
+climate commitments (Finance).
+Integrating Sustainability in 
+Management Compensation 
+All of our named executive officers had strategic 
+personal objectives related to sustainability, SLB 
+New Energy, or HSE performance goals. For details 
+about these objectives and a description of our 
+executive compensation program see the 2023 proxy 
+statement here.
+In addition, in 2022, key populations across SLB 
+management were assigned sustainability personal 
+objectives focused on reducing Scope 1 and 2 
+GHG emissions in our field operations and facilities, 
+customer avoided emissions, sustainability planning 
+and supplier disclosure. 
+Driving good governance through 
+accountability and oversight
+NOMINATING AND GOVERNANCE   
+COMMITTEE OF THE SCHLUMBERGER LIMITED  
+BOARD OF DIRECTORS
+Oversees SLB’s sustainability programs, initiatives and  
+activities including acute and chronic climate risks
+CHIEF STRATEGY AND   
+SUSTAINABILITY OFFICER
+Reporting to the CEO, is the owner  
+of our sustainability strategy
+VICE PRESIDENT   
+SUSTAINABILITY
+Develops, drives and operationalizes  
+the overall sustainability strategy
+SUSTAINABILITY TEAM
+BASINS
+HUMAN  
+RESOURCES,  
+FINANCE, LEGAL,  
+ETHICS   
+& COMPLIANCE,   
+HSE, PLANNING   
+& SUPPL Y CHAIN
+DIVISIONS &  
+TECHNOLOGY  
+TEAMS
+P40
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Ethics and 
+ Compliance
+Our Sustainability program is rooted in our 
+long-standing commitment to effective 
+corporate governance and business integrity.
+We also conduct audits to promote and monitor 
+compliance with these requirements. Finally, we support 
+responsible sourcing of materials from suppliers that 
+share our values, as discussed below under Responsible 
+Supply Chain.
+We use a risk-based approach to process agents and 
+suppliers through compliance due diligence using the 
+Dow Jones’ Risk Center Third Party Platform, both before 
+they can be approved for use and through continuous 
+monitoring. 
+Allegations and Grievance Reporting
+SLB maintains a robust allegation and incident review 
+program, which supports independent review of 
+grievances, as outlined in our Code of Conduct and 
+our Human Rights Position Statement. 
+Our allegations program, as outlined in our Allegation 
+Reporting and Management Standard, sets out our 
+detailed grievance response procedures, including 
+assessment, investigation and remediation requirements, 
+as well as a clear prohibition on retaliation. 
+Fair and Open Business Practices  
+Represent Who We Are
+As we work together with our partners and stakeholders 
+to deliver extraordinary results for a sustainable future, 
+we will always put ethics, compliance, safety, security, and 
+humanity at the heart of everything we do. Our reputation 
+for integrity and fair dealing is vitally important in winning 
+and retaining the trust of our stakeholders. When we are 
+clearly seen to behave in an ethical manner, we enhance 
+our reputation for integrity, which helps us attract and 
+retain customers, employees and investors.
+Through SLB’s Ethics and Compliance (E&C) program, 
+we maintain zero tolerance for corruption of any kind, and 
+expect the same from our contractors, suppliers, partners, 
+and agents. We require that they comply with the laws of 
+the countries in which they operate and that they act in a 
+socially responsible and ethical manner consistent with 
+our Code of Conduct and our anticorruption policies. 
+All suppliers, contractors, partners, and agents must be 
+approved and managed in accordance with internal 
+requirements, including through denied party screening. 
+Reports of ethics and compliance-related allegations 
+are sent to the E&C Department, who then alerts the 
+relevant function’s management. In 2022, we added a 
+new category in our allegations classification system to 
+report and clearly identify “Human Rights” allegations.
+Any employee who deviates from our Code of Conduct, 
+company requirements or applicable law, could be 
+subject to discipline. We have adopted a Progressive 
+Accountability Guideline as a fair and consistent system 
+for assessing disciplinary actions for individuals who 
+violate the rules.
+As of December 31, 2022, the annual E&C training 
+completion rate for managers was 94% and 93% for 
+non-managers (including applicable contractors). 
+Professionalism and Respect  
+in the Workplace Initiative
+In 2022, we launched a company-wide refresh of our 
+Professionalism and Respect in the Workplace training. 
+We enhanced the training by adding new leadership 
+messages illustrating the importance of casting the right 
+shadow, additional practical scenarios to combat the 
+wrong behaviors in the workplace, and translations into 
+additional languages.
+This investment in such a wide scale campaign illustrates 
+our firm stand: we believe that a culture of diversity and 
+inclusion is not just the right thing to do—it is a business 
+imperative. 
+67%
+of these online through EthicsLine
+17%
+internally through our QUEST 
+reporting system 
+8%
+through the externally hosted 
+EthicsLine telephone line 
+8%
+via other reporting methods
+In 2022, we received 
+a total of 866 E&C reports
+Basin Field Conduct Groups in several 
+locations ensure a regional focus on 
+compliance matters at the field operations 
+level and provide effective support for the 
+implementation of the E&C program.
+See here for additional information  
+and our policies
+2022 Trainings
+96% 
+completion rate for updated 
+Professionalism and Respect 
+in the Workplace training
+94% 
+completion rate for annual 
+E&C training (managers)
+93% 
+completion rate for annual E&C 
+training (non-managers and 
+applicable contractors)
+P41
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Stakeholder 
+ Engagement
+By acting now and acting collaboratively,  
+we can all create a better future.
+COP 27
+The SLB executive team attended COP 27 to discuss 
+and help plan a global response to the global climate 
+emergency. CEO Olivier Le Peuch joined government 
+officials, the Oil & Gas Climate Initiative Executive 
+Committee, and Technip Energies on the panel 
+“From Commitments to Action: The Oil & Gas Industry’s 
+Decarbonization Journey” on Decarbonization Day.
+Stakeholder engagement is critical to supporting 
+our sustainability strategy. By actively listening to 
+stakeholder feedback, we gain valuable insight 
+that helps us manage sustainability risks, align our 
+business processes with local and national priorities, 
+needs and expectations, identify new business 
+opportunities, maintain our social license to operate, 
+and increase the productivity of our workforce.
+Our commitment 
+to stakeholders
+SLB strives to maintain and grow 
+the trust and confidence of our 
+customers and shareholders 
+as well as all other stakeholders 
+affected by our operations. 
+When we clearly behave in an 
+ethical manner, we enhance our 
+reputation as a partner, employer, 
+and community member.
+Employees 
+One Young World Summit
+In 2022, four junior SLB engineers attended the 
+One Young World Summit in Glasgow which identifies, 
+promotes and connects the world’s most impactful 
+young leaders to try and create a better world, 
+with more responsible and effective leadership. 
+Eureka Sustainability Community
+Our Sustainability Community is an open forum  
+for our people to discuss, address, share ideas and 
+raise concerns related to environmental, social and 
+governance issues. Members provide content such  
+as webinars, podcasts, newsletters and infographics 
+to increase awareness, promote local action and share 
+success stories. It represents the employee grassroots 
+thinking on sustainability. The community doubled in 
+size in 2022 to approximately 2,500 members. 
+Engage to Excel
+We conduct an annual engagement survey worldwide to 
+measure workforce engagement, employee experience 
+and employee perception of our strategic initiatives we 
+implement in the organization. For 2022, the response 
+for whether or not the employee felt SLB was committed 
+to sustainability received a 75% positive rating. This 
+program acts as the cornerstone and principal element 
+of our “voice of employee” digital listening strategy. 
+Our 2022 survey had a 91% participation rate. This 
+participation remains high compared with an average 
+of 81% from the external benchmark. Our Engagement 
+Index improved from 67% in 2021 to 70% in 2022. 
+Through this positive result, SLB keeps progressing 
+toward our goal of becoming a top quartile engagement 
+company by 2025. 
+Since the feedback was shared with all employees in 
+the company in July, more than 10,000 action plans 
+have been created. Our teams are progressing with 
+implementation to improve employee experience and 
+increase engagement levels in 2023. 
+P42
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Stakeholder Engagement continued
+Volunteering 
+In 2022, we operationalized our first global volunteering 
+guidelines. Volunteering is a vehicle for sustainable 
+development and SLB employees have a variety of 
+personal and professional skills that they can share with 
+the communities where they work and live. The purpose 
+of our community volunteering program is to: 
+  engage employees by encouraging them to share their 
+skills and expertise with recognized organizations as a 
+means of making a positive social impact
+  support society and communities with their priorities, 
+related to the UN SDGs, in the context which SLB 
+operates in 
+  support communities that are impacted by disasters.
+In 2022, we captured more than 2,300 volunteering days 
+through our global time tracking tool. 
+Training in Sustainability
+Sustainability training pathways have been developed 
+and are accessible to all our employees through our 
+learning platform Degreed. In 2022, we launched 
+two major sustainability-focused training pathways: 
+Taking Climate Action and Transition Technologies. 
+In addition, SLB teams have embedded sustainability 
+online training requirements to their compulsory fixed 
+step learning program, ensuring we progressively upskill 
+our entire workforce. 
+During our 2022 Energy Transition week for employees, 
+our leadership team discussed our strategy for 
+decarbonization focused on our three engines of growth: 
+our Core, Digital, and New Energy businesses.
+In addition, in 2022, we brought together nearly 50 
+employees representing different functions from all 
+over the world in sustainability-focused workshops, 
+to discuss what sustainability means for SLB; help outline 
+our strategy for 2025 and 2030 for our key priorities; 
+understand how we can operationalize all aspects of 
+sustainability; and map our key enablers and accelerators, 
+as well as ways to measure performance. 
+ 
+Learn more here.
+“The Ipieca principles are an 
+important landmark for SLB and  
+the energy industry as we accelerate 
+action to drive sustainability impacts 
+and meaningfully contribute to both 
+the UN SDGs and the goals of the 
+Paris Agreement.
+ Respecting and operationalizing the Ipieca principles  
+is one way we bring our corporate purpose to life,  
+creating amazing technology that unlocks access  
+to energy for the benefit of all.” 
+ Mikki Corcoran, 
+ VP Sustainability
+Customers 
+Enhancing Customer Experiences
+In SLB, understanding our customers’ needs and 
+expectations while working for mutual value is 
+instrumental. We seek to create an outstanding 
+customer experience throughout the customer buying 
+journey to become their partner of choice. This is key in 
+differentiating ourselves from our competition. Part of 
+providing an outstanding customer experience is having 
+open and professional discussions with our customers 
+regarding our challenges. This helps our customers 
+recognize the value we are bringing and the decisions 
+we may need to make along the way.
+How do we measure performance for our customers?
+  SLB has a Corporate Management System that 
+encompasses both our Quality Management System 
+and HSE Management Systems
+  we have an Operations Integrity function that supports 
+the global performance measurement of quality related 
+to our key performance indicators
+  we use an internal system called QUEST to track 
+quality non-conformances, lost-time, action items, 
+and remedial work plans. 
+69.2 
+According to the latest report published 
+by The Wall Street Journal, SLB’s score 
+for customer satisfaction jumped 
+22.8 points to 69.2, registering the 
+largest increase among the companies 
+assessed by the Drucker Institute based 
+on the 2021-2022 data.
+ 
+Learn more here.
+Customer satisfaction score
+P43
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Stakeholder Engagement continued
+The event theme was “Connecting for a New Future”, 
+and many industry collaborations were announced at the 
+Forum. We saw the announcement of new collaboration 
+with Saudi Aramco on a sustainability platform, and 
+partnerships with Cognite and Sensia for a production 
+data platform and digital solutions. See our 2022 Annual 
+Report for additional information.
+We also saw launches of the Enterprise Data Solution for 
+subsurface, hosted on Microsoft Energy Data Services, 
+the Digital Platform Partner Program, Drilling Infinity Loop, 
+ProcessOps™ on Delfi™, Neuro™ autonomous solutions, 
+and Agile Reservoir Modeling, all while achieving a 
+Certified Carbon Neutral event. 
+Investors 
+2022 Investor Day
+On November 3, we held our first Investors Conference 
+under our new SLB brand name in New York City. This 
+was a unique opportunity to tell the investor community 
+our story as a global technology company focused on 
+driving energy innovation for a balanced planet.
+In his opening keynote speech, our CEO Olivier Le 
+Peuch presented the main theme of the conference, 
+centered on rising to a bold challenge: providing 
+reliable, accessible, and affordable energy while rapidly 
+decarbonizing for a sustainable future.
+2022
+University Interns 737
+Recruiting Job Applications 
+(approximate)
+~203,000
+Number of Countries  
+Recruited In
+87
+Number of Universities 
+Recruited At
+723
+UNIVERSITY NUMBERS
+Partnerships
+Solar Impulse Foundation 
+ 
+IN FOCUS
+IN FOCUS
+ Ipieca
+ UN Global Compact 
+ World 50 
+ USA’s National Petroleum Council (NPC) 
+Committee on GHG Emissions
+ Energy Workforce and Technology Council 
+ IOGP 
+ World Economic Forum 
+SLB has a longstanding commitment to sharing 
+best practices and our HSE technical expertise 
+through industry associations. We have active 
+relationships in numerous industry organizations, 
+through which we collaborate to make 
+improvements in our own operations, while also 
+moving the industry forward.
+Key Industry Associations 
+Bell Ringing at NYSE 
+In November, our CEO and executive leadership team 
+rang the bell at the New York Stock Exchange (NYSE) 
+to celebrate our 60th anniversary of listing on the NYSE, 
+as well as the launch of our new identify, strategy, and 
+culture. The bell ringing honored the powerful legacy 
+of our company while also focusing on our future and 
+our vision. 
+Universities 
+Our university engagement initiatives play a key role in 
+our recruiting and sustainability strategies. Through these 
+collaborations, we support education and research in 
+STEM subjects, and we attract talented diverse graduates 
+of local universities from the countries in which we work.
+Governments and Policymakers 
+Government and regulatory officials and other policy 
+makers seek out SLB experts for their knowledge of and 
+experience in many aspects of the oil and gas industry. 
+Although we are politically neutral and do not lobby, we 
+often provide technical support to regulatory officials 
+who are interested in gaining practical understanding 
+of the technologies and processes that can reduce 
+emissions and our industry’s carbon footprint. We have 
+a policy prohibiting lobbying; expenditures for lobbying 
+purposes in 2022 were zero. Additionally, we work with 
+various think tanks and nongovernmental organizations—
+some of which influence policy—to collaboratively drive 
+sustainability across our industry.
+Digital Forum
+The SLB Digital Forum 2022 attracted a record number 
+of participants—more than 1,250 people, representing 
+66 nationalities—our most comprehensive program to 
+date. We involved 22 partners and 14 plenary speakers, 
+including Microsoft Chairman and CEO Satya Nadella 
+and Saudi Aramco President and CEO Amin Nasser.
+The forum also included a five-track leadership program 
+featuring over 25 industry leaders, more than 160 
+technical presentations, and an immersive exhibition— 
+all of which made for a rich program of latest thinking, 
+insight, and technology for accessing energy and 
+accelerating sustainability goals.
+“Today, 50% of the energy produced globally 
+is wasted due to inefficiencies and outdated 
+technology. This goes to show that the quest for 
+efficiency is vital for all sectors! SLB understood 
+it better than other technology players in the 
+energy industry, making it a logical partner for 
+the Solar Impulse Foundation.” 
+  Bertrand Piccard, 
+ Chairman of the Solar Impulse Foundation
+P44
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+We work with our suppliers in a socially responsible 
+and ethical manner and are continuously seeking ways 
+to improve how we manage our business. Our focus 
+is effective planning, and procurement and delivery 
+of the right products and services to our operations. 
+Additionally, we leverage our expertise and scale to 
+promote sustainability with our suppliers and partners. 
+In support of our ambitions, actions for our Planning and 
+Supply Chain (P&SC) team are aligned with our corporate 
+sustainability priorities. We are committed to embedding 
+sustainability throughout our value chain, Scope 3 
+upstream decarbonization, enabling circularity and 
+positively impacting the communities in which we work 
+and live through DEI initiatives and respecting human 
+rights. We seek to develop and strengthen relationships 
+with suppliers who are committed to and act in 
+accordance with our Code of Conduct. 
+2022 was a year spent on building foundations and 
+setting the trajectory for our identified priorities:
+  Decarbonizing Supply Chain
+  Human Rights Assurance 
+  Supplier DEI
+Decarbonizing Supply Chain
+Our sustainable supply chain approach to climate action 
+is to record, reduce and replace: 
+  Recording credible data for Scope 3 upstream 
+emissions. 
+  Reduction actions are focusing on network 
+optimization, and adoption of energy efficiency 
+projects. 
+  Replacement actions include substitution with lower 
+carbon alternatives for products, energy sources, 
+and modes of transportation. 
+These three elements of our approach run in parallel 
+and are evident in our 2022 initiatives.
+2021 2022
+Number of suppliers engaged 496 1,240
+% of prior year’s spend represented 
+by suppliers engaged
+35% 50% 
+Total number of responding suppliers 215 893
+Percentage of total Scope 3 upstream 
+emissions covered by engaged suppliers 
+42% 58%
+SLB supplier response rate 43% 72%
+Average CDP supply chain member 
+response rate (as reported by CDP)
+67% 64%
+CDP SUPPL Y CHAIN
+ 
+“Every organization is part of a 
+complex and interconnected, 
+environmental, social, and 
+economic ecosystem. 
+ Now more than ever, it is imperative that we collaborate 
+with our suppliers and partners to balance the need for 
+energy with the needs of the planet.” 
+ Gwenola Boyault, 
+ VP Planning & Supply Chain
+ 
+Responsible 
+Supply Chain
+We recognize that an efficient and resilient 
+supply chain is essential to the success of our 
+business and a key contributor to the success 
+of our net zero ambitions. 
+CEO Olivier Le Peuch gives 
+the closing speech at SLB 
+Supplier Innovation Summit 
+P45
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Responsible supply chain continued
+CDP Supply Chain Program
+2022 was our second year as a CDP Supply Chain 
+program member. The program allows us to benchmark 
+the maturity of our suppliers in their sustainability 
+journey, giving insight into how we can leverage our 
+supply chain to achieve our Scope 3 targets. Worldwide, 
+SLB’s program has the third largest number of suppliers 
+requested to disclose in the CDP Supply Chain 
+program, and our target was to maintain a 70% minimum 
+response rate. 
+In addition to benchmarking supplier maturity levels 
+through CDP, we have adopted CDP methodology 
+to co-develop an internal framework to map supplier 
+maturity levels and assess these according to supplier 
+achievements and milestones, as shown in the chart at 
+the left. The majority of responding suppliers were at 
+Beginner or Beginner Plus levels in 2022; as a result we 
+are working with our suppliers to help them advance to 
+the next level of maturity through training and webinars 
+covering topics such as climate change reporting, action 
+strategy, and the risks and opportunities associated with 
+climate change. 
+We support our suppliers and build their capacity by 
+engaging them on climate action during our periodic 
+business reviews, and by providing additional trainings 
+and webinars covering topics such as emissions 
+calculation and reporting, and science-based targets.
+Decarbonizing Distribution
+In line with our decarbonization strategy to record, 
+reduce and replace, we are focused on understanding 
+our footprint and removing waste from the value chain 
+by optimizing distribution networks, while “sharing” 
+where feasible with our wider external network. 
+Distribution Strategy to Net Zero
+Following the Global Logistics Emissions Council’s 
+Framework, in 2022, we focused on refining our 
+calculations and defining baselines, primary logistics data 
+accuracy and reliability, and the impact from efforts to 
+improve our distribution value chain by utilizing shipment 
+consolidation, network optimization, electrification of 
+forklift fleet and low-carbon fuels.
+In 2022, we completed 14 projects resulting in 34,000 
+metric tons of CO2 emissions reduction and avoidance. 
+Most of these projects focused on distribution network 
+optimization. 
+FRAMEWORK TO MAP SLB SUPPLIER MATURITY LEVELS
+Calculate 
+and report 
+emissions
+Report 
+activities 
+to reduce 
+emissions
+Set an 
+emissions 
+reduction 
+target
+Collect upstream 
+emissions data 
+and engage with 
+suppliers
+Allocate 
+emissions 
+to SLB
+Set an SBT1.5 
+and/or Net Zero 
+target
+Report Life-
+cycle Analysis 
+data to SLB
+Verify 
+emissions 
+data through 
+a third party
+Set a 
+renewable 
+energy target
+Disclose to 
+CDP publicly 
+Set up climate 
+governance on 
+company boards
+Beginners Beginners plus Intermediate Advanced Advanced plus
+Suppliers 
+disclose 
+information 
+via CDP
+P46
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Responsible supply chain continued
+Supplier Innovation Program (SIP)
+In 2022, we held our inaugural SIP Summit in Houston, 
+Texas, bringing together more than 40 of SLB’s key 
+suppliers to discuss joint projects and innovative solutions 
+to drive improved performance for customers while 
+creating mutual value for SLB and our suppliers.
+Out of nearly 170 proposals coming out of the SIP, 23% 
+addressed our decarbonization efforts and presented 
+actionable solutions related to circularity, decarbonizing 
+logistics, and low-carbon products substitution. 
+Learn more here.
+Human Rights in Supply Chain 
+As an organization, we believe we have a leading role 
+to play in implementing sustainable practices for our 
+company and those within our sphere of influence. 
+To that end, we have chosen to lead the conversation 
+with our suppliers and partners on human rights.
+Human Rights Assurance
+In 2022, we created our supply chain Human Rights 
+Due Diligence Guideline and deployed it in various 
+geographies. The guideline was developed to assist 
+our procurement community help our suppliers 
+conduct self-assessments of their organizational 
+management systems to comply with our Working 
+Conditions Requirements. To facilitate the identification 
+and selection of suppliers with potential risks and 
+conduct due diligence, we have developed toolkits 
+including a dashboard, auditing questionnaires, scoring 
+methodologies and training materials for suppliers and 
+our internal procurement community. The results of the 
+assessments help us understand the gaps in suppliers’ 
+management systems and guide the creation of 
+remedial actions.
+In Brazil, our procurement team collaborated with local 
+suppliers to identify potential gaps and develop remedial 
+work plans. This enabled the closure of more than 84% 
+of the identified gaps.
+Since the launch of this program, more than 150 
+suppliers completed our introductory training on 
+labor rights, and over 350 self-assessments were 
+performed by suppliers.
+In 2023, we aim to extend this program to other 
+geographies, further refining our remedial work with 
+suppliers and embedding human rights as a criteria in 
+our source-to-contract procurement process, and to 
+continue educating our procurement community and 
+suppliers on this topic.
+Supplier DEI
+Recognizing supplier profiles and capabilities may vary 
+based on geographical locations, our supplier diversity 
+strategy is localized but benchmarked against global 
+supplier diversity practices. 
+In 2022, we collaborated with a third party to develop 
+a data- and insight-driven understanding into what 
+supplier diversity looks like for SLB around the globe 
+and benchmark best-in-class supplier diversity 
+programs. Findings of the study will also be used to 
+understand how best to expand our efforts, beyond the 
+three countries where we have currently implemented 
+supplier diversity programs. 
+As part of our under-represented supplier procurement 
+strategies in the US, we focused on data transparency 
+using a supplier diversity performance dashboard 
+to provide an overview of all spend with under-
+represented suppliers and produce customer reports, 
+with all data validated by Supplier IO. We also look to 
+increase engagement with potential suppliers, including 
+sponsoring the Houston Minority Supplier Development 
+Council EXPO event. 
+As a result of our efforts, in 2022, we increased spend 
+with historically under-represented suppliers by 37% 
+year on year, representing almost 10% of our total spend 
+in the United States. 
+SLB is a member of the Canadian Council for Aboriginal 
+Business (CCAB) and, in 2022, we completed the second 
+of three phases towards achieving bronze level in their 
+Progressive Aboriginal Relations (PAR) certification 
+program. As part of our Indigenous procurement 
+strategy, our main focus in 2022 was identifying 
+potential Indigenous-owned suppliers for future contract 
+opportunities and inclusion to our overall supplier base. 
+As a result of these efforts, we onboarded two critical 
+Indigenous-owned suppliers, a freight forwarder, and a 
+field equipment and services provider, which increased 
+our Indigenous spend by 76% year on year. 
+SLB’s work in Australia with verified Indigenous business 
+is underpinned by our new INNOVATE Reconciliation 
+Action Plan (RAP) 2022-24, which provides a structured 
+approach to strengthening relationships between 
+Aboriginal and Torres Strait Islander peoples and 
+non-Indigenous peoples, for the benefit of all Australians.
+In 2022, we drafted our Indigenous Procurement 
+Policy describing SLB’s commitment to actively work 
+to increase annual addressable local spend with 
+Indigenous businesses.
+Developing and implementing indigenous procurement 
+strategies, we provided cultural awareness training to 
+more than 1,300 employees in Australia, introduced 
+favorable payment terms for targeted suppliers, 
+collaborated with state resource councils to engage 
+with indigenous suppliers and increased spend by 
+300% year on year.
+In 2022, we partnered with a third party to conduct a 
+benchmarking study for 30 countries where we operate. 
+The primary and secondary data research helped 
+us understand the diversity and equity gaps in these 
+countries, the definition of DEI in local context, global best 
+practices and SLB market prioritization. We will use this as 
+a basis to deploy the program in additional geographies 
+in 2023.
+Capacity Building 
+We believe that learning and development is fundamental 
+to accelerating a more sustainable future. In 2022, 
+we accelerated our training program for supply chain 
+employees with a dual approach, seeking to enhance the 
+competencies focused on systems thinking, sustainable 
+supply chain and circular economy of our teams as 
+well as build capacity within our extended supply 
+chain ecosystem. 
+In 2022, over 200 leaders from supply chain were 
+trained. Going forward, our ambition is for 70% of our 
+supply chain leaders to complete circular economy and 
+sustainability introductory training modules by the end 
+of 2023.
+ 
+IN FOCUS
+This is an example of how network optimization 
+creates business value and emissions reduction 
+opportunity. The project involved identification 
+of a new supplier in a location closer to the 
+point of delivery to reduce the burden of 
+distribution and optimize cost. Changing how 
+we purchase (Local/Regional/Global) and 
+distribute products resulted in 20,000 metric 
+tons of CO2 emissions abatement, helped 
+build supply chain resiliency through supplier 
+diversification, and mitigated inflation.
+Decarbonization  
+through Network  
+Optimization 
+P47
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Health, Safety,  
+ and Environment
+In 2022, we recorded our lowest number of 
+injuries. But we still have work to do; our goal  
+in 2023 is fatality-free operations worldwide. 
+Our HSE Management System defines the principles 
+by which we conduct our operations worldwide, and 
+our management team applies rigorous policies and 
+standards throughout the company. Nothing is more 
+important to us than ensuring that our employees, 
+contractors, and customers get home safely to their 
+families at the end of each day. 
+We need our people to understand the importance 
+of HSE and be aware of the potential risks. We run 
+ongoing internal engagement campaigns throughout 
+the year. Our communication campaigns target multiple 
+populations including contractors, using tailored 
+channels. We also collaborate with the SLB Spouses 
+Association and with communities via our HSE for 
+Youth program.
+In 2022, we recorded more than 
+5.4 million HSE training hours, 
+averaging over 44 HSE training 
+hours per person through over 
+13,000 different HSE certifications 
+or courses.
+Find out more here. 
+HSE Indicator Measurement Objective 1
+Total Recordable Incident 
+Frequency Rate (TRIF) per 
+million work hours (internal)2
+We annually set company-wide and geographic-specific TRIF objectives 
+as percentage improvement compared with prior year’s performance
+Maintain TRIF at 2021 level
+ACHIEVED
+Automotive Accident Rate 
+per million miles (AARm) 
+(internal)2 (employees and 
+applicable contractors)3
+We annually set company-wide and geographic-specific AARm objectives 
+as percentage improvement compared with prior year’s performance
+22% reduction in 
+Automotive Incidents
+ACHIEVED
+Overall Training Coefficient 
+(employees and applicable 
+contractors)
+We annually set company-wide and geographic-specific objectives 
+for compliance with required HSE training programs
+Compliance level  
+exceeding 95% overall
+ACHIEVED
+Risk Identification Report 
+Rate (RIR) (employees and 
+applicable contractors)
+We annually set company-wide and geographic-specific objectives 
+to increase our risk identification reporting rate
+More than 55 RIRs 
+per person
+ACHIEVED
+Internal compliance audits In 2022, we set company-wide and geographic-specific objectives 
+to have a 95% compliance rate to 8 HSE key risk standards audits
+99% compliance 
+for internal audits
+ACHIEVED
+1 Reflects only company-wide objectives and achievement levels. Geographic- and business line-specific objectives and achievement levels are not reflected.
+2  Internal TRIF and AARm metrics reflect all SLB-involved incidents or accidents, as applicable, including incidents that are not required to be recorded by IOGP or OSHA 
+(such as incidents occurring during off-duty hours). As a result, these internal performance metrics do not match our industry-recognized TRIF and AARm figures in the 
+performance data table. 
+3  “Applicable contractors” refers to those contractors whose performance was included in our global HSE business system as of December 31, 2022. These contractors 
+are to some degree under SLB’s operational control, and so are included in our safety metrics in accordance with IOGP best practices relating to contractor management 
+(Mode 1 and Mode 2 contractors, as defined in IOGP Report 423).
+# Students # Classes
+NEST (New Employee Safety Training) 16,223 1,381
+Facilitator Level 2 354 78
+HSE Level 2 1,905 242
+HSE Level 3 451 53
+HSE-Event Investigation Level 2 70 22
+HSE-Auditing Level 2 201 46
+First Aid Level 2 4,190 352
+# Students # Classes
+CPR (Cardiopulmonary Resuscitation) 1,419 264
+Driving Training 14,089 1,386
+Overhead Crane Operator 6,306 1,028
+Onshore Mobile Crane Supervisor 
+Level 2 
+1,170 252
+Forklift Operations Level 2 3,433 313
+Banksman Slingers 5,338 341
+FACILITATED HSE CLASSES (EXCLUDING ONLINE TRAINING)
+2022 HSE PERFORMANCE OBJECTIVES
+ 
+45%
+Improvement
+SAFETY
+0
+1.5
+1.0
+0.5
+FY22 0.59
+FY20 0.71
+FY19 1.07
+FY21 0.75
+TRIF (Total Recordable Injury 
+Frequency) per 1 million work-
+hours, as per International 
+Association of Oil & Gas 
+Producers (IOGP)
+P48
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Health, Safety, and Environment continued
+Operations Integrity and Safety 
+Our operations integrity teams spearhead our 
+commitment to providing safe, reliable and efficient 
+operations to our customers. We ensure operational 
+integrity and drive performance so that we can 
+consistently deliver superior services and products. 
+Product safety and services are key to our success and 
+supports SLB’s sustainability commitment to protect 
+our people, our communities, and the environment, 
+and to deliver high-quality technology, performance 
+and services to our customers.
+Key 2022  
+Safety Awards
+Ranked by Network of Employers 
+for Traffic Safety as one of  
+the three companies with the 
+lowest 
+number of 
+automotive 
+collisions 
+per million miles
+Recognized by Colombia  
+Safety Council for 
+High 
+Performance 
+in HSE
+Awarded the 
+Silver Award 
+at the Shell Malaysia 
+Safety Awards
+Technology Development and 
+Delivery Center in Celle, Germany 
+awarded the Shell 
+“Goal zero 
+Hero” award 
+Chemical Management and Product Stewardship 
+SLB has a chemical management process in place to 
+manage the risks associated with chemicals used in 
+our activities, products, and services, to protect SLB 
+employees, customers, contractors, suppliers, and 
+property, as well as the environment. 
+Learn more here.
+STEWARDSHIP   
+IN A PRODUCT’S   
+LIFECYCLE
+END OF LIFE   
+CIRCULARITY
+PRODUCT   
+SAFETY
+HAZARD   
+COMMUNICATION
+SUSTAINABLE   
+MANUFACTURING
+GREEN   
+CHEMISTRY
+RESPONSIBLE   
+SOURCING
+Mental Health and Wellbeing 
+We are industry leaders because of our exceptional 
+and talented people, so we need our employees and 
+their families to feel healthy and supported in and out 
+of the workplace.
+In 2022, we launched the Live Well Program as part of 
+our comprehensive health strategy to deliver holistic 
+health and wellbeing initiatives. The key components are 
+focused on preventive care incorporating mental health 
+and emotional wellbeing. On average, over 99,000 
+people completed six modules of mental health training 
+in 2022.
+The Live Well vision is for SLB to have the healthiest 
+and happiest employees in our industry.
+Our Unlock Your Power program provides employees 
+with tools and strategies to develop self-awareness 
+and resilience to stress. This evidence-based training 
+combines neuroscience, attention training, and emotional 
+intelligence, together with practical tools that can be 
+applied immediately at home or work. 
+Development of emotional intelligence competencies 
+aligns with SLB values. In 2022, ten additional trainers 
+were certified.
+P49
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Data Privacy  
+ and Cyber Security
+Our success as a global technology company depends 
+on our ability to provide effective data security protection 
+in connection with our digital technologies and services. 
+We rely on information technology networks and systems 
+for internal purposes, including secure data storage, 
+processing and transmission, as well as in our interactions 
+with our business associates, such as customers and 
+suppliers. We also develop software and other digital 
+products and services that store, retrieve, manipulate, and 
+manage our customers’ information and data, external 
+data, personal data, and our own data. For additional 
+information view our Privacy Statement and Data Privacy 
+and Cyber Security. 
+Cyber partners are key in our cyber strategy, so we partner 
+with leading cyber security companies and organizations, 
+leveraging best-in-class technology and expertise. We rely 
+on them to keep the products and services we consume 
+and utilize, as part of our digital offerings or company cyber 
+protection, at the highest capability level and continuously 
+updated as cyber threats evolve. We have members of our 
+cyber team sitting on numerous cyber vendor advisory 
+boards and involved in multiple design partnerships as 
+consulting advisors. We utilize multiple cyber intelligence 
+partners and participate in cyber intelligence sharing 
+memberships including the Oil and Natural Gas Information 
+Sharing and Analysis Center (ONG-ISAC), where we have 
+participated at its board level since its inception in 2014. 
+We utilize a third-party cyber risk program to assess and 
+monitor our key suppliers as well as qualify new suppliers 
+to ensure a minimum cyber status is reached. 
+We have a mature Cyber Risk Management program 
+to document and manage identified cyber risks, which 
+we do within our Integrated risk management system. 
+This gives us visibility across both our corporate IT 
+environment and our customer-facing products and 
+allows us to focus and mitigate risks that have the highest 
+exposure for the company. The program is aligned to 
+and provides cyber risks roll-up for our company-wide 
+enterprise risk management program.
+Training
+All employees receive cybersecurity training based on 
+their exposure and function. This starts with all employees 
+and applicable contractors (who have a corporate 
+IT Identity) receiving annual general cyber awareness 
+training and certification. Everyone also participates 
+in a global phishing awareness program with quarterly 
+exercises, as well as frequent ad hoc exercises for the 
+lowest performing phishing awareness populations. 
+In addition, we are focused on ensuring our cyber team 
+is well trained so they can respond to the latest cyber 
+threats and attack techniques. We regularly conduct 
+both internal and external cyber training, including 
+to obtain certifications from external organizations 
+such as GIAC, ISACA, Information System Security 
+Certification Consortium (ISC)2 and International 
+Council of E-Commerce Consultants (EC-Council). 
+This is further supplemented by vendor-specific training 
+and certifications, also attendance and presentations 
+at technical and vendor conferences.
+INTEGRATED RISK MANAGEMENT
+SLB CYBER PERFORMANCE
+Integrated, enterprise aligned and 
+compliant with standard frameworks
+SLB Cyber Security Integrated Risk Management Platform
+Peer Group – Similar size, Energy Industry companies
+Security 
+operations
+Supplier 
+management
+Audit
+Incident 
+management
+Compliance
+Business 
+continuity 
+planning
+IRM CYBER  
+SECURITY RISK  
+MANAGEMENT
+KEY TRAINING METRICS
+Metric T arget Completion Rate
+Training – Annual Cyber Security 
+Certification
+>95% 97%
+Training – Data Privacy & Protection >90% 94%
+Training – Software Compliance >90% 90%
+Drill-IT – Cyber Security Incident 
+Response Drills
+>150 349
+Top 10% 
+In the Top 10% in external ratings for Cyber Security  
+performance within the Energy Industry – increasing  
+our ratings by over 28% since 2015
+With our trusted third-party advisors, 
+as part of our continuous cyber policy 
+review and update, we have rewritten 26 
+cyber security program standards to align 
+with the National Institute of Standards 
+and Technology (NIST) Cybersecurity 
+Framework.
+SLB-Private
+1%
+0% 0%
+1% 1% 1%
+3%
+5% 5%
+8%
+11%
+14%
+18%
+17%
+7%
+5%
+3%
+0%
+0%
+2%
+4%
+6%
+8%
+1 0%
+1 2%
+1 4%
+1 6%
+1 8%
+2 0%% of Peer Group in Rating Range
+Security Ratings Range
+Peer Group Distribution over Rating Ranges
+SSLLBB
+Peer Group = Similar size, Energy Industry companies
+SLB Cyber Performance
+Cyber Security
+Risk Management
+Integrated Risk Management
+Integrated, Enterprise Aligned and Compliant with standard frameworks
+SLB Cyber Security Integrated Risk Management Platform 
+P50
+Back/Forward
+SLB  
+2022 Sustainability Report
+
+Sustainability Accounting Standards Board (SASB) Index
+Corporate Governance Environmental
+Topic Accounting Metric Code
+Information 
+Location
+Business Ethics  
+& Payments 
+Transparency
+Amount of net revenue 
+in countries that have 
+the 20 lowest rankings 
+in Transparency 
+International’s Corruption 
+Perception Index
+EM-SV-510a.1 <5% of our 
+consolidated 
+2022 
+revenue
+Description of the 
+management system for 
+prevention of corruption 
+and bribery throughout 
+the value chain
+EM-SV-510a.2 Page 41 and 
+see slb.com
+Management 
+of the Legal  
+& Regulatory  
+Environment
+Discussion of corporate 
+positions related to 
+government regulations 
+and/or policy proposals 
+that address environmental 
+and social factors affecting 
+the industry
+EM-SV-530a.1 Pages 40-
+41, TCFD 
+report, and 
+our CDP 
+response
+Critical Incident  
+Risk Management
+Description of 
+management systems used 
+to identify and mitigate 
+catastrophic and  
+tail-end risks
+EM-SV-540a.1 Pages 35-
+38, TCFD 
+report, and 
+our CDP 
+response
+Topic Accounting Metric Code
+Information 
+Location
+Emissions 
+Reduction 
+Services & Fuels 
+Management
+Total fuel consumed, 
+percentage renewable, 
+percentage used in:  
+(1) on-road equipment 
+and vehicles and  
+(2) off-road equipment
+EM-SV-110.a.1 Page 54 
+and our CDP 
+response
+Discussion of strategy 
+or plans to address air 
+emissions-related risks, 
+opportunities, and impacts
+EM-SV-110.a.2 Pages 11 -22, 
+TCFD report, 
+and our CDP 
+response
+Percentage of engines in 
+service that meet Tier 4 
+compliance for non-road 
+diesel engine emissions
+EM-SV-110.a.3 Not Reported
+Water Management 
+Services
+(1) Total volume of 
+fresh water handled 
+in operations, 
+(2) percentage recycled
+EM-SV-140a.1 Page 55
+Discussion of strategy  
+or plans to address  
+water consumption and 
+disposal-related risks, 
+opportunities, and impacts
+EM-SV-140a.2 Pages 36-37
+Topic Accounting Metric Code
+Information 
+Location
+Chemicals 
+Management
+Volume of hydraulic 
+fracturing fluid used, 
+percentage hazardous
+EM-SV-150a.1 Page 55
+Discussion of strategy 
+or plans to address 
+chemical-related risks, 
+opportunities, and impacts
+EM-SV-150a.2 Page 49 and 
+see slb.com
+Ecological Impact 
+Management
+Average disturbed  
+acreage per (1) oil  
+and (2) gas well site
+EM-SV-160a.1 Not Reported
+Discussion of strategy  
+or plan to address risks 
+and opportunities related  
+to ecological impacts 
+from core activities
+EM-SV-160a.2 Pages 36-37
+P51
+SLB  
+2022 Sustainability Report
+Back/Forward
+
+Social Activity Metric
+Topic Accounting Metric Code
+Information 
+Location
+Workforce Health 
+and Safety
+(1) Total recordable 
+incident rate (TRIR), (2) 
+fatality rate, (3) near miss 
+frequency rate (NMFR), (4) 
+total vehicle incident rate 
+(TVIR), and (5) average 
+hours of health, safety, 
+and emergency response 
+training for (a) full-time 
+employees, (b) contract 
+employees, and (c) short-
+service employees
+EM-SV-320a.1 Pages 48-49, 
+55, and see 
+slb.com
+Description of 
+management systems used 
+to integrate a culture of 
+safety throughout the value 
+chain and project lifestyle
+EM-SV-320a.2 Pages 48-49 
+and see  
+slb.com
+Topic Accounting Metric Code
+Information 
+Location
+Number of active 
+rig sites
+EM-SV-000.A Not Reported
+Number of active 
+well sites
+EM-SV-000.B Not Reported
+Total amount of 
+drilling performed
+EM-SV-000.C Not Reported
+Total number of 
+hours worked by 
+all employees
+EM-SV-000.D Page 55
+Sustainability Accounting Standards Board (SASB) Index continued
+P52
+SLB  
+2022 Sustainability Report
+Back/Forward
+
+Alignment to the 
+United Nations 
+Global Sustainable 
+Development Goals
+Middle East and North Africa
+ 
+Primary Basin
+Local level
+Americas Land
+Primary Basin
+Local level
+Offshore Atlantic 
+Primary Basin
+Local level
+Asia 
+ 
+Primary Basin
+Local level
+Basin priority SDGs
+Corporate priority SDGs
+Sustainability is woven into our corporate strategy 
+and is operationalized across our business and 
+in the host countries and communities where we 
+work and live. We empower local teams to drive 
+positive change where we operate and create 
+business value. 
+Our sustainability strategy is aligned with the UN 
+SDGs and we design and select our sustainability 
+projects that have the highest potential impact. At 
+the corporate level we are focused on five goals:
+Our Sustainability Impact Awards have been 
+focused on our corporate priority SDGs, with 48% 
+assigned to climate action and affordable and clean 
+energy projects, and 21% assigned to water-related 
+projects, which is a 19% increase year on year. 
+In addition, we realize that sustainability needs 
+are diverse across our geographies. As a result, 
+in 2022, we have prioritized basin SDGs that help 
+us align investment and resources with regional and 
+local priorities.
+P53
+SLB  
+2022 Sustainability Report
+Back/Forward
+
+2022 Performance Data
+We commissioned an external third party to perform 
+attest procedures with respect to certain greenhouse gas 
+emissions, health and safety, and site activity metrics for 
+the year ended December 31, 2022 and certain water 
+and waste metrics for the period from October 1, 2021 
+to September 30, 2022.
+Full details and data methodology are available here.
+Metric Units 2019 2020 2021 2022
+Revenue
+Revenue millions of US dollars 32,917 23,601 22,929 28,091
+Climate Action
+Emissions
+CO2e Emitted1
+Scope 1 thousands of metric tons 1,668 1,424 1,369 1,483
+Scope 2 – Market Based thousands of metric tons 650 527 375 312
+Scopes 1 and 2 thousands of metric tons 2,318 1,951 1 ,744 1,795
+Scope 3 thousands of metric tons 44,384 30,137 27,375 34,849
+Total Emissions (Scopes 1, 2 and 3) thousands of metric tons 46,703 32,088 29,118 36,644
+Scope 3 Categories:
+Category 1: Purchased goods and services thousands of metric tons of CO2e 6,280 4,582 4,622 6 ,747
+Category 2: Capital goods thousands of metric tons of CO2e 105 68 61 94
+Category 3: Fuel-and-energy-related activities  
+(not included in Scopes 1 or 2)
+thousands of metric tons of CO2e 66 40 49 90
+Category 4: Upstream transportation and distribution thousands of metric tons of CO2e 603 351 499 928
+Category 5: Waste generated in operations thousands of metric tons of CO2e 129 120 50 65
+Category 6: Business travel thousands of metric tons of CO2e 165 54 68 123
+Category 7: Employee commuting thousands of metric tons of CO2e 100 50 50 58
+Category 8: Upstream leased assets thousands of metric tons of CO2e 1,056 841 525 743
+Category 9: Downstream transportation 
+and distribution
+thousands of metric tons of CO2e 2 1 1 1
+Category 10: Processing of sold products thousands of metric tons of CO2e Not relevant Not relevant Not relevant Not relevant
+Category 11: Use of sold products thousands of metric tons of CO2e 28,385 17,457 16,632 19,825
+Category 12: End-of-life treatment of sold products thousands of metric tons of CO2e 640 333 191 122
+Category 13: Downstream leased assets thousands of metric tons of CO2e 3,435 2,937 3,005 3,505
+Category 14: Franchises thousands of metric tons of CO2e Not relevant Not relevant Not relevant Not relevant
+Category 15: Investments thousands of metric tons of CO2e 3,419 3,304 1,622 2,549
+      
+Emissions Intensity
+GHG Emissions Intensity – Scopes 1 and 2 metric tons of CO2e per thousand 
+US dollars of revenue
+0.070 0.083 0.076 0.064
+GHG Emissions Intensity – Scope 3 metric tons of CO2e per thousand 
+US dollars of revenue
+1.348 1.277 1.194 1.241
+Total GHG Emissions Intensity – Scopes 1, 2 and 3 metric tons of CO2e per thousand 
+US dollars of revenue
+1.419 1.360 1.270 1.304
+2022 assured data includes:
+Environmental
+  Spills
+  Water
+  Waste
+Emissions
+  Scope 1 and 2 from  
+SLB facilities
+  Scope 1 and 2 from energy 
+consumed by SLB equipment 
+during service delivery in the field
+  Scope 3 use of sold products
+  Scope 3 purchased goods 
+and services
+Health and Safety
+  Employee and contractor LTIFR
+  LTIR (frequency) (OIFR)
+  Fatalities
+P54
+SLB  
+2022 Sustainability Report
+Back/Forward
+
+Metric Units  2020 2021 2022
+Health and safety
+% of Company's Health & Safety System  
+Certified to OHSAS 18001 or ISO 45001
+percentage  1 1 1
+Employees trained on HAZWOPER during year approximate number of employees  3,000 4,000 7, 30 0
+Fatalities: Employee —  1 2 1
+Fatalities: Contractor —  2 3 2
+Fatalities: Company Total —  3 5 3
+Fatalities: Third Party —  3 0 3
+Fatalities: Fatal Accident Rate per 100 million work hours  0.95 1.72 0.90
+Automotive Accident Rate (Employees + Contractors) per million miles  0.23 0.21 0.22
+% data coverage as % of employee work hours 
+for injury and illness
+percentage  100 100 100
+% data coverage as % of contractor work hours 
+for injury and illness
+percentage  100 100 100
+Total Hours Worked: Employees —  230,078,830 230,271,210 227, 669, 940
+Total Recordable Incidents: 
+Workforce (Employees + Contractors)
+—  232 219 197
+Total Recordable Incident Rate (Frequency)5 
+Workforce (Employees + Contractors)
+per million work hours  0.73 0.75 0.59
+Total Recordable Incident Rate (Frequency)5 
+Employees
+per million work hours  0.73 0.75 0.59
+Lost Time Incident Rate (Frequency)5 
+Workforce (Employees + Contractors)
+per million work hours  0.37 0.45 0.32
+Total Recordable Injury Rate (Frequency)5 
+Workforce (Employees + Contractors)
+per million work hours  0.71 0.75 0.59
+Lost Time Injury Rate (Frequency) (LTIFR): 
+Employees
+per million work hours  0.36 0.42 0.33
+Lost Time Injury Rate (Frequency) (LTIFR): 
+Contractors
+per million work hours  0.37 0.52 0.30
+Lost Time Injury Events (Lost Work Day 
+Cases + Fatalities): Employees
+number of events  83 87 74
+Lost Time Illness Rate (Frequency) (OIFR)5: 
+Employees
+per million work hours  0.013 — 0.009
+Metric Units 2020 2021 2022
+Energy and fuels
+Total Energy Consumption thousands of MWh  7, 547 7,194 7, 240
+Purchased Energy  
+(Electricity Use, Hot Water, Chilled Water)
+thousands of MWh  1,119 1,081 939
+Fuel Used – Natural Gas thousands of MWh  3,026 2,677 1,791
+Fuel Used – Oil and Diesel thousands of MWh  3,401 3,435 4,510
+      
+Nature
+Water
+Water Use thousands of cubic meters  4,651 3,625 3,604
+Total Water Recycled thousands of cubic meters  187 186 167
+% Water Recycled2 percentage  38 42 43
+Total Waste Water thousands of cubic meters  487 443 383
+Waste3
+Total Waste Generated thousands of metric tons  140 110 109
+Total Waste Recycled thousands of metric tons  31 28 39
+Site activity
+ISO 14001 Certified Sites number of sites  62 73 73
+Volume of Hydraulic Fracturing Fluid Used3 thousands of cubic meters  40,438 7, 397 102
+Number of Industry-Recognized Incidents >1 bbl of Oil —  26 15 5
+Hydrocarbon Bulk Fluids Spilled4 number of barrels  353 3,670 102
+Sites Subject to Environmental Audit Requirement number of sites  609 545 540
+ percentage  10 13 14
+People
+Community
+Corporate Giving: In-Kind Commercial Initiatives approximate number of  
+software licenses donated
+72,000 68,000 62,000
+2022 Performance Data continued
+P55
+SLB  
+2022 Sustainability Report
+Back/Forward
+
+Metric Units  2020 2021 2022
+Human capital  
+SLB Global Workforce approximate number of persons  86,000 92,000 99,000
+Salaried Workforce approximate number of persons  Not available 58,000 63,000
+Bargaining agreement or union employee coverage percentage  Not available >21 >21
+Local Talent percentage  Not available 83 82
+Tenure with Company: <1 year approximate number  800 8,000 10,000
+Tenure with Company: ≥1 year <5 years approximate number  9,500 9,000 9,000
+Tenure with Company: ≥5 years <10 years approximate number 20,000 19,000 18,000
+Tenure with Company: ≥10 years <15 years approximate number 19,000 19,000 18,500
+Tenure with Company: ≥15 years <20 years approximate number  13,000 13,000 13,000
+Tenure with Company: ≥20 years approximate number  9,500 9,000 9,000
+New Hire full-time employees approximate number  Not available 10,000 12,500
+Overall employee turnover percentage  Not available 6.2 6.9
+Employees with a performance appraisal record approximate number  Not available 70,000 80,000
+Engage to Excel Participation percentage  Not available 90 91
+Engage to Excel Engagement score percentage positive  Not available 67 70
+Engage to Excel Manager effectiveness score percentage positive  Not available 76 78
+Engage to Excel Inclusion Index score percentage positive  Not applicable Not applicable 72
+Engage to Excel Performance Enablement score percentage positive  Not available 77 77
+Supply chain
+General supply chain metrics
+Critical Suppliers with Spend number of suppliers  759 983 1,045
+% of Total Spend on Critical Suppliers percentage  10 18 19
+SM Level 1 Suppliers with Spend number of suppliers  1,555 643 503
+% of Total Spend on SM Level 1 Suppliers percentage  36 20 20
+Total Suppliers with Spend number of suppliers  40,200 38,025 37, 388
+Critical Suppliers for which More than 40%  
+of their Revenue Comes from SLB
+percentage  5 7 6
+number of suppliers  36 67 61
+Spend Analysis covers 100% of Suppliers with Spend percentage  100 100 100
+% of Spend Covered in Supplier Risk Analysis percentage  90 71 90
+% of Suppliers Considered High Risk8 percentage  <1 <1 <1
+Supplier Audits Conducted number of audits  363 1,489 2,865
+% of Audited Suppliers with a Documented 
+Development Plan
+percentage  54 80 34
+Metric Units  2020 2021 2022
+Training  
+Average Time per Position7 hours  26 48 74
+Training Days7 days  217,621 366,372 570,552
+NExT training: Professionals Trained —  13,000+ 16,000+  16,100+
+NExT training: Classes Held Worldwide —  1,250+ 1,700+  2,200+
+NExT training: Practical Courses & Programs —  700+ 700+  680+
+Ethics and Compliance training:  
+Annual Training for all employees and contractors
+percentage  92 93.6 93.5
+Diversity, equity, and inclusion 
+Number of DE&I councils number  Not available Not available 10 
+Nationality Mix: Latin America percentage  9 15 16 
+Nationality Mix: North America percentage  23 13 13
+Nationality Mix: Middle East, Asia percentage  36 39 33 
+Nationality Mix: Europe, CIS, Africa percentage  32 33 38 
+Percentage of Revenue by Region: Latin America percentage  15 19 20
+Percentage of Revenue by Region: North America percentage  23 19 21 
+Percentage of Revenue by Region: Middle East, Asia percentage  36 36 32 
+Percentage of Revenue by Region:  
+Europe, CIS, Africa
+percentage  25 25 27 
+Percentage of Revenue by Region: Other percentage  1 1 1
+Women in Company (total – excluding contractors)6 percentage  18.4 18.7 19.5
+Salaried Positions Held by Women percentage  22.6 22.9 23.8
+Overall Women in Management Positions percentage  21.2 21.6 22.0 
+Women in Junior Management Positions percentage  23.4 23.8 24.0 
+Women in Middle Management Positions percentage  17. 2 17. 9 18.5
+Women in Senior Management Positions percentage  17. 3 18.0 20.9 
+2022 Performance Data continued
+P56
+SLB  
+2022 Sustainability Report
+Back/Forward
+
+Metric Units  2020 2021 2022
+US supplier diversity program9
+Diverse Suppliers Used: Certified Diverse number of suppliers  135 144 160
+Diverse Suppliers Used:  
+Classified/Self-Reported Diverse
+number of suppliers  930 988 1,108
+Diverse Suppliers Used: Total number of suppliers  1,065 1,132 1,268
+Spend on Diverse Suppliers: Certified Diverse millions of US dollars  67 51 62
+Spend on Diverse Suppliers:  
+Classified/Self-Reported Diverse
+millions of US dollars  317 287 403
+Spend on Diverse Suppliers: Total millions of US dollars  384 338 464
+Diversity % of total spend percentage  9.82 9.66 9.57
+CDP supply chain engagements
+Total Suppliers Engaged in CDP  
+Supply Chain Program 
+number of suppliers  Not applicable 496 1,240
+Total Responsive Suppliers number of suppliers  Not applicable 215 893
+SLB Supplier Response Rate percentage  Not applicable 43 72
+Average CDP member response rate percentage  Not applicable 67 64
+% of Prior Year's Spend that  
+Engaged Suppliers Represent 
+percentage  Not applicable 35 50
+Total Scope 3 Upstream Emissions  
+Covered by Engaged Suppliers
+percentage  Not applicable 42 58
+1 We use the principles and guidance established in The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised Edition) to calculate our annual CO 2e 
+emissions in SLB. As part of that process, we apply emissions factors and global warming potential factors to energy consumption data to derive CO 2e values. GWP factors are 
+taken from the IPCC Fifth Assessment Report (AR5 – 20 year and 100 year). Our 2022 reporting of Scope 1 and 2 emissions at our operational facility include estimates for energy 
+consumption where no actual data was available. These estimates made based on actual usage for the comparable period in the prior year or actual data for an operational facility 
+of similar size and operations.
+2  Starting in 2020, we have expressed recycled wastewater as a percentage of total wastewater.
+3  In 2022, we adjusted our waste reporting period from 1 January–31 December to 1 October–30 September.
+4  Hydrocarbon Bulk Fluids Spilled is defined as greater than one barrel of any crude oil, diesel, petrol/ gasoline, marine fuel, diesel-based, drilling fluids, and other hydrocarbon-based 
+liquids including hydrocarbon-based solvents released at a SLB operational facility, customer site, rig-site or other third-party location where the failure of SLB equipment, personnel 
+or of a SLB contractor has resulted in the spill, which is uncontained and reaches the environment. An uncontained spill is defined as being spilled or released to the ground or natural 
+environment (i.e., uncontained by an impervious surface or secondary containment structure). 
+5  To convert from per million work hours to per 200,000 work hours, divide by 5.
+6  Includes salaried and non-salaried positions. Non-salaried positions refer to hourly-based.
+7   In line with our efforts to be more inclusive in terms of learning in 2022, we expanded our employee coverage and duration of trainings, recalculating for years 2019 through 2022.
+8  Supplier risk is evaluated based on probability of failure; supplier organization (conglomerate, public, private, family owned, individually owned); dependency on SLB; type of contract; 
+visibility to supplier performance; and dependency on supplier.
+9 By improving our processes and internal systems, we now have more visibility and traceability of Supply Diversity datasets; hence, we are updating our numbers from previous years 
+to match our updated visibility.
+2022 Performance Data continued
+P57
+SLB  
+2022 Sustainability Report
+Back/Forward
+
+Schlumberger Limited
+42 rue Saint-Dominique 
+75007 Paris
+France
+5599 San Felipe
+Houston, Texas 77056
+United States
+62 Buckingham Gate
+London SW1E 6AJ
+United Kingdom
+Parkstraat 83
+2514 JG The Hague
+The Netherlands
+slb.com
+Disclaimer
+This report, as well as other statements we make, contain “forward-
+looking statements” within the meaning of the federal securities 
+laws, which include any statements that are not historical facts. 
+Such statements often contain words such as “expect,” “may,” “can,” 
+“believe,” “predict,” “plan,” “potential,” “projected,” “projections,” 
+“precursor,” “forecast,” “outlook,” “expectations,” “estimate,” “intend,” 
+“commit,” “pledge,” “anticipate,” “aim,” “ambition,” “goal,” “target,” 
+“scheduled,” “think,” “should,” “could,” “would,” “will,” “see,” “likely,” 
+and other similar words. Forward-looking statements address matters 
+that are, to varying degrees, uncertain, such as statements about 
+our goals, plans and projections with respect to sustainability and 
+environmental matters; financial and performance targets and other 
+forecasts or expectations regarding, or dependent on, our business 
+outlook; growth for SLB as a whole and for each of its Divisions (and 
+for specified business lines, geographic areas, or technologies within 
+each Division); forecasts or expectations regarding energy transition 
+and global climate change; improvements in operating procedures 
+and technology; our business strategies and the strategies of our 
+customers, including their respective decarbonization strategies; 
+future global economic and geopolitical conditions; future liquidity; 
+and future results of operations, such as margin levels. These 
+statements are subject to risks and uncertainties, including, but not 
+limited to, changing global economic and geopolitical conditions; 
+the results of operations and financial condition of our customers 
+and suppliers; the inability to achieve our financial and performance 
+targets and other forecasts and expectations; the inability to achieve 
+our net-zero carbon emissions goals or interim emissions reduction 
+goals; the inability to meet workforce expectations and perform 
+at desired ESG and stewardship standards; general economic, 
+geopolitical, and business conditions in key regions of the world; 
+the ongoing conflict in Ukraine; foreign currency risk; inflation; pricing 
+pressure; weather and seasonal factors; unfavorable effects of 
+health pandemics; availability and cost of raw materials; operational 
+modifications, delays, or cancellations; challenges in our supply 
+chain; production declines; the extent of future charges; the inability to 
+recognize efficiencies and other intended benefits from our business 
+strategies and initiatives, such as digital or SLB New Energy; as well 
+as our cost reduction strategies; changes in government regulations 
+and regulatory requirements, including those related to offshore oil 
+and gas exploration, radioactive sources, explosives, chemicals, 
+and climate-related initiatives; the inability of technology to meet new 
+challenges in sustainability and exploration; the competitiveness of 
+alternative energy sources or product substitutes; and other risks 
+and uncertainties detailed in our most recent Forms 10-K, 10-Q, 
+and 8-K filed with or furnished to the Securities and Exchange 
+Commission. If one or more of these or other risks or uncertainties 
+materialize (or the consequences of any such development changes), 
+or should our underlying assumptions prove incorrect, actual results 
+or outcomes may vary materially from those reflected in our forward-
+looking statements. Forward-looking statements are aspirational 
+and not guarantees or promises that goals or targets will be met. 
+Forward-looking and other statements in this report regarding our 
+environmental, social and other sustainability plans and goals are 
+not an indication that these statements are necessarily material 
+to investors or required to be disclosed in our filings with the SEC. 
+In addition, historical, current, and forward-looking environmental, 
+social and sustainability-related statements may be based on 
+standards for measuring progress that are still developing, internal 
+controls and processes that continue to evolve, and assumptions that 
+are subject to change in the future. The forward-looking statements 
+in this report speak only as of April 11, 2023, and SLB disclaims any 
+intention or obligation to update publicly or revise such statements, 
+whether as a result of new information, future events or otherwise. 
+†  For a reconciliation of earnings per share excluding charges 
+and credits to earnings per share on a GAAP basis, please see 
+our fourth-quarter and full-year 2022 results earnings press 
+release here. Earnings per share excluding charges and credits 
+should be considered in addition to, not as a substitute for or 
+superior to, earnings per share on a GAAP basis.
+Back/Forward

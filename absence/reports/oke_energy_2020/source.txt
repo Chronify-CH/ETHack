@@ -1,0 +1,2965 @@
+Corporate Sustainability Report
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE 
+2020-2021
+
+2
+About the Report  4
+Letter to Our Stakeholders   6
+Recent Awards   8
+ONEOK’s ESG Journey   9
+ONEOK Value Chain   10
+Sustainable Energy Future   12 
+Environment   14 
+Social   30
+Governance   74
+Appendix   90
+ONEOK, Inc. (NYSE: OKE) is a leading midstream service provider and owner of one of the  
+nation’s premier natural gas liquids (NGL) systems, connecting NGL supply in the Rocky Mountain, 
+Mid-Continent and Permian regions with key market centers and an extensive network of natural  
+gas gathering, processing, storage and transportation assets.
+ONEOK is a Fortune 500 company headquartered in Tulsa, Oklahoma, and is included in the S&P 500.
+TABLE OF CONTENTS
+
+3
+Employees perform a safety check at an  
+NGL pipelines interconnect facility
+
+4
+ABOUT THE REPORT
+Reporting Scope and Boundary
+Unless otherwise noted, this report covers all ONEOK operations; environmental data represents 100% of ONEOK operating assets; 
+and safety and health data represent all ONEOK employees. This report primarily presents issues, impacts and data from the fiscal year 
+ending Dec. 31, 2020.  
+Reporting Standards and Frameworks  
+To help guide ONEOK’s environmental, social and governance (ESG) performance disclosures, we reference several recognized reporting 
+standards and frameworks, including the Sustainability Accounting Standards Board (SASB) and Global Reporting Initiative (GRI) 
+standards for voluntary ESG reporting and Task Force on Climate-related Financial Disclosures (TCFD) recommendations for voluntary 
+disclosure of climate risks and opportunities. For SASB reporting, ONEOK references the Extractives and Minerals Processing Sector – 
+Oil and Gas Midstream (EM-MD, Version 2018-10) standard. Additionally, ONEOK reports industry-specific ESG data aligned with the 
+Midstream ESG Reporting Template, developed by the Energy Infrastructure Council (EIC) and GPA Midstream Association.   
+View detailed disclosures on our website. 
+Limited Assurance from External Third Party 
+ONEOK’s Corporate Sustainability Report is researched and compiled by a collaboration of corporate business segments with final review 
+and approval by ONEOK executive management. 
+We engaged an external third party to perform attest procedures for certain environmental and safety metrics disclosed in ONEOK’s 
+Performance Data Table and in this report for the periods Jan. 1, 2019, to Dec. 31, 2019, and Jan. 1, 2020, to Dec. 31, 2020. The 
+external third-party report is available on our website. 
+Materiality Assessment  
+ONEOK conducted a formal materiality assessment in 2018 to identify the issues that matter most to our business and stakeholders. The 
+assessment process followed the recommended practices outlined by the GRI to understand topics that reflect our company’s significant 
+ESG impacts, or those that could substantively influence the assessment and decisions of stakeholders. We reviewed sustainability 
+reporting frameworks, peer company reports, industry association guidance and media sources to identify industry-specific topics of 
+significance. We then identified the materiality of issues based on the following criteria:
+• Frequency a topic was raised by stakeholders.
+• Likelihood and ability of a topic to impact our business objectives.
+• How the business’ performance around a topic affects stakeholders.
+As part of this process, we led a workshop to validate the material findings and identify topics that are most critical to the success of our 
+business and stakeholder interests. We also periodically review the alignment of the results with ONEOK’s strategic plans.
+For the purpose of this assessment, we referenced the GRI’s definition of materiality, which is different from the definition set by 
+Generally Accepted Accounting Principles (GAAP). ONEOK uses the GAAP definition of materiality in company SEC filings.
+
+5
+ESG topics identified by GRI materiality assessment include (in alphabetical order):  
+• Air emissions.
+• Ecological impact.
+• Effluent management.
+• Energy management.
+• Environmental compliance.
+•  Greenhouse gas (GHG) emissions and 
+climate change.
+• Producer flaring.
+• Product stewardship.
+• Remediation and decommissioning.
+• Spills and releases.
+• Waste management.
+• Water supply and compliance.
+• Attraction and retention.
+• Community investments.
+• Contractor and supplier management.
+• Diversity and inclusion.
+• Human capital development.
+• Human rights.
+• Labor management relations.
+• Occupational health and safety.
+• Pipeline and process safety.
+• Security practices. 
+• Stakeholder engagement.
+• Board leadership and diversity.
+•  Comprehensive enterprise risk  
+management.
+• Corporate compliance and ethics.
+• Corporate governance.
+• Customer policy.
+• Investor engagement.
+• Political advocacy.
+• Public policy.
+• Shareholder relations.
+• Tax policy.
+CONTACT
+ANALYST CONTACT MEDIA CONTACT 
+Megan Patterson, manager – investor relations Brad Borror, manager – communications 
+918-561-5325 | megan.patterson@oneok.com 918-588-7582 | brad.borror@oneok.com
+ONEOK Plaza in Tulsa, Oklahoma
+ABOUT ONEOK
+ENVIRONMENTAL SOCIAL GOVERNANCE
+
+6
+At ONEOK, our commitment to responsible operations, meaningful engagements with our 
+stakeholders and a willingness to adapt have remained paramount throughout our long 
+history. We were early adopters as the marketplace evolved to expand these principles 
+into formal environmental, social and governance (ESG) expectations, and we continue to 
+embrace our philosophy of continuous improvement by working to enhance our operations 
+and disclosures in these areas.
+The safety, health and personal well-being of our employees, and the safety and support 
+of the communities where we operate, remain key elements of our daily operations and 
+business decisions. Never has this been more apparent than in 2020. We acted quickly to minimize COVID-19-related 
+risks to employees, provided financial support to our communities and worked with customers to continue our 
+critical midstream services. We demonstrated the resiliency of our extensive and integrated businesses, continuing to 
+provide solid earnings in a difficult operating environment.
+While 2020 presented many challenges, we did not allow the COVID-19 pandemic to distract from our commitments 
+to our employees, customers and communities. During 2020, ONEOK contributed more than $8 million to charitable 
+causes across our communities and achieved another year of best on record environmental and vehicle safety 
+performance. We increased ESG-related disclosures, introduced limited external assurance for several metrics and 
+adopted the Sustainability Accounting Standards Board (SASB) reporting standards. 
+In recognition of many of these efforts, we were named the Dow Jones Sustainability Index (DJSI) Industry Leader in 
+the category of Oil and Gas Storage and Transportation in addition to our inclusion in both the DJSI World and North 
+America Indices. Additionally, ONEOK continues to be included in more than 30 ESG-related stock market indices, 
+underscoring the fact that our efforts in these important areas are being recognized by our investors. 
+From a business development perspective, in 2020 we created a group to better understand, prepare and innovate  
+as we move toward a lower-carbon economy. Together with our sustainability team, this group is actively researching 
+opportunities that will complement our extensive midstream assets and expertise. Opportunities under evaluation 
+include the further electrification of compression assets, potential carbon capture and storage projects, sourcing 
+renewable energy for operations and other longer-term solutions such as hydrogen blending, transportation  
+and storage. 
+CEO LETTER TO OUR STAKEHOLDERS
+
+7
+We continue to pursue projects and initiatives today to reduce emissions including operating efficiency 
+improvements, implementing advanced emissions control and detection technologies, and using new engineering 
+techniques to reduce emissions at our most recently built fractionation facility. Additionally, we are in the process 
+of completing for the first time a climate change scenario analysis and additional disclosures that align with the 
+Task Force on Climate-related Financial Disclosures (TCFD) framework. You can see our current related disclosures 
+in the appendix of this report. 
+Diversity is a core corporate value, and we are at our strongest when our organization includes differing  
+points of view and experiences, and when employees feel free to have honest conversations. There is much  
+to be done yet on this front, at ONEOK and across our country, but we are determined to be part of the progress.
+Our culture of diversity and inclusion strives to create an environment for sharing, learning and allyship.  
+Employee-led resource groups, educational programming, resources, mentoring programs and listening  
+events are just a few of the avenues available to employees to share perspectives and discuss important  
+societal issues such as racial injustice. Recently we also made enhancements that led to ONEOK being named 
+a ‘Best Place to Work for LGBTQ Equality’ by the Human Rights Foundation, earning a perfect rating on the 
+foundation’s 2021 Corporate Equality Index. 
+More detail on our ESG-related performance and progress is included in this report. We hope you will find  
+this information helpful, and as always, we welcome your feedback.  
+Sincerely,
+Pierce H. Norton II
+President and Chief Executive Officer
+
+8
+RECENT AWARDS, RECOGNITIONS AND ACCOMPLISHMENTS
+RECENT AWARDS
+• Cornerstone Award, Tulsa Area United Way. 
+• 2020 Frank Condon Award for Environmental Excellence, Environmental Federation of Oklahoma. 
+• Minnesota Governor’s Award of Honor in Occupational Safety for Viking Gas Transmission, Minnesota Safety Council.
+• 2020 Mosaic Top Inclusive Workplace, Tulsa Regional Chamber.
+• Perfect Score - Corporate Equality Index 2021, Human Rights Campaign Foundation. 
+•   Platinum Verification, Sustainable Tulsa Scorecard Program. 
+• Top 100 U.S. Companies Supporting Healthy Communities and Families, JUST Capital.
+• Veteran Employer Champion 2020, Oklahoma Veteran Employer Champion Network. 
+ESG INDEX INCLUSION AND RECOGNITION 
+Our sustainability-related focus and performance is recognized by the investment community. As of March 2021, ONEOK was included 
+in more than 30 ESG-related stock market indices including Dow Jones Sustainability (DJSI), MSCI, S&P 500 ESG, JUST Capital and 
+FTSE4Good. ONEOK is the only U.S.-based energy company included in the DJSI World Index, was named an S&P 500 ESG Industry 
+Mover and was named an industry leader by DJSI and JUST Capital. 
+>$8M
+CHARITABLE CONTRIBUTIONS
+7.5K
+VOLUNTEER HOURS 
+220
+COMMUNITIES  SUPPORTED
+BEST
+PERFORMANCE 
+ON RECORD
+ONEOK 2020 agency recordable  
+environmental event rate (AREER) and  
+preventable vehicle incident rate (PVIR). 
+60YEARS
+WITHOUT A LOST-TIME EVENT:
+ONEOK MONT BELVIEU STORAGE  
+AND VIKING GAS TRANSMISSION
+
+9
+2007 2009 2010
+2014 2017 2018
+2019 2020 2021
+• Formed ESH 
+   Leadership Committee.
+• Published first Corporate   
+   Sustainability Report.
+• Began reporting greenhouse  
+   gas emissions.
+• Added safety and health      
+   metric to employee and      
+   executive short-term incentive  
+   program.        
+ 
+• Began using GRI 
+   reporting standards. 
+• Added environmental  
+   metric to employee  
+  and executive       
+  short-term incentive  
+  program.
+• Formed new Sustainability  
+   Group to enhance ESH       
+   organization.   
+• Conducted first GRI  
+   materiality assessment.
+• Established ESG Council.
+• Published Performance     
+   Data Table.
+• Included in the DJSI North  
+   America Index.
+• Included in the DJSI World  
+   and North America Indices;  
+   named DJSI Industry       
+   Leader for Oil and 
+   Gas Storage and 
+   Transportation.
+• Joined ONE Future. 
+• Adopted SASB reporting          
+   standards. 
+• Received limited external 
+   third-party assurance on  
+   certain environmental and  
+   safety metrics.
+• Formed Renewables and  
+   International Business       
+   Development Group. 
+   
+• Achieved a perfect score  
+   in the Human Rights      
+   Campaign’s Corporate      
+   Equality Index. 
+• Adopted Midstream      
+   ESG Reporting Template       
+   alignment. 
+• Published 13th 
+   Corporate Sustainability      
+   Report. 
+ 
+ONEOK’S ESG JOURNEY
+
+10
+DELIVERING ENERGY THAT MAKES A DIFFERENCE  
+As a leading midstream energy service provider, ONEOK plays a vital role in transporting the natural gas and NGLs that help meet global 
+energy demand and touch our lives every day. The energy products we transport are used to heat homes, generate electricity and create 
+end-use products that power healthier, safer and more connected lives. 
+ONEOK VALUE CHAIN 
+FROM WELLHEAD TO MARKET CENTERS
+Natural Gas
+As the lowest-emission hydrocarbon-based fuel, natural gas plays a critical role in our daily lives, producing inexpensive, reliable and 
+clean energy. Natural gas provides nearly half of American households with dependable home heating and cooking. Over the past decade 
+and a half, natural gas has driven significant emission reductions in U.S. power generation by replacing higher-emission fuels used to 
+produce electricity. 
+COMMON USES OF NATURAL GAS
+Electricity Generation Heating and Cooking Transportation Fuel Industrial/Manufacturing
+Ethane
+Propane
+Isobutane
+Normal Butane
+Natural Gasoline
+MARKETS:
+• Petrochemical
+• Reﬁning
+• Heating
+• Exports
+MARKETS:
+• Local Distribution Companies
+• Electric Generation
+• Industrial Manufacturing
+• Exports
+NATURAL GAS 
+GATHERING
+WELLHEAD
+NATURAL GAS
+PROCESSING PLANT NGL FRACTIONATION
+Residue 
+Natural Gas
+Raw Feed 
+NGLs
+}
+Ethane
+Propane
+Isobutane
+Normal Butane
+Natural Gasoline
+More than 
+10 billion cubic feet per day,  
+or approximately 10% of U.S. 
+natural gas production 
+is reliant on ONEOK’s infrastructure.
+Natural gas transportation and 
+services are an integral part of 
+our business strategy.
+
+11
+Natural Gas Liquids (NGLs) 
+NGLs – ethane, propane, butane, isobutane and natural gasoline – are low-emission hydrocarbons frequently produced along with 
+natural gas and crude oil. NGLs have many end-uses, from home heating and transportation fuel to feedstocks for a range of products 
+that help protect public health, improve our quality of life and promote economic growth. 
+More about NGLs… Did you know?
+Throughout the COVID-19 pandemic, NGLs and the products created from them have been vital to addressing public health 
+concerns. Propane and ethane, for example, serve as feedstocks to produce end-use healthcare items such as surgical and 
+oxygen masks, gloves, sterile packaging, ventilators, syringes and many other items critical to front-line workers.   
+Recyclable food packaging, created with NGL-based feedstocks, helps create longer shelf lives for products and reduce food 
+waste. NGLs also play an important role in contributing to lighter weight vehicle components, greatly improving fuel efficiency, 
+and are used to produce electric vehicle batteries.   
+  
+COMMON USES OF NGLs
+RECYCLABLE FOOD PACKAGING TRANSPORTATION
+CLOTHING, TECHNOLOGY AND
+ATHLETIC EQUIPMENT
+INDUSTRIAL/MANUFACTURING
+ENERGY INFRASTRUCTURE
+BUILDING MATERIALS
+HEALTH CARE PRODUCTS
+
+12
+SUSTAINABLE    ENERGY FUTURE
+Solar panel at a NGL pipeline valve site
+
+13
+Our expansive energy infrastructure and midstream operating expertise position us well to play a vital role in a 
+sustainable energy future. ONEOK’s long-term business strategy includes potential renewable energy and low-
+carbon investment opportunities that contribute to long-term growth, profitability and business diversification. 
+Our assets and key market positions provide the ability to use current infrastructure for future alternative energy 
+projects. In 2020, we created the Renewables and International Business Development Group to focus on the 
+commercial development of renewable energy and lower-carbon projects. The leadership of this group reports 
+directly to our chief operating officer and is actively evaluating opportunities that are designed to complement our 
+extensive midstream assets and expertise, lower ONEOK’s greenhouse gas emissions and provide platforms for 
+sustainable future growth. 
+Opportunities under evaluation include the further electrification of compression assets that are currently powered 
+by natural gas; potential carbon capture, use and storage (CCUS) opportunities; sourcing renewable energy for 
+operations; and other longer-term opportunities such as hydrogen blending, transportation and storage.
+Electrification of compression assets: Compression assets are vital to efficiently flowing natural gas 
+through ONEOK’s pipelines. We utilize a significant amount of electric-powered compression across our 
+operations. ONEOK’s natural gas gathering and processing segment compression is currently more than 60% 
+electric, with Rockies region compression more than 90% electric. Electric-powered compressors produce 
+no Scope 1 combustion emissions and provide opportunities to reduce ONEOK’s total GHG emissions where 
+renewable energy is available to power our compressors.
+For natural gas liquids pipelines, pump stations are the equivalent of compressor stations, helping NGLs to 
+efficiently flow through pipeline systems. In ONEOK’s natural gas liquids segment, more than 95% of pump 
+station power is electric.
+CCUS opportunities: We are currently evaluating the potential for CCUS technology in North Dakota, 
+Oklahoma, Kansas and Texas, where several of our assets are located near formations that could potentially  
+be used for carbon storage. 
+Sourcing renewable energy for operations: ONEOK’s existing assets and extensive operations position us 
+to take advantage of energy produced from wind and solar. We already purchase solar energy to power a portion 
+of our operations in Texas. In addition, we are evaluating other opportunities, such as the installation of solar 
+panels at our processing plants, pump stations and compressor stations. Approximately 25% of our current 
+electrical supply is sourced from renewables.
+Hydrogen transportation and storage: Our existing assets and operational infrastructure also position 
+us to participate in the potential transition to a hydrogen economy. While we believe there is a potential future 
+opportunity for us, the technologies and markets to support a hydrogen economy are still being developed, and 
+we are in the early stages of participating in U.S. Department of Energy-sponsored studies and exploring the 
+scope of hydrogen opportunities.
+SUSTAINABLE    ENERGY FUTURE
+
+14
+ENVIRONMENT
+Natural gas processing plant
+Pipeline restoration
+
+15
+ONEOK works to minimize the impact of our operations on the environment while maintaining safe 
+and reliable service for our customers and following applicable environmental laws and regulations. 
+Key areas of environmental focus at ONEOK include reducing emissions and conservation. We seek 
+to limit operational impacts and enhance operational efficiencies by managing our use of energy 
+and disposal of water and waste. 
+ENVIRONMENT
+Solar panel at a NGL pipeline valve site
+
+16
+EMISSIONS REDUCTION AND CLIMATE CHANGE
+ONEOK recognizes that climate change may pose a number of risks and opportunities to our business. Our board of directors and 
+executive management team evaluate climate-related risks and opportunities in connection with corporate strategic planning, including 
+discussions related to reducing emissions and energy transition and transformation. ONEOK’s board of directors is involved in our 
+company’s Enterprise Risk Management (ERM) process and the evaluation of its effectiveness. Climate-related considerations are included 
+as part of our ERM process.
+Managing greenhouse gas (GHG) emissions and the expectations of our stakeholders regarding responsible climate stewardship is vital 
+to our long-term success. ONEOK has identified GHG emissions as an important area of focus, and we look for opportunities to reduce 
+emissions through strategic programs and initiatives. 
+In 2020, ONEOK joined Our Nation’s Energy Future Coalition (ONE Future), an industry-led natural gas organization dedicated to 
+voluntarily achieving meaningful reductions in methane emissions across the natural gas value chain. Through the coalition, ONEOK has 
+committed to achieve a sector-specific methane emissions intensity target for our natural gas transmission and storage operations by 
+2025.
+We are in the process of evaluating and determining companywide GHG reduction targets and completing a climate change scenario 
+analysis and disclosures that align with the Task Force on Climate-related Financial Disclosures (TCFD) framework. TCFD’s framework 
+for climate assessment and reporting provides stakeholders with information to evaluate a company’s exposure to climate risks and 
+opportunities. Current disclosures that align with TCFD can be found in the appendix of this report. 
+To manage our emissions, we focus on operational efficiencies, investments in emission-reducing process improvements, leveraging new 
+technologies and exploring lower-carbon business opportunities. Our current GHG reduction efforts include:
+• Improving the efficiency of various pipelines, natural gas processing facilities and NGL fractionation facilities.
+• Implementing emissions control technologies where practical and evaluating opportunities for carbon capture.
+• Implementing practices and engineering controls designed to reduce the loss of methane from facilities.
+• Collaborating with producers to reduce well-head flaring. 
+• Collaborating with electricity generators to transition to lower-carbon sources. 
+• Increasing the use of electric-powered compression across ONEOK’s operations. 
+•  Pursuing renewable natural gas (RNG) opportunities. ONEOK is currently connected with three RNG facilities, resulting in a reduction 
+of more than 600,000 metric tons of CO2e from being released, with more connections expected in 2021.
+•  Leveraging technology that facilitates the fast detection of carbon emissions including optical gas imaging cameras, photoionization 
+detectors, flame ionization detectors and ultrasonic technology.
+
+17
+ENVIRONMENTAL PERFORMANCE AND PROGRAMS 
+ONEOK continues to evaluate opportunities to further enhance our environmental stewardship and participates in a number of 
+programs and organizations. Some examples of actions we’ve taken are summarized below.
+AREER: ONEOK uses an internal environmental metric that promotes continued reductions in releases and emission events 
+reportable to a state or federal agency. To emphasize the importance of environmentally responsible operations and drive 
+continuous improvement, the Agency Reportable Environmental Event Rate (AREER) metric is an element of ONEOK’s Short-Term 
+Incentive (STI) Plan for all employees.
+We have achieved annual reductions in our AREER since establishing the metric. In 2020, we exceeded our annual target and 
+improved 47%, compared with 2019, achieving our best AREER performance on record.
+AREER
+2016 2017 2018 2019 2020 2021
+TARGET
+1.30 1.23
+1.05
+0.79
+0.42 0.40
+Performance 
+improved nearly 
+70% in 2020, 
+compared 
+with 2016.
+Asset Planning and Updates: We have recently completed projects to upgrade or replace traditional natural gas-powered 
+compressors with electric compressors, which promote efficiencies and emissions reductions on our systems. These include  
+the recent replacement of natural gas-powered compressors with electric equipment at ONEOK’s compressor site in Lindsay, 
+Oklahoma, a change expected to reduce our system emissions by approximately 40,000 metric tons of CO2e annually – the 
+equivalent to taking 9,000 cars off the road each year.  
+ENVIRONMENT
+
+18
+Innovative Fractionation Project Design Provides Sustainable Benefits: ONEOK’s MB-4 NGL fractionation facility in Mont 
+Belvieu, Texas, was constructed using a new engineering design that promotes operating efficiencies, reduced emissions and reduced 
+facility dimensions. 
+Fractionators use heating and cooling cycles to separate raw feed NGLs into five purity components – ethane, propane, butane, 
+isobutane and natural gasoline. A traditional fractionator uses a four-tower system to do this, with each tower separating out different 
+products based on temperatures. The new design of ONEOK’s MB-4 facility condenses this process into three towers using what’s called 
+dividing wall column (DWC) technology. Compared with a traditional fractionator, DWC technology enables lower carbon emissions, 
+uses less energy and reduces the amount of land required to build the asset. 
+MB-4, which was completed in early 2020, was designed and constructed by a third-party engineering firm using DWC technology.   
+Providing Solutions to Natural Gas Flaring in the Williston Basin: When producers drill for crude oil and natural gas, flaring, 
+or the controlled burning of natural gas at the wellhead, may occur if sufficient capacity is unavailable to gather and process the natural 
+gas and NGLs that are produced along with the crude oil. As the largest operator of midstream infrastructure in the Williston Basin, 
+ONEOK is committed to helping producers reduce the amount of natural gas being flared by investing in infrastructure to capture, 
+process and transport these essential products to markets.
+Our long-standing commitment to the region has resulted in ONEOK infrastructure investments totaling more than $3.5 billion and 
+adding nearly 1.4 billion cubic feet per day (Bcf/d) of natural gas processing capacity over the last 10 years, with 400 million cubic feet 
+per day (MMcf/d) added in 2019 and 2020 alone. Total natural gas flaring in the region has decreased from an all-time high of 36% of 
+natural gas production in September 2011 to 6% in March 2021, with additional reductions still expected.
+Reducing Methane Emissions: ONEOK participates in a number of industry organizations in addition to ONE Future that incorporate 
+sustainability-focused initiatives. 
+We are a member of the Interstate Natural Gas Association of America (INGAA), an industry association that advocates for the North 
+American natural gas pipeline industry. A ONEOK representative serves on the INGAA Board of Directors and its Climate Strategy 
+Task Force. We provided input on the development of INGAA’s recently released 2021 Vision Forward commitment, which outlines the 
+association’s dedication to a cleaner energy future. Through our association membership, ONEOK has committed to reducing methane 
+emissions from natural gas pipelines, compressor stations and storage wells. This commitment includes evaluating and implementing 
+voluntary practices, such as those found in the U.S. Environmental Protection Agency (EPA) Natural Gas STAR Program, which ONEOK 
+has participated in since 2000.  
+ONEOK involvement also includes the GPA Midstream Association and its Environmental and Natural Resources Committee, which 
+coordinates member positions on environmental issues; the American Petroleum Institute’s Air Permitting Task Force and Clean Air Issue 
+Group; and the development of the Energy Infrastructure Council’s ESG toolkit and reporting template.
+Sustainability Engagement: ONEOK participates annually in a number of surveys issued by sustainability ratings and rankings 
+organizations. This includes those issued by CDP , an international organization that works with stakeholders and corporations to 
+measure, manage and disclose environmental impacts with the goal of driving action.
+
+19
+In 2020, ONEOK received scores for both the CDP Climate Change and Water Security questionnaires that placed ONEOK’s respective 
+performance in climate and water security in the leading 30% and 15%, respectively, of participating Canadian and U.S. oil and gas 
+companies. The results mark our highest score ever on the climate questionnaire, which we have participated in since 2013. 2020 was 
+our first year to participate in the water security questionnaire.
+Voluntary OGI Monitoring Program: ONEOK instituted a voluntary Optical Gas Imaging (OGI) Monitoring Program in 2020 to 
+monitor fugitive emissions at selected ONEOK assets that are not currently subject to mandatory EPA fugitive emission monitoring 
+regulations. The program uses OGI infrared cameras to survey for fugitive hydrocarbon emissions from equipment and facilitates repairs 
+if needed.
+ENVIRONMENT
+Mont Belvieu NGL fractionation facilities
+
+20
+Solar panel at a natural gas pipeline interconnect facility
+GREENHOUSE GAS DATA  
+Tracking our emissions provides a baseline for evaluating performance and identifying reduction opportunities.  We maintain an 
+emissions inventory in accordance with the EPA Mandatory Greenhouse Gas Reporting Rule and report our Scope 1, 2 and 3 emissions 
+annually. We also track and report total Scope 1 emissions, including estimates from facilities outside of the current reporting rule.   
+ONEOK reported total 2020 emissions of approximately 66.7 million metric tons (MMT) of carbon dioxide equivalents (CO2e). 
+The table below shows our Scope 1, Scope 2 and Scope 3 emissions performance over the past three years. See our Performance Data 
+Table for more information. 
+Scope 1 3.7 4.2 3.8
+Carbon Dioxide 2.6 3.1 2.7
+Methane (CO2e) 1.1 1.1 1.0
+Nitrous Oxide (CO2e) 0.001 0.003 0.003
+Scope 2 2.6 3.0 2.5
+Scope 3 58.1 57.4 60.4
+Greenhouse Gas Emissions  
+Million Metric Tons (MMT) CO2e 2018 2019 2020
+Beginning in 2019, ONEOK completed an inventory estimating emissions from all facilities including those outside of the 
+Mandatory Greenhouse Gas Reporting Rule boundary. The emission calculation methodology matches that found in the 
+Mandatory Greenhouse Gas Reporting Rule.
+
+21
+SCOPE 1 Emissions that result directly  
+from operations.
+Examples:
+•  Natural gas combustion 
+from compressor engines 
+and process heaters.
+•  Emissions that escape from 
+operating equipment.
+•  Releases from venting 
+sources such as relief 
+valves.
+SCOPE 2 Indirect emissions that occur  
+from the consumption of energy 
+generated by another entity,  
+such as a utility.
+Example: Emissions  
+resulting from the generation 
+of purchased electricity.
+SCOPE 3 Indirect emissions that would  
+result from the use of NGL  
+products delivered to customers. 
+Does not include the sale of  
+natural gas to end users. 
+Examples: NGL products 
+assumed to be fully  
+combusted or oxidized  
+by downstream customers 
+such as:
+• Ethane. 
+• Propane. 
+• Butane. 
+• Isobutane. 
+• Natural gasoline.
+ENVIRONMENT
+SCOPE EMISSIONS EXPLAINED: What’s the difference?
+
+22
+CONSERVATION
+Environmental responsibility is a focus for ONEOK, and we use a variety of sustainable practices to minimize and offset 
+effects our operations and capital-growth projects may have on biodiversity and ecosystems.
+Restored NGL pipeline right of way
+
+23
+CONSERVATION STRATEGY
+In addition to compliance with all applicable environmental laws and regulations, ONEOK’s strategy of “avoid, minimize, mitigate” 
+guides our approach to conservation. Our three-tiered strategy aims to protect biodiversity and ecosystems by avoiding impacts when 
+practicable. When avoidance is not practicable, we take action to minimize and mitigate any impact that may occur. This framework helps 
+us achieve our commitments to:
+•  Maintain responsible and compliant capital expansion processes characterized by informed site selection, high-quality construction 
+processes and a focus on restoration of affected habitats.
+• Assess environmental impacts of our current operations and evaluate opportunities for improvement. 
+• Improve natural habitats and public use areas.
+Our three-tiered strategy is informed by detailed information gathering processes that take place before activity begins. This includes 
+extensive environmental review and permitting processes.
+Environmental evaluation of a proposed project involves identification of High Conservation Value (HCV) factors within a proposed route 
+that include threatened and endangered (T&E) species presence (federal and state listed); proximity to T&E species critical habitats; 
+protected lands (state, federal and tribal); resources of historical or cultural significance; wetlands and waterbodies; land use (e.g., 
+forests, farmland and rangeland); and proximity to populated areas.
+ AVOID: Avoiding impact is a primary element in ONEOK’s conservation strategy. Wherever practicable, ONEOK refrains 
+from site selection in protected and HCV areas. Ways we avoid impacting ecologically significant or critical areas include 
+rerouting or seeking alternate locations for projects or scheduling work to avoid certain seasons or windows of time when 
+a species may be present.
+ MINIMIZE: When avoidance is not practicable, we attempt to reduce impacts through minimization techniques. 
+Our minimization approach is specific to each location and may include project alteration, environmental controls and 
+alternative construction methods for conservation. Examples include narrowing or making other changes to a right of 
+way; buffered exclusion zones; boring beneath habitats; limiting construction traffic; soil segregation; and co-locating 
+projects with existing pipeline routes to limit habitat fragmentation. We hold employees and contractors to high standards 
+and require them to follow what we believe to be leading management practices during construction.
+MITIGATE: We take action to seek to mitigate any impacts that cannot be avoided. Examples of mitigation include 
+participating in conservation programs; completing habitat restoration such as stream bank stabilization, soil segregation 
+and reseeding with native seed mix; and activities specific to U.S. Fish and Wildlife Service permitting, mitigation credits 
+and conservation plans.
+ENVIRONMENT
+
+24
+BIODIVERSITY
+Habitat Restoration: We work closely with regulators to develop appropriate mitigation and conservation approaches that serve to 
+offset potential environmental impacts from our projects. 
+The restoration of habitats that may be affected during the construction of projects remains a key focus, and during 2020 we restored 
+nearly 8,100 acres of habitat. This includes determining the appropriate seed mixes and plant species in the area as well as properly 
+separating topsoil to restore the right of way following construction. ONEOK takes into account landowner concerns during restoration 
+and communicates restoration expectations to contractors.   
+Protecting Wildlife: Identifying and supporting the unique needs of species in our operating areas is important to conservation 
+at ONEOK. Our environmental specialists work to help us protect more than 1,000 different species through compliance and project 
+planning in line with our conservation strategy.
+An example of this commitment includes our work to minimize and mitigate impacts our activities may have on the American burying 
+beetle, which late last year was downgraded by the U.S. Fish and Wildlife Service from an endangered to threatened species under the 
+Endangered Species Act (ESA). This shiny black and orange-red beetle is native to at least 35 U.S. states and parts of Canada but is 
+believed to currently be present in only nine states, including Oklahoma, Kansas and Texas. 
+Through our involvement with what was then the Oklahoma Independent Petroleum Association, ONEOK worked with the U.S. Fish and 
+Wildlife service to develop an oil and gas Industry Conservation Plan (ICP) to protect the American burying beetle. The plan established 
+a formal process to help revitalize beetle populations, requiring permits for unavoidable activity that potentially impacted the beetle. 
+Permitting requires the development of a conservation plan and the purchase of mitigation credits that fund permanently protected beetle 
+habitats.
+ONEOK construction activities resulted in approximately $460,000 in mitigation credits between 2015 and 2020 used to fund beetle 
+habitats. In addition, our American burying beetle management strategy included a species-specific education program for construction 
+personnel and completing post-construction restoration such as replacement of topsoil, relief of soil compaction and re-establishment of 
+vegetation.  
+Other specific examples of species ONEOK has taken steps to protect during recent capital expansion projects include the lesser prairie 
+chicken, the whooping crane, the eastern spotted skunk and the Dakota skipper North American butterfly.
+CONSERVING WATER RESOURCES
+Water use, supply and resource conservation are important components of ONEOK’s operations. By assessing water use through 
+benchmarking and monitoring equipment, we can identify opportunities for water reduction and reuse, potential for improved efficiency 
+and cost savings. 
+Wherever practical, we strive to minimize water use by reclaiming it in operations processes and construction projects. During 
+hydrostatic testing of new pipeline assets, our project teams reuse water for testing multiple pipe segments or recycle it where 
+appropriate. Water is a valuable resource in the fractionation of NGLs. Our facilities have adopted processes to maximize water efficiency 
+and reduce wastewater generation by recovering water for reuse.
+
+25
+During construction, ONEOK takes proactive steps to assess and lessen potential impact to water resources. This includes our three-tiered 
+conservation approach of “avoid, minimize, mitigate” that guides our conservation strategy. In cases of water and wetland conservation this 
+strategy may include:
+ AVOID: In the early stages of a project, water resource data is reviewed to identify opportunities to avoid certain  
+water crossings. 
+ MINIMIZE: When not practicable to be avoided, ONEOK uses management practices designed to minimize any 
+potential temporary impacts of crossing waterbodies and wetlands. This may include narrowing the right of way; identifying 
+the best crossing method to minimize disturbances to stream beds or surface water; and constructing temporary bridges 
+that allow workers and equipment to cross waterbodies with reduced impact. We also use various environmental controls 
+like installing barriers to protect sediment from entering waterbodies; storm water filtration devices; refueling offsets; and 
+following regulations for stream bank stabilization. 
+ MITIGATE: We also work with local, state and federal regulators to mitigate impacts appropriately. 
+This three-tiered conservation approach was critical during the planning and construction of approximately 2,000 miles of pipeline 
+completed during 2019 and 2020 that included major projects in the Rocky Mountain, Mid-Continent and Texas Gulf Coast regions.
+ONEOK avoided 67% of the waterbodies and wetlands along planned pipeline routes during this period of time. This included fully 
+rerouting construction to avoid nearly 3,000 waterbodies or wetlands and using trenchless boring technology to install pipe under 
+approximately 1,000 waterbodies and wetlands without disturbing the environment above. These techniques greatly reduce potential 
+temporary crossing impacts.
+ENVIRONMENT
+Restored NGL pipeline right of way
+
+26
+RECYCLING AND WASTE REDUCTION
+Continually improving waste reduction and recycling programs helps divert waste from landfills and is important to our sustainability efforts.
+ONEOK uses a resource management software system designed to streamline reporting and provide an understanding of recycled materials 
+and waste quantities. By analyzing data in the system, we can identify opportunities for reducing waste, recycling materials when possible 
+and improving processes for more sustainable approaches to waste management.
+Tracking data in this single software solution has allowed for greater transparency and visibility in waste volumes and recycling.
+Hazardous Waste (Tons)1 23.5 45.5  61.7
+Non-Hazardous Waste (Tons)2 - 29,182 24,178 
+Recycled Materials (Tons)3 - 548.4 497.5
+ 
+1.  Hazardous waste totals shipped from all ONEOK operations. Hazardous waste generated includes hazardous waste that has been sent to 
+a third party for disposal or potential use for a beneficial purpose such as energy recovery or fuels blending. Hazardous waste totals vary 
+year over year depending on episodic generation events from operations and maintenance of our assets.
+2.  Non-hazardous waste totals shipped from all ONEOK operations. Non-hazardous waste includes waste generated from operations and 
+certain construction at new and existing facilities.
+3. Total recyclables shipped offsite from all ONEOK operations. Totals include used oil.
+ASSET INTEGRITY
+The safe, reliable and environmentally responsible operation of our assets is a foundation of our business. ONEOK maintains mature and 
+robust asset integrity programs across our operations and works to consistently enhance and improve these programs and our internal 
+capabilities.
+Many of ONEOK’s asset integrity programs include efforts to address the expectations of our stakeholders, including regulatory agencies, the 
+communities in which we operate, landowners, our customers, our employees, contractors and investors. 
+2018 2019 2020
+
+27
+Pipeline Integrity
+Our pipelines are designed, installed, tested and maintained to meet or exceed federal and state regulations.  Our integrity 
+programs are designed to align with applicable Pipeline and Hazardous Materials Safety Administration (PHMSA) rules and 
+are further strengthened by participation in industry-level program improvement initiatives. 
+Our pipeline integrity efforts also include, as applicable: 
+•  Performing in-line inspections that examine the condition of pipelines from the inside utilizing specialized equipment.
+• Programs designed to identify and manage corrosion.  
+•  Conducting hydrostatic, or pressure, testing of pipelines to evaluate structural integrity before being placed in service. 
+•  Conducting ground and aerial patrols that allow technicians to observe surface conditions along pipeline rights of way.
+•  Using technology to perform integrity studies such as pipeline risk assessment modeling, corrosion growth analysis 
+and computerized leak detection tied to our SCADA system.
+• Maintaining an effective public awareness program. 
+• Records and documents management. 
+ENVIRONMENT
+Maintenance pig launcher at an NGL pipelines interconnect facility
+
+28
+Facility Integrity  
+The risk-based inspection program we perform on our above-ground fixed equipment and facilities is designed to use information 
+from design, construction, operation and inspection processes to categorize and prioritize inspection efforts to help maintain and safely 
+operate our facilities. 
+The ONEOK facility integrity program is designed to comply with applicable regulations, guidelines, standards and procedures, including 
+appropriate recognized and generally accepted good engineering practices in the Occupational Safety and Health Administration (OSHA) 
+Process Safety Management (PSM) standards. We also have adopted the American Petroleum Institute (API) Recommended Practice 
+754, establishing a four-tiered framework to classify process safety performance indicators.
+Asset integrity professionals are assigned to ONEOK assets where they provide in-house expertise, execution and guidance on functions 
+such as service assessments, inspections and mechanical integrity engineering. During 2020, our mechanical integrity teams conducted 
+approximately 7,500 inspections on equipment and piping at our facilities and assets regulated by the U.S. Department of Transportation 
+and OSHA.
+Our facility integrity efforts also include, as applicable: 
+• Reviewing equipment and program data and key performance indicators. 
+• Utilizing layer-of-protection risk management methodologies in hazard assessment analysis. 
+• Monitoring and correcting localized corrosion. 
+• Records and documents management.
+• Special emphasis programs including but not limited to: 
+• Material of design reviews.
+• Inside facility underground piping inspection programs.
+• Small bore piping inspection programs.
+• Corrosion Under Insulation programs.
+NGL facility
+
+29
+Underground Storage Integrity 
+Our underground storage safety management program guides our engineering and operations staff in the inspection, maintenance and 
+safe operation of our storage assets.  
+Reservoirs, mined salt caverns and mined rock caverns are used to store natural gas, NGLs and certain refined products. Our storage 
+integrity program includes established plans that apply what we consider to be leading practices for the underground storage of NGLs 
+and natural gas. As applicable, plans incorporate API guidance and adhere to PHMSA regulations.  
+Each storage facility has in place, as applicable:
+• A mechanical integrity plan.
+• Operating pressure reviews and pressure monitoring.
+• A material balancing and inventory verification process.
+• Records and documents management. 
+Environmental Responsibility
+Environmental responsibility is a priority for ONEOK. In addition to the necessity of maintaining robust asset integrity programs, we 
+strive to make environmental considerations a priority in the programs themselves.
+In 2021, ONEOK put into effect industrial coating selection and application procedures designed to minimize pollutants contained in the 
+protective coatings we use on our equipment. Applying these new procedures, we select industrial coatings that contain lower levels of 
+volatile organic compounds (VOCs) – less than 2.8 pounds per gallon, which is lower than regulatory requirements in all our operating 
+areas – and prioritize coatings that are free of hazardous air pollutants (HAPs). 
+ONEOK is also in the final stages of a multiyear initiative to install a remote monitoring network on our current cathodic protection 
+system, which is designed to mitigate pipeline corrosion. The remote monitoring network has reduced company vehicle mileage by an 
+estimated 250,000 miles per year and reduced CO2 emissions by 153 tons annually. We have installed approximately 2,800 of these 
+units, covering approximately 65% of our cathodic protection current sources.
+In addition to reducing our environmental impact, remote monitoring increases system knowledge by allowing daily monitoring of 
+locations and improved data accuracy.
+Asset Integrity Data
+ONEOK reports performance indicators that track our asset and operations integrity including our AREER metric, pipeline inspections, 
+reportable pipeline incidents and spills data. For more, see our SASB reporting and Performance Data Table.  
+ENVIRONMENT
+
+30
+Social
+Donation delivery for Emergency Infant Services
+United Way campaign donation collection at ONEOK Plaza
+
+31
+Providing a safe work environment for employees, promoting a diverse and inclusive culture and 
+actively engaging with our customers and communities are essential to the long-term sustainability 
+of ONEOK’s business. 
+We consistently assess the risks employees face in their jobs and work to mitigate those risks 
+through training, appropriate engineering controls, work procedures and other preventive safety 
+and health programs.
+We seek to hire and retain a diverse workforce of high-caliber talent and strive to create an inclusive 
+environment that rewards employees for their work and offers development opportunities. We are 
+committed to giving back to the communities where we operate, live and work.
+Social
+An employee donated 3D-printed face shields  
+to frontline health workers
+
+32
+COVID-19 – ONGOING RESPONSE AND SUPPORT 
+ONEOK’s response to the COVID-19 pandemic has been quick and measured. Actions were taken early on to manage potential impacts of 
+COVID-19 on our employees, customers, contractors, the communities where we operate and our business. We continue to prioritize health and 
+safety while remaining focused on providing essential energy services for our customers and communities.
+As an essential critical infrastructure business, it has been vital for our employees to continue daily work. In March 2020, all employees who 
+were able were asked to work from home, and all nonessential company travel was immediately postponed. ONEOK increased companywide 
+safety protocols and offered additional benefits and human resources support to employees, while continuing to prioritize open communication 
+related to our COVID-19 response efforts. 
+Employee and Contractor Support 
+Critical employees and contractors who continue to work on-site due to job requirements continue to follow COVID-19 safety protocols 
+designed to comply with guidance from local and national health and governmental authorities. In July 2020, care packages were shipped to all 
+employees’ homes, including thermometers, hand sanitizer and face coverings, to encourage health and safety precautions at work and at home.
+Temporary benefit plan changes were enacted, such as waiving charges for virtual visits and COVID-19 diagnostic tests, and ONEOK’s Employee 
+Assistance Program continues to be widely communicated and made available for employees and their families who are facing personal or job-
+related hardships. Additionally, ONEOK opted into the CARES Act 401(k) loan deferrals and penalty-free hardship distributions for employees.
+Facility Safety and Building Enhancements 
+A number of job functions required employees to work on-site during the pandemic. These positions are critical to the continued safe and 
+reliable operation of our assets and business. Enhanced safety protocols and building modifications were put in place in 2020 to help keep these 
+employees safe while on the job.
+Face covering protocols, building modifications and other processes were implemented throughout the pandemic specific to locational needs. 
+Examples include the use of disinfectant fogging units in control rooms, meeting rooms, common areas and corporate transportation; the 
+addition of thermometer stations for employee use and UV sanitizing lights on HVAC units to improve air quality; increased facility cleaning and 
+easily accessible sanitizer stations.
+Pipeline and plant control employees, responsible for 24-hour monitoring of ONEOK’s pipeline systems and assets, were separated from other 
+employees working on-site. ONEOK’s main pipeline control center was segmented into individual control rooms as an added safety precaution 
+for these vital functions.
+ 
+Natural gas processing plant
+
+33
+Leadership Communication and Planning
+Throughout the pandemic ONEOK’s leadership has prioritized open communication and information sharing with employees and  
+external stakeholders through regular CEO employee communications, frequent board updates and virtual meetings with investors.  
+Early on, ONEOK implemented detailed protocols regarding employee travel and reporting potential symptoms or exposure, and  
+we have continued to prioritize contact tracing and ongoing case management internally.
+A Return to Office team was created in April 2020, composed of key company leaders from across the organization, tasked with creating a 
+plan for a safe, measured and practical transition back to the office for those employees working from home. ONEOK continues to follow 
+guidance from local and national health and governmental authorities to help guide return to office-related decisions and companywide 
+safety protocols.
+Community Support
+In 2020, we honored all commitments to charitable organizations made prior to the pandemic. We also contributed approximately 
+$600,000 to COVID-19 relief efforts and made in-kind donations of personal protective equipment and other items to organizations 
+with front-line workers. ONEOK employees generously served our communities by sewing or 3D-printing masks, mask straps and face 
+shields; donating food, clothing and toys to community organizations; preparing STEM kits for local children; and delivering meals to 
+homebound citizens.
+ENVIRONMENT, SAFETY AND HEALTH (ESH)
+Our ESH Commitment
+At ONEOK, our goal is to always operate our assets safely, reliably and in an environmentally responsible manner. This means working  
+to mitigate risks and eliminate incidents that may harm our employees, contractors, the public and the environment.
+Our executive management team sets high ESH expectations that apply to all employees and contractors. These expectations require 
+individuals to commit to: 
+•  The responsibility and ability to control operating exposures that may cause an incident, even if it means stopping work. 
+• Personal involvement and commitment to ESH management and compliance. 
+•  The responsibility to report, or elevate to the proper level in the organization, potential ESH compliance risks, incidents and  
+near misses.
+•  Understanding that protection of human health, safety and the environment is a top priority, no matter how urgent the job,  
+project or commercial interests. 
+•  Responsibility and accountability for understanding and complying with all laws, regulations, permits, requirements and  
+procedures related to their roles and responsibilities, including those associated with ESH. 
+• The execution and implementation of our sustainability efforts.
+SOCIAL
+
+34
+ESH MANAGEMENT SYSTEM
+Risk Identification and 
+Management: Identifying, 
+assessing and managing 
+physical risks.
+Design, Construction and 
+Initial Startup: Utilizing 
+engineering and construction 
+standards, where appropriate, 
+and controlling risks associated 
+with asset startup. 
+Stakeholder Engagement: 
+Fostering an open dialogue 
+about our operations with 
+both internal and external 
+stakeholders.
+Operational Controls: Managing 
+specific operational risks to 
+include operating procedures, 
+asset integrity, work permitting and 
+environmental management.
+Emergency Management: 
+Having proper emergency action 
+plans and being prepared to 
+execute them when warranted.
+Assessment and Improvement: 
+Assessing our adherence and 
+performance against established 
+operating/regulatory expectations 
+and sharing key performance 
+indicators, as appropriate, with 
+stakeholders.
+Management of Change: 
+Minimizing risk as a 
+result of operational/
+organizational changes.
+Incident Reporting and 
+Investigation: Reporting incidents 
+both internally and externally, 
+as required, conducting timely 
+investigations and sharing lessons 
+learned, as appropriate, to assist in 
+future similar incident prevention.
+Information and Document 
+Control: Maintaining important 
+information and documents relative 
+to the operation of our assets and 
+the management of associated 
+risks.
+Contractor Management: 
+Selecting qualified contractors, 
+setting expectations and 
+monitoring their work.
+Training and Competency: 
+Providing the training our 
+employees need to competently 
+and safely perform their work 
+tasks.
+ONEOK’s ESH Management System and philosophy of continuous improvement is key to our operational success. 
+Our ESH Management System provides expectations and a framework for operating assets safely, reliably and in an 
+environmentally responsible manner. The system is made up of 11 elements that establish standard operating guidelines 
+across the company and represent risk controls that are key to successful operations and regulatory compliance.
+
+35 SOCIAL
+Plan, Do, Check and Adjust 
+A “Plan, Do, Check and Adjust” model for continuous improvement is employed for each of the system’s 11 elements. Together, the 
+management system and this model guide our operations and provide a road map for improvement.
+Plan: Establish goals and objectives for improvement and identify the activities  
+necessary to execute, create and organize.
+Do: Communicate and execute the established plan.
+Check: Assess the effectiveness of execution of the plan against 
+established goals and objectives, monitor and correct.
+Adjust: Make necessary adjustments or changes to work 
+processes to better minimize risk and/or increase operational 
+efficiency and reliability. Share lessons learned appropriately 
+throughout the organization, review and revise.
+Management System Elements: Highlights 
+Management Of Change Enhancements: Management of Change (MOC) is a systematic approach to addressing and managing 
+potential ESH risks during change. MOC is a key element of ONEOK’s ESH Management System, used to address potential ESH impacts 
+of process changes before they are implemented. ONEOK recently made enhancements to our MOC platform, designed to make the 
+process and tool more intuitive, streamlined and efficient.  
+In mid-2019, operations and ESH groups began working to redefine our MOC process and re-design the customized application that 
+employees use to work through impact review scenarios and analysis prior to a potential change. Enhancements launched in 2020 
+improved workflow efficiency and increased clarity and understanding of the MOC steps. The improvements have increased employee 
+engagement with MOC, helping to further embed the process and its benefits throughout our organization.  
+Increased Incident Reporting Efficiencies: In 2020, we updated our ESH reporting app to make event reporting more efficient and 
+to allow for prompt data entry and a single interface for all employees to report safety, environmental and security events, as necessary. 
+The app helps determine the extent of notification required and includes functionality to start a conference call with all parties who 
+may need to be involved in response. The app also automatically sends information to other management systems used across the 
+organization as needed. Compatibility with mobile or desktop devices make the app readily accessible in the field.
+PLAN
+Create & Organize
+DO
+Communicate &
+ADJUST
+Review & Revise
+CHECK
+ImplementCONTINUOUS
+IMPROVEMENT
+Monitor & Correct
+
+36
+Operating Commitment
+Operations employees are trained in ONEOK’s operating commitment, which consists of five key drivers and five key 
+activities. Our key drivers—safety and environmental responsibility; customer service; quality; cost effectiveness; 
+and compliance—guide our decision-making and are areas of focus in our relationship with stakeholders. Our key 
+activities—vision and commitment; employee selection and development; decision rights; incentives; and applied 
+knowledge—are part of ONEOK culture and set expectations for every operations employee’s role.
+SAFETY & 
+ENVIRONMENTAL 
+RESPONSIBILITY
+CUSTOMER
+SERVICE
+COST
+EFFECTIVENESS
+COMPLIANCE
+QUALITY
+OPERATING COMMITMENT
+Vision & Commitment,
+Employee Selection & 
+Development,
+Decision Rights,
+Incentives,
+Applied Knowledge
+
+37
+ SOCIAL
+Natural gas processing plant
+
+38
+SAFETY AND HEALTH
+Our Commitment and Approach
+Providing a safe work environment is essential to ONEOK’s business and at the center of all our operating decisions. We 
+continuously assess the risks employees face in their jobs and work to mitigate those risks through training, appropriate 
+engineering controls, work procedures and other preventive safety and health programs.
+Safety and Health at ONEOK
+Safety and health practices and risk management are embedded across ONEOK through oversight from company leaders; guidance from 
+our corporate and operations safety and health organizations; and the personal involvement expected of every employee.
+Each ONEOK employee has the responsibility to be aware of and control factors or situations that may cause an incident, even if that 
+means stopping work. Employees also have the responsibility to report or elevate potential risks to the proper level in the organization. 
+Methods for reporting safety and health concerns or leading performance indicators such as near misses and good catches include: 
+• Reporting to a direct supervisor or local safety and health supervisor.
+• Raising a concern during local safety trainings, safety discussions and meetings.
+• Reporting through ONEOK’s safety and health management software.
+• Anonymous reporting through the ONEOK Hotline.
+
+39
+SAFETY AND HEALTH STRUCTURE
+BOARD OF DIRECTORS 
+• Oversees corporate safety and health performance, responsibilities and commitments. 
+•  Approves Short-Term Incentive (STI) Plan measures, performance goals and weightings including internal safety  
+and health measure (TRIR).
+•  Recommends and approves compensation for named executive officers, considering multiple factors including  
+safety performance. 
+CEO AND EXECUTIVE MANAGEMENT
+• Provides overall guidance, oversight and responsibility for company focus on safety and health.
+ESH LEADERSHIP COMMITTEE
+•  Provides vision, leadership, direction and oversight for all ESH programs, processes and management systems. 
+• Provides updates to the board of directors through monthly board reports. 
+OPERATIONS ESH SUBCOMMITTEE  
+• Provides process safety oversight and identifies opportunities. 
+• Membership includes senior operations leadership.  
+CORPORATE AND OPERATIONS SAFETY AND HEALTH ORGANIZATIONS
+• Safety and health leaders are responsible for strategy, implementation, oversight, reporting and performance data.
+•  Corporate and operations director and manager-level safety and health leaders meet monthly to discuss strategy, share information and 
+collaborate to help drive consistency and company-determined leading practices across ONEOK. 
+• Teams specific to each business unit support and oversee safety and health needs and performance.  
+  •  Local teams assess risk and provide support in the field.  
+  •   Safety and health leaders facilitate frequent communication with local safety and health teams (meetings, calls and safety 
+tailgates) and operations leaders for status updates and needs assessments.
+EMPLOYEES
+•  Personal involvement in safety and health is expected of each employee including awareness and reporting of any concerns, incidents, 
+near misses or good catches. An anonymous reporting option is available through the ONEOK Hotline. 
+•  Responsibility and accountability for understanding and complying with all applicable laws, regulations, permits, requirements and 
+procedures, and completing all training relevant to their role.
+• Utilize ‘stop work’ authority when unsafe conditions or actions are observed.
+• Safety performance included in STI Plan for all employees.
+SOCIAL
+
+40
+Process Safety Management
+ONEOK has adopted the API Recommended Practice 754 that categorizes process safety events into one of four different tiers based 
+on severity. The formalized approach provides a structure for reporting and analysis of process safety incidents, near misses and 
+good catches that enhance our understanding of potential risks. Our ESH Leadership Committee’s Operations ESH Subcommittee also 
+provides process safety oversight and identifies opportunities. 
+Employee Training
+ESH Training: We prioritize the safety and health of our workforce and require various trainings to help equip our employees with the 
+knowledge they need to operate safely and responsibly. Depending on the job function, ONEOK field employees may each be required 
+to complete between 60 and 80 safety and health-focused core field training requirements, as well as courses focused on environmental 
+compliance and company best practices.
+Approximately 3,000 employees and contractors completed nearly 52,000 total 
+ESH training hours during 2020. 
+Core requirements include Emergency Response Action Plan training, which 
+must be completed every 12 months. ONEOK’s Emergency Action Plan 
+contains information used during emergencies designed to protect employees, 
+contractors, responders and assets while protecting the safety of the public and 
+environment. It is created in accordance with PHMSA, OSHA and EPA risk-
+management program regulations.
+Courses also included event reporting and investigation; hot work; ONEOK 
+personal protective equipment; waste management and mitigation; and air 
+pollution prevention.
+52,000
+ESH TRAINING HOURS
+3,000
+EMPLOYEES &  
+CONTRACTORS
+
+41
+Technical Training: ONEOK maintains an operator’s qualification program that aligns with PHMSA’s specific training and testing 
+requirements for employees who operate federally regulated assets. 
+ONEOK also maintains a robust technical training program that provides a framework for employees to manage and enhance the 
+technical proficiencies that apply to their jobs. Our competency management tool identifies the technical skills critical to various frontline 
+operations roles and provides employees with training plans that reinforce their strengths and create opportunities for development. 
+Direct supervisors of employees in roles included in this technical training program, such as pipeline operators and maintenance 
+mechanics, use this tool to assess proficiencies and support employee development with individualized online training, self-study 
+and mentorship. For many of these programs, ONEOK collaborates with an industry-led partnership that provides competency-based 
+training. 
+Depending on the role, an employee’s training may cover between 80 and 120 technical skills. The program is an important part of 
+ONEOK’s ESH Management System training and competency element and exists in addition to other company trainings such as those 
+specific to leadership, safety and health. 
+Due to its success, this technical training program has expanded from covering specific technical skills and training plans for 12 
+operations roles in 2018 to covering more than 115 positions currently. During 2020 ONEOK employees completed 6,350 modules  
+and 16,000 technical training hours.
+ 
+SOCIAL
+Safety meeting at an NGL  
+pipelines interconnect facility
+
+42
+Safety and Health Performance
+ONEOK uses several key metrics to help monitor its safety and health performance. These metrics and additional safety and health data 
+are also available to our stakeholders in the Safety and Health section of our Performance Data Table. 
+In 2020, we experienced an increase in employee injuries. The year-over-year increase in our total recordable incident rate (TRIR) and 
+days away, restricted or transferred (DART) incident rate was driven by an increase in slip, trip and fall events for operations employees. 
+Based on our review of 2020 safety performance data, we believe that the impact of the COVID-19 pandemic may have also been a 
+contributor to the increase in these events due to increased distractions and concerns created by the pandemic.
+ONEOK operations supervisors responded to the increase in slip, trip and fall events with strategic employee communications 
+emphasizing safety and health practices and encouragement to seek help when needed. ONEOK’s board of directors also responded by 
+requesting proactive safety and health messaging be made to all employees in early 2021. ONEOK has adopted the 2021 safety slogan 
+“Excellence in Safety is Never Achieved by Accident” to help emphasize safety messaging and maintain employee focus.
+Natural gas processing plant
+
+43
+Total Recordable Incident Rate (TRIR): TRIR is part 
+of our Short-Term Incentive Plan performance criteria for 
+all employees. Inclusion of this important safety metric 
+is designed to emphasize ONEOK’s commitment to safe 
+operations and to reward safe behavior throughout the 
+company. TRIR is the number of Occupational Safety and 
+Health Administration (OSHA) recordable injuries and 
+illnesses per 200,000 work hours. 
+ 
+Days Away, Restricted or Transferred (DART) Incident 
+Rate: DART rate reflects more serious injuries and illnesses 
+that result in lost workdays as defined by OSHA per 200,000 
+work hours. A lost workday is one in which (1) the employee 
+is prevented from returning to work, (2) the employee 
+is assigned to another job on a temporary basis, (3) the 
+employee works less than full time or (4) the employee is 
+not able to perform all job duties.   
+Preventable Vehicle Incident Rate (PVIR): Tracking 
+vehicle safety performance is one of the ways we manage 
+risk and help employees stay safe on the roads. ONEOK 
+employees may use company vehicles daily to carry out 
+their jobs, or drive rental or personal vehicles for business 
+travel.  No matter the reason for travel, the primary focus 
+should still be the same – safety. The 2020 preventable 
+vehicle incident rate (PVIR) of 0.88 is the best rate we 
+have ever achieved and is an improvement of nearly 15% 
+compared to the previous year.
+ 
+2016 2017 2018 2019 2020 2021
+TARGET
+1.22 1.12 1.11 1.04
+0.88
+0.79
+PVIR
+2016 2017 2018 2019 2020 2021
+TARGET
+1.05
+0.78
+0.58
+0.32
+0.69
+0.31
+TRIR
+2016 2017 2018 2019 2020 2021
+TARGET
+0.75
+0.33
+0.12 0.14
+0.38
+0.11
+DART Rate
+SOCIAL
+
+44
+PVI SEVERITY RATINGS: Severity categories help leadership coach employees more effectively regarding preventable vehicle incidents 
+(PVIs) and focus attention on preventing PVIs that have a higher likelihood of resulting in injury or damage to property. 
+These categories are:
+•  Tier I – Fatality, hospitalization or property damage greater than $50,000.
+•  Tier II – Recordable injury, vehicle tow away, minor fire/release, property damage $25,000 – $50,000 or direct impact to  
+process equipment.
+•  Tier III – First aid injury, vehicle driven away, property damage $3,000 – $25,000 or occurs within 10 feet of process equipment.
+•  Tier IV – No injury, minor damage (dent, scratch or ding) or property damage less than $3,000 that occurs more than 10 feet from 
+process equipment.
+MANAGING RISK ON THE ROAD: ONEOK uses telematics technology to promote safe driving habits of employees and to help reduce 
+risk while on the road. This GPS and onboard diagnostics system is currently present in more than 90% of our fleet vehicles and uses 
+audible cues to notify drivers in real-time of potentially unsafe driving behaviors such as harsh braking, harsh acceleration or speeding.
+The technology identifies individual driving patterns and assigns each driver a score, or report card, each month in order to identify 
+opportunities for improvement.
+Leadership recognized 225 drivers for earning “A” report cards, or driving scores of 90% or above, for all 12 months of 2020 while also 
+having no PVIs and traveling at least 1,000 miles each month. 
+Contractor Selection, Management and Safety
+ONEOK works with third-party contractors to assist with corporate services and the construction, operation and maintenance of our assets. 
+Contractor management is an important element of ONEOK’s ESH Management System, and our process includes established contractor 
+qualification, selection and retention criteria. Each third-party contractor is responsible for providing personnel who are appropriately 
+screened, trained and qualified. Once selected, contractors must comply with the same high ESH performance standards that we require of 
+our employees.
+ONEOK has several practices in place to proactively manage contractor safety and health. We work with our contractors to confirm that the 
+contractors on-site have completed general training requirements and receive any project-specific training.
+In recent years we have improved our selection process for contractor safety professionals providing for enhanced safety awareness, 
+culture and overall project performance on job sites. We also complete audits and inspections that help shape culture. 
+Additionally, the large projects team has in place safety targets specific to contractors working on ONEOK projects. The group sets annual 
+and project-specific targets for TRIR and PVIR, establishing performance to strive for and helping to drive accountability. TRIR and PVIR 
+are reviewed weekly during projects and shared with the contractor workforce on project calls.
+
+45
+Our large projects team also emphasizes the importance of leading indicator reporting, encouraging contractors to report the good 
+catches and near misses that help inform future safety and health improvements. The group has been successful in this initiative 
+capturing data on 90 near misses and 1,590 good catches in 2020, compared to 11 near misses and 105 good catches in 2017. This 
+type of leading indicator reporting aligns with our goals for quality information sharing across project groups, acting as a conduit for 
+conversation on improved operational practices and response. 
+SOCIAL
+Natural gas pipelines interconnect facility
+
+46
+OUR WORKFORCE
+ONEOK’s long-term success is dependent on our ability to attract, develop and retain a diverse group of talented employees. We seek to 
+hire and retain high-caliber talent and strive for an inclusive environment that rewards employees for their work and offers opportunities 
+for continuing career development. 
+People Attraction and Selection
+We desire to be an employer of choice. Our talent recruitment strategy emphasizes ONEOK’s core values – Ethics, Quality, Diversity, 
+Value and Service – and commitments to our people, the communities where we operate and our safe and reliable operating practices. 
+Human resources works closely with hiring leaders to recruit high-quality candidates for openings within their departments. Amid 
+COVID-19, we transitioned to virtual interviews.
+ONEOK prioritizes recruiting and hiring local talent when possible. As of Dec. 31, 2020, 94% of employees were residents of the state 
+where their positions were located. We also encourage internal mobility and advancement. In 2020, approximately 30% of our posted 
+vacancies were filled by internal candidates. More than 99% of our hiring is for full-time positions.
+We have adopted what we believe to be leading practices for sourcing, screening and hiring from diverse candidate pools. For example, 
+we do not ask external candidates about their salary history; we provide training to interviewers on compliance topics and interviewing 
+techniques; and we encourage hiring leaders to use diverse interviewers. 
+In recent years we have adopted new applications to enhance our sourcing and promotion of open positions. In 2019, we expanded our 
+veteran recruitment efforts by incorporating a Military Occupational Code (MOC) translator into our company careers website, which 
+allows candidates to use military titles to search for job openings at ONEOK that require similar skillsets. In 2020, ONEOK implemented 
+software that allows us to better source diverse candidates and promote positions to groups that are historically underrepresented in our 
+industry.
+In 2020, ONEOK also began using a new human capital management and applicant tracking system. The new system better integrates 
+our recruiting services and other human resource functions and will support our ongoing efforts to improve our hiring practices and 
+leverage data insights to inform our hiring strategy.
+ONEOK’s support of universities and technical schools in our communities includes a long-standing partnership with Langston 
+University, the only historically Black college or university in Oklahoma. ONEOK’s relationship with Langston includes contributing to 
+programming in important energy-industry focus areas such as accounting and information technology; career development in the form 
+of mock interviews, resume assistance, job shadowing and internships; and financial contributions to help support student scholarships, 
+career services and campus infrastructure improvements.
+School Partnerships: ONEOK maintains strong relationships with area technical schools, colleges and universities as part of our 
+strategy to attract talent. 
+Attending on-campus interviews, career fairs and networking events is part of our recruitment strategy. During 2020 we attended two 
+campus interview days and two technical school career fairs prior to COVID-19 restrictions. Traditional on-site intern and trainee 
+programs were cancelled in 2020 due to COVID-19 safety protocols, but ONEOK employed interns who were able to work remotely and 
+hired 19 new college graduates as full-time hires. Interns from departments that did not allow for virtual internships were paid a lump 
+sum to compensate for lost summer wages.
+We contributed more than $220,000 to support area universities and technical schools during the 2019-2020 school year. Of that 
+funding, 29% was geared specifically toward diversity and inclusion initiatives.
+
+47
+Culture and Engagement: Our success is due in large part to the skills, experience and dedication of our employees. We are 
+committed to cultivating an inclusive and dynamic work environment that embodies ONEOK’s values and where talented people can find 
+opportunities to succeed, grow and contribute to ONEOK’s success. 
+In 2019, ONEOK conducted a companywide employee engagement survey. The survey, administered by a third-party firm specializing 
+in employee engagement and analysis, targeted key workforce topics, including trust and collaboration, work conditions and leadership. 
+Compared with a benchmark based on data from 130 companies and more than 4 million survey respondents, ONEOK scored at 
+or higher than the benchmark on approximately 95% of questions. ONEOK received an engagement index score of 87%, which is 
+considered best-in-class based on market research. Company leaders reviewed survey results and identified companywide and segment-
+specific focus areas and action items. We did not conduct an engagement survey in 2020 due to the unique working environment 
+presented by the COVID-19 global pandemic.
+Career Development and Advancement 
+Providing professional and leadership development opportunities for our workforce is critical to retaining high-performing employees 
+and promoting a culture of continuous improvement. We encourage the use of the 70-20-10 model of development: 70% learning by 
+doing; 20% learning from others; and 10% learning through formal training.
+Career path training and resources are provided through:
+•  Formal annual performance assessments for all employees as well as supervisor-led ongoing informal dialogue about performance 
+and development.
+•  Training and resources including webinars, in-person trainings, individual consultations, books and self-guided learning.
+• Formal mentoring programs and leadership engagement provided through business resource groups.
+During 2020, ONEOK employees completed nearly 9,300 hours of training focused on leadership, professional development and 
+diversity and inclusion. Approximately 1,100 employees, or 38% of our workforce, participated in at least one of these trainings. ONEOK 
+transitioned all in-person trainings to virtual formats as part of our COVID-19 precautions and also introduced new trainings on topics 
+including goal setting, stress management, working through transition and working from home.
+9,300
+HOURS OF ORGANIZATIONAL 
+DEVELOPMENT
+SOCIAL
+
+48
+Leadership Behaviors and Expectations: ONEOK has established formal Leadership Behaviors and Expectations and provides 
+employees with the resources to build skills and understanding in these areas. ONEOK Leadership Behaviors and Expectations are:
+•  Integrity. 
+•  Vision, Accountability and Decision-Making.
+•  Collaboration and Communications.
+•  Assess Employee Performance.
+•  Visible and Open to Input. 
+•  Economic Thinking. 
+•  Emotional Intelligence. 
+•  Customer Relations. 
+•  Community Involvement. 
+•  Environmental, Safety and Health Focus.
+Our core Leadership Development Strategy consists of three classroom modules that emphasize these areas—foundations of 
+leadership, situational leadership and leading high performing teams. During 2020, these classes accounted for nearly 2,300 
+training hours across our organization. While these behaviors and expectations are key for ONEOK people leaders, many of the 
+company’s development resources apply to and are available to all ONEOK employees.
+In late 2020, ONEOK held a pilot program supporting new individual contributor learning tracks, created with the goal of enhancing 
+professional and personal development resources available to employees in individual contributor roles without direct reports. The 
+new program officially launched in 2021, consisting of six different tracks focused on (1) communication skills, (2) relational skills, 
+(3) business acumen, (4) organizing and planning, (5) diversity and inclusion and (6) foundational leadership. These self-paced 
+development programs offer resources like electronic learning modules, articles and videos that focus on specific areas of growth.
+NGL pipelines interconnect facility
+
+49
+Compensation and Benefits
+ONEOK is committed to offering a competitive total compensation package for all employees made up of elements that include base pay, 
+an annual cash incentive bonus target and benefits specific to areas such as health, wellness and retirement savings. Senior management 
+and other key employees also are eligible for long-term equity compensation awards. We routinely compare our compensation and 
+benefits offerings against peer companies, adjusting as needed to keep our total compensation package competitive.
+Our market-based compensation philosophy gives leaders the flexibility to adjust employee compensation to reflect individual skills, 
+experience, responsibilities, performance and external market factors. Leaders are expected to perform annual salary reviews, using 
+external market data compiled by human resources as well as their knowledge of local market conditions to support compensation 
+decisions. 
+Helping Employees Meet Financial Goals: ONEOK’s 401(k) plan automatic enrollment and annual increase programs help 
+employees stay on track with retirement savings. Unless employees opt out, the program automatically enrolls employees at a 
+contribution rate of 6% of eligible compensation and increases employee contributions by 1% annually, until they reach 10%. We 
+provide a 100% matching contribution up to 6% of eligible compensation and provide an additional profit-sharing contribution each 
+year for employees who do not participate in our traditional defined benefit pension plan. Employees may access 401(k) plan funds 
+through loans and hardship distributions, and we allowed participants to take penalty-free COVID-19 distributions in 2020. 
+In 2020, ONEOK also began allowing eligible participants who are no longer employed with the company the option to take 401(k) 
+withdrawals on a monthly, quarterly or annual basis and access funds in retirement without moving or withdrawing their entire account.
+As of Dec. 31, 2020, 96% of employees participated in ONEOK’s 401(k) plan. Of those participating, 95% contributed at or above 6% of 
+their compensation to receive the full company match.
+ONEOK offers an Employee Stock Purchase Plan (ESPP) that allows employees to contribute up to 10% of annual base pay to purchase 
+ONEOK stock at a 15% discounted price. Approximately 70% of eligible employees participate in the ESPP . Our Employee Stock Award 
+Plan issues a single share of ONEOK common stock to each employee every time it closes at a new high closing price, measured in 
+one-dollar increments.
+ONEOK Benefits Highlights: Company-sponsored benefits are an important part of an employee’s total compensation. See the 
+following pages of this report for full-time employee benefits highlights. Part-time employees also receive select benefits such as several 
+categories of paid time off (e.g., vacation, personal illness and family care, parental leave) but at fewer hour increments than full-time 
+employees.  For a more complete list of benefits ONEOK offers, visit oneok.com/careers/benefits or see our 2021 New Hire Guide.
+SOCIAL
+
+50
+Health and Wellness
+Paid Time Off
+•  Vacation: At least 120 hours of paid vacation leave annually, increasing with relevant experience (including prior to ONEOK). 
+Additional company paid holidays.
+• Personal Illness and Family Care: Up to 80 hours of paid leave.
+•  Short-Term Disability Leave: 100% of regular pay while on short-term disability for up to 90 days (< 5 years service) or up to  
+180 days (≥ 5 years of service).
+•  Maternity, paternity and adoption leave: Up to 240 hours of 100% paid leave for nonmedical baby bonding following birth/adoption in 
+addition to other available forms of leave.
+• Other PTO benefits include military leave, bereavement and jury duty.
+Health Benefits
+• Medical, dental and vision plans with select virtual health visit options.
+•  No-cost preventive care, including immunizations, well child visits, routine annual physicals and certain non-diagnostic screenings.
+• On-site (Tulsa headquarters only) and near-site clinics in several of ONEOK’s operating areas.
+• Health concierge program to assist with provider selection, billing issues, etc.  
+• Expert medical opinion service to obtain a no-cost second opinion.
+• Virtual diabetes prevention, cardiovascular health and weight loss programs.
+• Health care flexible spending and health savings accounts.
+
+51
+Mental Health Benefits
+• Employee Assistance Program. 
+• Chemical Dependency Treatment Program.
+• Virtual visits are available under health plans with dedicated mental health providers.
+ 
+Wellness Program
+• Resources on nutrition, fitness and general well-being.
+• Flu shots.
+• Tobacco-cessation program.
+•  Resources and information on financial topics, including childcare, college savings, budgeting, retirement planning and elder care.
+ 
+Other Benefits include: Accidental death and dismemberment insurance, long-term disability insurance, tuition reimbursement 
+program and adoption assistance program.
+Financial
+• 401(k) Plan.
+• Employee Stock Purchase Plan.
+• Employee Stock Award Plan.
+SOCIAL
+Mont Belvieu NGL fractionation and storage facilities
+
+52
+OFFICERS
+MINORITY
+OFFICERS
+WOMEN
+MANAGEMENT
+MINORITY
+MANAGEMENT
+WOMEN
+NON-MANAGEMENT
+MINORITY
+NON- MANAGEMENT
+WOMEN
+ONEOK LEADERSHIP
+0% %5 10 15 20 25
+202020192018 202020192018
+MINORITY
+WOMEN
+FIELD
+NON-FIELD
+EXEMPT
+NON-EXEMPT
+VETERAN
+ONEOK WORKFORCE
+0 10 20 30 40 50 60
+%
+202020192018
+EXTERNAL
+NEW HIRES
+INTERNAL
+HIRES
+TOTAL OFFERS
+ACCEPTED
+ONEOK HIRING DATA
+0 100 200 300 400 500 600
+External hire employment reflects start date during calendar year. 
+Internal hires and total offers accepted reflect date job posting closed.
+TOTAL EMPLOYEE WORKFORCE  
+2,886
+2020
+2018 - 2,698
+2019 - 2,869
+WORKFORCE 
+DATA
+2019 and 2020 data as of Dec. 31 of respective calendar 
+year. 2018 data as of April 2019. Minority, gender and 
+veteran status are self-reported by employees.
+5% 25 or Under
+26-3425%
+35-4429%
+21% 45-54
+55 or Over20%
+Workforce by Age
+418 External New Hires
+Internal Hires144
+Total Offers Accepted
+550
+Hiring Data
+WORKFORCE
+BY AGE
+2020
+HIRING
+DATA
+2020
+External hire employment reflects start date 
+during calendar year. Internal hires and total 
+offers accepted reflect date job posting closed.
+
+53
+0 500 1000 1500 2000 2500 3000
+OKLAHOMA 1,640
+NORTH DAKOTA  392
+TEXAS 339
+KANSAS 214
+MONTANA 85
+ILLINOIS 68
+ADDITIONAL STATES 148
+2020
+OFFICERS
+MINORITY
+OFFICERS
+WOMEN
+MANAGEMENT
+MINORITY
+MANAGEMENT
+WOMEN
+NON-MANAGEMENT
+MINORITY
+NON- MANAGEMENT
+WOMEN
+2,886
+TOTAL EMPLOYEE WORKFORCE  
+ONEOK LEADERSHIP
+EMPLOYEES BY STATE OF EMPLOYMENT 2020
+Employee workforce information is based on state of employment. 
+'Additional states' category includes Colorado, Indiana, Iowa, 
+Kentucky, Michigan, Minnesota, Nebraska, New Mexico, South 
+Dakota, Tennessee, Virginia, Wisconsin and Wyoming. 
+OKLAHOMA $249,959,391
+NORTH DAKOTA  $40,494,146
+TEXAS $38,865,129
+KANSAS $20,774,404
+MONTANA $17,028,813
+ILLINOIS $5,900,395
+OTHER STATES $20,166,357
+PAYROLL BY STATE OF RESIDENCE 2020
+Total payroll was $393.2 million in 2020 and represents a cumulative total 
+paid throughout the year. Payroll information is based on employee state of 
+residence. Comparing payroll and workforce information side-by-side 
+would not necessarily be accurate because some employees live and work 
+in different states and/or employees leave the company throughout the 
+year. Additional states category includes Colorado, Indiana, Iowa, Kentucky, 
+Minnesota, Nebraska, New Mexico, South Dakota, Tennessee, Wisconsin 
+and Wyoming. 
+0% %5 10 15 20 25
+2020
+MINORITY
+WOMEN
+FIELD
+NON-FIELD
+EXEMPT
+NON-EXEMPT
+VETERAN
+ONEOK WORKFORCE 2020
+0 10 20 30 40 50 60
+SOCIAL
+Safety meeting at an NGL pipelines interconnect facility
+
+54
+DIVERSITY AND INCLUSION 
+ONEOK believes that a diverse and inclusive workforce is essential to the long-term sustainability of ONEOK’s business. We are 
+committed to proactively embracing diversity and inclusion by providing resources, training and programming throughout our 
+organization, and working to create an environment where all employees know that their unique skills, abilities, experiences and 
+identities are valued.  
+Dedicated employee resources, outlined in the chart below, help our organization work toward our diversity and inclusion goals. These 
+include an executive council that oversees ONEOK’s diversity and inclusion efforts as well as a diversity and inclusion team that is part of 
+the ONEOK talent management group.  
+During 2020, our employees engaged in more than 3,500 hours of training related to diversity and inclusion topics. Last year ONEOK 
+contributed approximately $3.5 million, or more than 40% of total corporate and foundation giving, to diversity and inclusion-related 
+organizations. 
+Throughout 2021, the Tulsa community commemorated the 100-year anniversary of the 1921 Tulsa Race Massacre through events and 
+community projects to honor the victims who lost their lives during one of the nation’s worst acts of domestic terrorism. This recognition 
+is the result of several years of planning by members of the 1921 Tulsa Race Massacre Centennial Commission, a volunteer organization 
+whose steering committee includes ONEOK employees. 
+ONEOK has continued its long-time support of Tulsa’s Greenwood District – formerly known as Black Wall Street and site of the race 
+massacre – by committing $1.5 million to the Greenwood Rising History Center, the commission’s flagship project that honors the 
+legacy of Black Wall Street before and after the Tulsa Race Massacre. ONEOK also supported commemoration events led by the John 
+Hope Franklin Center for Reconciliation and Greenwood Cultural Center, and ONEOK’s Black/African American Resource Group held a 
+series of learning and recognition events for employees.
+Greenwood Rising History Center dedication
+
+55
+DIVERSITY AND INCLUSION LEADERSHIP AT ONEOK
+DIVERSITY AND INCLUSION EXECUTIVE COMMITTEE:  Made up of executive management and other 
+members of senior leadership, this group serves in an advisory capacity to guide ONEOK’s 
+diversity and inclusion efforts.   
+DIVERSITY AND INCLUSION COUNCIL:  This group of approximately 15 employees provides insight 
+on how diversity and inclusion can improve ONEOK’s organizational performance, drive 
+overall business results and help the company achieve its diversity-related goals. The 
+council is made up of employees from different business units, work locations and seniority 
+levels and includes members with different demographics, personal backgrounds and 
+points of view. 
+The council is chaired by our CEO. Diversity and Inclusion Executive Committee members 
+and liaisons from our legal, corporate communications and human resources teams attend 
+council meetings. 
+BUSINESS RESOURCE GROUPS: Employee-led business resource groups promote the develop-
+ment of traditionally underrepresented segments of our workforce. All employees are 
+invited to become an ally of one or more of these groups, and each is advised by two vice 
+president-level executive sponsors.  Each business resource group is allocated an annual 
+budget to support educational programming, mentorship and other activities.
+ 
+ONEOK Business Resource Groups: 
+• Black/African American 
+• Indigenous/Native American 
+• Latinx/Hispanic American 
+• Veterans 
+• Women 
+DIVERSITY AND INCLUSION WORK GROUP: A team led by our director of diversity and inclusion 
+supports and implements a variety of inclusion and leadership-related initiatives throughout 
+the organization and as part of ONEOK community partnerships. 
+SOCIAL
+
+56
+Continuous Improvement and Support: We recognize our responsibility to strive for continuous improvement in our diversity and 
+inclusion efforts. 
+In 2020, ONEOK implemented a software application that allows us to better source diverse candidates and market positions to groups 
+that are historically underrepresented in our industry. We also strengthened our transgender-inclusive medical benefits and updated 
+ONEOK Foundation donation guidelines to address discrimination against protected groups, including discrimination based on 
+sexual orientation and gender identity. These improvements contributed to our perfect score of 100 on the most recent Human Rights 
+Campaign Corporate Equality Index. Sexual orientation and gender identity were included in our company’s Anti-harassment and Non-
+discrimination Policy prior to the 2020 U.S. Supreme Court ruling finding that federal civil rights laws protect LGBTQ individuals from 
+workplace discrimination.
+In response to national events that have highlighted racial inequity across our country, ONEOK has offered additional diversity and 
+inclusion programming and educational resources to employees aimed at supporting our Black employees during times of racial unrest.  
+ Examples of actions taken in 2020 include: 
+•  Creation of a virtual workshop open to all employees teaching the skills necessary to be an effective ally in the workplace. This 
+workshop held a specific focus on the Black community, but all skills taught are transferable to other non-dominant identities. More 
+than 100 employees enrolled in the initial rollout of the training and more of these trainings are being offered based on demand. 
+•  Multiple avenues were provided for employees to share their stories and feelings about racial injustice, including a listening event 
+hosted by the Black/African American Resource Group. 
+•  We created opportunities for employees impacted by events of racial injustice to access mental health support services, individually 
+and in a group setting. 
+•  Multiple internal communications focused on allyship and support were distributed including messages from our CEO to all 
+employees; an internal opt-in series of emails that included resources on race in the workplace; and content in our employee 
+magazine about the role of allyship and its importance to ONEOK and the broader community. 
+•  ONEOK sponsored and presented at workshops hosted by the Tulsa Area Human Resources Association that addressed supporting 
+inclusion during unsettling times. All of the events were free and open to the public. 
+ONEOK will continue promoting individual and group support opportunities during difficult events in our community and nation by 
+hosting allyship workshops; deploying educational resources; and continuing to provide platforms for employees to engage in honest 
+conversations about race, identity and inclusion. We will continue to evaluate additional opportunities to support our diverse employee 
+community. 
+Business Resource Group Program Highlights: Our Business Resource Groups have continued their employee engagement and 
+development efforts throughout the COVID-19 pandemic by hosting committee meetings and employee events online. This move to 
+virtual meetings has resulted in allowing more employees from multiple field locations to attend events and regular committee meetings, 
+strengthening ONEOK’s employee network of allies from across our locations.
+
+57
+In addition to support, allyship and education specific to events of racial injustice last summer, our 2020 diversity and inclusion 
+programming included a five-week, virtual speaker series to recognize Global Diversity Awareness Month. Topics covered in this series 
+included unconscious bias; a presentation on leadership essentials led by ONEOK Board Member Eduardo Rodriguez and hosted by 
+the Latinx/Hispanic American Resource Group; and a presentation focused on ONEOK’s partnerships with Indigenous/Native American 
+tribes, hosted by the Indigenous/Native American Resource Group. 
+Other examples of training offered by ONEOK’s Business Resource Groups in 2020 included: 
+•  Black/African American Resource Group: The year-long Mentoring Circles program provided development opportunities by 
+pairing senior leaders with small groups of employees to discuss topics related to sponsorship, career management, leading from 
+any level and more. 
+•  Black/African American Resource Group: Virtual Learning Table events provided an opportunity to discuss relevant issues 
+facing historically underrepresented minorities while building workplace relationships across racial boundaries.  
+•  Indigenous/Native American Resource Group: In recognition of Native American Heritage Month our INRG issued a four-
+part weekly newsletter series highlighting numerous aspects of the vast diversity present within the Indigenous/Native American 
+community. 
+•  Latinx/Hispanic American Resource Group: Local Business Resource Group leaders gathered for an intelligence sharing 
+session to discuss leading practices and common focus areas to support Latinx/Hispanic American employees and customers. 
+•  Veterans Resource Group: Our Veterans Resource Group hosted a three-part Veterans and Allies Leading Organizational 
+Readiness (VALOR) series focused on military leadership principles for increasing resilience during challenging times.   
+•  Women’s Resource Group: Our Women’s Resource Group hosted the Leadership Development Roundtable, a series of six 
+webinars, focused on building leadership development skills. During 2020, the group also launched a four-month pilot program 
+where leaders met in an informal setting to discuss relevant topics and seek mentorship on a peer-to-peer level.
+SOCIAL
+ONEOK Veterans Day Parade float in Tulsa
+
+58
+CORPORATE CITIZENSHIP
+Corporate Citizenship Highlights 
+ONEOK works to enhance the quality of life and economic well-being in the communities where we operate through investments in 
+charitable organizations and causes that align with company values and goals. Investing in communities and supporting our employees’ 
+efforts to give back is not just the right thing to do, this commitment to service makes ONEOK a stronger company.
+During 2020, our community investments team led ONEOK’s COVID-19 response to distribute approximately $600,000 to help support 
+our communities. ONEOK continued to honor all its existing charitable commitments and adapted company giving and volunteer 
+programs to respond to community needs in a safe, virtual or socially distanced manner.  
+ONEOK contributed $8.2 million and nearly 7,500 volunteer hours across approximately 220 communities in 2020.  Additional corporate 
+citizenship highlights during 2020 include: 
+COVID-19 Response:  ONEOK contributed approximately $600,000 in COVID-19 relief to organizations and causes in the 
+communities where we operate. Funds were focused on the purchase of personal protective equipment; equipment and supplies for 
+schools; charitable organizations experiencing increased demand for services; and grants for hospitality and restaurant workers. Visit our 
+COVID-19 relief page for more details on our COVID-19 response. 
+United Way: ONEOK pivoted to a virtual United Way Campaign that reached more than 1,800 participants and raised $1.6 million 
+through pledges, fundraising events and company matches. The generosity and creativity of our employees meant our campaign was 
+able to exceed its fundraising goal. Additionally, leveraging virtual platforms made the campaign more inclusive across work locations.
+Volunteerism:  ONEOK shifted its existing and new company volunteer efforts to virtual opportunities. This included hosting a virtual 
+volunteer fair that reached approximately 25 charitable organizations and 150 employee participants. This event led to 10 virtual or 
+socially distanced volunteer projects with approximately 70 employee volunteers. 
+Wildlife Refuge Project: ONEOK’s Ivy Payne Wildlife Refuge project restored all recreational bridges across the 464-acre Texas 
+Land Conservancy property in East Texas, effectively reopening the refuge to the public after several years of being closed due to safety 
+concerns.
+
+59
+CORPORATE CITIZENSHIP IMPACT 
+Company Contributions: The ONEOK Foundation provides a consistent level of giving annually through grants and pledges to 
+nonprofit organizations in support of programs, projects and capital campaigns. 
+ONEOK also provides corporate contributions, generally in the form of sponsorships, to charitable organizations and events.  Employees 
+are often able to attend sponsorship-related events to learn more about organizations, which can help expand donor and volunteer bases.   
+During 2020, ONEOK Foundation giving totaled $5 million, and corporate contributions totaled $3.2 million. Approximately 40%, or 
+$3.5 million, of total giving supported diversity and inclusion-related organizations.  
+ 
+36% Community Improvement 
+Education
+Health and Human Services
+Other
+33%
+24%
+7%
+FOUNDATION
+CONTRIBUTIONS
+2020
+ ‘Other’ includes arts and culture, 
+ environmental and additional categories. 
+Giving By Focus Area: Total $5 million
+ 
+ 
+ ‘Other’ includes arts and culture, 
+community improvement, environmental 
+and additional categories. 
+37% Health and Human Services
+Civic
+Education
+Chamber
+21%
+14%
+10%
+Other18%
+CORPORATE
+CONTRIBUTIONS
+2020
+Giving By Focus Area: Total $3.2 million
+SOCIAL
+
+60
+Employee Contributions: ONEOK provides opportunities for employees to volunteer for company-sponsored projects and supports 
+their personal volunteer efforts such as serving on charitable or civic boards and organizations. 
+In 2020 our volunteer program, Volunteers With Energy, supported approximately 350 volunteers who contributed nearly 7,500 hours 
+of service to various causes in the communities where ONEOK operates. The service value of hours volunteered totaled more than 
+$200,000 based on an estimated value of $27.70 per hour of volunteer time. Volunteer totals include ONEOK employees, retirees, friends 
+and family. 
+To help employees increase the positive impact they make in their communities, and to further encourage giving back, we offer volunteer 
+service grants and matching grant programs, both detailed in the table below. ONEOK also recognizes employees for their volunteerism 
+by selecting annual ‘Volunteers of the Year’ nominees and winners.
+  
+Volunteer Service Grant Program 
+Employees and retirees may earn grants for their charity of  
+choice by volunteering for qualifying activities and recording  
+their hours. Volunteer hours can be redeemed for a total grant  
+of up to $500 per calendar year.  
+• 20 hours = $250 grant  
+• 40 hours = $500 grant 
+259 volunteer service grants $64,750 to charitable 
+ organizations 
+Matching Grant Program 
+ONEOK provides a dollar-for-dollar match of employee, retiree  
+and board of director contributions to eligible organizations. 
+  
+Employee/Director: Up to $5,000 per person, per calendar year.  
+ 
+Retiree: Up to $2,500 per person, per calendar year. 
+364 matching grants $239,355 to charitable  
+organizations 
+ 
+ONEOK PROGRAM 2020 GRANTS AWARDED 2020 FINANCIAL  
+CONTRIBUTIONS
+
+61
+Regional Community Investments Committees 
+Community investments committees act as advocates and liaisons for their local communities, helping to identify needs and distribute 
+volunteer and financial resources. Committees consist of employees in a variety of roles across the company including operations, talent 
+acquisition, government relations, corporate communications, diversity and inclusion and sustainability. Committees are managed by 
+ONEOK’s corporate community investments team and consider requests monthly. 
+ 
+Committee Operating Area 
+Central Colorado, Illinois, Indiana, Iowa, Kansas, Missouri, Wisconsin and Nebraska 
+Northern  Minnesota, Montana, North Dakota, South Dakota and Wyoming 
+Oklahoma Oklahoma, outside of Tulsa area 
+Southern Kentucky, New Mexico, Texas and Tennessee 
+ 
+SOCIAL
+An employee prepared STEM kits for the  
+STEM Alliance
+COMMUNITY INVESTMENTS COMMITTEES
+
+62
+GOVERNMENT RELATIONS
+ADVOCACY AND INVOLVEMENT
+ONEOK actively participates in the federal, state and local public policy processes that affect our business, industry, employees, 
+customers and the communities where we operate. ONEOK government relations representatives actively monitor legislative issues 
+and regulations in more than a dozen states and in Washington, D.C., and work to educate public officials about our operations and the 
+energy industry.
+Key policy issues regularly monitored by ONEOK include pipeline safety and critical infrastructure legislation, environmental policy, 
+taxes and eminent domain laws.
+Part of our government relations strategy includes advocating for our business and industry by engaging with industry associations and 
+utilizing ONEOK Employee Political Action Committee (ONEOK Employee PAC) membership and resources.
+U.S. Capitol
+
+63
+ONEOK EMPLOYEE PAC CONTRIBUTIONS
+2016 2017 2018 2019 2020
+State $69,140 $27,650 $91,320 $21,180 $99,930
+Federal $50,500 $21,500 $61,000 $13,000 $73,000
+Total $119,640 $49,150 $152,320 $34,180 $172,930
+100% of contributions are from ONEOK Employee PAC members. The ONEOK Employee PAC is registered with the 
+U.S. Federal Election Commission (FEC). It operates independently of any political party and complies with all reporting 
+requirements of the FEC and state and local laws.
+SOCIAL
+ONEOK EMPLOYEE PAC CONTRIBUTIONS
+INDUSTRY ASSOCIATIONS
+Involvement with industry associations, legislative and/or regulatory committees and other stakeholder groups strengthens 
+ONEOK’s ability to advocate for our interests. Through involvement in these groups, we participate in discussions about 
+policy issues related to our business and provide input from the midstream energy sector.
+In 2020, ONEOK was involved in 50 association groups in eight states and Washington, D.C., including energy industry 
+associations, state chambers of commerce, environmental associations and safety stakeholder groups.
+For a current listing of ONEOK’s involvement, visit oneok.com/about-us/political-engagement.
+ONEOK EMPLOYEE POLITICAL ACTION COMMITTEE
+ONEOK does not contribute corporate funds to political candidates but offers eligible employees the opportunity to participate 
+in the political process by contributing to the ONEOK Employee PAC, a voluntary fund that supports candidates who promote 
+business and the energy industry.
+A steering committee made up of senior management representatives oversees all decisions and management of the ONEOK 
+Employee PAC. A contribution committee made up of approximately 15 employees from across our operating areas oversees 
+and approves all ONEOK Employee PAC contributions to political candidates.
+For a list of ONEOK Employee PAC contributions, visit oneok.com/about-us/political-engagement.
+
+64
+SUPPLY CHAIN MANAGEMENT
+ONEOK’s supply chain is made up of suppliers that provide the goods and services necessary to the growth and operation of our 
+business. Safety, quality, sustainability and ethics are integral to our procurement process. We prioritize these values through the 
+following business practices: 
+• We treat our suppliers fairly and ethically based on appropriate business practices.
+•  We select suppliers based on fair competition. Awards are based on the supplier that can provide the maximum value, which may 
+include factors such as price, service, quality, technology, capability and/or reliability. 
+•  We communicate our values and commitments to suppliers through our Code of Business Conduct and Ethics. 
+  •   Our policies prohibit actual or perceived conflicts of interest including outside business interests or relationships, improper 
+payments, or excessive entertainment or gifts.
+•  •  Our procedures are designed such that goods and services purchased for ONEOK are in ONEOK’s best interest.  
+•  We value suppliers who prioritize sustainability, ethical workforce policies and commitments to human rights. We promote 
+alignment with our own commitments to these operating principles in our terms and conditions. 
+•  We endeavor to visit our Tier 1 supplier sites regularly to confirm compliance. We target to have onsite visits with above 70%  
+of our Tier 1 suppliers annually. We annually confirm supplier alignment with our expectations.  
+•  We annually review our supply chain geographical spend and target to keep 80% of our spend with domestic suppliers to help 
+amplify positive economic impact in our operating areas and better manage potential risk.  
+NGL pipelines interconnect facility
+
+65
+• Insurance, safety and operations qualification   
+  confirmations.
+• Data-driven management platform supports         
+   qualifications processes.
+SAFETY
+• Site visits.
+• Onsite inspection.
+• Use of technical specifications and standards.  
+QUALITY
+• Market Intelligence.  
+• Strategic Sourcing and Negotiations. 
+• Supplier Selection. 
+• Supplier Performance and Contract Management. 
+• Materials Management. 
+• Internal Alignment With Stakeholders. 
+PERFORMANCE, COST & SCHEDULE
+• Internal and external guidance and policies such as: 
+ •  Supplier Expectations Letter. 
+ •  Code of Business Conduct and Ethics.  
+ •  Conflict of Interest Policy. 
+ •  Service Contracts Policy and Procedures. 
+• Capturing Diversity Spend.
+SUSTAINABILITY AND ETHICS
+KEY PILLARS: ONEOK SUPPLY CHAIN MANAGEMENT
+Core Supply Chain Competencies
+SOCIAL
+
+66
+Employees conduct a safety check at  
+an NGL pipelines interconnect facility 
+NUMBER OF TOP-TIER SUPPLIERS 
+Supplier Management
+The companies in our supply chain span many different categories. The top expenditure categories during 2020 include construction, 
+engineering and technical services, mechanical equipment, rotating equipment and maintenance services. 
+Our supply chain management process includes regularly reviewing our supply chain expenditures. We annually categorize suppliers into 
+tiers based on percentage of ONEOK supply chain spend. Our Tier 1 supplier category is defined as suppliers that make up the top two-thirds 
+of our supply chain spend. Potential Tier 1 suppliers are identified in the first quarter of each year based on analysis of the previous year’s total 
+supply chain procurement spend, and our Tier 1 list is established following internal review. Tier 1 suppliers are reviewed annually by ONEOK 
+stakeholders and may be excluded from Tier 1 status for poor performance or lack of continued business needs for their services. 
+We aim to complete onsite visits with above 70% of our Tier 1 suppliers annually. During 2020, we classified 43 suppliers as Tier 1.  Despite 
+the challenges of 2020, ONEOK completed onsite visits with 86% of these Tier 1 suppliers during the calendar year. ONEOK completed site 
+visits with 98% of our 2020 Tier 1 suppliers between 2018 and 2020.  
+SUPPLIER CATEGORY 2018 2019 2020
+Tier 1 52 29 43
+Tier 2 88 61 78
+Tier 3 710 575 610
+Total percentage of ONEOK supply chain spend determines the tier in which we categorize our suppliers.  
+Together ONEOK’s Tier 1, 2 and 3 suppliers make up 97% of our supply chain spend.
+
+67
+55% Construction
+Engineering & Technical Services
+Mechanical Equipment
+Rotating Equipment
+8%
+6%
+6%
+Maintenance Services5%
+All Other Categories20%
+SUPPLIER CATEGORIES
+BY SPEND
+2020
+Supplier Categories by Spend
+ONEOK spend categories by percent of spend in 2020. “All Other” captures spend for the remaining 11 categories that include corporate, 
+industrial services, instrumentation and control, information technology and additional categories.
+Supplier Expectations 
+We collaborate with our suppliers to help them understand our commitment to sustainability, safety and ethical behaviors.  The ONEOK 
+supplier expectations letter is one way we communicate our values and commitments. The letter is sent annually and includes our Code 
+of Business Conduct and Ethics as well as expectations regarding safe and environmentally responsible operations; avoiding conflicts of 
+interest; maintaining work environments free from harassment, intimidation and other inappropriate behavior; respecting human rights; 
+and engaging in ethical labor practices.   
+Beginning in 2020, we required leadership of our Tier 1 suppliers to acknowledge receipt, review and understanding of ONEOK’s supplier 
+expectations annually. In 2020, we received 100% acknowledgement from this group. 
+Supplier Diversity 
+ONEOK values supplier diversity and affords equal opportunity to all suppliers whose products meet company criteria. ONEOK active 
+vendors include approximately 200 women-owned, 100 minority-owned and 1,300 small businesses, according to self-reported data. 
+Between 2018 and 2020, ONEOK spent a total of more than $450 million with suppliers that self-identified in one of these categories. 
+SOCIAL
+
+68
+TOTAL SPEND WITH SELF-IDENTIFIED DIVERSE, SMALL BUSINESS SUPPLIERS
+2018: $116.7 million  |  2019: $175.9 million  |  2020: $160.3 million
+Domestic Purchasing Practices  
+ONEOK values supporting American jobs and domestic manufacturing. Although factors such as cost, availability, quality and schedule are 
+considered in the sourcing decisions we make, our procurement practices prioritize buying American-made products.
+Our domestic purchasing expectations are communicated to suppliers in our sourcing requests, seeking to prioritize American 
+manufactured products. This purchasing practice applies to a broad range of products and materials, including but not limited to, pipe, 
+valves, processing unit equipment and safety equipment.  
+We annually review our supply chain geographical expenditures and target to keep 80% of our expenditures with domestic suppliers. This 
+priority helps us to amplify positive economic impact in the areas where we operate and to better manage potential supply chain risk. We 
+have consistently maintained our annual domestic expenditures at above 95% since we began tracking this metric in 2018. Between 2018 
+and 2020 ONEOK purchased materials or services from suppliers in the District of Columbia and all U.S. states except for Hawaii. 
+96% United States
+Other4%
+PERCENT 
+TOTAL SPEND
+2020
+Percent Total Spend
+About Our Reporting: ONEOK’s spend data is compiled from multiple reporting platforms which are not directly related to our financial 
+reporting. Data provided from self-identified diverse and small business suppliers is based on ONEOK total invoice spend. Our analysis 
+of domestic spend is based on total invoice and credit card spend associated with our supply chain. All other data is sourced from invoice 
+spend associated with our supply chain.
+
+69 SOCIAL
+NGL pipelines interconnect
+
+70
+Investors •  Executive management participation in investor 
+and industry conferences, and one-on-one 
+investor engagements.
+•  Dedicated investor relations team holds regular 
+meetings with investors.
+•  Dedicated investor relations hotline.
+•  Annual shareholder meeting and quarterly 
+earnings calls.
+•  Annual election of directors with majority voting 
+standard.
+Highlight: During 2020, members of our 
+management team and investor relations 
+department participated in approximately 
+30 investor conferences or events and held 
+approximately 450 discussions with investment 
+firms.
+Communities and  
+Landowners
+•  Public safety awareness programs such as 811 
+Call Before You Dig.
+•  Opportunities for one-on-one meetings and 
+community open house events prior to project 
+construction.
+•  Post-construction landowner follow-ups to 
+restore and maintain right of way.
+• Employee volunteer network.
+•  Financial contributions through the ONEOK  
+Foundation and corporate contributions.
+•  Executive management and employee 
+representation on community foundations and 
+boards.
+Highlight: ONEOK committed approximately 
+$600,000 to support COVID-19 relief efforts 
+across our operations in 2020.
+Highlight: ONEOK, or a representative, pursues 
+contact with all landowners where new project 
+construction will be located and maintains 
+ongoing dialogue and support with landowners 
+after projects are placed into operation.
+Customers • Regular dialogue and meetings.
+• Customer satisfaction surveys.
+• Customer appreciation events.
+Highlight: ONEOK uses a variety of engagement 
+methods such as meetings, phone calls, events 
+and outings to foster sustainable relationships 
+with our customers. During 2020, we engaged 
+with more than 95% of customers in all three 
+of our business segments – natural gas liquids, 
+natural gas pipelines, and natural gas gathering 
+and processing.
+STAKEHOLDER ENGAGEMENT
+ONEOK is committed to ongoing engagement with our stakeholders. We work to build constructive relationships with our diverse stakeholder 
+groups and to operate our businesses in a manner that recognizes the ESG expectations of those groups. We also work with community 
+organizations and provide resources designed to address the social, economic and environmental interests of key stakeholders.
+Some of these key stakeholders and examples of how we engage with them are described below.
+In addition to direct contact with specific company representatives such as media, investor and community relations representatives, all 
+stakeholders can contact ONEOK through the inquiry form on our website or through our ONEOK Hotline.
+GROUP ENGAGEMENT EXAMPLES ADDITIONAL INFORMATION
+
+71
+Employees and  
+Contractors
+•  Executive management employee meetings 
+across our operations.
+• Business resource groups.
+• Mentoring programs.
+• Employee surveys and focus groups.
+• Appreciation events.
+• Employee Assistance Program.
+• ONEOK Hotline.
+Highlight: ONEOK completed an employee 
+engagement survey in 2019 with an 82% 
+participation rate. Based on data from 130 
+companies and more than 4 million survey 
+respondents, ONEOK scored at or higher than the 
+benchmark on approximately 95% of questions. 
+Governments and  
+Regulatory Agencies
+•  Active Government Relations team with 
+representation in all states where we operate 
+and Washington, D.C.
+ •  Ongoing dialogue with regulators and  
+policy-makers.
+•  Frequent engagement throughout capital-
+growth project construction.
+•  Emergency response coordination and training 
+drills.
+Highlight: ONEOK participates on advisory 
+committees such as the North Dakota Gas 
+Capture Task Force to offer industry perspectives 
+and help provide solutions to public issues.
+Indigenous/Native  
+American People
+•  ONEOK’s Commitment to Engagement with 
+Indigenous/Native American People commits 
+to good faith engagement and communication 
+through collaborative relationships. See our full 
+commitment below.
+•  Engagement with representatives of 
+Indigenous communities, such as tribal historic 
+preservation officers, to review project plans. 
+•  Participation in industry events promoting 
+dialogue between energy companies and 
+Indigenous groups.
+•  Employee resource group facilitates 
+educational opportunities and encourages open 
+dialogue.
+Highlight: Our Indigenous/Native American 
+Resource Group hosted a presentation on 
+ONEOK’s partnerships with Indigenous/Native 
+American tribes as part of our virtual speaker 
+series recognizing Global Diversity Awareness 
+Month.
+Industry Associations •  Industry association memberships.
+•  Employee participation on boards and 
+association committees.
+Highlight: A ONEOK representative serves on the 
+INGAA Board of Directors and its Climate Strategy 
+Task Force. We provided input on the development 
+of INGAA’s recently released 2021 Vision Forward 
+commitment, which outlines the association’s 
+dedication to a cleaner energy future.
+We also provided input on the formation of the 
+Midstream ESG Reporting Template, developed by 
+the Energy Infrastructure Council (EIC) and GPA 
+Midstream Association. Additionally, ONEOK is a 
+member of Our Nation’s Energy Future Coalition 
+(ONE Future), committing to lower methane 
+emissions.
+SOCIAL
+GROUP ENGAGEMENT EXAMPLES ADDITIONAL INFORMATION
+
+72
+GROWTH PROJECTS: COMMITMENTS TO OUR STAKEHOLDERS 
+Pipelines are among the safest and most efficient methods of transporting the energy resources that are used to heat homes, generate 
+electricity and create end-use products that power healthier, safer and more connected lives. ONEOK’s focus on capital-efficient, 
+attractive-return growth projects is one way we provide long-term value to investors while continuing to grow our business responsibly.  
+Our commitment to safe and responsible operations applies to all aspects of our business, but we recognize there may be specific, 
+unique engagement and stakeholder needs related to construction and growth projects. Listening to stakeholders and obtaining input are 
+important parts of project development.
+For pipeline projects, we work diligently with landowners to establish easement agreements, which grant permission for a pipeline to 
+be constructed, operated and maintained on their property. We also work with applicable local, state and federal agencies to maintain 
+necessary permits related to our projects.
+Communications surrounding a project may include meetings with government or tribal officials, public meetings and town halls, and 
+one-on-one consultations with landowners. These stakeholder conversations include topics such as general information about ONEOK 
+and the project, safety and environmental considerations, the construction process, operations and rights of way.
+Throughout a project’s lifecycle, we prioritize safe construction and operation of assets as well as supporting and protecting our 
+employees, the communities where we operate and the environment. Key commitments that guide our construction and operations 
+activities include: 
+Commitment to Safety: We work to foster a zero-incident culture at ONEOK. We design, construct, operate and monitor our pipelines 
+and assets to meet government and industry standards, with a focus on industry leading practices and operational integrity. 
+ 
+Commitment to Supporting Communities: We invest in the communities where we operate and where our employees live and work 
+through corporate and foundation contributions and volunteer service. ONEOK has generated thousands of construction-related jobs 
+through pipeline projects and other assets, which once completed, continue to benefit communities through tax revenues supporting 
+public services and schools. 
+ 
+Commitment to Working with Communities and Landowners: ONEOK is committed to evaluating pipeline routes designed to 
+reduce adverse impacts to communities and the environment. We also strive for proactive and meaningful dialogue with communities 
+and landowners before, during and after construction is complete.   
+ 
+Commitment to Environmental Protection and Compliance: Environmental responsibility is a core tenet throughout all phases 
+of ONEOK projects – from development through restoration. Before a significant pipeline project begins, the route undergoes an 
+extensive environmental review and permitting process, including surveys to identify and minimize potential impacts to environmental 
+and cultural areas. 
+ 
+Commitment to Engagement with Indigenous/Native American People: ONEOK recognizes the diversity of Indigenous/Native 
+American People and is committed to creating and sustaining respectful relationships with Indigenous/Native American People in areas 
+where we conduct business. We are dedicated to operating in a socially and environmentally responsible manner, carefully considering 
+potential impacts of business operations on local communities and natural and cultural resources.
+
+73
+The cooperative nature of engagement with Indigenous/Native American People in business and community projects aligns closely with 
+ONEOK’s core values—Ethics, Quality, Diversity, Value and Service—which guide our actions toward achieving mutually beneficial 
+outcomes for all our stakeholders. 
+ 
+Where necessary and applicable, ONEOK facilitates external engagement according to the following practices:
+• Acknowledging that mutual trust and respect are fundamental to transparent communication.
+•  Recognizing Indigenous/Native American People and their communities may be affected by our  
+existing operations and future projects.
+• Committing to good faith engagement and communication through collaborative relationships.
+SOCIAL
+Arbuckle II Pipeline construction
+
+Governance
+74
+Responsible Operations
+Long-term business sustainability
+
+Strong corporate governance reinforces our company values and primary business strategy. Our focus 
+on financial strength and flexibility, safe and environmentally responsible operations, and ethics and 
+compliance promote long-term business sustainability.
+ONEOK’s board of directors and management are committed to maintaining strong corporate governance 
+practices that allocate rights and responsibilities among the board, management and investors in a 
+manner that benefits the long-term interest of stakeholders. Corporate governance practices are designed 
+not only to satisfy regulatory and stock exchange requirements but also to provide effective oversight  
+and management of our company. 
+Governance
+75
+Strong Corporate Governance
+
+76
+GOVERNANCE
+SUSTAINABLE GOVERNANCE STRUCTURE
+BOARD
+OF 
+DIRECTORS
+CEO & EXECUTIVE
+MANAGEMENT
+VICE PRESIDENT 
+ENVIRONMENT, SAFETY AND 
+HEALTH AND COMMITTEES
+MANAGEMENT AND BUSINESS 
+SEGMENT LEADERS
+EMPLOYEES
+Provides key leadership, oversight and diverse energy industry and business expertise.
+Oversees executive management’s development of the company’s ESG practices.
+• Nonexecutive board chairman; lead independent director.
+• Independent committee chairs – Audit, Executive Compensation and Corporate Governance.
+Oversee the development, implementation and reporting of the company’s ESG practices; 
+facilitate enterprise risk management process with participation and oversight from the 
+board of directors.
+Oversee development, implementation and reporting of ESG practices.
+• ESH Leadership Committee.
+• ESG Council.
+Support the integration of ESG policy and practices into daily operations. 
+Business segments include:
+• Renewables and International Business Development Group: Evaluates 
+   opportunities for commercial development of renewable energy and
+   lower-carbon projects; leads efforts to expand international market presence.
+• Sustainability Group: Guides ONEOK’s sustainability practices and disclosure.
+Carry out ONEOK’s business and ESG practices while serving as 
+the point of contact for key company stakeholders.
+
+77
+Board of Directors
+ONEOK is led by an 11-member board of directors 
+with deep experience and diverse expertise relevant 
+to our company’s strategy, business and industry. Our 
+board has a long-standing commitment to corporate 
+responsibility and sustainability, including safety 
+and health, environmental performance, community 
+leadership, and investment and oversight of public 
+policy engagement.
+ONEOK Board of Directors
+Provides key leadership, oversight and diverse energy industry and business expertise.
+• Nonexecutive board chairman; lead independent director.
+• Independent committee chairs – Audit, Executive Compensation and Corporate Governance.
+CEO & EXECUTIVE MANAGEMENT
+Provide overall oversight and responsibility for companywide ESG strategy and implementation.
+VICE PRESIDENT ENVIRONMENT, SAFETY AND HEALTH AND COMMITTEES
+Oversee development and implementation of sustainability strategy.
+• ESH Leadership Committee.
+• ESG Council.
+MANAGEMENT AND BUSINESS SEGMENT LEADERS
+Support the integration of ESG policy and strategy into daily operations.
+EMPLOYEES
+Carry out ONEOK’s business and ESG strategy while serving as the point 
+of contact for key company stakeholders.
+SUSTAINABLE GOVERNANCE STRUCTURE
+ONEOK BOARD OF DIRECTORS
+ONEOK 
+BOARD OF
+DIRECTORS
+SUSTAINABLE GOVERNANCE STRUCTURE
+BOARD OF 
+DIRECTORS
+CEO & EXECUTIVE
+MANAGEMENT
+VICE PRESIDENT 
+ENVIRONMENT, SAFETY AND 
+HEALTH AND COMMITTEES
+MANAGEMENT AND BUSINESS 
+SEGMENT LEADERS
+EMPLOYEES
+SUSTAINABLE GOVERNANCE STRUCTURE
+BOARD OF 
+DIRECTORS
+CEO & EXECUTIVE
+MANAGEMENT
+VICE PRESIDENT 
+ENVIRONMENT, SAFETY AND 
+HEALTH AND COMMITTEES
+MANAGEMENT AND BUSINESS 
+SEGMENT LEADERS
+EMPLOYEES
+Provides key leadership, oversight and diverse energy industry and business expertise.
+• Nonexecutive board chairman; lead independent director.
+• Independent committee chairs – Audit, Executive Compensation and Corporate Governance.
+Provide overall oversight and responsibility for companywide ESG strategy and implementation.
+Oversee development and implementation of sustainability strategy.
+• ESH Leadership Committee.
+• ESG Council.
+Support the integration of ESG policy and strategy into daily operations.
+Carry out ONEOK’s business and ESG strategy while serving as the point 
+of contact for key company stakeholders.
+WOMEN
+18%
+WOMEN
+18%
+MINORITY
+18%
+MINORITY
+18%
+AGE 60-69
+73%
+AGE 60-69
+73%
+82%
+INDEPENDENT
+82%
+INDEPENDENT
+AGE > 70
+27%
+AGE >= 70
+27%
+Corporate Governance Highlights
+• Annual elections and majority voting for directors.
+• A commitment to regular board refreshment and a robust director nominee selection process.
+• Long-standing shareholder engagement program.
+• Bylaws provide for proxy access by eligible shareholders.
+• Regular board and committee performance evaluations.
+• Mandatory director retirement age of 75.
+• Regular executive sessions of nonmanagement directors and independent directors.
+• Annual review of ONEOK’s strategic plan.
+•  Risk oversight by full board and committees, including a comprehensive annual enterprise risk management process and periodic 
+updates on specific key risks throughout the year.
+•  Alignment of executive compensation with total shareholder return, return on invested capital, EPS, and safety and environmental 
+metrics.
+•  Annual succession-planning review by independent directors, including succession timing and development plan discussions with 
+CEO and board chairman. 
+For additional details on corporate governance practices and board membership, see ONEOK’s 2021 Proxy Statement and the 
+governance section of our website. 
+18% Women
+Racial/Ethnic Diverse18%
+Male Caucasian64%
+Board Demographics
+36% 0-5 Years
+6-10 Years18%
+>10 Years46%
+Board Tenure
+BOARD 
+DEMOGRAPHICS
+2020
+BOARD
+TENURE
+2020
+GOVERNANCE
+Board of Directors data as of May 26, 2021.
+
+78
+ESH AND SUSTAINABILITY GOVERNANCE 
+ESH LEADERSHIP COMMITTEE: ONEOK’s ESH Leadership Committee provides vision, leadership, direction and oversight for 
+all ESH and ESG programs, processes and management systems. Co-chaired by the Chief Administrative Officer and Chief Operating 
+Officer and facilitated by the vice president of ESH, the committee is composed of a multidisciplinary group of senior management and 
+subject-matter experts. 
+The ESH Leadership Committee routinely provides ESH and ESG updates to the board of directors through monthly board reports, 
+and three of the committee members report directly to ONEOK’s CEO, who is also a board member. Key ESH leadership committee 
+responsibilities include:
+• Evaluating potential ESH and ESG risks and opportunities.
+• Promoting and advocating expectations for ESH and ESG excellence across our organization.
+• Reviewing performance trends and driving initiatives and accountability to improve performance.
+• Driving consistency and sharing of company best practices among business segments.
+• Identifying, evaluating and communicating emerging issues that may impact ESH and ESG performance.
+• Promoting consistent companywide application of ESH policies, standards and objectives.
+• Facilitating improvements through oversight of the ESH Management System framework.
+• Overseeing our company’s ESH recognition and reward programs.
+OPERATIONS ESH SUBCOMMITTEE: An operations subcommittee focused on process safety oversight and opportunities reports 
+to our ESH Leadership Committee. Membership includes ONEOK’s senior vice president of operations and vice president of natural gas 
+operations.
+ESG COUNCIL: We formed an Environmental, Social and Governance (ESG) Council as part of our corporate goal to continuously 
+improve ESG performance and provide meaningful disclosures. The ESG Council, which reports to the ESH Leadership Committee, 
+provides us with sustainability-focused vision, recommendations and oversight. We structured the ESG Council to have a larger and 
+more diverse composition than the ESH Leadership Committee. The ESG Council includes leaders from various departments including 
+Renewables and International Business Development, Operations, Human Resources, Legal, Commercial, Sustainability, Government 
+Relations, Accounting, Investor Relations and Communications. The diversity of perspectives from multiple departments promotes the 
+effective consideration of ESG concerns across several aspects of our business.
+
+79
+The Council meets monthly to discuss multiple ESG topics, such as diversity and inclusion, investor interest and ESG performance. 
+Members attend monthly ESH Leadership Committee meetings upon request to provide updates and recommendations. Key ESG 
+Council responsibilities include:
+•  Reviewing performance trends, defining goals and recommending initiatives to drive ESG improvements.
+• Reviewing and recommending current and future ESG policies, commitments and disclosures.
+• Responding to investor inquiries and rating/ranking agency reports related to ESG topics.
+• Evaluating future ESG investments.
+• Promoting ESG-related best practices. 
+ESH ORGANIZATION: ESH is embedded throughout ONEOK with both operations and corporate ESH organizations working together 
+to accomplish ONEOK’s ESH goals and expectations.
+Our operations ESH organization is composed of environmental, safety and health professionals who focus on compliance and process 
+implementation across our assets. The organization includes two environmental compliance groups, one focused on growth projects and 
+the other focused on existing operations, as well as safety and health groups specific to our business units.
+ONEOK’s corporate ESH organization is responsible for strategy, oversight and reporting of our ESH functions. The corporate group 
+consists of four departments who report to our vice president of environment, safety and health.
+These groups and their functions are: 
+•  Safety and Health: Oversees ONEOK safety and health functions and drives ideas and opportunities that strive for continuous 
+performance improvement.  
+•  Management Systems: Guides ESH improvement, risk assessment, mitigation and ESH information management system 
+development and deployment.
+•  Technical Training: Provides leadership and strategic direction for the technical training programs and related activities 
+supporting operations.  
+• Sustainability: Guides ONEOK’s sustainability practices and disclosures.
+GOVERNANCE
+
+80
+RISK MANAGEMENT
+We formalized our risk management processes, which include evaluation of certain ESG risks, for the assessment of developing risks 
+over the longer term. ONEOK’s risk management process includes a series of meetings and reviews with senior management to identify, 
+evaluate and prioritize external developing risks over the next decade. 
+This analysis of longer-term developing risks supplements our legacy Enterprise Risk Management (ERM) process that remains focused 
+on a one-year time horizon and shorter-term risks. Overseen by our chief financial officer, the ERM and developing risks assessment is 
+a key part of our annual strategic-planning efforts and involves identifying and assessing a broad range of risks and developing plans to 
+mitigate them.
+The dual approach with the legacy ERM process and the long-term developing risks assessment gathers input from all employee 
+levels. These processes provide a structure for ongoing risk assessment dialogue with executive management and facilitate mutual 
+understanding between ONEOK’s board and executive management regarding the effectiveness of risk-management practices, controls 
+and capabilities, risk exposure and guidance on when to elevate certain key risks for discussion at the board level.
+The board performs its risk oversight responsibilities by having executive management provide periodic briefing and informational 
+sessions on the significant risks that our company faces and how we’re seeking to control and mitigate those risks. In some cases, risk 
+oversight is addressed as part of the full board’s ongoing engagement with the chief executive officer and executive management. 
+The board reviews management’s assessment of the various operational and regulatory risks facing our company, their relative 
+magnitude and management’s plan for mitigating these risks. This review is integral to the board’s review of ONEOK’s business strategy 
+at its annual strategic planning meeting and at other meetings as appropriate. In certain cases, a board committee is responsible for 
+oversight of specific risk topics.
+For more detailed information on ONEOK’s risk-management philosophy and structure, see the 2021 Proxy Statement.
+TAX GOVERNANCE 
+ONEOK’s approach to tax prioritizes compliance and risk mitigation. Our overarching tax strategy, including the consideration of tax 
+policy, standards and principles, is overseen by our chief financial officer and is embedded within our company’s business segments 
+and financial planning function. Additionally, members of the ONEOK Board of Directors Audit Committee review tax planning efforts and 
+taxing authority developments.
+We engage with multiple groups and taxing authorities to monitor tax legislation. Our corporate tax activity is based within the U.S. and 
+seeks to comply with applicable laws at the local, state and federal levels.
+Natural gas processing plant control room
+
+81
+ETHICS, COMPLIANCE AND REPORTING 
+ONEOK is committed to operating in an ethical manner and in compliance with related applicable laws and regulations. Several ethics and 
+compliance policies and a Code of Business Conduct and Ethics govern our business practices and set expectations for integrity and lawful 
+behaviors. 
+The ONEOK Hotline provides a forum for the submission of complaints or concerns regarding improper or unethical business behavior, 
+questionable accounting or auditing matters or other matters arising under the Code of Business Conduct and Ethics. Those using the hotline 
+have the option to report anonymously. 
+The ONEOK Whistleblower Policy and the Non-retaliation Policy within the Code of Business Conduct and Ethics prohibit any form of 
+retaliation against employees for raising a concern honestly and in good faith, or truthfully participating in a company investigation.  All 
+reports, including those of retaliation, are investigated. As part of our commitment to transparency, ONEOK issues an annual internal report to 
+update employees on Code of Business Conduct and Ethics investigations and actions taken including warnings, coaching, policy reminders, 
+demotions or terminations. No identifying information is included in this update.
+Ethics and Compliance Training
+All ONEOK board members complete annual corporate compliance training that covers our Anti-corruption Policy, Code of Business Conduct 
+and Ethics, Securities and Insider Trading Policy, Statement of Policy Regarding Conflict of Interest and Antitrust Guidelines.
+All ONEOK employees complete annual Corporate Compliance training and acknowledgements that cover our Code of Business Conduct 
+and Ethics and included Non-retaliation Policy; our Securities and Insider Trading Policy; and our Statement of Policy Regarding Conflict of 
+Interest.
+Additionally, employees directly impacted by the Anti-corruption Policy must acknowledge the policy and complete training every other year. 
+This group is made up of those whose responsibilities may involve international business dealings, including those working in accounting, 
+audit, legal, treasury, finance and commercial roles. In 2020, 100% of the employees required to take anti-corruption training completed 
+it. The ONEOK Anti-corruption Policy reinforces our commitment to conducting business in an ethical manner and in full compliance with 
+applicable U.S. and foreign laws. Effective training on the policy is one of the many ways that ONEOK manages corruption risks and potential 
+fraud.
+A targeted group of employees also receives training on and acknowledges our Antitrust Guidelines every year. ONEOK’s Antitrust Guidelines 
+help our employees identify conduct they must avoid and activities with potential antitrust risks. These guidelines are part of our commitment 
+to upholding antitrust laws and a competitive marketplace.
+Human Exploitation
+Human exploitation traps millions of people, including children, in horrific situations around the world, including here in the U.S. Individuals 
+who engage in human exploitation use violence, threats, deception, debt bondage and other manipulative tactics for the purpose of exploiting 
+people, sexually and otherwise, for profit. ONEOK is committed to conducting business in an environment free from human exploitation of 
+any kind and has adopted the ONEOK Human Exploitation Policy to reinforce our commitment.
+We expect our employees, suppliers and others with whom we do business, to respect the human rights of all people and engage in ethical 
+labor practices that are free of child labor, forced labor and other forms of exploitation.
+To strengthen employee understanding and awareness around human rights and exploitation and to help clarify ONEOK’s expectations for 
+identification and reporting of potential instances, we released a training video to all employees in April 2020. In addition to the training 
+video, policy reminders and information are posted to our website, employee intranet and at common work areas across our operations.
+GOVERNANCE
+
+82
+CYBER AND PHYSICAL SECURITY 
+Protecting Our Assets 
+ONEOK takes a cross-disciplinary approach to security. We use systems and procedures to protect our physical and cyber assets as well 
+as to enhance business continuity and disaster recovery preparedness. 
+Securing company assets is critical to ONEOK’s commitments to: 
+• Provide safe work environments for employees and contractors. 
+• Act as a responsible member of the communities where we operate. 
+• Provide reliable service to customers. 
+• Create value for stakeholders. 
+ 
+Security Leadership 
+Security at ONEOK is governed by the Security Advisory team, an executive advisory committee composed of company officers from 
+various business segments who meet regularly to evaluate ongoing security threats, define policy and prioritize initiatives. ONEOK’s 
+board of directors also receives regular updates on our company’s physical and cybersecurity efforts. 
+Our vice president of security chairs this advisory team and leads work groups responsible for cybersecurity, physical security, building 
+operations, risk management and business continuity. 
+Cybersecurity 
+ONEOK’s cybersecurity program generally follows the guidelines of the widely utilized National Institute of Standards and Technology 
+(NIST) Cybersecurity Framework and focuses primarily on corporate information security, industrial control system (ICS) security and 
+physical security. 
+ONEOK segments its networks into subnetworks to improve performance and security. We have business continuity and disaster 
+recovery plans in place that allow for switching to redundant backup systems, alternative forms of communication and manual operation 
+of assets. We also work collaboratively with the FBI and other relevant law enforcement resources to address cyberthreats. 
+Our corporate network infrastructure includes technology that gives employees secure, quick access to their applications and data while 
+off-site. ONEOK’s commitment to providing safe remote access and use of cloud-based technology enabled business operations to 
+continue uninterrupted as a result of work-from-home schedules put in place amid COVID-19.
+
+83
+Critical Infrastructure Security 
+ONEOK is an essential critical infrastructure business, and cybersecurity is a top priority for our company’s leadership and board of 
+directors. In late 2019, ONEOK launched a new platform that provides enhanced security management and consistent secure remote 
+access to critical assets like processing plants, fractionators, compressors, pump stations, meters and storage facilities that make up our 
+company’s industrial control system (ICS). 
+The new platform is the result of a multiyear initiative. It focuses on secure infrastructure, secure management, high availability and 
+disaster recovery. The platform provides improved asset protection through isolation and creates efficiencies when identifying and fixing 
+potential issues.
+ 
+Physical Security 
+ONEOK’s Physical and Information Security teams were combined into a single Security Team in 2019. Centralizing security intelligence 
+has resulted in more efficient information sharing and enhanced controls. 
+ONEOK uses technology as part of its physical security strategy. This includes video surveillance as well as access control systems 
+that limit facility and office entry to approved individuals and provide a record of individuals in a workspace at any given time. ONEOK 
+is working to standardize physical security technology across our operations, including deploying common ID-badge technology that 
+enables employees to use a single badge to access multiple locations. This initiative continued during 2020 and to date approximately 
+2,250 employees are covered by the common ID-badge technology. 
+ 
+GOVERNANCE
+Security at ONEOK Plaza
+
+84
+Employee Security Training 
+We provide training to help employees recognize and avoid potential security threats. We ask employees to remain alert to potential 
+problems and report suspicious activity to ONEOK Security.  
+Employees operating and monitoring ONEOK ICS assets are required to complete security training that includes information about 
+specific threat indicators in the ICS environment and practices for identifying and responding to threats. 
+All individuals who may have access to HIPAA-protected health information (PHI) are required to complete annual training and maintain 
+other physical, technological and procedural safeguards designed to protect the privacy and security of all PHI in accordance with our 
+HIPAA policies and procedures manual. 
+All employees are encouraged to participate in our SecuritySense program, a monthly training course on a variety of security topics. 
+Nearly 2,350 employees, or approximately 80% of our workforce, participated in the voluntary SecuritySense training program during 
+2020. Employees completed approximately 1,600 total training hours during the year. 
+The SecuritySense program includes employee education on identifying potential phishing communications and the process for 
+reporting suspicious emails at ONEOK. Other course topics during 2020 consisted of: active shooter awareness; cybersecurity during the 
+COVID-19 pandemic and work-from-home security reminders; property theft prevention; ONEOK’s end-user computing policy; ONEOK 
+security services; and National Cybersecurity Awareness Month. 
+Crisis Management 
+ONEOK maintains detailed procedures covering crisis management, emergency response and incident communication and conducts 
+drills to practice and evaluate crisis response efforts. Drills provide ONEOK and participating authorities an opportunity to test crisis 
+response preparedness, coordinate efforts and identify areas for improvement. 
+ 
+Security control room
+
+85 GOVERNANCE
+A security camera monitors the entrance 
+to a natural gas processing plant
+
+86
+TOPIC TRAINING
+ONEOK Training Overview  
+We provide our employees with resources that support ethical, sustainable and safe performance and that encourage continuing professional 
+development. ONEOK offers robust training programs with content that goes beyond regulatory requirements and that helps our employees  
+deliver quality results and recognize and manage risk. 
+Training topics at ONEOK include corporate compliance and ethics, environmental stewardship, safety and health, technical skills, diversity  
+and inclusion, professional development, leadership, cybersecurity, physical security and other topics. On average, each employee completed  
+27.3 training hours during 2020.   
+COMPLIANCE AND ETHICS   
+Anti-corruption training  
+This training reinforces our commitment to conducting 
+business in an ethical manner and in full compliance with 
+applicable U.S. and foreign laws. Educating employees on 
+these topics is one of the many ways that ONEOK manages 
+risk surrounding corruption or potential fraud.   
+A targeted group of employees whose responsibilities may involve 
+international business dealings (such as accounting, audit, legal, 
+treasury, finance and commercial roles) must acknowledge the 
+policy and complete training every other year. All required 
+employees completed the training in 2020.  
+  
+Anti-harassment  
+We are committed to providing our employees with a work 
+environment free from harassment, intimidation and other  
+inappropriate behavior. Our anti-harassment training 
+educates our employees about expectations for conduct  
+as well as resources available.  
+  
+All ONEOK employees must complete anti-harassment training  
+every other year.  
+Antitrust  
+ONEOK is committed to upholding antitrust laws and a  
+competitive marketplace. We provide training to help  
+employees identify conduct they must avoid and activities 
+with potential antitrust risks.  
+A targeted group of employees complete annual training and 
+acknowledgement of the Antitrust Guidelines.  
+Corporate Compliance  
+ONEOK Corporate Compliance training reinforces our  
+commitment to conducting business with integrity;  
+consistent with ONEOK values; and in full compliance  
+with all laws and regulations.   
+  
+All ONEOK employees complete annual Corporate Compliance 
+training and acknowledgement covering our Code of Business 
+Conduct and Ethics and its included Non-retaliation Policy; our 
+Securities and Insider Trading Policy; and our Statement of Policy 
+Regarding Conflict of Interest.  
+  
+Human Exploitation  
+ONEOK is committed to conducting business in an environ-
+ment free from human exploitation of any kind and expect 
+our employees, suppliers and others with whom we do  
+business to respect the human rights of all people and 
+engage in ethical labor practices.  
+  
+We released an optional training video to all employees in April 
+2020 to strengthen understanding and awareness around human 
+rights and exploitation and to help clarify ONEOK’s expectations  
+for identification and reporting of potential instances.
+
+87
+OPERATIONS   
+Environment, Safety and Health (ESH)   
+We prioritize the safety and health of our workforce and 
+require various trainings to help provide employees with 
+the knowledge they need to operate safely, responsibly 
+and sustainably.  
+  
+  
+  
+Approximately 3,000 employees and contractors completed nearly 
+52,000 total ESH training hours during 2020. Requirements for 
+each employee depend on job function.   
+  
+Technical Training  
+ONEOK maintains a robust technical training program 
+that provides a framework for employees to manage and 
+enhance the technical proficiencies that matter most to 
+their jobs.  
+ONEOK employees completed approximately 6,350 modules and 
+16,000 technical training hours during 2020. Our technical training 
+program covers more than 115 operations positions currently. Our 
+competency management tool identifies the technical skills critical 
+to various frontline operations roles and provides employees in 
+those roles with training plans that reinforce their strengths and 
+create opportunities for development.    
+SECURITY AND PRIVACY   
+Cyber and Physical Security  
+We provide training to help employees recognize and avoid 
+potential security threats.   
+  
+Nearly 2,350 employees, or approximately 80% of our workforce, 
+participated in the voluntary SecuritySense training program, a 
+monthly training course on a variety of security topics including 
+cybersecurity. In total, employees completed approximately 1,600 
+training hours during the year.   
+HIPAA Training  
+ONEOK requires training on the policies and procedures  
+it maintains to protect personal health information in  
+accordance with the Health Insurance Portability and  
+Accountability Act (HIPAA).   
+All individuals who may have access to HIPAA-protected health 
+information (PHI) are required to complete annual training and 
+maintain other physical technological and procedural safeguards 
+designed to protect the privacy and security of all PHI in accor-
+dance with our HIPAA policies and procedures manual.
+WORKFORCE   
+Organizational Development  
+Providing professional and leadership development  
+opportunities is critical to retaining high-performing  
+employees; promoting a culture of continuous improvement; 
+and building a stronger, more inclusive organization.   
+  
+During 2020, ONEOK employees completed 9,278 total hours of 
+training focused on leadership, professional development, and 
+diversity and inclusion. Around 1,100 employees, or 38% of our 
+workforce, participated in at least one of these voluntary trainings.  
+  
+ 
+For downloads of the following associated policies, guidelines and code of conduct visit oneok.com.
+• Anti-corruption Policy.   
+• Anti-harassment and Non-discrimination Policy.   
+• Code of Business Conduct and Ethics.   
+• Human Exploitation Policy.   
+• Non-retaliation Policy.   
+• Whistleblower Policy.  
+  
+GOVERNANCE
+TOPIC TRAINING
+
+88
+ENVIRONMENT 
+Agency Reportable  
+Environmental Event  
+Rate (AREER) 
+AREER is an internal environmental performance 
+metric that promotes a continued reduction in spills 
+and emission events that are reportable to a state or 
+federal agency. AREER is part of STI Plan performance 
+criteria for all employees. 
+ 
+Since the implementation of the AREER metric, we  
+have seen a year-over-year reduction in our rate of 
+reportable environmental events.   
+0.40 
+2021 Target reflects:  
+·  5% improvement compared 
+with 2020 actual performance. 
+·  44% improvement compared 
+with 2020 target of 0.71.  
+0.42
+ 2020 performance best on record.
+ONEOK Performance Targets
+ONEOK sets ESG-related targets annually. These targets promote continuous improvement and communicate our high expectations for 
+leadership and employees.  
+Companywide targets set by our board of directors, including performance measures that are part of our Short-Term Incentive (STI) Plan, 
+are detailed in the table below. These challenging but achievable targets are based on ONEOK’s historical performance and top quartile peer 
+company performance. 
+CATEGORY/DESCRIPTION 2021 TARGET 2020 PERFORMANCE
+
+89
+SAFETY AND HEALTH  
+Total Recordable Incident Rate (TRIR)
+TRIR is part of our STI Plan performance criteria for all 
+employees. Inclusion of this important safety metric is 
+designed to emphasize ONEOK’s commitment to safe 
+operations and to reward safe behavior throughout the 
+company. 
+0.31 
+  
+2021 Target reflects: 
+·  55% improvement  
+compared with 2020 
+actual performance. 
+·  Consistent with 2020 
+target of 0.31.  
+0.69 
+Days Away, Restricted or Transferred (DART) 
+Incident Rate
+DART Rate reflects more serious injuries and illnesses 
+that result in lost workdays.
+0.11 
+  
+2021 Target reflects: 
+·  71% improvement  
+compared with 2020  
+actual performance. 
+·  Consistent with 2020  
+target of 0.11.  
+0.38
+Preventable Vehicle Incident  
+Rate (PVIR)
+Tracking vehicle safety performance through PVIR is 
+one of the ways we manage risk and help employees 
+stay safe on the roads. ONEOK employees may use 
+company vehicles daily to carry out their jobs, or drive 
+rental or personal vehicles for business travel. 
+0.79
+2021 Target reflects: 
+·  10% improvement  
+compared with 2020  
+actual performance. 
+·  16% improvement  
+compared with 2020  
+target of 0.94.  
+0.88
+2020 performance best on record.
+GOVERNANCE
+CATEGORY/DESCRIPTION 2021 TARGET 2020 PERFORMANCE
+
+90
+SUSTAINABILITY ACCOUNTING STANDARDS BOARD (SASB) REPORTING ALIGNMENT  
+SASB Standards provide industry-specific disclosure guidance for reporting financially material sustainability information. The table below provides 
+ONEOK’s performance data aligned with the recommended metrics for the SASB Extractives and Minerals Processing – Oil and Gas Midstream 
+Sector (EM-MD, Version 2018-10). All data represents full-year information unless otherwise noted. Environmental data represents 100% of ONEOK 
+operating assets.
+GREENHOUSE GAS EMISSIONS
+EM-MD-110a.1: Scope 1 GHG emissions data.
+Gross global Scope 1 emissions (MMT CO2e)1 3.8 4.2
+Percentage methane 26.3% 26.2%
+Percentage covered under emissions-limiting 
+regulations
+0% 0%
+Additional information: Performance Data Table
+EM-MD-110a.2: Long- and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and analysis of performance 
+against targets.
+ONEOK takes action to minimize the potential impact of our operations on the environment. This includes employing several strategies to manage 
+and reduce emissions such as integrating efficiencies and best practices into our equipment and engineering controls; using technology to support 
+emissions reduction efforts; and exploring lower-carbon opportunities.
+Environmental performance is part of ONEOK’s short-term incentive plan performance criteria for all employees. The Agency Reportable 
+Environmental Event Rate (AREER)2 metric promotes a continued reduction in spills and emission events that are reportable to a state or federal 
+agency. We have achieved annual reductions in our rate of reportable environmental events since establishing the metric. In 2020, we achieved our 
+best performance on record with an AREER rate of 0.42. ONEOK’s 2021 AREER target is 0.40. 
+ONEOK is a member of Our Nation’s Energy Future Coalition (ONE Future), which sets goals for reducing methane emissions. As part of the 
+coalition, ONEOK has committed to achieve a sector-specific methane emissions intensity target for our natural gas transmission and storage 
+operations by 2025. Additionally, ONEOK has participated in the EPA Natural Gas STAR program since 2000, and as a member of INGAA, has 
+committed to continuously improve practices to minimize methane emissions. 
+Additional information:  2021 ESG Report, Environment, Emissions Reduction and Climate Change – Environmental Performance and Programs, 
+Pg. 16-19
+AIR QUALITY
+EM-MD-120a.1: Air emissions of the following pollutants (thousand tons)3.
+Nitrous oxides (NOx) 5.0 7.8 
+Sulfur dioxide (SOx) 0.2 0.2
+Volatile organic compounds (VOCs) 3.6 4.3
+Particulate matter (PM10) 0.1 0.2
+Additional information: Performance Data Table
+2020 2019
+
+91
+ECOLOGICAL IMPACTS
+EM-MD-160a.1: Description of environmental management policies and practices for active operations.
+Environmental responsibility is a core tenet of all ONEOK activities, and we use a variety of sustainable practices to minimize and offset effects our 
+operations and capital-growth projects may have on the environment. These include refraining from site selection in areas that are protected or 
+have high biodiversity value whenever practicable; maintaining robust asset integrity programs; and enhancing our operational eco-efficiency by 
+managing our use of energy and disposal of water and waste.
+In addition to compliance with applicable environmental laws and regulations, ONEOK’s strategy of “avoid, minimize, mitigate” guides our approach 
+to conservation. Our three-tiered strategy aims to protect biodiversity and ecosystems by avoiding impact when practicable. When avoidance is not 
+practicable, we take action to minimize and mitigate any impact that may occur.
+A detailed information gathering process takes place before activity begins. This includes extensive environmental review and permitting processes. 
+Environmental evaluation of a proposed project involves identification of High Conservation Value (HCV) factors within a proposed route that 
+include: 
+• Threatened and endangered (T&E) species presence (federal and state listed).
+• Proximity to T&E species critical habitats.
+• Protected lands (state, federal and tribal).
+• Resources of historical or cultural significance.
+• Wetlands and waterbodies.
+• Land use (e.g., forests, farmland and rangeland).
+• Proximity to populated areas.
+Additional information: 
+2021 ESG Report, Environment, Conservation – Conserving Water Resources, Pg. 22-25
+2021 ESG Report, Social, Growth Projects: Commitments To Our Stakeholders, Pg. 72-73 
+EM-MD-160a.2: Presence within areas of protected conservation status or endangered species habitats.
+Percentage of land owned, leased and/
+or operated within areas of protected 
+conservation status or endangered species 
+habitat
+ONEOK does not currently track.
+EM-MD-160a.3: Terrestrial acreage disturbed, percentage of impacted area restored.
+Number of acres restored 8,086 13,705
+We work closely with regulators to develop appropriate mitigation and conservation approaches that serve to offset potential environmental impacts 
+from our projects. This includes determining the appropriate seed mixes and plant species in the area as well as properly separating topsoil to 
+restore the right of way following construction. ONEOK takes into account landowner concerns during restoration and communicates restoration 
+expectations to contractors. The above data tracks acres of construction workspace disturbed and restored for pipeline projects completed during 
+the respective year. The majority of pipeline construction for ONEOK’s most recent capital growth program was completed in 2019.
+SASB STANDARDS
+2020 2019
+
+92
+EM-MD-160a.4: Number and aggregate volume of hydrocarbon spills, volume in Artic, volume in Unusually Sensitive Areas (USAs), and volume 
+recovered.
+Total above-ground hydrocarbon spills: 
+number spills
+13 21
+Total above-ground hydrocarbon spills: 
+barrels (bbls) 
+66 157
+Volume in Artic: bbls 0 0
+Volume in USAs: bbls4 3.8 30.2
+Volume recovered ONEOK attempts to recover 100% of spilled volumes, however, does not currently track exact 
+totals.
+Additional information: Performance Data Table
+COMPETITIVE BEHAVIOR
+EM-MD-520a.1: Monetary losses as a result of legal proceedings.
+Total amount of monetary losses as a result 
+of legal proceedings associated with federal 
+pipeline and storage regulations.
+ONEOK does not currently track.
+OPERATIONAL SAFETY, EMERGENCY PREPAREDNESS & RESPONSE
+EM-MD-540a.1: Number of reportable pipeline incidents, percentage significant.
+Natural Gas Transmission and Regulated 
+Gathering5
+Number Incidents6 2 6
+Incidents per 1,000 miles 0.30 0.88
+Natural Gas Liquids Transmission7
+Number Accidents8 12 12
+Accidents per 1,000 miles 0.92 0.96
+Additional information: 2021 ESG Report, Environment, Asset Integrity, Pg. 26-29
+EM-MD-540a.2: Percentage of natural gas and hazardous liquids pipelines inspected.
+Natural gas transmission pipeline inspections: 
+in-line, percentage of total pipeline
+11% 15%
+Natural gas transmission pipeline inspections: 
+in-line, number of miles
+775 1,019
+Natural gas liquids transmission pipeline 
+inspections: in-line, percentage of total 
+pipeline
+36% 35%
+Natural gas liquids transmission pipeline 
+inspections: in-line, number of miles
+4,752 4,345
+2020 2019
+
+93
+Inspection mileage as reported to PHMSA representing pipelines assessed under ONEOK’s Integrity Management Program using in-line inspection 
+methods. ONEOK assesses 100% of all High Consequence Areas (HCAs) within the required regulatory timelines using multiple methods in 
+accordance with CFR Part 192 or CFR Part 195.
+In addition to performing in-line inspections that examine the condition of pipelines from the inside, ONEOK uses a number of other methods 
+to assess pipeline integrity. In addition to the in-line inspections noted above, approximately 300 additional miles of natural gas transmission 
+pipelines were inspected using direct assessment. Direct assessment is a structured process for managing corrosion risks or concerns. Inspection 
+methods also include hydrostatic testing, an integrity management method that uses liquid to conduct pressure tests.
+Additional information: 2021 ESG Report, Environment, Asset Integrity, Pg. 26-29
+EM-MD-540a.3: Number of releases from rail transportation.
+Accident releases 0 0
+Non-accident releases 0 0
+EM-MD-540a.4: Discussion of management systems used to integrate a culture of safety and emergency preparedness throughout the value chain 
+and throughout project lifecycles.
+ONEOK’s overall ESG structure emphasizes an integrated management system approach founded on continuous improvement. The company’s 
+Environment, Safety and Health (ESH) Management System provides expectations and a framework for operating assets safely, reliably, profitably 
+and in an environmentally-sensitive manner. Guidance and oversight of ONEOK’s ESH and sustainability performance is provided by a cross-
+functional ESG Council, by ONEOK’s ESH Leadership Committee, and ultimately by the ONEOK Board of Directors.
+Additional information: 2021 ESG Report, Social, Environmental, Safety and Health (ESH), ESH Management System, Pg. 34-35
+ACTIVITY METRIC
+EM-MD-000.A: total metric ton-kilometers of natural gas, crude oil, and refined petroleum products transported, by mode of transport.
+Natural Gas Pipelines9: billion cubic feet (bcf) 1,369.3 1,640.5
+Natural Gas Liquids10: billion bbl miles 154.49 204.84
+The metrics reported above are commonly used in the midstream industry for reporting pipeline transportation volumes. ONEOK does not report 
+transported volume in metric ton-kilometers. 
+This table, and the data provided therein (the “Data”), is provided for informational purposes only. Neither ONEOK, Inc., nor any of its affiliates (collectively, “ONEOK”) makes, 
+and hereby expressly disclaims, any representation or warranty as to the accuracy or completeness of the Data contained herein. ONEOK has no obligation or duty to (1) update 
+or correct the Data, (2) provide additional details regarding the Data, or (3) continue to provide the Data, in any form, in the future. The table and Data may be modified, updated, 
+changed, deleted or supplemented (collectively, “Modifications”) from time to time without notice and ONEOK reserves the right to make any such Modifications in its sole 
+discretion. In some cases, the Data is based on information prepared by third party vendors and consultants of ONEOK and is not independently verified by ONEOK. The Data 
+should not be interpreted as any form of guaranty or assurance of future results or trends. Unless otherwise provided, this table and the Data contained therein, is expressly not 
+incorporated by reference into any filing of ONEOK made with the United States Securities and Exchange Commission, or any other filing, report, application or statement made by 
+ONEOK to any federal, state, tribal or local governmental authority.
+1  Beginning in 2019, ONEOK completed an inventory estimating emissions from all facilities including those outside of the Mandatory Greenhouse Gas Reporting Rule boundary. 
+The emission calculation methodology matches that found in the Mandatory Greenhouse Gas Reporting Rule.
+2  Agency Reportable Environmental Event Rate (AREER) is the total number of releases and excess emission events that trigger a federal, state or local environmental reporting 
+requirement per 200,000 work hours. 
+3 As reported to state and federal agencies.
+4  Hydrocarbon spills greater than 1 barrel in “Unusually Sensitive Areas” (USAs) as identified by the National Pipeline Mapping System of the Office of Pipeline Safety. The 
+National Pipeline Mapping System defines USAs as those included in the five following categories: (1) drinking water, (2) ecological areas, (3) high population area, (4) other 
+population area and (5) commercially navigable water.
+5  As reported to the Pipeline and Hazardous Materials Safety Administration (PHMSA) in Form F 7100.2-1.
+6 As defined in Code of Federal Regulations (CFR) Part 191.3.
+7  As reported to PHMSA in Form F 7000-1.1.
+8  As defined in CFR Part 195.50.
+9   Natural gas pipelines volume represents all interstate and intrastate natural gas pipelines. Natural gas shipped on multiple pipeline systems could be double counted.
+10   Natural gas liquids volumes represent only Federal Energy Regulatory Commission (FERC)-regulated pipeline volume, which accounts for the majority of ONEOK’s total NGL 
+volume transported.
+SASB STANDARDS
+2020 2019
+
+94
+Governance Location
+Disclose the organization’s governance 
+around climate-related risks and 
+opportunities
+(a) Describe the Board’s oversight of climate-
+related risks and opportunities
+2021 ESG Report, Environment, Emissions 
+Reduction and Climate Change, Pg. 16
+2021 ESG Report, Governance, Sustainable 
+Governance Structure, ONEOK Board of 
+Directors, Pg. 76
+2021 ESG Report, Governance, Risk 
+Management, Pg. 80
+2021 Proxy, Risk Oversight, Enterprise Risk 
+Management, Pg. 17-18
+(b) Describe management’s role in assessing 
+and managing climate-related risks and 
+opportunities
+2021 ESG Report, Environment, Emissions 
+Reduction and Climate Change, Pg. 16
+2021 ESG Report, Environment, ESH and 
+Sustainability Governance, Pg. 78-79
+2021 ESG Report, Governance, Risk 
+Management, Pg. 80
+Risk Management Location
+Disclose how the organization identifies, 
+assesses and manages climate-related risks
+(a) Describe the organization’s processes for 
+identifying and assessing climate-related risks 
+and opportunities
+2021 ESG Report, Governance, Risk 
+Management, Pg. 80
+2021 Proxy, Risk Oversight, Enterprise Risk 
+Management, Pg. 17-18
+(b) Describe the organization’s processes for 
+managing climate-related risks
+2021 ESG Report, Governance, Risk 
+Management, Pg. 80
+2021 Proxy, Risk Oversight, Enterprise Risk 
+Management, Pg. 17-18
+(c) Describe how processes for identifying, 
+assessing and managing climate-related risks 
+are integrated into the organization’s overall 
+risk management
+2021 ESG Report, Governance, Risk 
+Management, Pg. 80
+2021 Proxy, Risk Oversight, Enterprise Risk 
+Management, Pg. 17-18
+TCFD INDEX 
+TASK FORCE ON CLIMATE-RELATED FINANCIAL DISCLOSURES (TCFD) INDEX   
+TCFD provides companies with a voluntary framework for climate-related assessment and reporting. Framework recommendations outline four core 
+reporting elements – Strategy, Governance, Risk Management, and Metrics and Targets. The table below provides the location of ONEOK’s current 
+disclosures that align with TCFD.
+
+95
+Strategy Location
+Disclose the actual and potential impacts of 
+climate-related risks and opportunities on the 
+organization’s business, strategy and financial 
+planning where such information is material
+(a) Describe the climate-related risks and 
+opportunities the organization has identified 
+over the short, medium and long-term
+2021 ESG Report, Sustainable Energy Future, 
+Pg. 12-13
+2021 ESG Report, Environment, Emissions 
+Reduction and Climate Change, Pg. 16
+2020 Annual Report, Regulatory, 
+Environmental, and Safety Matters, Pg. 16-17
+2020 Annual Report, Risk Factors, Risk 
+Factors Related to our Business Continuity, 
+Pg. 22-23
+2020 Annual Report, Risk Factors, Risk 
+Factors Related to Regulation, Pg. 28
+(b) Describe the impact of climate-related 
+risks and opportunities on the organization’s 
+business, strategy and financial planning
+2021 ESG Report, Sustainable Energy Future, 
+Pg. 12-13
+2021 ESG Report, Environment, Emissions 
+Reduction and Climate Change, Pg. 16
+2020 Annual Report, Regulatory, 
+Environmental, and Safety Matters, Pg. 16-17
+2020 Annual Report, Risk Factors, Risk 
+Factors Related to our Business Continuity, 
+Pg. 22-23
+2020 Annual Report, Risk Factors, Risk 
+Factors Related to Regulation,Pg. 28
+(c) Describe the resilience of the organization’s 
+strategy, taking into consideration different 
+climate-related scenarios, including a 2 degree 
+Celsius or lower scenario
+2021 Proxy, Environmental Safety and Health, 
+Greenhouse Gas Emissions, Pg. 28
+2021 ESG Report, Environment, Emissions 
+Reduction and Climate Change, Pg. 16 
+2021 ESG Report, Sustainable Energy Future, 
+Pg. 12-13 
+Metrics and Targets Location
+Disclose the metrics and targets used 
+to assess and manage relevant climate-
+related risks and opportunities where such 
+information is material
+(a) Describe the targets used by the 
+organization to manage climate-related risks 
+and opportunities and performance against 
+targets
+2021 ESG Report, Environment, Emissions 
+Reduction and Climate Change, Pg. 16
+2021 Proxy, Environmental Safety and Health, 
+Greenhouse Gas Emissions, Pg. 28
+(b) Disclose the metrics used by the 
+organization to assess climate-related risks 
+and opportunities in line with its strategy and 
+risk management processes
+2021 ESG Report, Environment, Greenhouse 
+Gas Data, Pg. 20
+Performance Data Table
+(c) Disclose Scope 1, Scope 2 and, if 
+appropriate, Scope 3 GHG emissions, and the 
+related risks.
+2021 ESG Report, Environment, Greenhouse 
+Gas Data, Pg. 20
+Performance Data Table
+EIC Midstream ESG Reporting Template
+TCFD INDEX
+TCFD INDEX
+
+96
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS 
+Some of the statements contained and incorporated in this report are forward-looking statements as defined under federal securities laws. 
+We make these forward-looking statements in reliance on the safe harbor protections provided under federal securities legislation and other 
+applicable laws. These statements are not guarantees of future results, occurrences or performance. The following discussion is intended to 
+identify important factors that could cause future outcomes to differ materially from those set forth in the forward-looking statements.
+Any statements other than statements of historical fact should be considered forward-looking statements. Forward-looking statements 
+include the information concerning possible or assumed future results of our operations and other statements contained or incorporated 
+herein identified by words such as “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “forecast,” “goal,” “target,” “guidance,” 
+“intend,” “may,” “might,” “outlook,” “plan,” “potential,” “project,” “scheduled,” “should,” “will,” “would,” and other words and terms of 
+similar meaning. 
+One should not place undue reliance on forward-looking statements. Known and unknown risks, uncertainties and other factors, many of 
+which are difficult to predict and beyond our control, may cause our actual results, performance or achievements to be materially different 
+from any future results, performance or achievements to be materially different from any future results, performance or achievements 
+expressed or implied by forward-looking statements. In addition to any assumptions and other factors referred to specifically in connection 
+with the forward-looking statements, factors that could cause our actual results to differ materially from those contemplated in any forward-
+looking statement include, among others, the following: 
+•  The transition to a lower carbon economy, including the timing and extent of the transition, as well as the expected role of different 
+energy sources in such a transition;
+•  The pace of technological advancements and industry innovation, including those focused on reducing GHG emissions and 
+advancing other climate-related initiatives, and our ability to take advantage of those innovations and developments;
+• The effectiveness of our risk management strategies, including mitigating climate-related risks;
+•  Our ability to identify and execute climate-related opportunities, and the economic viability of those opportunities, including those 
+relating to renewable energy sources, renewable natural gas, carbon capture, use, and storage, solar, wind and alternative low 
+carbon fuel sources such as hydrogen; 
+•  The ability of our existing assets and expertise to support the growth of, and transition to, various renewable and alternative energy 
+opportunities, including through the positioning and optimization of our assets; 
+• Our ability to efficiently reduce the carbon intensity of our operations;
+•  The effects of changes in governmental policies and regulatory actions, including changes with respect to tax policy, emissions 
+credits, carbon offsets and carbon pricing;
+• The necessity to direct our focus on maintaining and enhancing our existing assets; 
+• The impacts of acquisitions or dispositions; and
+•  Those factors listed under “Forward-looking Statements” in our Annual Report on Form 10-K for the fiscal year ended December 
+31, 2020 (2020 Annual Report), and in our other filings that we make with the United States Securities and Exchange Commission 
+(SEC), which are available via the SEC’s website at www.sec.gov and our website at www.oneok.com.
+
+97 APPENDIX
+These factors are not necessarily all of the important factors that could cause actual results to differ materially from those expressed in any 
+of our forward-looking statements. Other factors could also affect adversely our future results. These and other risks are described in greater 
+detail in Part I, Item 1A, Risk Factors, in our 2020 Annual Report and in our other filings that we make with the SEC, which are available via 
+the SEC’s website at www.sec.gov and our website at www.oneok.com. All forward-looking statements attributable to us or persons acting on 
+our behalf are expressly qualified in their entirety by these factors. Any such forward-looking statement speaks only as of the date on which 
+such statement is first made, and other than as required under securities laws, we undertake no, and expressly disclaim any, obligation 
+to update publicly any forward-looking statement whether as a result of new information, subsequent events or change in circumstances, 
+expectations or otherwise.
+This report contains statements based on hypothetical or severely adverse scenarios and assumptions, and these statements should not 
+necessarily be viewed as being representative of current or actual risk or forecasts or expected risk. While the future events and current 
+scenarios and efforts discussed in this report may be significant, any significance should not be read as necessarily rising to the level of 
+materiality of the disclosures required under U.S. federal securities laws.
+
+100 West Fifth Street | Tulsa, OK 74103-4298
+Post Office Box 871 | Tulsa, OK 74102-0871 | oneok.com

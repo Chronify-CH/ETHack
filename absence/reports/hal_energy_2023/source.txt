@@ -1,0 +1,4345 @@
+2023 ANNUAL &  
+SUSTAINABILITY REPORT
+
+Table of Contents
+Company at a Glance .......................................................................................................................................3
+Financial Highlights ...........................................................................................................................................4
+Sustainability Highlights ...................................................................................................................................5
+2023 in Review .................................................................................................................................................6
+Our Core Values  ...............................................................................................................................................8
+Materiality-Based Approach .............................................................................................................................9
+Sustainability Commitments ........................................................................................................................10
+Engagement ...................................................................................................................................................11
+Governance .................................................................................................................................................13
+Corporate Governance .............................................................................................................................14
+Enterprise Risk Management ..................................................................................................................17
+Ethics and Compliance .............................................................................................................................20
+Anti-Bribery, Anti-Corruption, and Fair Competition ...............................................................................21
+Supply Chain Governance ........................................................................................................................22
+Public Policy ...............................................................................................................................................25
+Environmental ...........................................................................................................................................26
+Emissions Reduction Progress ...............................................................................................................27
+The Future of Energy ................................................................................................................................29
+Environmental Management ...................................................................................................................36
+Social ............................................................................................................................................................39
+Health and Safety .....................................................................................................................................40
+Our People ................................................................................................................................................44
+Training and Development .......................................................................................................................49
+Human Rights ...........................................................................................................................................52
+Local Communities ...................................................................................................................................53
+Appendix .....................................................................................................................................................58
+Data Tables ................................................................................................................................................59
+Awards and Recognition ..........................................................................................................................71
+About the Report ......................................................................................................................................72
+Halliburton 2023 Annual & Sustainability Report Introduction  2
+
+COMPANY  
+AT A GLANCE
+136
+Nationalities
+47,885
+Employees
+70+
+Countries
+North America
+2 Countries
+15,608 2023 Headcount
+5 Major Technology Centers
+Latin America
+10 Countries
+7,858 2023 Headcount
+1 Major Technology Center
+Europe / Africa / CIS
+36 Countries
+8,160 2023 Headcount
+2 Major Technology Centers
+Middle East / Asia
+27 Countries
+16,259 2023 Headcount
+4 Major Technology Centers
+At December 31, 2023
+COMPANY AT A GLANCEHalliburton 2023 Annual & Sustainability Report Introduction  3
+
+FINANCIAL HIGHLIGHTS
+Millions of U.S. Dollars (USD) and Shares, Except Per Share Data 20211 20221 20231
+Revenue  $ 15,295 $ 20,297 $ 23,018
+Total Operating Expenses  $ 13,495 $ 17 ,590 $ 18,935
+Operating Income  $ 1,800 $ 2,707 $ 4,083
+Income Before Taxes  $ 1,252 $ 2,1 10 $ 3,363
+Amounts Attributable to Company Shareholders: 
+Net Income Attributable to Company  $ 1,457 $ 1,572 $ 2,638
+Basic Income Per Share from Continuing Operations  $ 1.63 $ 1.74 $ 2.93
+Diluted Income Per Share from Continuing Operations  $ 1.63 $ 1.73 $ 2.92
+Cash Dividends Per Share  $ 0.18 $ 0.48 $ 0.64
+Basic Common Shares Outstanding  892 904 899
+Diluted Common Shares Outstanding  892 908 902
+Net Working Capital2 $ 5,637 $ 5,607 $ 5,935
+Total Assets  $ 22,321 $ 23,255 $ 24,683
+Total Debt  $ 9,138 $ 7 ,928 $ 7 ,636
+Total Shareholders' Equity  $ 6,728 $ 7 ,977 $ 9,433
+Cash Flows from Operating Activities  $ 1,91 1 $ 2,242 $ 3,458
+Capital Expenditures  $ 799 $ 1,01 1 $ 1,379
+Depreciation, Depletion, and Amortization  $ 904 $ 940 $ 998
+Total Capitalization3 $ 15,866 $ 15,905 $ 17 ,069
+Debt to Total Capitalization4 58% 50% 45%
+Geographic Revenue Diversity
+25%12%
+Europe/Africa/CIS Middle East/Asia
+17% 46%
+Latin America North America
+1 .  R eported results during these periods include impairments and other charges of no amounts recorded for the year ended December 31, 2023; $366 million for the year ended 
+December 31, 2022; and $12 million for the year ended December 31, 2021 .
+2.  Net w orking capital is defined as total current assets less total current liabilities.
+3.  T otal capitalization is defined as total debt plus total shareholders’ equity.
+4.  Debt to tot al capitalization is defined as the total debt divided by the sum of total debt plus total shareholders’ equity.
+Adjusted Return on 
+Capital Employed
+19%
+14%
+9%
+2021 2022 2023
+Excludes certain charges. Average capital 
+employed is a statistical mean of the combined 
+values of debt and shareholders’ equity for the 
+beginning and end of the period. Adjusted ROCE 
+is defined as adjusted operating profit, after-tax 
+divided by average capital employed.
+Strong Free Cash Flow
+Millions of Dollars
+$1,369
+2021
+$1,431
+$2,274
+2022 2023
+Halliburton generated $2.3 billion 
+of free cash flow* in 2023, 
+demonstrating our ability to generate 
+strong free cash flow in different 
+business environments.
+*Management believes that the non-GAAP measure of free cash flow, defined as operating cash flows less capital expenditures, plus proceeds from sale of equipment, is an important 
+liquidity measure that is useful to investors and management for assessing the company’s ability to generate cash.
+Halliburton 2023 Annual & Sustainability Report Introduction  4
+
+SUSTAINABILITY HIGHLIGHTS
+Percentage of Suppliers 
+Assessed for Human 
+Rights Risks
+99%
+Training Hours for COBC,  
+Anti-Corruption, and Enhanced 
+Procurement Fraud in Countries 
+Designated as High-Risk
+60,107
+GOVERNANCEGOVERNANCE
+60,068
+Total Energy Consumption 
+(Thousand gigajoules (GJ))
+Recordable 
+Environmental Incident 
+Rate (Incidents per 
+200,000 hours worked)
+0.02
+ENVIRONMENTAL
+Charitable  
+Giving $1.5
+Billion (USD) Preventable Recordable Vehicle Incident Rate
+Incidents per Incidents per 
+million miles million miles 
+traveledtraveled0.10
+CPA-Zicklin Index Score
+93
+GHG Emissions Intensity 
+Scope 1 and 2 (MTCO2e/
+operating hours)
+0.2431 GHG
+91%
+Overall Percentage of 
+Localized Workforce
+19%
+Female Diversity  
+in STEM Roles
+SOCIALSOCIAL SAFETYSAFETY
+Lost-Time Incident Rate 
+(Incidents per 200,000
+hours worked)
+2023 
+International 
+Association 
+of Drilling 
+Contractors 
+(IADC) industry 
+rate
+0.070.07
+0.150.15
+Halliburton’s  
+2023 rate
+Total Recordable Incident 
+Rate (Incidents per 200,000
+hours worked)
+2023 
+International 
+Association 
+of Drilling 
+Contractors 
+(IADC) industry 
+rate
+Halliburton’s  
+2023 rate
+0.250.25
+0.510.51
+Halliburton 2023 Annual & Sustainability Report Introduction  5
+
+2023 IN REVIEW
+service lines. Our international operations today represent 
+just over half of our total business. Halliburton’s international 
+revenue grew 17% in 2023 and delivered improved margins 
+and higher returns throughout the year, despite our exit from 
+Russia in 2022.
+Throughout the international markets in which we operate, we 
+deliver shareholder value through disciplined capital allocation, 
+which means we strategically deploy assets to markets 
+where customers recognize the value of our reliable execution 
+and collaboration. Our next-generation equipment delivers 
+leading-edge performance for our customers and structurally 
+improved returns for Halliburton.
+Our 2023 results demonstrate the success of our profitable 
+international growth strategy. In the international markets in 
+which we operate, we expect higher international spending 
+for multiple years. To deliver strong shareholder returns 
+through this multi-year upcycle, we will execute on our 
+value proposition, deploy leading technologies, and exercise 
+disciplined capital allocation.
+Maximize Value in North America
+Halliburton is the only globally integrated service company 
+with the leading presence in North America, the world’s 
+largest oil field services market. Our leadership means we 
+have the resources to invest in next-generation technologies, 
+infrastructure to commercialize these technologies at scale, 
+and expertise to execute at the highest levels of efficiency. 
+Today, the North America market continues to evolve with 
+a growing segment of customers focused on productivity, 
+efficiency, and reserve recovery. This growing customer 
+segment employs long term development programs, 
+targets improved reservoir recovery through technology, and 
+minimizes operating cost through service efficiencies. We 
+expect Halliburton to extend its technology leadership, deliver 
+unmatched efficiency through our design innovations, and 
+execute on its strategy to maximize value in North America.
+Accelerate Digital and Automation
+Halliburton’s strategy to advance digital and automation has 
+transformed both our service delivery and our business 
+performance. Digital and automation lower our costs, improve 
+safety for our personnel, and lower our carbon footprint. 
+Today, that investment in digital and automation exists in our 
+product lines including innovations such as remote offshore 
+cementing jobs, automated directional drilling, and predictive 
+pump maintenance.
+2023 was a great year for Halliburton and its shareholders. 
+The power of Halliburton’s strategy delivered some of the 
+best business performance we have seen in a decade. 
+We recorded revenue of $23 billion, operating income of 
+$4.1 billion, operating margin of 18%, and return on capital 
+employed of 19%. In addition, we generated $3.5 billion of 
+cash flow from operating activities and $2.3 billion of free cash 
+flow. Consistent with our shareholder returns framework, we 
+returned $1 .4 billion to shareholders in the form of dividends 
+and stock repurchases and we retired approximately $300 
+million of debt.
+We achieved these results through execution on Halliburton's 
+five key strategies — Deliver Profitable International Growth, 
+Maximize Value in North America, Accelerate Digital and 
+Automation, Improve Capital Efficiency, and Advance a 
+Sustainable Energy Future. By delivering on our value 
+proposition: to collaborate and engineer solutions to 
+maximize asset value for our customers, we deepened 
+our relationships with customers, improved profitability, and 
+delivered on our strategy. Our commitment to doing business 
+the REDWay: Responsibly, Ethically, and Diligently guided this 
+strategic execution and these results.
+Deliver Profitable International Growth
+Halliburton operates in over 70 countries around the world — 
+in both on- and off-shore markets, and across all major product 
+Chairman, President and CEO Jeff Miller
+Halliburton 2023 Annual & Sustainability Report Introduction  6
+
+Halliburton’s service quality leadership and leading approach 
+to digital and automation strengthens our execution for 
+customers. To further advance our digital and automation 
+strategy, Halliburton has accelerated development and 
+deployment of new digital and automation technologies that 
+will benefit our business and that of our customers.
+Improve Capital Efficiency
+Capital efficiency improvement means we deploy innovative 
+solutions to do more with less. Our technology and 
+development pipeline focuses on technologies that structurally 
+improve our capital efficiency like our iCruise® intelligent 
+rotary steerable system and Zeus™ electric fracturing 
+fleets. These technologies require fewer spare parts, lower 
+maintenance expense, and structurally deliver higher returns 
+for shareholders.
+Advance a Sustainable Energy Future
+Access to secure and reliable energy remains fundamental 
+to economic and social development, and Halliburton is 
+committed to advancing a sustainable energy future. Our 
+approach to advancing this future aligns squarely with our core 
+competencies. We work to help our customers decarbonize 
+their operations. We advance a sustainable future through 
+operations directly adjacent to our core operations. Finally, 
+through Halliburton Labs, we collaborate with early-stage 
+companies to advance the future of energy.
+Into the Future
+We are grateful for our employees and the work they do each 
+day. Together, we look forward to the opportunity to deliver 
+profitable international growth, maximize value in North 
+America, develop and deploy digital and automation solutions, 
+increase capital efficiency, and advance a sustainable 
+energy future.
+Strategic Priorities 
+at a Glance
+Deliver industry-leading returns 
+and strong free cash ﬂow
+Proﬁtable 
+International 
+Growth
+Maximizing Value 
+in North America
+Digital 
+and Automation
+Sustainable 
+Energy Future
+Capital Efﬁciency
+Mark J. Richard
+President,  
+Western Hemisp here
+Eric J. Carre
+Executive Vice President  
+and Chief Financial Ofﬁcer
+Jeffrey A. Mi ller
+Chairman of the Board, Pre sident 
+and Chief Executive Ofﬁcer
+Lawrence J. Pope
+Executive Vice Pre sident  
+of Administration and  
+Chief Human Resources Ofﬁcer
+Shannon Slocum
+ President,
+Eastern Hemisp here
+Van H. Beckwith
+Executive Vice Pre sident, 
+Secretary and Ch ief Legal Ofﬁcer
+Mark J. Richard
+President,  
+Western Hemisp here
+Eric J. Carre
+Executive Vice President  
+and Chief Financial Ofﬁcer
+Jeffrey A. Mi ller
+Chairman of the Board, Pre sident 
+and Chief Executive Ofﬁcer
+Lawrence J. Pope
+Executive Vice Pre sident  
+of Administration and  
+Chief Human Resources Ofﬁcer
+Shannon Slocum
+ President,
+Eastern Hemisp here
+Van H. Beckwith
+Executive Vice Pre sident, 
+Secretary and Ch ief Legal Ofﬁcer
+We are excited about 2024 and beyond. We remain focused 
+on delivering strong returns to our shareholders as we 
+execute on our value proposition — to collaborate and 
+engineer solutions to maximize asset value for our customers.
+Halliburton 2023 Annual & Sustainability Report Introduction  7
+
+OUR CORE VALUES 
+Our Value Proposition: 
+We collaborate and engineer solutions to 
+maximize asset value for our customers.
+To learn about our mission, vision, values, and sustainability 
+guiding principles, visit the About Us page on our website.
+Mission
+Our mission is to achieve superior growth and returns for 
+our shareholders by delivering technology and services 
+that improve efficiency, increase recovery, and maximize 
+production for our customers.
+Values
+Our values guide everything we do, underpinning how we 
+relate to each other and everyone with whom we interact. Our 
+values are our corporate DNA, the foundation for how we 
+relate to each other and every individual and entity with whom 
+we interact. These are the principles that every Halliburton 
+employee is expected to use, live by, and demonstrate on a 
+daily basis.
+Guiding Principles for Sustainability
+Built on our values, the Halliburton Guiding Principles for 
+Sustainability provide the framework for our operations and 
+our future.
+Field employees in Mexico on rig site
+Halliburton 2023 Annual & Sustainability Report Introduction  8
+
+MATERIALITY -BASED APPROACH
+Halliburton defines sustainability materiality based on structured dialogue with our stakeholders, consideration of the topics they find 
+important, and in concert with our existing commitments. We review our materiality assessment annually and it is approved by senior 
+management before it is used to define our sustainability priorities. Our 2023 matrix remains unchanged from 2022, and continues to 
+serve as a foundation for our sustainability strategy. The sustainability materiality mapping is presented in the following visual matrix.
+Dow Jones Sustainability Indices
+2023 marks the third consecutive year Halliburton has been named to the Dow Jones Sustainability North America 
+Index. DJSI assesses the sustainability performance of companies using a transparent, rules-based process based on 
+the annual S&P Global Corporate Sustainability Assessment (CSA).
+Among its industry peers, Halliburton ranked in the 99th percentile or higher for Transparency and Reporting; Innovation 
+Management; Resource Efficiency and Circularity; and Talent Attraction and Retention.
+FEP Financial and Economic Performance GHG Greenhouse Gas Emissions SCHR Supply Chain Human Rights
+BED Board Experience and Diversity CS Cybersecurity LRC Legal and Regulatory Compliance
+CG
+Corporate Governance, Business 
+Ethics, and Transparency
+TDR
+Talent Attraction, Development, and 
+Retention
+LEI
+Local Environmental Impact and Risk 
+Management
+EM Energy Mix DI Diversity and Inclusion WTR Water Stewardship
+WHS Workplace Health and Safety CM Chemicals Management ERM Enterprise Risk Management
+Impacts to Industry
+Importance to Stakeholders
+Governance Social Environmental
+High
+Moderate
+Very High
+ 
+ERM
+LRC
+SCHR
+CM
+CS
+WHS
+TDR
+EM
+CG
+BED
+FEP
+DI
+LEI
+WTR
+GHG
+Halliburton 2023 Annual & Sustainability Report Introduction  9
+
+SUSTAINABILITY COMMITMENTS
+T opics Commitment Material Issue Metrics
+Climate Change
+ ■ Achieve a 40% reduction of Scope 1 and 2 emissions by 2035 
+from 2018 baseline.
+ ■ Partner with Tier 1 suppliers to track and reduce Scope 3  
+GHG emissions.
+ ■ Energy Mix
+ ■ Greenhouse Gas Emissions
+ ■ GHG Emissions
+Environmental 
+Management
+ ■ Establish and achieve activity-based waste-reduction targets in our 
+major facilities.
+ ■ Create water-use improvement plans in our major facilities located 
+in water-stressed areas.
+ ■ Chemicals Management
+ ■ Water Stewardship
+ ■ Local Environmental Impact and 
+Risk Management
+ ■ Waste Disposal
+ ■ Water Consumption
+ ■ Spill Volume and Rate
+Innovation
+ ■ Lead the industry in innovation and conscientious stewardship of 
+global resources.
+ ■ Provide solutions that support decarbonizing our customers’ 
+production base.
+ ■ Financial and Economic 
+Performance
+ ■ Energy Mix
+ ■ Greenhouse Gas Emissions
+ ■ Chemicals Management
+ ■ Patents Granted
+ ■ R&D Spend
+ ■ Financial Performance
+Human Rights
+ ■ Support universal human rights as defined by the United Nations 
+Universal Declaration of Human Rights through fair and ethical 
+employment practices and our Code of Business Conduct.
+ ■ Supply Chain Human Rights  ■ Supplier Human Rights 
+Assessments
+Occupational Safety 
+- Journey to ZERO
+ ■ Target outperforming total recordable incident rate and lost-time 
+incident rate in the International Association of Drilling Contractors 
+sector benchmarking.
+ ■ Achieve HSE training compliance >95%, driver competency 
+>95%, and 100% completion of our annual Journey to ZERO 
+strategic objectives.
+ ■ Workplace Health and Safety  ■ Fatalities, Injuries, Safety 
+Incidents, and Rates
+ ■ HSE Training Hours
+ ■ HSE Training Compliance
+ ■ Driver Competency
+Skilled and 
+Committed 
+Workforce
+ ■ Have a skilled and committed workforce by listening and 
+responding to our employees’ feedback and committing to an 
+engaged workforce that feels valued with the right support and 
+resources to be successful.
+ ■ Talent Attraction, Development, 
+and Retention
+ ■ Training Hours
+ ■ Business Leadership 
+Development Program and 
+President’s Leadership 
+Excellence Program Attendees
+ ■ New Hires (#, %)
+ ■ Turnover Rates
+ ■ Engagement Indices
+Diversity and 
+Inclusion
+ ■ Provide a diverse and inclusive environment that upholds our core 
+values of collaboration and respect, and provides all employees 
+opportunities for growth and development.
+ ■ Board Experience and Diversity
+ ■ Diversity and Inclusion
+ ■ Female % New Hire by Region
+ ■ Localized Workforce % by Region
+ ■ Female Diversity
+ ■ Board Diversity
+ ■ % Female in STEM Roles
+ ■ % Racial Diversity in STEM 
+Roles (U.S. only)
+Risk Management
+ ■ Streamline risk categories, risk identification, and risk management 
+to ensure alignment with Halliburton strategy and place a focus on 
+what matters most.
+ ■ Enhance cross-functional visibility to and collaboration among key 
+stakeholders throughout the organization to ensure consistency, 
+uniformity, and strategic approach to risk assessment, 
+identification, and mitigation.
+ ■ Corporate Governance, Business 
+Ethics, and Transparency
+ ■ Workplace Health and Safety
+ ■ Cybersecurity
+ ■ Legal and Regulatory 
+Compliance
+ ■ Local Environmental Impact and 
+Risk Management
+ ■ Enterprise Risk Management
+ ■ Board Independence
+ ■ Board Meeting Attendance
+ ■ Risk Matrix
+ ■ Security Assessments
+Ethical Operations
+ ■ Conduct business with integrity, choosing the ethical course 
+of action when confronted with challenging circumstances, 
+promoting a speak-up culture free of retaliation, and treating our 
+employees and stakeholders honestly and fairly.
+ ■ Corporate Governance, Business 
+Ethics, and Transparency
+ ■ Local Ethics Officers and 
+Engagements/Trainings
+ ■ Ethics Training
+ ■ Code of Business Conduct 
+(COBC) Statistics
+Supplier Conduct 
+and Responsible 
+Procurement
+ ■ Cultivate a sustainable supply chain through the continuous 
+improvement of internal processes, by performing proactive risk 
+assessments, and by working collaboratively with our diverse mix 
+of global and local suppliers.
+ ■ Supply Chain Human Rights  ■ Tier 1 Suppliers (#, $)
+ ■ Spend with Small and Female 
+Diverse Suppliers
+ ■ % Spend with Local Suppliers
+Community 
+Relationships
+ ■ Enhance the social value of communities in which we live and 
+work through effective engagement and social investment.
+ ■ Talent Attraction, Development, 
+and Retention
+ ■ Local Communities
+ ■ Charitable Giving
+Halliburton 2023 Annual & Sustainability Report Introduction  10
+
+ENGAGEMENT
+Halliburton's management and Board of Directors receive 
+a wide range of feedback about our business performance, 
+strategic priorities, and initiatives. We engaged in regular 
+discussions with our shareholders, customers, employees, 
+and others in 2023. The Halliburton website plays an important 
+role in our outreach efforts and transparency. 
+Shareholders
+We engage in consistent, open dialogue with our 
+shareholders. In fall of 2023, our independent Directors 
+hosted off-season meetings to better understand our 
+shareholder priorities and concerns. We offered opportunities 
+for engagement to shareholders who represented 
+approximately 60% of our shares. Halliburton Directors and 
+management communicated with 20 shareholders who 
+represented approximately 55% of our shares and with the 
+two largest proxy advisors, Institutional Shareholder Services 
+Inc. and Glass Lewis. We hosted video-conferences and 
+in-person meetings that included engagements with either 
+Murry Gerber (Chair of the Compensation Committee) or 
+Robert Malone (Lead Independent Director) and Halliburton 
+senior management.
+We made our refreshed shareholder presentation available 
+to the shareholders we offered to engage with even if they 
+could not attend one of our video calls or meetings. We also 
+offered to follow up to discuss any questions or concerns. Our 
+2023 updates to these materials highlight the most recent 
+available information with regard to topics like Board oversight 
+and engagement; executive compensation; our people; health, 
+safety, and the environment; and sustainable energy solutions.
+We solicited additional shareholder feedback with our annual 
+and quarterly reporting cycles, earnings conference calls, and 
+investor meetings. To engage with analysts and institutional 
+investors, Halliburton's senior management and Investor 
+Relations team hosted regular meetings and conference 
+calls. As part of our ongoing cadence of shareholder outreach, 
+we participated in 16 sell-side conferences, one non-deal 
+roadshow, and 304 investor meetings in 2023. All of this 
+feedback was presented to and discussed among the full 
+Board of Directors for execution of its oversight responsibility.
+Customers
+Customer feedback plays an important role in Halliburton's 
+ability to make improvements to current solutions and to 
+align our research and development (R&D) investments with 
+customer needs and goals as we develop new products 
+and solutions. Halliburton's executive leadership, business 
+development team, and product lines conduct regular 
+customer engagement to develop and maintain in-depth 
+understanding of the strategies, priorities, and requirements 
+relevant to our customers. We gain a thorough understanding 
+of customers' short- and long-term efficiency, technology, 
+and sustainability goals through direct communication with 
+them. Our collaboration with our customers provide insights 
+into ways we can best develop and offer solutions that both 
+maximize asset value and aid efforts to further the future 
+of energy.
+CEO Jeff Miller conducts site visit 
+Halliburton 2023 Annual & Sustainability Report Introduction  11
+
+Employees
+We promote a welcoming and inclusive work environment 
+in order to ensure the well-being of our employees and our 
+own continued success. To encourage an environment of 
+openness and teamwork across our global workforce, we 
+engage in activities and initiatives like town hall meetings, 
+Check-ins (our performance-management process), 
+workshops, employee resource groups, performance 
+feedback, and a biannual Employee Pulse Survey (EPS). These 
+activities and initiatives, which occur in local geographies or at 
+the global level for individual product service lines or functions, 
+help us strengthen a workplace culture in which Halliburton 
+employees feel their voices are heard.
+Halliburton considers our biannual EPS an important 
+opportunity to hear from employees about what matters to 
+them. The input we receive helps us identify ways we can 
+improve our workplace for all employees. Our August 2023 
+EPS yielded a record-high response rate. Read more in the 
+Employee Pulse Survey section of this report.
+Suppliers
+Halliburton's ability to provide world-class service to our 
+customers is enabled in part by our cultivation of a resilient, 
+sustainable supply chain that creates value for Halliburton and 
+our customers. We engage with an array of suppliers, both 
+locally and globally, who share our commitment to integrity 
+and ethical business practices.
+To ensure our ethical standards are upheld, we gather 
+feedback from and collaborate with our suppliers on matters 
+that include health and safety procedures, human rights 
+compliance, and environmental impact. Our sustainability 
+approach and sourcing platforms, meetings, workshops, 
+and training sessions help facilitate consistent, in-depth 
+engagement with suppliers. 
+Regulators
+Halliburton is a global company, and our operations take place 
+in countries and jurisdictions that have varying regulatory 
+requirements. We remain actively engaged with the regulators 
+and agencies that create and enforce regulatory standards to 
+protect the environmental, social, and economic fabrics of the 
+countries where our operations take place.
+Halliburton's Government Affairs program focuses on helping 
+government officials, policymakers, and local operations 
+management teams understand our technologies and 
+products. The program makes in-depth information about 
+our business available. It also facilitates collaboration with 
+them on issues our customers, employees, and other 
+stakeholders prioritize.
+Government officials and policymakers contact us to learn 
+from our knowledge and experience about energy-related 
+topics. In recent years, these conversations have often 
+focused on our new technologies, electric fracturing, carbon 
+capture, and geothermal energy opportunities. At times, we 
+also assist foreign service offices, consulates, and embassies 
+around the world as a resource on questions about technology 
+and local content.
+Local Communities and Non-Governmental 
+Organizations
+Halliburton promotes the economic and social well-being 
+of the communities where we work. We meet with 
+non-governmental organizations, community groups, 
+and nonprofits to better understand their concerns and 
+requirements; engage in charitable giving to local community 
+organizations through corporate giving initiatives and 
+charitable foundations; and host volunteer opportunities 
+focused on education, health and safety, environmental 
+cleanup and awareness, and social services to give back to 
+our communities.
+Halliburton 2023 Annual & Sustainability Report Introduction  12
+
+GOVERNANCE
+Good corporate governance builds trust with our shareholders, customers, and employees. Halliburton designed 
+its corporate governance structure to increase transparency and shape our approach to ethical business conduct. 
+Halliburton's Board of Directors oversees our work to establish governance structures, policies, and practices that 
+help foster accountability and reduce risk.
+For more information about corporate governance at Halliburton and our Board of Directors — including roles 
+and responsibilities, committee structure, and individual Director qualifications — visit the Corporate Governance 
+page of the Halliburton website or our 2024 Proxy Statement.
+G1
+CORPORATE  
+GOVERNANCE G2
+ENTERPRISE RISK 
+MANAGEMENT G3
+ETHICS AND 
+COMPLIANCE
+G4
+ANTI-BRIBERY,  
+ANTI-CORRUPTION,  
+AND FAIR COMPETITION
+G5
+SUPPLY CHAIN  
+GOVERNANCE G6
+PUBLIC  
+POLICY
+Halliburton 2023 Annual & Sustainability Report Governance  13
+
+G1
+CORPORATE 
+GOVERNANCE
+In addition to Halliburton's Articles of Incorporation and  
+By-laws, Halliburton's Board of Directors Corporate 
+Governance Guidelines provide governance structure for 
+our business. The Board reviews these guidelines on an 
+annual basis.
+DEEP EXPERIENCE
+Halliburton's Board of Directors oversees our long-term 
+strategy. Its Directors bring deep and diverse experience to 
+their roles from a variety of industries that include energy, 
+finance, science, technology, legal, human resources (HR), 
+and health, safety, and environment. The Board includes 
+current and former chief executive officers of public and 
+private companies and a former university president. The 
+Directors' diverse professional backgrounds include academia, 
+science, publicly and privately held businesses, government, 
+startup entrepreneurship, and governance. 
+Halliburton's Board of Directors
+Halliburton 2023 Annual & Sustainability Report Governance  14
+
+SUSTAINABILITY OVERSIGHT
+The Halliburton Board's Nominating and Corporate Governance Committee provides general oversight for sustainability. Other Board 
+committees assist with sustainability oversight as shown in their respective charters.
+BOARD OF DIRECTORS
+(1 - Audit Committee; 2 - Compensation Committee; 3 - Health, Safety and Environment Committee; 4 - Nominating and Corporate Governance Committee)
+Maurice S.  
+Smith (2, 3)
+President, Chief Executive 
+Officer, and Vice Chair, Health 
+Care Service Corporation
+Janet L.  
+Weiss (1, 4)
+Former President,  
+BP Alaska
+T obi M.  
+Edwards Y oung (1, 4)
+Senior Vice President, 
+Legal, Regulatory, 
+and Corporate Affairs, 
+Cognizant Technology 
+Solutions
+Abdulaziz F . Al 
+Khayyal (1, 3)
+Former Director and Senior 
+Vice President of Industrial 
+Relations, Saudi Aramco
+William E. 
+Albrecht (2, 3)
+President, Moncrief 
+Energy, LLC
+M. Katherine 
+Banks (3, 4)
+Former President, 
+Texas A&M University
+Alan M.  
+Bennett (1, 4)
+Former President and 
+Chief Executive Officer, 
+H&R Block, Inc.
+Milton  
+Carroll* (2, 4)
+Former Executive 
+Chairman of the Board, 
+CenterPoint Energy, Inc.
+Earl M.  
+Cummings (2, 3)
+Managing Partner, MCM 
+Houston Properties, LLC
+Murry S.  
+Gerber (1, 2)
+Former Executive 
+Chairman of the Board, 
+EQT Corporation
+Robert A.  
+Malone (2, 4)
+Executive Chairman, 
+President and Chief 
+Executive Officer, First 
+Sonora Bancshares and the 
+First National Bank of Sonora
+Jeffrey A.  
+Miller 
+Chairman of the Board, 
+President and Chief 
+Executive Officer, 
+Halliburton Company
+Bhavesh V .  
+Patel (1, 3)
+President, Standard 
+Industries
+*Mr. Carroll notified the Board on February 13, 2024, of his intent to not stand for re-election at the 2024 Annual Meeting of Shareholders. He will serve as director until his term ends 
+immediately prior to the Annual Meeting of Shareholders on May 15, 2024.
+Halliburton 2023 Annual & Sustainability Report Governance  15
+
+EXECUTIVE COMPENSATION
+Halliburton's executive compensation program focuses  
+on incentivizing performance, maximizing returns, and  
+building shareholder value. It is integrated with our overall  
+business strategy and management processes, and is  
+performance-based, at-risk, and long-term. Our long-term 
+incentive plan includes relative performance measures, and 
+our annual incentive plan combines financial and non-financial 
+strategic metrics. For additional information, visit our 2024 
+Proxy Statement.
+Halliburton's commitment to shareholder input resulted 
+in numerous, substantive changes to the structure and 
+governance of our executive compensation program in the 
+last few years. Most recently, we implemented a payout 
+cap in our long-term incentive plan for negative Return on 
+Capital Employed (ROCE) performance and increased the 
+target performance level for relative ROCE. These changes 
+directly reflect feedback we received from our shareholders 
+and further strengthened the program's design through 
+alignment of pay opportunities, business performance, and 
+pay outcomes, and demonstrated our commitment to put 
+forth a market-competitive program that produces the results 
+our investors expect.
+Nominating and 
+Corporate Governance 
+Committee
+Audit Committee Health, Safety and 
+Environment Committee
+Compensation 
+Committee
+ ■ Overall sustainability
+ ■ Corporate Governance 
+Guidelines
+ ■ Director self-
+evaluation process and 
+performance reviews
+ ■ Board refreshment
+ ■ Board's mix of skills, 
+characteristics, 
+experience, and 
+expertise
+ ■ Director compensation
+ ■ Management 
+succession planning
+ ■ Political and lobbying 
+spending
+ ■ Principal independent 
+public accountants
+ ■ Internal Assurance 
+Services and the Ethics 
+and Compliance group
+ ■ Financial statements 
+and accounting systems 
+and controls
+ ■ Enterprise risk, 
+including information 
+security and 
+cybersecurity*
+ ■ Control structure for 
+externally reported non-
+financial metrics
+ ■ HSE matters and 
+sustainability
+ ■ HSE risk-management 
+processes
+ ■ HSE performance
+ ■ Environmental impact, 
+including climate 
+matters
+ ■ Overall executive 
+compensation program
+ ■ Effectiveness of 
+compensation program 
+to attract, retain, and 
+motivate Section 16 
+officers
+ ■ Pay and incentive plans 
+metrics, including 
+Non-Financial Strategic 
+Metrics
+*The Board of Directors receives quarterly cybersecurity updates.
+Board of Directors and other leaders visit Halliburton test rig facility in Texas
+The following chart details the primary oversight responsibilities held by each of Halliburton's Board committees:
+Nominating and Corporate 
+Governance Committee Audit Committee Health, Safety and Environment 
+Committee Compensation Committee
+• Overall sustainability
+• Corporate Governance Guidelines
+• Director self-evaluation process and 
+performance reviews
+• Board refreshment
+• Board's mix of skills, characteristics, 
+experience, and expertise
+• Director compensation
+• Management succession planning
+• Political and lobbying spending
+• Principal independent public accountants
+• Internal Assurance Services and the 
+Ethics and Compliance group
+• Financial statements and accounting 
+systems and controls
+• Enterprise risk, including information 
+security and cybersecurity*
+• Control structure for externally reported 
+non-financial metrics
+• HSE matters and sustainability
+• HSE risk-management processes
+• HSE performance
+• Environmental impact, including climate 
+matters
+• Overall executive compensation 
+program
+• Effectiveness of compensation 
+program to attract, retain, and 
+motivate Section 16 officers
+• Pay and incentive plans metrics, 
+including Non-Financial Strategic 
+Metrics
+*The Board of Directors receives quarterly cybersecurity updates.
+Halliburton 2023 Annual & Sustainability Report Governance  16
+
+G2
+ENTERPRISE RISK 
+MANAGEMENT
+Halliburton's risk-assessment process relies on a consistent, 
+systematic, integrated approach to risk, and includes a yearly 
+review of items that have potential to impact our business 
+continuity, strategy, and crisis management. Halliburton 
+reports to the Board of Directors on the results of the  
+risk-assessment process. This process is part of Halliburton's 
+Enterprise Risk Management (ERM) program, which is 
+designed to identify, mitigate, and manage enterprise-level 
+risks to our organization as well as other strategic risks.
+Our Risk 
+Management Sustainability 
+Commitments
+ ■ Streamline risk categories, risk identification, and risk 
+management to ensure alignment with Halliburton 
+strategy and place a focus on what matters most.
+ ■ Enhance cross-functional visibility to and collaboration 
+among key stakeholders throughout the organization to 
+ensure consistency, uniformity, and strategic approach to 
+risk assessment, identification, and mitigation.
+ANNUAL ENTERPRISE RISK 
+ASSESSMENT
+Halliburton's refreshed risk-assessment process continued 
+in 2023. We conduct this process with our partnership with 
+a global leader in ERM programs. This streamlined and 
+collaborative approach to strategic risk assessments is one 
+way we identify and prioritize top risks.
+The process consists of yearly workshops that facilitate open 
+dialogue, debate, and existent and emergent risk evaluation. 
+This year, 79 Halliburton executives participated to discuss, 
+evaluate, and score risks based on their potential impact, 
+likelihood of occurrence, and risk-mitigation preparedness. 
+Workshop results provided valuable feedback for focusing  
+risk-mitigation attention and opportunities for process 
+optimization. We incorporate insights gained into upcoming 
+plans and utilize them to help Halliburton minimize risks and 
+maximize opportunities as it achieves its strategic plans.
+GLOBAL IT INFRASTRUCTURE
+Halliburton's IT strategy includes modernized infrastructure, 
+networks, and applications that provide agility, scalability, and 
+flexibility to our business and customers. This design aligns 
+with and supports our broader digital and automation strategy. 
+We continue our efforts to optimize all applications deployed 
+to cloud-based digital platforms. This includes applications 
+that are new to the cloud as well as those we migrated from 
+previous platforms. These efforts reduced the on-premise 
+infrastructure required for our work. At the end of 2023, we 
+achieved our goal to reduce our global data center footprint 
+by 75%.
+Halliburton 2023 Annual & Sustainability Report Governance  17
+
+CYBERSECURITY
+Halliburton takes every threat to cybersecurity seriously. Our 
+Board receives quarterly updates about cybersecurity matters 
+and Halliburton's Audit Committee receives an in-depth annual 
+review on the topic.
+Halliburton invests significant resources to protect our 
+systems and data. We do this in ways that align with industry 
+standards, such as the National Institute of Standards 
+and Technology (NIST) Cyber Security Framework, NIST 
+800-53, NIST 800-82, and International Electrotechnical 
+Commission 62443.
+The following are examples of measures taken to implement 
+our Defense-in-Depth design philosophies for Information 
+Technology (IT) and Operational Technology (OT) systems:
+ ■ Multi-factor authentication, which verifies users’ identities 
+beyond their credentials
+ ■ “Zero trust, ” which establishes layers of protection for 
+users and devices
+ ■ “Least privilege, ” which limits the content individual users 
+can access
+Halliburton continued to perform OT security  
+self-assessments for all of our product lines in 2023. These 
+assessments promote proper governance of cyber controls; 
+help us evaluate evolving cyber risks; and improve our product 
+line network segmentation, monitoring, and endpoint security 
+management. We regularly evaluate advanced cybersecurity 
+technologies with potential to help Halliburton expand our 
+portfolio of OT security solutions.
+In 2023, we further enhanced our annual cybersecurity training 
+program. We launched additional training on specific subjects, 
+such as phishing and privileged access management, that 
+are now required for select groups of Halliburton personnel 
+and optional for the rest of our employees. The groups that 
+are required to complete these new training courses do so 
+alongside Halliburton's annual cybersecurity training course, 
+which is required of all our employees and contractors. We 
+also added a new OT Security training that is required for all 
+Halliburton employees and contractors.
+Analyst monitors application and infrastructure performance using iEnergy® platform
+Halliburton 2023 Annual & Sustainability Report Governance  18
+
+PHYSICAL SECURITY
+Halliburton takes active steps to protect the physical safety of 
+employees. Where employees' work responsibilities might 
+cause risks to their physical safety, we have established safety 
+procedures and infrastructure to minimize those risks.
+Our security team monitors and assesses current and 
+developing global security risks where Halliburton operates. 
+It works collaboratively with local management teams to 
+develop and execute security plans. These efforts include 
+controls designed to enhance the security of Halliburton's 
+personnel and assets.
+Workplace Violence Prevention
+Halliburton works to maintain a secure and safe workplace 
+environment for all of our employees. Our Code of Business 
+Conduct (COBC) and security controls are the foundation of 
+workplace safety at Halliburton. Through on-demand training, 
+we communicate with employees and managers about 
+the best ways to recognize, report, and manage threats 
+of violence.
+Global Travel Risks 
+Halliburton operates business on a global scale. We use our 
+network of security specialists and our 24-hour Global Security 
+Operation Center (GSOC) to monitor global security conditions 
+and associated risks. Because we maintain vigilant attention to 
+global security conditions, we can warn our employees about 
+threats, incidents, or local developments that may affect them 
+on business-related travel.
+Autonomous Security Technology 
+In 2023, we continued to integrate security technologies 
+to provide enhanced capabilities for security operations, 
+emergency response, and autonomous access control. 
+This included the extension of our drone program, which 
+recorded over 1,000 miles flown and improved our overall 
+situation awareness.
+ Halliburton chemical reaction plant in Saudi Arabia
+Halliburton 2023 Annual & Sustainability Report Governance  19
+
+Our Ethical Operations 
+Sustainability Commitment
+ ■ Conduct business with integrity, choosing the ethical 
+course of action when confronted with challenging 
+circumstances, promoting a speak-up culture free of 
+retaliation, and treating our employees and stakeholders 
+honestly and fairly.
+G3
+ETHICS AND 
+COMPLIANCE
+Everything we do at Halliburton is founded on respect and 
+integrity, which are two of our core values. Our longstanding 
+ethics and compliance program enables us to maintain this 
+foundation. Halliburton's Global Ethics and Compliance group, 
+which is led by the Chief Ethics and Compliance Officer and 
+supervised by the Audit Committee, administers the ethics 
+and compliance program. The program includes Halliburton's 
+Ethics Helpline, whistleblower protections, and COBC. Visit 
+the Halliburton COBC page of our website to learn more 
+and find the full text of our COBC, which is available in 
+multiple languages. 
+LOCAL ETHICS OFFICERS
+Halliburton's Local Ethics Officers (LEOs) are employees who 
+have chosen to assume an additional responsibility to promote 
+awareness of ethics and compliance. Employees who are 
+appointed to be LEOs receive training about ethical behavior 
+modeling; best practices to answer employee questions and 
+provide guidance; and how to receive and escalate reports of 
+suspected misconduct. They work locally to help supplement 
+our COBC-based ethics and compliance training program 
+through their presentations on ethics topics and serve as 
+community resources. At the end of 2023, 51 LEOs in 35 
+countries served in this role.
+Halliburton LEOs provide relevant, timely, and targeted 
+in-person and virtual ethics and compliance training around 
+the globe. In 2023, Halliburton LEOs conducted 1,764 
+presentations. They are a critical avenue of communication 
+for our global compliance program from the office to the 
+wellhead. In addition, because our LEOs are present in local 
+offices, our employees have one more resource they can 
+go to if they wish to raise a concern or report a suspected 
+ethics violation.
+ETHICS AND COMPLIANCE 
+TRAINING
+Halliburton provides robust training for everyone at the 
+Company, and in-person or online COBC training is required of 
+all employees and contractors of Halliburton who have access 
+to our systems. Our ethics and compliance training program 
+ranges from managerial development programs hosted by 
+corporate executives to site-specific training at job sites and a 
+variety of other opportunities.
+1,764
+Number of LEO  
+Presentations
+Field employee discussion in Añelo, Argentina
+T raining Hours for COBC, Anti-Corruption, and Enhanced Procurement
+Fraud in Countries Designated as High-Risk
+ Number of Hours
+56,689
+2021
+2022
+2023
+58,078
+60,107
+Halliburton 2023 Annual & Sustainability Report Governance  20
+
+G4
+ANTI-BRIBERY, 
+ANTI-
+CORRUPTION, 
+AND FAIR 
+COMPETITION
+Everyone who conducts business on Halliburton's behalf 
+— from employees, contractors, and suppliers to agents, 
+consultants, officers, and directors — is required to follow 
+our anti-bribery, anti-corruption, and fair competition policies 
+and procedures. Our COBC references relevant policies and 
+practices and our commitment to these principles.
+OUR REQUIREMENTS
+Halliburton employees are expected to conduct business with 
+integrity and to be guided by our core values. Employees must 
+comply with the U.S. Foreign Corrupt Practices Act, the UK 
+Bribery Act 2010, and similar laws that apply to our business. 
+Our employees also must engage in fair competition for 
+business and win it in a legal and ethical manner.
+EMPLOYEE TRAINING
+Every employee with relevant job functions, as well as 
+employees who work in high-risk countries, must complete 
+our anti-corruption and anti-bribery employee training 
+course. The training course emphasizes Halliburton's core 
+commitment to conduct business the REDWay and to engage 
+in and win business fairly, professionally, and with integrity. It 
+also reviews topics like business relationship management, 
+due diligence, and how to ethically engage in business 
+hospitality and charitable contributions.
+Halliburton's Global Ethics and Compliance group supports 
+and supplements our web-based anti-corruption training 
+courses with in-person and virtual trainings each year. Our 
+Global Ethics and Compliance team visits with employees 
+and contractors in our geographies, product service lines, 
+and functions, including at manager boot camps, Halliburton 
+corporate and operational facilities, and corporate gatherings.
+Global Ethics & Compliance team member leads in-person training in Kuwait
+Halliburton 2023 Annual & Sustainability Report Governance  21
+
+G5
+SUPPLY CHAIN 
+GOVERNANCE
+Halliburton works with suppliers who share our commitment 
+to integrity and ethical business practices. We use a standard 
+approach to screen suppliers and measure their compliance 
+with our rules, terms, and conditions. We also review and 
+monitor our current suppliers' practices to confirm they 
+comply with Halliburton's policies. Learn more about our 
+Supplier Management System, local supplier procurement 
+policies, modern slavery and trafficking prevention, conflict  
+minerals, and supplier compliance and training-related 
+expectations on the Supplier Relations page of the 
+Halliburton website. 
+Our Supplier Conduct and 
+Responsible Procurement 
+Sustainability Commitment
+ ■ Cultivate a sustainable supply chain through the 
+continuous improvement of internal processes, by 
+performing proactive risk assessments, and by working 
+collaboratively with our diverse mix of global and 
+local suppliers.
+DRIVING A SUSTAINABLE  
+VALUE CHAIN
+Halliburton knows effective due diligence of our supply chain 
+is essential to build and maintain sustainable operations. 
+It is important to select suppliers that operate sustainably. 
+Halliburton's work to select and qualify suppliers includes 
+evaluations of suppliers' sustainability commitments. We 
+expect our suppliers to improve with us in sustainability 
+matters. We also encourage our suppliers to track 
+their sustainability performance and proactively pursue 
+continuous improvement. 
+SUPPL Y CHAIN MONITORING 
+PLATFORM
+Halliburton continued to develop and implement a digital 
+supply chain monitoring platform in 2023. This cloud-based 
+platform collects and monitors sustainability data from 
+suppliers on a wide range of topics that include human rights, 
+conflict minerals, supplier diversity, and carbon footprint. 
+Halliburton uses this system to engage with our supply chain 
+partners on key sustainability issues, identify and prioritize 
+risks, manage supplier corrective action plans, and track 
+vendor progress on carbon footprint reduction.
+At present, Tier 1 suppliers representing 89% of 
+Halliburton's annual spend have been engaged via the 
+platform. Tier 1 suppliers representing 68% of Halliburton's 
+annual spend are now fully registered in the platform and 
+undergoing assessment.
+89%
+of Halliburton's annual  
+spend engaged
+68%
+of Halliburton's annual  
+spend registered
+Tier 1 suppliers representing:
+Halliburton 2023 Annual & Sustainability Report Governance  22
+
+PERFORMING DUE DILIGENCE 
+IN OUR SUPPL Y CHAINS
+Policies
+Halliburton's contracted suppliers must commit to protect and 
+uphold the fundamental human rights of their employees as 
+defined by the UN Universal Declaration of Human Rights. We 
+use our Supplier Ethics Letter and Supplier Ethics Statement 
+to communicate ethical expectations to our suppliers. In 2023, 
+we enhanced our supply chain policies by embedding our 
+sustainability commitments and requirements in them. 
+Risk Assessment
+During onboarding, we require potential suppliers to engage 
+in a risk-evaluation process via our procurement system. 
+Depending on supplier risk level, we collect information such 
+as insurance documentation and safety risk assessments. 
+We also conduct screenings for export controls. We then use 
+our supply chain monitoring platform to conduct sustainability 
+assessments. As a data collection and mapping tool, this 
+platform plays an important role in making it possible for 
+Halliburton to analyze data, pinpoint risks within our supply 
+chain, and prioritize areas for follow up. When we work to 
+determine which risk levels to assign to suppliers, we assess 
+them based on relationship, category, and geography.
+Halliburton includes evolving international Human Rights 
+legislation, particularly import and trade restrictions, in 
+our risk assessment methodology. In the course of risk 
+assessment, we consult international standards, such as the 
+UN Guiding Principles for Business and Human Rights and The 
+Organization for Economic Co-operation and Development 
+Due Diligence Guidance for Responsible Business Conduct.
+The supply chain monitoring platform has enabled Halliburton 
+to expand our supplier human rights due diligence program 
+and take effective action to reduce risks and improve 
+sustainability performance over the long term. It administers 
+questionnaires to suppliers about key Human Rights and 
+Labor topics. We have used the platform to conduct Human 
+Rights and Labor evaluation for 4,496 suppliers (which 
+comprises 56% of our global spend).
+Human Rights Audit and Supplier Evaluation
+In 2023, we continued to enhance our high-risk supply chain 
+due diligence. Through Halliburton's ongoing collaboration with 
+a third-party human rights auditor, we maintained our practice 
+of on-site human rights audits of suppliers. We consider 
+the scale of our business with particular suppliers and the 
+nature of the goods or services they provide to determine the 
+proper scope and form of our audits. We conduct Workplace 
+Conditions Assessments, Labor Provider Audits, and Service 
+Provider Audits, among others.
+Halliburton evaluates our critical suppliers annually. In these 
+evaluations, we look at suppliers' risks related to safety, quality, 
+environment, social responsibility, economics, and corporate 
+governance. Suppliers must respond to a questionnaire that 
+asks about their level of compliance with Halliburton's COBC, 
+safety standards, and requirements. If a supplier is found to 
+be non-compliant with Halliburton's standards, our response 
+actions can lead to supplier termination.
+Visit Chapter S4 Human Rights to read more about 
+Halliburton's Human Rights policies. 
+Risk Analysis
+ Risk Mitigation / 
+Remediation
+ Impact AnalysisPerformance
+Monitoring
+Reporting & 
+Accountability
+Communication 
+& T raining
+Our Approach to Supply 
+Chain Sustainability
+Embedding 
+sustainability in supply 
+chain processes
+Halliburton 2023 Annual & Sustainability Report Governance  23
+
+Conflict Minerals
+Halliburton is a member of the Responsible Minerals Initiative. 
+We work with our suppliers to make sure they ethically source 
+conflict minerals. Non-compliant suppliers are subject to 
+termination or corrective actions.
+In 2023, our cloud-based supply chain monitoring platform 
+enabled us to increase our supplier response rate from 78% 
+to 86%. It also affords us better visibility into our suppliers' 
+actions; greater ease in collaboration with suppliers on 
+appropriate remedial or corrective actions; and a more intuitive 
+assessment platform. 
+SUPPL Y CHAIN TRAINING
+To deliver training about sustainability and supply chain 
+mapping to our internal personnel and external suppliers, 
+Halliburton engages resources from professional training 
+bodies that develop material focused on supply chain 
+and procurement practices. In 2023, in collaboration 
+with the Supply Chain Sustainability School, we piloted 
+sustainability-related training to key internal employees and 
+external stakeholders.
+The Supply Chain Sustainability School enables us to provide 
+a wide range of sustainability training on a variety of topics, 
+including modern slavery, ethical procurement, environmental 
+protection, and climate change. This includes the International 
+Petroleum Industry Environmental Conservation Association 
+(IPIECA) Labor Rights Training, which covers topics such as fair 
+recruitment, worker grievance mechanisms, and forced labor.
+We also continued our internal training on Supply Chain 
+Sustainability Awareness for supply chain employees in 2023. 
+This training covers a range of key sustainability topics relevant 
+to our supply chain, including emissions, supply diversity, 
+supply chain risk mapping, modern slavery and related 
+legislation, the UN Sustainable Development Goals, and UN 
+Guiding Principles on Business and Human Rights.
+LOCAL CONTENT AND 
+SUPPLIER DIVERSITY
+Halliburton draws strategic and competitive operational 
+advantages from its strong, established relationships with 
+local suppliers. As we support them, we help expand national 
+and local suppliers' capacities and competencies, promote 
+positive labor practices, and stimulate local economies. 
+We engage in legal, ethical work with governments and 
+customers around the world to meet our local content targets.
+Halliburton collaborates with industry counterparts and 
+IPIECA to develop standardized local content measurement 
+and reporting practices for the global oil and gas industry. We 
+helped create new local content guidance for the oil and gas 
+industry that was published in March 2023.
+In 2023, we engaged 5,992 suppliers with questions about 
+diversity via our cloud-based supply chain monitoring platform. 
+This inquiry was designed to validate data and identify diverse 
+vendors in our network. We also expanded supplier diversity 
+to include disabled- and veteran-owned businesses.
+Halliburton 2023 Annual & Sustainability Report Governance  24
+
+G6
+PUBLIC POLICY
+The global energy industry is subject to a set of complex, 
+ever-evolving regulations. We engage on public policy issues 
+relevant to Halliburton, our operations, and our workforce. 
+TRANSPARENCY AND 
+OVERSIGHT
+Transparency is a corporate priority at Halliburton. We 
+maintain practices that enable transparency and implement 
+new practices that increase our transparency each year. 
+Our Board's Nominating and Corporate Governance 
+Committee reviews and approves political engagements 
+such as Halliburton's lobbying activities, payments to trade 
+associations, and political expenditures, as provided by the 
+Halliburton Policies for Political Engagement.
+The CPA-Zicklin Index assesses political engagement policies 
+at S&P 500 companies for transparency and accountability. 
+Companies scored on the CPA-Zicklin Index have their 
+company policies and practices reviewed in 24 areas, including 
+political contributions, trade associations, and political action 
+committee (PAC) activities.
+CPA-Zicklin Index  
+Trendsetter Status
+In 2023, Halliburton scored a 93 on the 
+CPA-Zicklin Index with a raw score of 65 
+points. A score of 90 or above indicates 
+robust disclosure and oversight and classifies 
+a company as a Trendsetter, a status 
+Halliburton obtained in 2022 and maintained 
+in 2023. We are the only oilfield services 
+company currently classified as a CPA-Zicklin 
+Index Trendsetter.
+POLITICAL ACTIVITY AT 
+HALLIBURTON
+Halliburton does not use corporate dollars to make direct 
+contributions to political candidates or parties. Halliburton's 
+political action committee, the Halliburton Company Political 
+Action Committee (HALPAC), is multi-candidate and  
+non-partisan. Y ou can learn more about HALPAC on the  
+Public Policy page of the Halliburton website.
+Halliburton 2023 Annual & Sustainability Report Governance  25
+
+ENVIRONMENTAL
+Globally, oil and gas continue to be critical sources of energy. The pursuit of a lower carbon future must account 
+for their place in the global energy mix. Halliburton focuses on three fronts to drive decarbonization: deliver 
+technologies that help reduce the emissions intensity of our own and our oil and gas customers' operations; 
+service growing markets such as carbon capture, utilization, and storage (CCUS) and geothermal energy through 
+our Low Carbon Solutions business; and continue to help innovators and entrepreneurs scale across the broader 
+energy system through Halliburton Labs, which also allows us to learn how we can add value to this broader 
+space. Our efforts also go beyond carbon as we continue to implement measures to reduce waste generation 
+and optimize water use.
+E1
+EMISSIONS 
+REDUCTION 
+PROGRESS
+E2
+THE FUTURE OF 
+ENERGY E3
+ENVIRONMENTAL 
+MANAGEMENT
+Halliburton 2023 Annual & Sustainability Report Environmental  26
+
+843,376
+E1
+EMISSIONS 
+REDUCTION 
+PROGRESS
+Halliburton understands the oil and gas industry has an 
+important role to play to help reduce the world's emissions, 
+and that affordable, secure energy is essential for global 
+economic development. We are dedicated to our work to 
+reduce emissions, improve efficiency, and advance the 
+development of clean energy options. Our Chief HSE Officer 
+has responsibility to define and execute our emissions 
+reduction strategy, which the HSE committee of our Board of 
+Directors oversees. The Board also receives regular updates 
+about Halliburton's progress. Y ou can read our Climate Change 
+Statement, Climate Risk Scenario Analysis, and additional 
+information about our emissions reduction efforts on the 
+Halliburton website.
+FOCUS ON EMISSIONS 
+REDUCTION
+In 2023, we continued to invest in innovations and initiatives 
+that support progress toward our 2035 emissions reduction 
+target. We expect total emissions to fluctuate in the near term 
+as market dynamics, our hydraulic fracturing equipment mix, 
+and operational efficiencies affect our emissions. Hydraulic 
+fracturing accounts for about 80% of our carbon footprint, and 
+strong demand for oil and natural gas supply drove demand for 
+our services which resulted in a 15% increase in our absolute 
+Scope 1 and 2 emissions year over year. However, our overall 
+emissions intensity is down 13% compared to 2018, which 
+suggests we are on track to meet our target.
+Given the continued expansion of our electric fracturing fleet, 
+our Scope 2 emissions went from 11% of our total reported 
+emissions in 2022 to 20% in 2023. We expect this shift 
+to continue as more of our diesel-powered equipment is 
+replaced by electric units over time. Continued electrification 
+will open new avenues for emissions reduction given power 
+source optionality.
+Our Climate Change 
+Sustainability Commitments
+ ■ Achieve a 40% reduction of Scope 1 and 2 emissions by 
+2035 from 2018 baseline.
+ ■ Partner with Tier 1 suppliers to track and reduce Scope 3 
+GHG emissions.
+Fracturing Electrification
+We continue to deploy new electric fracturing units, 
+which reduce the emissions intensity of our fleet and 
+3,443,174
+3,503,441
+2021
+2022
+2023
+3,320,350
+Scope 1 GHG Emissions
+ MTCO2e
+248,949
+2021
+2022
+2023
+405,114
+Scope 2 Market-Based GHG Emissions
+ MTCO2e
+help customers reduce their emissions. Over the last two 
+years of electric fracturing deployments, we have reduced 
+our North America fracturing-related emissions intensity by a 
+cumulative 4%.
+Our electric fracturing units provide a lower emissions profile 
+relative to other units and offer power source optionality 
+that include grid power and different sources of natural gas. 
+Halliburton's customers recognize our units as valuable 
+options in their emissions reduction journeys.
+Fracturing electrification operations
+Halliburton 2023 Annual & Sustainability Report Environmental  27
+
+Mapping Carbon in Our 
+Supply Chain
+In 2023, Halliburton collaborated with 
+IPIECA and other oil and gas companies to 
+develop a standardized process to define 
+and calculate embodied carbon for select 
+purchased materials.
+Halliburton uses analytical tools to assess 
+our suppliers' carbon footprint management 
+maturity. To date, Halliburton has assessed 
+the maturity of over 4,116 suppliers. Aided 
+by direct discussions with our suppliers, we 
+have also started to collect product carbon 
+footprint data. Learn more about the  
+cloud-based platform we use in the Supply 
+Chain Monitoring Platform section of 
+this report.
+Facilities
+Sustainability is integrated into our real estate processes. 
+Due to our efforts to assess and improve the efficiency of our 
+facilities through initiatives such as solar energy, LED lights, 
+renewable electricity procurement, and the optimization of 
+other mechanical systems, we reduced over 39 million kWh 
+in 2023.
+Nine of Halliburton's sites located in Canada, India, and the 
+U.S. currently purchase 100% renewable power. In 2023, 
+Halliburton installed LED lighting at 26 sites globally, and 
+we have contracted installations at nine additional sites. 
+This ongoing initiative has shown a 62% average reduction in 
+U.S. lighting-related electricity consumption.
+Halliburton Completion Technology and Manufacturing Center, Singapore (Lion Facility)
+Halliburton 2023 Annual & Sustainability Report Environmental  28
+
+E2 
+THE FUTURE OF 
+ENERGY
+The world requires a diversified use of all sources of energy, 
+each of which has a role to play in the future. At Halliburton, 
+we deliver value to the broader energy landscape. Our work is 
+focused in three spaces: 
+ ■ We provide goods and services to help our customers 
+reduce the emissions footprint of their operations.
+ ■ We put our core competencies to work to deliver 
+solutions to low-carbon energy projects such as CCUS 
+and geothermal energy.
+ ■ Through Halliburton Labs, we help early-stage companies 
+in emergent energy sectors scale as we learn about 
+where we can strategically engage new markets.
+Our Innovation 
+Sustainability Commitments
+ ■ Lead the industry in innovation and conscientious 
+stewardship of global resources.
+ ■ Provide solutions that support decarbonizing our 
+customers’ production base.
+LOWERING THE CARBON 
+INTENSITY OF OUR 
+CUSTOMERS' OIL AND GAS 
+OPERATIONS
+Halliburton helps our customers lower the carbon intensity of 
+their operations through innovative, data-driven solutions in the 
+full well lifecycle. The oil and gas industry provides affordable, 
+reliable energy that is necessary for the global society and 
+its growth. The path toward a lower carbon future includes 
+hydrocarbons produced more efficiently and with a reduced 
+carbon footprint.
+Our approach to sustainability is embedded in our new 
+technology development process and customer collaboration. 
+We develop and deliver solutions that help our customers 
+reduce emissions, maximize their assets, and build a 
+sustainable future.
+Digital Emissions Calculations
+In 2023, we integrated the Envana™ emissions data 
+management software with our service delivery workflows 
+and equipment sensors. This integration was accomplished 
+in several product service lines and enables us to generate 
+reliable, repeatable, and detailed emissions data for jobs 
+executed by these product service lines. Halliburton uses 
+this data to report verifiable emissions data, collaborate with 
+customers to identify opportunities to reduce emissions, and 
+inform our product development.
+Our data-driven solutions positively impact our 
+emissions footprint and are key to our end-to-end 
+sustainability strategy
+Halliburton 2023 Annual & Sustainability Report Environmental  29
+
+Sustainability in the Product Development Process
+All new product-related research and development at 
+Halliburton follows LIFECYCLE, our technology development 
+process. LIFECYCLE's steps consider, among other factors, 
+ways to minimize and quantify potential sustainability-related 
+impacts. It is a rigorous, interdisciplinary, and collaborative 
+stage-gate product development process that facilitates 
+successful technology commercialization. 
+In 2023, we simplified how we identify products or services 
+that help our customers reduce emissions and standardized 
+how we qualify environmental impact early in the technology 
+development process. We also improved our process 
+controls, which monitors our project launches from inception 
+to commercialization.
+If a product or service is determined to have a favorable 
+sustainability impact during the LIFECYCLE process, it is then 
+classified in one of the following categories: 
+1. CO2e footprint reduction
+2. Direct/indirect input (i.e, electricity, raw materials, or 
+logistics) and/or waste reduction
+3. CO2e footprint assessment and/or emissions mitigation
+4. Low Carbon Solutions
+Intelevate™ Platform
+Intelevate™ Platform, developed through 
+LIFECYCLE, is a customizable digital platform 
+that helps operators design, build, and 
+operate end-to-end electrical submersible 
+pump (ESP) monitoring solutions. It facilitates 
+faster, more accurate goal setting and 
+operating plan development. A customer that 
+adopted the Intelevate™ Platform increased 
+their average equipment run life by over 60%. 
+It enabled the customer to remotely operate 
+around one-third of their ESP operations 
+in the Permian Basin and decreased the 
+number of technician visits made by 50 visits 
+per month.
+Combining design and monitoring expertise with data science to digitally transform ESP performance
+Halliburton 2023 Annual & Sustainability Report Environmental  30
+
+2023 TECHNOLOGY SUSTAINABILITY MATRIX 
+Halliburton maps the lower environmental impact technologies we launch in our Technology Sustainability Matrix. This reference 
+document identifies our environmental impact-reducing technology offerings according to every stage of the well lifecycle. The 
+excerpt below highlights products and services we launched in 2023. More information can be found on the Sustainability page of the 
+Halliburton website.
+Products / Services
+Operational Efficiency
+Electrification
+Customer Emissions Inventory 
+Optimization
+Water Optimization and Waste 
+Reduction
+Materials and Logistics
+Carbon Capture, Utilization, 
+and Storage
+Geothermal
+ARTIFICIAL LIFT
+Intelevate™ Platform ■■ ■■ ■■
+BAROID
+BaraFLC® Nano nanoparticle wellbore sealant additive for water-based fluid systems ■■ ■■
+COMPLETION TOOLS
+IsoRite® -FT Multilateral completion system ■■ ■■ ■■
+PRODUCTION SOLUTIONS
+Hydra-Blast® Pro wellbore cleaning service ■■
+SPERRY DRILLING
+PulseStar™ intelligent high-speed telemetry service ■■ ■■ ■■
+GuideStar™ continuous definitive survey measurements service ■■ ■■ ■■
+iCruise® CX intelligent rotary steerable system ■■ ■■
+EarthStar® X near-bit, shallow, and ultra-deep resistivity service ■■ ■■
+TESTING & SUBSEA
+Remotely Operated Control System (ROCS) ■■ ■■ ■■
+Subsea Controls and Intervention Light System (SCILS) ■■ ■■ ■■
+WIRELINE & PERFORATING
+CoreHD® scientific imaging services ■■
+PorosityHD™ imaging and digital routine core analysis ■■
+FastSCAL™ digital special core analysis ■■
+Halliburton 2023 Annual & Sustainability Report Environmental  31
+
+LOW CARBON SOLUTIONS
+We saw significant growth in 2023 as the global project 
+opportunities for CCUS and geothermal energy increased. 
+Our Low Carbon Solutions offerings apply our experience 
+and preexisting technologies to develop and execute our 
+customers' projects. We include a few highlights below.
+CCUS Highlights
+Halliburton provides solutions that help our customers 
+analyze risk in complex CCUS projects. We offer tools that 
+help companies understand the geological characteristics 
+of a potential storage site. Our cementing and completions 
+product lines offer a range of corrosion-resistant solutions that 
+customers can use to construct storage wells.
+Halliburton's Neftex® FairwayFinder™ software uses 
+an informed approach to identify and screen potential 
+storage sites. Our wellbore evaluation technologies, such 
+as our IntelliSat™ pulsed neutron logging service, provide 
+accurate assessments of carbon/oxygen saturation — a 
+critical step before CO2 injection. A range of formation 
+pressures can be collected when these technologies are 
+paired with our Reservoir Description Tool (RDT™) formation 
+tester, which provides information related to storage and 
+containment quantification.
+Measurement, monitoring, and verification (MMV) is 
+a required step in storing injected CO2 underground. 
+Halliburton's solutions include tools that facilitate accurate 
+MMV of formation pressures and temperatures, remote 
+data access, and storage and leak detection alerts. Our 
+DataSphere® continuous monitoring suite delivers subsurface 
+monitoring capabilities. The suite also collects live wellbore 
+data that aids injection and reservoir model enhancement to 
+fulfill CCUS MMV requirements.
+SPIDR® Data Acquisition Unit
+Halliburton's SPIDR® data acquisition unit 
+is a well-surveillance solution. Both the 
+SPIDR® data acquisition unit and SPIDRlive® 
+streaming surface pressure data retrievers 
+capture high-quality pressure data at the 
+wellhead without wellbore intervention. 
+SPIDRlive® streaming surface pressure data 
+retrievers use the cloud to stream data and 
+provide a wider remote visualization capability 
+for CO2 injection sites.
+HyNet UK Carbon Storage 
+Project
+In 2023, Halliburton was awarded contracts for work on the 
+HyNet North West CCUS project in the Liverpool Bay area, the 
+first of its kind commissioned in the UK. This project will involve 
+completions, liners, and monitoring products and services. 
+Its goal is to reduce carbon dioxide emissions through use of 
+depleted hydrocarbon reservoirs for geological storage and by 
+providing the region access to low carbon energy.
+Halliburton 2023 Annual & Sustainability Report Environmental  32
+
+Geothermal Energy Highlights
+Global demand for sustainable heat and electricity has 
+led to growth in conventional geothermal projects and 
+advancements in geothermal systems. These advanced 
+systems allow for geothermal energy production in 
+areas without ideal geological conditions for conventional 
+geothermal applications.
+Halliburton's technology portfolio, combined with our 
+experience in the geothermal space, positions us to meet 
+the growing geothermal energy market's demands. Our 
+integrated and comprehensive approach to the geothermal 
+project lifecycle delivers a low-cost-per-megawatt solution for 
+our customers. From subsurface software, well construction, 
+and artificial lift to well interventions, Halliburton has a 
+portfolio of products and services to support operators in the 
+geothermal sector. We develop new technologies to drive 
+performance and reliability in this high-temperature,  
+high-pressure environment to make geothermal energy more 
+accessible and affordable.
+Xaminer® Sonic Imager™ 
+Logging Service
+Halliburton's wireline product line deployed 
+Xaminer® Sonic Imager™ logging service 
+pairs with our borehole imaging offerings, 
+such as StrataXaminerTM high-resolution 
+images in oil-based mud, to characterize 
+fracture networks in geothermal projects. 
+The Xaminer® Sonic ImagerTM logging service 
+delivers high-resolution characterization of 
+seismic properties, geomechanics, and 
+completion requirements in a wide range of 
+reservoirs. Data acquired by these advanced 
+services is vital for planning induced fractures 
+in the target geothermal zone.
+StrataXaminer™ imaging service delivers high-resolution 
+images of the reservoir structure
+Cape Station: Horizontal 
+Geothermal Well Project
+We worked with Fervo Energy in Utah, a leading geothermal 
+energy company, to deploy the Halliburton VersaFlex® XSL -ZE 
+Liner Hanger system in the world's first commercial enhanced 
+geothermal greenfield development project. Fervo leverages 
+horizontal drilling, distributed fiber-optic sensing, and  
+multi-zonal completion techniques to enhance permeability 
+and water flow through the subsurface, removing the need 
+for naturally occurring hydrothermal resources that are 
+required in conventional geothermal wells. A cross-functional 
+team installed and successfully cemented the technology in 
+three different horizontal wells. Our collaboration helped the 
+customer achieve higher efficiency in their geothermal  
+well projects.
+Halliburton 2023 Annual & Sustainability Report Environmental  33
+
+HALLIBURTON LABS: THE 
+FUTURE OF ENERGY . FASTER.™
+Through Halliburton Labs, we provide a wide spectrum of 
+energy system innovators and entrepreneurs with access 
+to our capacity to scale and the vast resources in our global 
+infrastructure and network. We come alongside these 
+organizations to help them further their strategic goals. 
+Participating startups include those engaged in industrial 
+decarbonization; carbon capture and utilization; grid-scale 
+and long-duration energy storage; energy generation and 
+conversion; critical minerals recovery; hydrogen production 
+and transportation; and circular economy. Halliburton 
+Labs creates tangible value for early-stage companies in 
+emergent energy sectors. We grant access to resources 
+that support organizations' efforts to scale and expand their 
+industry networks.
+As we support these organizations, we develop new insights 
+and discover opportunities for exploration, investment, and 
+growth. Halliburton also gains institutional knowledge that will 
+enable us to collaborate and engineer solutions to maximize 
+asset value in the energy systems of the future. Participants 
+enter a financial agreement that secures an equity stake for 
+Halliburton Labs at their next round of institutional financing.
+Halliburton Labs closed out 2023 with 32 participant and 
+alumni organizations that represent all facets of energy 
+production, storage, distribution, and efficiency, as well as 
+the industrial decarbonization and waste-to-value sectors. We 
+continue to see high levels of interest in Halliburton Labs from 
+investors, startups, and academic institutions. Increasingly, our 
+applicants are referred to us by companies and investors who 
+have seen the value we create firsthand.
+Halliburton Labs Gives Clean-tech Startups Visibility
+We hosted two Finalists' Pitch Day events in 2023. At these 
+events, we showcased 10 early-stage hard-tech companies 
+that innovate solutions in many different sectors of the energy 
+landscape. This was the first year we took our Pitch Day on the 
+road. We collaborated with key energy organizations to deliver 
+a Future of Energy Day at Denver Startup Week, which further 
+expanded Halliburton Labs' and our Finalists' reach, visibility, 
+and networks.
+Clean tech startups pitch at the Halliburton Labs Finalist Pitch  
+Day for an opportunity to join their accelerator program
+Halliburton Labs also hosted its first Company Showcase 
+event in May 2023 for nine of our participant startups. An 
+audience of over 55 clean-tech venture investors attended. At 
+this event, we facilitated live pitches for nine of our participants 
+and more than 17 4 curated meetings between startups and 
+relevant investors.
+Halliburton  
+Labs Participant and 
+Alumni Organizations32
+Halliburton 2023 Annual & Sustainability Report Environmental  34
+
+Halliburton Labs hosts panel discussions for its Innovation Series
+Participant Achievements
+In 2023, many Halliburton Labs participants 
+achieved important milestones in their work 
+to scale their operations.
+ ■ LiNa Energy reduced its funding needs 
+by 30% in consultation with Halliburton
+ ■ Renew Power Systems, Inc. produced 
+its first commercial inverter units
+ ■ SunGreenH2 was a 2023 winner of the 
+BloombergNEF Pioneers Award
+ ■ Disa Technologies, Inc. closed a $15 
+million fundraising round
+These examples demonstrate how 
+Halliburton Labs creates tangible value 
+for early-stage companies in emergent 
+energy sectors.
+Halliburton Labs Innovation Series
+Halliburton held three Innovation Series events in 2023 that 
+were open to all Halliburton employees. We invited panels of 
+distinguished industry, academia, and startup speakers to have 
+insightful, stimulating discussions at our Houston, TX, campus. 
+Topics discussed included Nuclear Energy; Carbon Capture at 
+Gigaton Scale; and Carbon Utilization. Employees gained an 
+opportunity to hear new and diverse views about innovation, 
+market drivers, and potential gaps in emergent value chains.
+Venture Development
+Halliburton began to incubate NaviScale in 2023. NaviScale 
+is a Halliburton commercial venture that makes use of 
+Halliburton's experience and expertise to help clean-energy 
+and climate-tech ventures navigate their scale-up journeys. 
+It assists them as they identify unseen risks in equipment 
+design; optimize their designs for manufacturing; verify their 
+readiness to scale, and secure suitable and reliable supplier 
+relationships. With NaviScale, Halliburton will be able to extend 
+the impact of Halliburton Labs beyond participants and alumni. 
+NaviScale will deliver a commercial solution powered by 
+Halliburton to the broader climate tech market.
+As Halliburton works alongside a broader range of innovative 
+companies, we expand our access to and insight into 
+promising value chains even further and spark additional 
+opportunities to collaborate and engineer solutions for the 
+energy systems of the future.
+Halliburton 2023 Annual & Sustainability Report Environmental  35
+
+E3
+ENVIRONMENTAL 
+MANAGEMENT
+We use the Halliburton Management System (HMS) to 
+facilitate our environmental management efforts. HMS 
+identifies areas where we can reduce or mitigate our 
+environmental impact. It also helps us manage environmental 
+risks. Additionally, we conduct environmental evaluations 
+during the due diligence phase of every potential M&A 
+transaction. Work done at Halliburton — which includes our 
+environmental management work — is guided by the policies, 
+business practices, and procedures that are comprehensively 
+detailed in HMS. Read more on the HMS page of the 
+Halliburton website. Visit the Environment page of our website 
+to learn about our chemical stewardship.
+Our Environmental 
+Management Sustainability 
+Commitments
+ ■ Establish and achieve activity-based waste-reduction 
+targets in our major facilities.
+ ■ Create water-use improvement plans in our major 
+facilities located in water-stressed areas.
+ENVIRONMENTAL FACILITY 
+CERTIFICATIONS
+The HMS complies with industry-standard certification 
+programs — including International Organization for 
+Standardization (ISO) 14001 and API RP 75 — as do all the 
+processes and procedures it contains. Many of Halliburton's 
+product lines and facilities are externally certified in 
+accordance with ISO 14001 and business requirements. In 
+2023, 65 Halliburton facilities held ISO 14001 certifications.
+SUSTAINABILITY AWARENESS 
+TRAINING
+In 2023, we launched a Company-wide Sustainability 
+Awareness Training course. The course helps employees build 
+foundational sustainability-related knowledge and educates 
+them about Halliburton's guiding principles, commitments, 
+and the initiatives we have undertaken in pursuit of our 
+sustainability goals. The course has been completed by 
+over 90% of our employees. A successful journey toward 
+our goals includes educating employees about Halliburton's 
+sustainability focus and progress.
+Lab employee in Saudi Arabia
+BIODIVERSITY
+For Halliburton, sustainability includes supporting our 
+customers, employees, and communities. We recognize 
+finding ways to reduce our impact on biodiversity plays a role 
+in this work. Our efforts in this area include environmental 
+evaluations to help reduce our impacts to our land; facility 
+designs that meet regulatory requirements and are energy- 
+and water-efficient; promotion of circularity in materials 
+use; targeted water use and waste reduction programs; 
+engagement with local communities to protect and restore 
+sensitive habitats; and cultivation of a responsible supply chain 
+in collaboration with suppliers.
+Halliburton respects World Heritage sites and the protections 
+afforded to them. We do not own or lease operational sites 
+on or within 10 km of the locations on UNESCO's World 
+Heritage List.
+Halliburton 2023 Annual & Sustainability Report Environmental  36
+
+WATER STEWARDSHIP
+Halliburton stewards water in ways that reduce and optimize 
+our use of water resources. We work internally and collaborate 
+with our customers on a global scale to reduce, reuse, 
+and repurpose — or "3R" — fluid resources to the fullest 
+possible extent.
+Halliburton improves water quality, conserves water, and 
+advances sustainable, cost-effective water management 
+processes for ourselves and our customers where we are 
+able. We report water-use data for Company-owned and 
+Company-leased locations in the U.S., Canada, and most of 
+Halliburton's global facilities.
+Halliburton has established a water-use reduction toolkit that 
+is available for use at our facilities, which was implemented in 
+2023 by our top water-consuming facilities in potentially  
+water-stressed areas. We used our Water Calculator to 
+establish a water balance for each of these locations. The 
+calculator helps a facility identify and quantify water sources 
+used at the site, on-location uses of water, and the site's 
+wastewater discharges. From this activity, we noticed that 
+higher volumes of water tend to be required for in-product 
+uses, auxiliary processes, domestic use, and/or landscape 
+irrigation. We then used the Water Reduction Plan Template to 
+evaluate water-use reduction opportunities at our top locations. 
+This template facilitates the identification and evaluation of 
+water-use reduction strategies and helps establish site-specific 
+reduction targets.
+Water-use reduction strategies that have resulted from this 
+process include, but are not limited to, improvements to 
+leak awareness and identification; replacement or enhanced 
+maintenance for older water-consuming appliances and 
+fixtures; adoption of drought-friendly vegetation and 
+xeriscaping; and implementation of systems that recycle 
+and reclaim water. In 2023, we continued our engagement 
+with sites in potentially water-stressed areas to facilitate 
+improvements and monitor progress against location-specific 
+reduction targets.
+Colombia T eam Repurposes 
+Rainwater 
+Halliburton Colombia's Real Estate team implemented 
+rainwater collection systems at three of our major facilities. 
+The systems feature tanks with a substantial storage capacity 
+of 10 m3 and enable the team to efficiently collect rainwater 
+that is then stored and filtered for use in our wash areas. The 
+team expects rainwater collection and reuse to reduce its 
+new water use by 120 m3 per year. These efforts support our 
+strategy to minimize water use through circularity.
+1,697,411
+1,478,921
+2021
+2022
+2023
+1,751,094
+Water Withdrawal
+ Cubic Meters
+Environmental rainwater project in Barrancabermeja,  
+Colombia
+Halliburton 2023 Annual & Sustainability Report Environmental  37
+
+272,240
+WASTE MANAGEMENT AND 
+REDUCTION
+Halliburton has developed a number of tools that support 
+waste management and reduction efforts at our facilities. 
+Our 2023 waste generation data include all manufacturing 
+locations; all U.S. locations; and any non-U.S. locations with 
+building footprints larger than two acres (8,092 m²) or that 
+facilitate activities with potential to generate particularly high 
+levels of waste. 
+The Waste Data App makes it possible to more accurately 
+collect and report on waste generation and disposal data. 
+On a quarterly basis, Halliburton facilities enter data into the 
+app for each waste stream that is sent offsite for treatment, 
+storage, disposal, or recycling. The Waste Stream Identification 
+Template is a step-by-step guide that supports the 
+identification and classification of different types of waste and 
+provides guidance on the segregation, handling, and disposal 
+305,031
+2021
+2022
+2023
+266,006
+Waste Disposal
+  Metric Tons
+methods associated with that waste. Another template, 
+Waste Segregation Posters, provides information on how to 
+create easy-to-understand posters that guide facility personnel 
+on proper waste segregation and storage. Halliburton has 
+also developed a Waste Minimization Decision Guide to help 
+facilities identify opportunities to prevent, reduce, reuse,  
+and recycle waste from their highest-volume and  
+highest-emissions waste streams.
+In early 2023, Halliburton locations that generate large 
+volumes of waste used one or more of these tools to identify 
+waste reduction opportunities, set reduction targets, establish 
+reduction plans, and monitor progress against targets.
+Waste Minimization at Our 
+Norway T ananger Main Facility
+Our Norway Tananger Main Facility implemented a program 
+in 2023 to segregate waste streams. The program led to a 
+73% year-over-year reduction in the amount of waste the site 
+generated per hours worked.
+Extending the Life of Oil Used 
+in Our Hydraulic Fracturing 
+Pump Fleet
+In 2023, the Halliburton North America Equipment 
+Maintenance organization and Production Enhancement 
+Technology collaborated to maximize oil life for the 
+internally maintained fleet vehicles. Our goal was to extend 
+maintenance intervals and minimize waste from hydraulic 
+fracturing pump oil changes while maintaining service quality 
+and performance.
+The team tested different types and viscosity of transmission 
+oil. The best oil blend proved able to improve performance 
+and increase time between rounds of maintenance, which 
+lengthened oil replacement cycles by 317%. This has reduced 
+the amount of oil required to service our North America Land 
+hydraulic fracturing pump fleet by 165,819 gallons per year. 
+The project helped our team reduce waste, reduce equipment 
+downtime, and further improve the reliability of  
+our equipment.
+Halliburton 2023 Annual & Sustainability Report Environmental  38
+
+SOCIAL
+Our people are the heart of everything we do at Halliburton. The success of our operations is a result of 
+the dedication of our exceptional employees, leaders, contractors, and suppliers. Halliburton supports our 
+employees worldwide through resources including our safety programs, training, competitive benefits, and 
+career development opportunities.
+Halliburton invests in opportunities to support and enhance the economic and social well-being of our 
+employees' communities. We also rely on the support of our communities, which is why global citizenship is one 
+of our guiding principles. We work to train and develop local talent, increase economic activity, promote sound 
+work practices, and share knowledge. Our goal is to educate and inspire the next generation of Halliburton talent.
+S1
+HEALTH AND 
+SAFETY S2
+OUR  
+PEOPLE S3
+TRAINING AND 
+DEVELOPMENT
+S4
+HUMAN  
+RIGHTS S5
+LOCAL 
+COMMUNITIES
+Halliburton 2023 Annual & Sustainability Report Social  39
+
+S1
+HEALTH AND 
+SAFETY
+At Halliburton, the safety of our employees and contractors 
+is our priority. Our long-term safety programs and processes 
+are tried, tested, and well-established. These programs and 
+processes are part of our Journey to ZERO. They include 
+Halliburton Critical Focus Areas (CFAs), Life Rules, Stop Work 
+Authority (SWA), Management of Change, Significant  
+Incident Review, and Tiered Assurance. Learn more on the  
+Health, Safety, Environment (HSE) and Service Quality (SQ) 
+page of our website.
+In 2023, as business activity levels continued to rise, 
+operational discipline to our Halliburton Management System 
+(HMS) and focus on execution enabled us to outperform 
+our industry group HSE indicators and improve our service 
+quality performance.
+Our Occupational 
+Safety - Journey to 
+ZERO Sustainability 
+Commitments
+ ■ Target outperforming total recordable incident rate and 
+lost-time incident rate in the International Association of 
+Drilling Contractors sector benchmarking.
+ ■ Achieve HSE training compliance >95%, driver 
+competency >95%, and 100% completion of our annual 
+Journey to ZERO strategic objectives.
+JOURNEY TO ZERO
+The Journey to ZERO approach to safety and service quality 
+expresses our commitment to our employees, customers, 
+and communities. It demonstrates that we prioritize high 
+standards, embrace challenges, and make no compromises 
+when we execute on our goals.
+Specific Journey to ZERO focus areas shift each year, 
+but the guiding principles remain consistent:
+ ■ Leadership commitment
+ ■ Continuous improvement of the HMS
+ ■ Training and competency 
+ ■ Communicate and address risks
+ ■ Technology and process improvement
+ ■ Verification of our HSE and SQ performance
+Our 2023 Journey to ZERO efforts included a continued focus 
+on risk management, and we completed our first full year 
+of leadership visit metric tracking. In addition, we tracked 
+progress on our GHG emissions, waste, and water reduction 
+efforts, which are highlighted in the Environmental section of 
+this report. Halliburton completed 100% of our 2023 Journey 
+to ZERO objectives.
+Journey to ZERO 
+Our vision to achieve zero safety 
+incidents, zero environmental 
+incidents, and zero non-productive 
+time— every day, on every job.
+HMS Continuous 
+Improvement
+ Communicate 
+and Address 
+Risks
+ Training and 
+Competency
+Technology
+and Process
+Improvement
+Verify
+Performance
+Leadership
+Commitment
+ZERO
+Journey to ZERO 
+Our vision to achieve zero safety 
+incidents, zero environmental 
+incidents, and zero non-productive 
+time— every day, on every job.
+HMS Continuous 
+Improvement
+ Communicate 
+and Address 
+Risks
+ Training and 
+Competency
+Technology
+and Process
+Improvement
+Verify
+Performance
+Leadership
+Commitment
+ZERO
+Halliburton 2023 Annual & Sustainability Report Social  40
+
+Field employee in west Texas participating in a 
+risk-mitigation assessment
+RISK MANAGEMENT
+Our focus on risk management included the expansion of 
+Halliburton's in-person 5 Checks to Go and Risk Management 
+Execution training to all regions globally. To build on our 
+successful 2022 updates to risk management training in 
+North America, regional delegates recognized for HSE and 
+SQ leadership completed a series of Train the Trainer modules 
+in 2023 to become internally certified Risk Management 
+5 Checks to Go trainers. Globally, over 3,600 additional 
+supervisors and frontline personnel completed the training.
+When HSE or SQ incidents do occur, our risk management 
+process helps us embrace the opportunity to learn from 
+incident investigations. These investigations sometimes 
+lead to process changes. At other times, they reaffirm 
+the importance of continued execution on our existing 
+lines of defense. In 2023, we supported these efforts 
+with the publication of an HMS guidance document that 
+standardized the categorization of our lines of defense and 
+critical verification activities. This document provides a more 
+consistent approach to using the results of our investigations 
+to globally prioritize improvement opportunities. At Halliburton, 
+our lines of defense categories include the industry standard 
+Life Rules, Critical Focus Areas, and our product service line 
+control points.
+Stop Work Authority (SWA) remains a critically important 
+part of risk management at Halliburton. Our SWA program 
+authorizes all employees and contractors to stop a task if they 
+observe unsafe actions or conditions, or if they have concerns 
+regarding the controls over an HSE or SQ risk. In 2023, 
+employee engagement in SWA remained strong, and we saw 
+a year-over-year increase in the number of SWA observations.
+Halliburton Life Rules
+Key Actions to Prevent Serious and 
+Fatal Injuries
+Bypassing  Safety Controls 
+Conﬁned Space
+0
+Driving
+Energy Isolation
+Hot Work
+Line of Fire
+Safe Mechanical Lifting 
+Work Authorization
+Working at Height
+Stop Work Authority Observations
+205,868
+2021
+2022
+2023
+220,754
+234,511
+Halliburton 2023 Annual & Sustainability Report Social  41
+
+Halliburton's Five Critical 
+Focus Areas 
+   Well Barriers: Manage well 
+barriers to prevent uncontained 
+release of formation fluids
+   Hydrocarbons to Surface: 
+Control the well to prevent 
+unintended flow to the surface
+   Pressure Control: Control 
+pressurized systems at all times
+   Well Proximity: Plan and maintain 
+non-intersecting drilling trajectories 
+to avoid a collision
+   Radiation and Explosives: 
+Adhere to global and local 
+regulatory safety requirements at 
+all times
+Indonesia team conducts 5 Checks to Go - an easy approach to safety
+Review Plan1
+Verify Readiness2
+What’s Different?3
+Validate Controls4
+Final Check5
+5 Checks to GO
+Starting work is not Step #1
+Review Plan1
+Verify Readiness2
+What’s Different?3
+Validate Controls4
+Final Check5
+5 Checks to GO
+Starting work is not Step #1
+Halliburton 2023 Annual & Sustainability Report Social  42
+
+LEADERSHIP VISITS
+Leadership visits focus on engagement with frontline 
+employees to ensure processes are working as intended. 
+Leaders review the execution of critical verification activities 
+and gather process improvement feedback. 2023 was the 
+first full year of use of our leadership visit metric. The focus 
+on completion of 5 Checks to Go before work begins and use 
+of our leadership visits to reinforce desired behaviors helped 
+deliver our year-over-year improvement in total recordable 
+injury and lost-time recordable injury rates.
+HMS AND INDUSTRY STANDARD 
+CERTIFICATIONS
+HMS plays a central role in putting our Journey to ZERO in 
+action. The standards and work methods that form HMS 
+define how we work and enable us to address potential 
+risks inherent in our businesses. HMS incorporates major 
+management system standards, including those for quality 
+management (ISO 9001), environmental management (ISO 
+14001), and health and safety management (ISO 45001). 
+The system also meets and exceeds requirements of the 
+industry-specific API standards for manufacturing (API Q1) 
+and providing services in the oil and gas production sector 
+(API Q2) and the API RP 75 standard for offshore safety and 
+environmental management.
+In addition to the global verification of HMS through our 
+internal tiered-assurance program, Halliburton has numerous 
+locations externally certified to API Q1, API Q2, ISO 9001, ISO 
+14001, and ISO 45001 . Halliburton leads the industry with 35 
+API Q2-certified facilities located in 13 countries.
+2023 Health and Safety Facility Certifications
+Certifications
+Number of  
+countries with API  
+Q1-certified facilities
+Number of API  
+Q1-certified facilities
+Number of  
+countries with API  
+Q2-certified facilities
+Number of API  
+Q2-certified facilities
+Number of ISO 45001 
+certified facilities
+TOTAL 6 18 13 35 48
+Western Hemisphere President Mark Richard conducts leadership visit with team in Suriname
+Halliburton 2023 Annual & Sustainability Report Social  43
+
+Our Diversity and Inclusion 
+Sustainability Commitment
+ ■ Provide a diverse and inclusive environment that upholds 
+our core values of collaboration and respect, and provides 
+all employees opportunities for growth and development.
+CULTURE
+Halliburton's workplace culture is built upon the foundation 
+that includes commitment, humility, collaboration, and 
+exceptional execution. Each employee at Halliburton knows 
+they belong and that their contributions are valued, which 
+makes it possible for everyone to perform their best. This 
+culture draws and retains our talent, serves as the foundation 
+of our Journey to ZERO, and leads us to develop innovative 
+solutions to our customers' challenges.
+Halliburton employees have access to our job descriptions, 
+salary bands, and pay structures for a majority of the countries 
+where we operate. When we equip employees with this 
+information we help them understand how they can advance 
+and chart ways to own their careers. Read more about talent 
+development and succession management in Chapter S3 
+Training and Development.
+S2
+OUR PEOPLE
+Halliburton employees form a global team whose members 
+respect each other. Our workforce is diverse, with 136 
+nationalities in over 70 countries. Through their work with 
+Halliburton, our employees gain exposure to a wide variety of 
+people, projects, and cultures. We take care to provide every 
+member of our global workforce with a work environment 
+that is safe and inclusive, opportunities to develop their 
+careers, and competitive benefits. This environment is 
+supported by our Code of Business Conduct (COBC) and 
+employment practices.
+ 
+Visit the Social page of the Halliburton website to read about 
+Halliburton's workplace, culture, employee benefits, ethical 
+employment practices, and compliance with applicable 
+employment laws. 
+Halliburton's Respect Value 
+Statement
+Respect: We value diversity and equality. 
+It makes us stronger, more competitive, 
+and better positioned for success. We are 
+committed to inclusion across race, gender, 
+nationality, religion, identity, experience, and 
+any other unique attribute. We are honest 
+with ourselves, welcome different viewpoints, 
+and empower each other to be authentic.
+Female Diversity in STEM Roles
+16%
+2021
+2022
+2023
+17%
+19%
+2023
+Racial Diversity in STEM Roles (U.S. staff only)
+34%
+2021
+2022
+36%
+39%
+Halliburton 2023 Annual & Sustainability Report Social  44
+
+Our Five ERGs
+   Women Sharing 
+Excellence (WSE)
+   B lack Employees Leading in 
+Inclusion, Excellence, Vision, and 
+Education (BELIEVE)
+   Veterans Leadership 
+Forum (VLF)
+   i MPACT, a trusted community 
+for employee engagement, 
+collaboration, and progression
+  P RIDE, our LGBTQ+ ERG
+EMPLOYEE RESOURCE GROUPS
+Halliburton's five Employee Resource Groups (ERG) give 
+employees opportunities to network and collaborate on 
+shared interests in certain topics or social causes. We engage 
+with our ERGs as a way to listen to, empower, and educate 
+our workforce.
+Participation in ERGs is voluntary and open to all Halliburton 
+employees. ERGs encourage employees to pursue 
+professional development and play an important role in 
+fostering a positive and inclusive work environment. See 
+Chapter S5 Local Communities in this report for 2023 events 
+in which our ERGs participated.
+BELIEVE ERG Recipient of a 
+2023 Diversity Impact Award
+BELIEVE was the recipient of a 2023 
+Diversity Impact Award®. The Diversity 
+Impact Awards® are awarded each year by 
+the Global ERG Network® to "recognize, 
+honor, and celebrate the outstanding 
+achievements of ERGs, Business Resource 
+Groups, and Diversity Councils."
+84%
+record-high EPS 
+response rate
+EMPLOYEE PULSE SURVEY
+Halliburton's biannual Employee Pulse Survey (EPS) allows 
+us to listen to employee perspectives. Employees are invited 
+to share feedback about their performance, development, 
+and work-life balance. We invite managers to consider 
+what improvement opportunities in the work environment 
+they wish to focus on before the next survey and provide 
+them with suggestions for actions and training they might 
+undertake. Leadership is able to conduct higher level analyses 
+by country and product service line/function to spot trends 
+and consider larger scale initiatives based on employee input.
+Largest improvement on the following EPS questions:
+ ■ Employees feel they are valued
+ ■ Employees receive meaningful and timely 
+performance feedback
+ ■ Employees are supported in their development
+ ■ Employees have the tools necessary to perform their 
+jobs well
+GLOBAL BENEFITS
+Halliburton provides our employees with competitive global 
+benefits programs. Our programs are flexible, comprehensive, 
+and market competitive. We design Halliburton's benefits 
+packages to address the diverse needs of our employees and 
+their families. Our packages include programs and services 
+that range from comprehensive medical coverage, retirement 
+plans, and disability coverage to paid time off, emergency 
+childcare, and third-party discounts.
+Halliburton remains focused on updating benefits programs 
+to help ensure they are competitive and provide meaningful 
+Halliburton 2023 Annual & Sustainability Report Social  45
+
+benefits options for employees. Consistent with this objective, 
+in 2023 we focused on further benefits refinements. For 
+additional information about our benefits offerings, including 
+the details of our Family Care Plan, please visit the Social page 
+of the Halliburton website.
+MENTAL HEALTH EDUCATION 
+AND AWARENESS
+Halliburton's Global Employee Assistance Program (EAP) 
+team expanded employee- and management-focused training 
+and education opportunities this year. An example of one 
+such opportunity is our Lessons for Life monthly web series 
+in which our employees can learn from expert opinions on a 
+variety of mental health and well-being related subjects. Topics 
+in 2023 included grief and hope in the COVID-19 pandemic as 
+well as maintenance of healthy boundaries in the workplace.
+2023 Mental Health  
+Awareness Campaigns
+In 2023, Halliburton covered a variety of 
+topics in our global mental health digital 
+awareness campaigns that were tailored to 
+address different regions' specific needs. We 
+continued to incorporate mental  
+health-themed safety topics in our safety 
+moments, and this inclusion further 
+emphasized how important it is to care for 
+one's mental health.
+Halliburton hosted global campaigns for 
+Mental Health Awareness Month, World 
+Sleep Day, and World Mental Health Day 
+and executed a neurodiversity awareness 
+campaign in April for Autism Awareness 
+Month. Through these campaigns, we 
+delivered messages designed to further 
+increase mental health awareness among all 
+of our employees. 
+RECRUITMENT
+Halliburton takes thoughtful action to cultivate a globally 
+diverse talent pipeline that represents the communities where 
+we operate. This begins with our investment in science, 
+technology, engineering, and mathematics (STEM) and oil and 
+gas programs at schools and universities.
+When it comes time to hire early career talent, we rely on 
+consistent relationships with colleges, universities, and other 
+organizations that give more visibility to opportunities that are 
+available at Halliburton. We utilize initiatives such as internship 
+programs at colleges and universities with underrepresented 
+populations to build connections among diverse communities, 
+potential hires, and Halliburton, and to eventually hire full-time 
+employees who represent the communities in which we work 
+and live.
+Our build-from-within approach to recruitment and training 
+helps us develop early career talent into future leaders. We 
+augment this approach with targeted recruitment efforts for 
+senior-level positions that help introduce specific expertise and 
+emergent skillsets to Halliburton.
+Outreach
+Our Global Talent Acquisition team conducts candidate 
+outreach in a variety of ways that include virtual career fairs, 
+apprenticeship programs, relationship building efforts at 
+universities, employee referrals, and partnerships with local 
+job candidate programs. Halliburton's outreach includes 
+our efforts to build interest in STEM and oil and gas 
+careers among students, a strategy that also supports local 
+workforce development in the areas where we operate. One 
+example of our STEM-focused outreach in Latin America is 
+our recruitment efforts with the Development Excellence 
+Engineer Program (DEEP). Read more about DEEP in the 
+Local Workforce Development section of this report.
+Talent Acquisition
+In 2023, Halliburton hired 8,714 new employees. Of our 
+total hires to STEM roles, 28% were female, a number that 
+is higher than it was in 2022 and represents our highest 
+number of female hires to STEM roles at Halliburton since 
+2010. This number compares favorably to the National 
+Association of Colleges and Employers female graduation 
+rates in the degrees we target in our search for new hires. 
+Promoting female representation in these roles is a key focus 
+at Halliburton, as our STEM roles tend to lead to operational 
+Halliburton 2023 Annual & Sustainability Report Social  46
+
+PowerToFly
+Halliburton's partnership with PowerToFly 
+has provided us with opportunities to better 
+tell our story to a global, diverse audience. In 
+2023, we worked with PowerToFly to recruit 
+new candidates and host several events 
+at which Halliburton speakers shared their 
+experiences and views on opportunities at 
+Halliburton and within our industry. Through 
+PowerToFly, almost 400,000 people were 
+exposed to Halliburton's open positions, 
+events, or webpage.
+Development Excellence 
+Engineer Program
+Halliburton's Development Excellence Engineer Program 
+is a college graduate recruitment initiative we deploy in 
+Latin America. DEEP began in 2012 in Brazil and has since 
+expanded to multiple countries in Latin America. In 2023, we 
+standardized DEEP's requirements and structure in countries 
+where it is implemented.
+Eligible candidates include STEM students in their last 
+semester of undergraduate study and/or individuals who 
+are within 18 months of graduation from a STEM degree. 
+Participants engage in a four-month development program 
+and rotate between two product service lines at Halliburton. 
+Since 2015, over 750 "DEEPers" have completed the program, 
+of which 387 have been hired full-time. In addition, female 
+representation has been consistently high. On average, about 
+43% of DEEP participants are female.
+DEEP has played an important role in increasing the number 
+of STEM hires in Latin America. DEEP has also proven to be 
+a successful avenue of entry for career longevity as 70% of 
+DEEP participants hired full-time since 2015 are still working  
+at Halliburton.
+LOCAL WORKFORCE 
+DEVELOPMENT
+Halliburton invests in local workforce development with the 
+aim of a positive impact on communities where we work. 
+One way we do this is by regularly hiring local talent for open 
+positions. We have made significant progress in recent years. 
+As of 2023, 91% of our workforce and 85% of managers are 
+local to the countries where they work.
+As Halliburton strengthens investments in local workforces, 
+we increase our ability to participate in improvements to local 
+economies. Through job creation, skill advancement, and 
+career development, we help enhance local quality of life for 
+employees and their families and strengthen our ability to 
+cultivate a workforce that represents local populations.
+leadership positions. Female representation also continues to 
+be a strong feature of Halliburton's U.S. internship programs. 
+The number of female interns at our U.S.-based locations 
+increased from 53 in 2022 to 73 in 2023.
+ 
+Rate of New Female Hires in STEM Roles
+19%
+2021
+2022
+2023
+23%
+28%
+Halliburton welcomes summer interns with weeklong 
+camp and volunteer activities
+Halliburton 2023 Annual & Sustainability Report Social  47
+
+INVESTMENT IN THE FUTURE
+As Halliburton builds a sustainable pipeline of future talent, we 
+draw talent to our workforce through mentorship programs, 
+charitable giving, and inclusive hiring practices.
+Girls Techno Summer Camp
+Halliburton and Prairie View A&M University (PVAMU) 
+collaborated to host the Girls Techno Summer Camp, a 
+three-day residential summer camp for high school-aged girls 
+who are interested in engineering careers. The camp aimed 
+to teach attendees technical skills, build their confidence, 
+and inspire them to become engineers and leaders who 
+will make a difference. Students about to enter their junior 
+and senior year of high school were eligible to attend. They 
+learned about design thinking, computer programming, data 
+science, artificial intelligence, and robotics. We supported 
+this program with a tour of our headquarters that included 
+our manufacturing and R&D facilities and by hosting a Q&A 
+session after the tour. 
+STEM Saturdays and Academic Mentoring Matters
+In 2023, we worked with the University of Louisiana Lafayette 
+Foundation to host STEM Saturdays and an Academic 
+Mentoring Matters (AMM) training event for local students.
+STEM Saturdays are offered once a month at the Lafayette 
+Science Museum. Halliburton began to sponsor STEM 
+Saturdays in 2022 and we continued our support in 2023. 
+Thus far, this event series has impacted 2,200 students in the 
+College of Sciences.
+We fund an AMM leadership training event every year to 
+equip volunteer student mentors to be leaders among their 
+peers. Student mentors have a significant impact on their 
+campus communities. Our AMM leadership training event 
+helps prepare students who have elected to serve their 
+community in this way.
+Halliburton volunteers and university students host science project at National Urban League conference in Houston, TX
+Halliburton 2023 Annual & Sustainability Report Social  48
+
+S3
+TRAINING AND 
+DEVELOPMENT
+Our skilled, knowledgeable employees and the investments 
+we make in their learning and development are what power 
+Halliburton's success and growth. To help our employees 
+excel in their careers and meet personal goals, we provide 
+industry-recognized, best-in-class employee development 
+programs, processes, and trainings. We also take action to 
+cultivate a strong leadership pipeline of experienced talent 
+who are prepared to help guide Halliburton into the future.
+Our Skilled and Committed 
+Workforce Sustainability 
+Commitment
+ ■ Have a skilled and committed workforce by listening and 
+responding to our employees’ feedback and committing 
+to an engaged workforce that feels valued with the right 
+support and resources to be successful.
+TALENT DEVELOPMENT AND 
+SUCCESSION MANAGEMENT
+Halliburton establishes its talent development and succession 
+management strategies on a "build from within" philosophy. 
+We regularly identify and develop new leaders through 
+intentional identification and training efforts. Our strategy 
+promotes business continuity, retention, and teamwork, and 
+maintains a strong competitive advantage when it comes to 
+both short- and long-term success.
+In 2023, female diversity and U.S. racial diversity in various 
+roles improved. From a 2022 baseline, females in operational 
+leadership roles increased by 6%; the females in junior 
+operational leadership roles increased 10%; and the number 
+of female candidates on replacement charts increased by 
+14%. In addition, in 2023 in the U.S., our percentage of racial 
+diversity in management roles improved by 6% compared 
+to 2022.
+To build a robust leadership pipeline, Halliburton Succession 
+Management identifies the readiness of potential successors 
+for critical roles. In 2023, we had an 83% internal fill rate for 
+leadership roles and a 94% internal fill rate for executive-level 
+positions. Our strong internal fill rate, one of the highest 
+in the market, directly results from our process to identify 
+successors and offer tailored development plans.
+Technical and Leadership Development
+We host processes and programs — such as Hire to Country 
+Manager (H2CM), HalAcademy, Emerging Leader Process, 
+and Business Leadership Development (BLD) — to recruit, 
+train, and promote members of our employee population 
+who have leadership potential. This approach has facilitated 
+high retention and continuity among Halliburton talent. It 
+also promotes teamwork and camaraderie. Employees often 
+rise through Halliburton together, which gives them shared 
+experiences they can draw from when they collaborate 
+to lead.
+Hire to Country Manager Process
+H2CM is a leadership development track for potential product 
+service line country managers. This role is an essential 
+managerial role and critical to Halliburton's success. The 
+ultimate goal of H2CM is to develop strong, competent 
+leaders who can help build an even stronger organization. The 
+program enhances visibility into the internal talent pipeline for 
+product service line country manager roles and other roles in 
+the H2CM training process.
+Participants are trained in Halliburton's five key competencies 
+for operational leaders: technical depths, service execution, 
+customer focus, frontline leadership, and business acumen. 
+In addition, H2CM is designed to be flexible so employees 
+can engage according to their own readiness and Halliburton's 
+available business opportunities.
+In 2023, H2CM helped Halliburton increase female 
+representation in product service line country manager roles 
+by 47% year over year. In addition, female representation 
+increased in four out of the five H2CM phases preceding the 
+country manager role.
+Halliburton 2023 Annual & Sustainability Report Social  49
+
+Business Leadership Development Courses
+BLD is Halliburton's executive education program. BLD is 
+one of our most significant investments in the development 
+of future leaders. It plays an essential role in building our 
+leadership pipeline and promoting growth. In 2023, BLD 
+participation increased by 19% with 684 employees engaged 
+in BLD courses. 53 different nationalities were represented 
+and 24% of BLD participants were female.
+Nationalities represented 
+in BLD Courses53
+24% 
+Female Diversity  
+in BLD Courses
+Halliburton employees strengthen business and leadership 
+skills during training in Saudi Arabia
+HalAcademy
+HalAcademy is an annual leadership meeting where 
+approximately 1,000 employees from Halliburton's global 
+operations attend. A mix of senior and developing leaders 
+attend HalAcademy. Attendees receive briefings on the major 
+company-wide initiatives Halliburton plans to implement in the 
+next year and training on specific topics in focused  
+breakout sessions. 
+In 2023, Halliburton's Chairman, President, and CEO, Jeff 
+Miller, gave a keynote address, and our Executive Vice 
+President and CFO, Eric Carre, provided a financial overview. 
+Other talks and breakouts included a western hemisphere 
+overview; business development in accordance with the 
+3 Cs of Business Development; a Drilling and Evaluation 
+Division update; tips for navigation of international business 
+relationships; a Completion and Production update; a digital 
+fireside chat; and a legal update.
+CEO Jeff Miller addresses the Global Business Development 
+team and acknowledges their accomplishments at internal 
+sales conference
+Senior leadership shares insights with HalAcademy attendees
+Employees from multiple regions network at internal 
+sales conference
+Halliburton 2023 Annual & Sustainability Report Social  50
+
+Emerging Leader Process and Frontline Leader 
+Readiness Assessment
+Halliburton developed a targeted Emerging Leader Process 
+that supports our Succession Management plan. Through this 
+process, we identify and train employees who demonstrate 
+high leadership potential who then participate in the Frontline 
+Leader Readiness Assessment (FLRA) — a formal simulation 
+facilitated by a leading third-party assessment authority — to 
+assess their timing-related readiness.
+ 
+In 2023, more than 400 employees completed assessment 
+for leadership potential factors and approximately 100 
+completed FLRA. Once they have completed the FLRA, 
+participants receive insight on their proficiency, a leadership 
+coach, and a tailored development plan.
+EMPLOYEE-DRIVEN 
+DEVELOPMENT 
+AND UPSKILLING
+Many of our employee-development and upskilling resources 
+are designed to empower our people through facilitation of 
+employee-driven career growth and skills development.
+Flexible Learning
+Halliburton offers employees educational opportunities in a 
+variety of formats. Expanding these opportunities to multiple 
+formats has made our training programs more accessible and 
+efficient for our global workforce. We have also given individual 
+employees latitude to engage with learning opportunities in 
+ways that accommodate their personal situations. Content 
+ranges from leadership, functional, general business skills, 
+and technical training related to our products and services 
+to emerging skills for which we want to build employee 
+capabilities. In 2023, we delivered more than 62% of our 
+training in non-traditional classroom environments. Halliburton 
+also continues to offer robust in-person training opportunities. 
+Frontline leader in the field
+Exceptional Training and 
+Education
+For the 11th consecutive year, our 
+Halliburton Global Competency Assurance 
+program maintained its status as the only 
+full-spectrum oilfield services company 
+competency program globally accredited 
+by the International Association of Drilling 
+Contractors (IADC) with no restrictions. 
+More than 36,000 employees were assigned 
+competencies in the program, which  
+focuses on field personnel. It outlines  
+well-site services expectations and highlights 
+Halliburton's transparent approach to career 
+progression for roles in this area.
+Digital Literacy Progress
+Halliburton continued to offer digital literacy 
+education to employees in 2023. Our 
+digital literacy educational opportunities 
+help employees develop a fundamental 
+understanding of how to use digital 
+resources, and how these resources can 
+transform how Halliburton works. 9,839 
+employees completed the full program in 
+2023. Over 119,000 micro-learning activities 
+were completed.
+We founded the Halliburton Data Science 
+Academy in 2021 to provide four additional 
+in-depth programs for specific roles 
+(namely, Data Analyst, Data Engineer, Data 
+Scientist, and Machine Learning Engineer). 
+This initiative continues to expand our data 
+science capabilities.
+Halliburton 2023 Annual & Sustainability Report Social  51
+
+S4
+HUMAN RIGHTS
+Halliburton respects the dignity and human rights of all people. 
+In our business operations, we support universal human 
+rights as defined by the United Nations Universal Declaration 
+of Human Rights. These values are realized in the diversity of 
+our global workforce and all of our operations. Halliburton's 
+policies on health, safety, and security account for human 
+rights concerns. We comply with all applicable employment 
+laws and adhere to fair and ethical employment practices.
+On the Halliburton website, you can read more about  
+our human rights practices and beliefs — including our  
+Human Rights Policy, Human Rights Statement,  
+Supplier Ethics, and COBC. 
+HUMAN RIGHTS IN THE  
+SUPPL Y CHAIN
+We recognize that responsible supply chain management 
+is essential to help promote human rights and follow a 
+comprehensive due diligence method for our supply chain. 
+For more information about our Human Rights Audits, visit 
+Chapter G5 Supply Chain Governance in this report.
+We use a digital supplier management system and several 
+internally developed tools to screen suppliers for potential 
+human rights risks. These tools and systems include:
+ ■ An internal human rights dashboard that evaluates 
+supplier risks and helps us identify areas for 
+detailed follow-up
+ ■ Our cloud-based supply chain monitoring platform, which 
+allows us to track risk and conduct supplier assessments 
+in all tiers of suppliers
+ ■ Utilization of the information tracked in our monitoring 
+platform to develop a pilot supply chain mapping project
+ ■ Our Supply Chain Awareness training course, which was 
+implemented at the end of 2022 and continued in 2023
+ ■ Third-party Human Rights Audits that cover Workplace 
+Conditions Assessments, Labor Provider Audits, and 
+Service Provider Audits
+Our Human Rights 
+Sustainability Commitment
+ ■ Support universal human rights as defined by the United 
+Nations Universal Declaration of Human Rights through 
+fair and ethical employment practices and our Code of 
+Business Conduct.
+HUMAN RIGHTS REGULATIONS
+As human rights legislation evolves, Halliburton works to 
+comply with new regulations, such as the Norwegian Supply 
+Chain Transparency Act. This act requires companies to share 
+how they work to eradicate human trafficking and modern 
+slavery in their business and global supply chains, and to detail 
+the steps they have taken and the controls they have in place 
+to address human rights risks.
+We comply with the UK Modern Slavery Act, the Australia 
+Modern Slavery Act, and the UN's Universal Guiding Principles 
+on Business and Human Rights. We also monitor and comply 
+with emergent human rights legislation around the world, 
+which includes the Uyghur Forced Labor Prevention Act in 
+the U.S., the upcoming EU Act, and the Canadian Human 
+Rights Act. In Canada, our operations adhere to the United 
+Nations Declaration on the Rights of Indigenous People. Our 
+statements of compliance with these acts can be found on 
+our website. For more information about our Indigenous 
+relations efforts, visit the Indigenous Inclusion Strategy section 
+of this report.
+Halliburton 2023 Annual & Sustainability Report Social  52
+
+S5
+LOCAL 
+COMMUNITIES
+Halliburton takes action to enhance the economic and social 
+well-being of the communities in which we operate. The 
+Halliburton Foundation, the Halliburton Charitable Foundation, 
+and our Energy to Help™ volunteer program are three 
+initiatives that deliver support to our local communities. In 
+addition, we host regular gift-match campaigns in which our 
+employees donate to charities they choose and we match 
+a percentage of what they donate. We also encourage 
+Halliburton employees to donate time to their local 
+communities as volunteers. Visit the Employee Volunteerism 
+and Halliburton Foundation Giving Guidelines pages of our 
+website to learn more. 
+Our Community 
+Relationships Sustainability 
+Commitment
+ ■ Enhance the social value of communities in which 
+we live and work through effective engagement and 
+social investment.
+HALLIBURTON VOLUNTEERS
+Halliburton's volunteerism and charitable activities support 
+our Four Pillars of Giving: Education, Environment, Health and 
+Safety, and Social Services. Giving back to the communities 
+where we live and work is an integral part of our culture.
+2023 World Environment Day
+The 2023 theme for World Environment Day was 
+"#beatplasticpollution." Halliburton employees organized 
+awareness initiatives that included an expansive awareness 
+campaign in Europe, Eurasia, and Sub-Saharan Africa. 
+Teams coordinated a collage made by employees' children 
+that featured artwork about plastic pollution and recycling. 
+Mairalejandra Infante, a Talent Management Manager and 
+project coordinator, said, "The main goal of this campaign was 
+to create a project where we capture the reality of plastic 
+pollution through the vision of our children." 
+Volunteer Legacy
+As Halliburton engages in volunteer 
+opportunities that benefit the 
+communities where we live and work, 
+we honor the legacy established by our 
+founder, Earle P . Halliburton. Halliburton 
+generously supported local charities and 
+causes in his community. His example of 
+generosity remains integral to our dedicated 
+corporate citizenship and commitment 
+to sustain value for Halliburton, our 
+stakeholders, and the world.
+Prairie View A&M Students and Halliburton employees work together to complete campus clean-up project
+Halliburton 2023 Annual & Sustainability Report Social  53
+
+Women's ERG Improves Communities
+Several chapters of WSE, our women's ERG, worked in 
+2023 to better their communities by engaging in charitable 
+initiatives. These initiatives included a global breast cancer 
+awareness campaign, a clothing drive for local communities 
+in Malaysia, and a blood donation drive and health awareness 
+event in India.
+In Angola, WSE members visited a local orphanage to donate 
+personal hygiene products and food, engage in personal 
+conversations, and offer a mentoring session. The orphanage 
+accommodates girls between the ages of two and 21 . In the 
+mentoring session, Halliburton volunteers encouraged the 
+girls to never stop dreaming and to focus on their studies.
+ 
+Rebuilding Together — Houston
+Rebuilding Together is an organization that enlists volunteers 
+and licensed contractors to paint, repair, and revitalize 
+the homes of veterans, the elderly, people who live with 
+disabilities, and low-income families. It has done this work 
+for 35 years. In May, Halliburton's Community Relations 
+team and VLF ERG collaborated with Rebuilding Together to 
+host two home improvement volunteer opportunities. More 
+than 80 Halliburton volunteers stepped up to help Rebuilding 
+Together accomplish important home repairs for two families 
+in Houston, TX. 
+Halliburton team rallies to complete a two-day, 200 km bike ride in support of 2023 MACA Cancer 200
+Halliburton Team Rides for Research
+An eight-person team from Halliburton Jandakot participated 
+in the 2023 MACA Cancer 200, a two-day, 200 km bike ride. 
+Tareq Altaj, a Halliburton participant, said the event, "was 
+an unforgettable journey filled with enjoyment and fun. Our 
+team's strong bond was evident. It was undoubtedly worth 
+every moment, and a testament to the incredible work our 
+team can accomplish when we come together for a  
+great cause."  
+Halliburton 2023 Annual & Sustainability Report Social  54
+
+Halliburton Charitable Foundation Golf Tournament
+2023 marked Halliburton's 30th year hosting the Halliburton 
+Charity Golf Tournament. We once again broke our own 
+fundraising record: in 2023, we raised over $3.8 million on 
+behalf of more than 90 U.S. nonprofit organizations. More than 
+400 people participated in the tournament.
+Since its inception the tournament has raised over $30 million 
+for charities, which makes it one of the largest non-PGA golf 
+tournament fundraisers in the U.S. The funds raised go to 
+support causes like hunger relief, veteran home repairs, and 
+mental health and substance abuse support.
+$30M
+Over 
+Raised Over
+30 Y ears
+CORPORATE GIVING AND 
+EDUCATIONAL ENGAGEMENT
+We commit to be good corporate citizens and neighbors. Our 
+engagement with education and community helps us stay 
+true to Halliburton's culture and build trust with our neighbors. 
+To support our local communities in 2023, Halliburton gave 
+cash donations and in-kind goods and services. In total, we 
+donated approximately $1 .5 billion in cash and in-kind gifts. 
+National Urban League Conference
+Halliburton sponsored the 2023 National Urban League 
+(NUL) Conference in Houston, TX, an annual civil rights 
+event that aims to "advance America's conversation about 
+justice, opportunity, and the future of democracy." BELIEVE, 
+Halliburton's Black ERG, organized volunteers and planned 
+activities to help facilitate the conference.
+Myrtle Jones, Halliburton's Senior Vice President of Tax, 
+BELIEVE executive sponsor, and NUL conference chair, gave 
+a welcome reception speech that highlighted NUL's positive 
+impact on our communities. "The National Urban League 
+is working diligently to achieve a multifaceted community," 
+she observed. "What's good for the community is good 
+for Halliburton."
+Halliburton Charitable Foundation hosts annual golf tournament 
+benefiting local and national charities with support from vendors
+Halliburton supported National Urban League conference in 
+Houston, TX
+Halliburton 2023 Annual & Sustainability Report Social  55
+
+Halliburton Landmark In-Kind Giving
+We grant free Halliburton Landmark software licenses to 
+academic institutions through the Halliburton Landmark 
+University Grant Program (UGP). These licenses are intended 
+for use in learning, teaching, and research and include 
+software maintenance and technical support. They are 
+evergreen and have three-year renewable terms.
+To support the education and development of students  
+who pursue careers in oil and gas, Halliburton awarded  
+multi-million-dollar educational software grants to 14 new 
+public universities in 2023 including in Bolivia, Italy, India,  
+Students enjoy hands-on science experiments donated by Halliburton Foundation
+Little Shop of Physics
+During the 2022-23 EAB cycle, the Halliburton Foundation 
+supported the Little Shop of Physics at Colorado State 
+University. The grant we provided made it possible for the 
+Little Shop of Physics team to partner with Native American 
+communities to share valuable insights about sciences, 
+careers, teaching, and culture. They hosted in-person, 
+hands-on science experiments for over 5,000 students and 
+community members in the course of the academic year. 
+The team also visited several Native American Reservations, 
+including Wind River Reservation and Pine Ridge Reservation. 
+During these visits students experienced over 100 hands-on 
+STEM activities, such as static sensors, rocket balloons, the 
+physics flyer, hand lenses, and LED exploration kits.
+Permian Strategic Partnership
+Halliburton's Permian Strategic Partnership (PSP) is a coalition 
+of 27 leading energy companies and higher education 
+institutions in the Permian Basin. These organizations 
+collaborate with leaders in the region's communities to help 
+them address current and future challenges as they work to 
+responsibly develop the vast oil and natural gas resources in 
+the Permian Basin. PSP focus areas include: education, road 
+safety, healthcare, housing, and workforce development.
+Halliburton Foundation Educational Advisory Board
+The Educational Advisory Board (EAB) is part of the Halliburton 
+Foundation. Through the EAB, Halliburton awards annual 
+grants to K-12 and university programs that give students 
+exposure to STEM and business career opportunities. In 
+the past 10 years, EAB donations have impacted more than 
+900,000 students with over $8.5 million in funding. When it 
+selects programs to fund, the EAB focuses on programs that 
+demonstrate merit, diversity, and skill development; raise 
+awareness of future career opportunities for students; and 
+maximize impact.
+the United States, Iraq, and Nigeria. Worldwide, 138 academic 
+institutions benefit from this program. 
+The UGP's aim in awarding grants to students and academics  
+is to augment teaching and research with industry-leading  
+software that deepens users' ability to interpret 
+multidisciplinary datasets. Halliburton Landmark also hopes to 
+strengthen the relationship between industry and academia, 
+promote uptake of Halliburton Landmark software, and 
+equip future generations with the skill sets required to solve 
+real-world challenges.
+Halliburton 2023 Annual & Sustainability Report Social  56
+
+INDIGENOUS INCLUSION 
+STRATEGY
+Halliburton designs and executes an Indigenous Inclusion 
+Strategy. Our Strategy is built on activities like Indigenous-led 
+cultural awareness training, regional community involvement, 
+contracting and workforce initiatives that promote economic 
+inclusion, and investment in business opportunities.
+Engaging with Indigenous Communities in Canada
+In Canada, Halliburton's Indigenous Inclusion Strategy 
+reached its fourth year of implementation in 2023. This year, 
+our implementation of this strategy focused on purposeful 
+engagement with communities. In 2023, Halliburton 
+Canada completed Phase Two of the Progressive Aboriginal 
+Relations™ (PAR) certification criteria.
+Over time, some of our community engagements have 
+evolved into formal Community Agreements. Each agreement 
+is shaped by our understanding of and insights about 
+the community it concerns. All agreements identify how 
+Halliburton can work with local Indigenous communities 
+to build cross-cultural understanding, effect workforce and 
+contractor engagement, and pursue community investment 
+and business development opportunities.
+In 2023, as part of Halliburton's Indigenous business 
+development outreach, Heart Lake First Nation toured our 
+Artificial Lift operations in Leduc, Alberta. Halliburton 
+personnel and Nation representatives learned about the work 
+we do at that location and were able to explore potential 
+business opportunities.
+Aboriginal and Torres Strait Islander  
+Engagement in Australia
+Through Halliburton Australia's Reflect Reconciliation Action 
+Plan (RAP), Halliburton continues its focus on Aboriginal 
+and Torres Strait Islander Engagement in Australia. Our 
+RAP has enabled us to take sustainable, strategic action 
+toward reconciliation between Halliburton and Australia's 
+Indigenous communities.
+National Reconciliation Week 
+In 2023, Halliburton Australia celebrated National 
+Reconciliation Week. We took time to learn about shared 
+histories, cultures, and achievements, and to explore how 
+each person can contribute to reconciliation with Indigenous 
+communities in Australia. A group of Halliburton employees 
+and family members attended multiple events, including the 
+Walk for Reconciliation. Walk for Reconciliation participants 
+attended a Welcome to Country ceremony, walked through 
+Kaarta Koomba (also known as Kings Park), learned about 
+cultural opportunities in the area, engaged in creative 
+workshops, and attended a performance of traditional 
+Aboriginal and Torres Strait Islander dance.
+Inaugural Aboriginal and Torres Strait Islander Traineeship
+Halliburton has developed a sustainable paid traineeship 
+program that allows accepted applicants to learn new job 
+skills. Participants earn a nationally recognized qualification 
+certificate in their chosen area of work. This traineeship is one 
+of the ways Halliburton works to build a diverse, talented, 
+inclusive workforce. In 2023, Alicia Michael was the first 
+trainee to successfully complete Halliburton's Aboriginal 
+and Torres Strait Islander Traineeship program, where she 
+gained a certificate in Supply Chain Operations. Alicia was an 
+outstanding addition to the Materials team.
+Halliburton employees support National Reconciliation Week
+Halliburton participants during the Inaugural Aboriginal 
+and Torres Strait Islander Traineeship
+Halliburton 2023 Annual & Sustainability Report Social  57
+
+A1
+DATA  
+TABLES A2
+AWARDS AND 
+RECOGNITION A3
+ABOUT THE 
+REPORT
+APPENDIX
+Halliburton 2023 Annual & Sustainability Report Appendix  58
+
+A1
+DATA TABLES
+Financial Data 2021  2022  2023 
+Financial Performance (Millions of U.S. Dollars (USD) and Shares, Except Per Share Data) 
+Revenue  $ 15,295 $ 20,297 $ 23,018
+Total Operating Expenses  $ 13,495 $ 17 ,590 $ 18,935
+Operating Income  $ 1,800 $ 2,707 $ 4,083
+Income Before Taxes  $ 1,252 $ 2,1 10 $ 3,363
+Amounts Attributable to Company Shareholders: 
+Net Income Attributable to Company  $ 1,457 $ 1,572 $ 2,638
+Basic Income Per Share from Continuing Operations  $ 1.63 $ 1.74 $ 2.93
+Diluted Income Per Share from Continuing Operations  $ 1.63 $ 1.73 $ 2.92
+Cash Dividends Per Share  $ 0.18 $ 0.48 $ 0.64
+Basic Common Shares Outstanding  892 904 899
+Diluted Common Shares Outstanding  892 908 902
+Net Working Capital  $ 5,637 $ 5,607 $ 5,935
+Total Assets  $ 22,321 $ 23,255 $ 24,683
+Total Debt  $ 9,138 $ 7 ,928 $ 7 ,636
+Total Shareholders' Equity  $ 6,728 $ 7 ,977 $ 9,433
+Cash Flows from Operating Activities  $ 1,91 1 $ 2,242 $ 3,458
+Capital Expenditures  $ 799 $ 1,01 1 $ 1,379
+Depreciation, Depletion, and Amortization  $ 904 $ 940 $ 998
+Total Capitalization  $ 15,866 $ 15,905 $ 17 ,069
+Debt to Total Capitalization  58% 50% 45%
+In 2023, the amount of net revenue generated by Halliburton in countries that have the 20 lowest rankings on Transparency International’s Corruption  
+Perception Index comprises less than 1% of the Company’s total revenue. 
+Research and Development 
+U.S. Patents Granted Per Year  918 980 741
+Total R&D Spend (Million USD)  $ 321 $ 345 $ 408
+R&D Spend as a Percentage of Revenue  2.10% 1.70% 1.77%
+Patent Efficiency (U.S. Patents Granted Per USD 1M of R&D Spend)  2.35 2.43 2.40
+Ranking Among Companies for Total U.S. Patents Granted (by IFI Claims)  37th 37th 44th
+Ranking Among Oil & Gas Companies for Total U.S. Patents Granted (by IFI Claims)  1st 2nd 2nd
+Service Quality Metrics 
+Customer Non-Productive Time (NPT) (Percentage of Total Operating Hours)  0.30% 0.27% 0.24%
+Halliburton 2023 Annual & Sustainability Report Appendix  59
+
+Governance Data 2021  2022  2023 
+Political Contributions (USD) 
+Local, Regional or National Political Campaigns / Organizations / Candidates  $ 0 $ 0 $ 0
+U.S. Federal Lobbying  $ 287 ,951 $ 333,130 $ 293,891
+Trade Associations or Tax-Exempt Groups (e.g., Think Tanks)  $ 586,560 $ 652,341 $ 763,370
+Other (e.g., Spending Related to Ballot Measures or Referendums)  $ 0 $ 0 $ 0
+Board Information 
+Average Board Meeting Attendance  98% 96% 97%
+Board Independence (Directors)1 11 12 12
+Board Racial/Ethnic Diversity (Directors)1 5 6 6
+Board Female Diversity (Directors)1 3 3 3
+Local Ethics Officer (LEO) Program 
+Number of Local Ethics Officers  55 51 51
+Ethics T raining 
+Total Percentage of the Board of Directors that the Organization’s Anti-Corruption Policies and Procedures  
+Have Been Communicated To 
+100% 100% 100%
+Training Hours for COBC, Anti-Corruption, and Enhanced Procurement Fraud in Countries Designated as High-Risk  56,689 58,078 60,107
+Global Ethics and Compliance Reports 
+Global Ethics and Compliance Reports  585 737 836
+Reports with Potential COBC Violations  235 241 278
+COBC Potential Violation Investigations Closed  236 242 228
+Procurement 
+Percentage of Spend with Local Suppliers  86% 80% 81%
+Number of Tier 1 Suppliers with Spend  21,490 22,325 21,603
+Percentage of Suppliers Assessed in the Last Three Years for Human Rights Risks  99% 99% 99%
+Spend with Small and Female Diverse Suppliers (Million USD)  $ 481 $ 801 $ 795
+Spend with Minority Suppliers (Million USD)  $ 83 $ 120 $ 133
+1 . B oard information as of publication date.
+Halliburton 2023 Annual & Sustainability Report Appendix  60
+
+Environmental Data 2021  2022  2023 
+Energy Consumption (GJ)2
+Fuel Consumption 
+Diesel  39,849,953 35,616,224 39,016,229
+Natural Gas  4,629,408 6,760,776 8,525,562
+Coal  654,136 401,688 398,619
+Other (Gasoline, Aviation, and Propane)  369,708 362,900 412,592
+Electricity Consumption 
+Consumed Electricity — Non-renewable  2,281,125 4,668,485 1 1,644,261
+Consumed Electricity — Renewable  36,948 27 ,210 28,043
+Solar PPA  29,010 39,467 42,343
+T otal  47 ,850,288 47 ,876,750 60,067 ,649
+U.S. Hydraulic Fracturing Fluid 
+Volume of Hydraulic Fracturing Fluid Used (m³)  107 ,007 ,954 149,286,1 13 155,198,364
+Percentage of Hazardous Material Used in Hydraulic Fracturing Fluid  0.07% 0.07% 0.07%
+Greenhouse Gas Emissions (MTCO2e) 
+Direct (Scope 1)2 3,503,441 3,320,350 3,443,174
+Indirect (Scope 2) - Location-Based2 251,466 406,684 845,388
+Indirect (Scope 2) - Market-Based2 248,949 405,1 14 843,376
+Indirect (Scope 3)3 155,612 177 ,342 203,023
+Greenhouse Gas Emissions Intensity (Scopes 1 and 2) 
+MTCO2e/$M Revenue  245 184 186
+MTCO2e/Operating Hours  0.2643 0.2257 0.2431
+Waste Disposal (Metric T ons) 
+Non-Hazardous  248,619 207 ,479 215,919
+Hazardous  56,412 58,527 56,321
+T otal  305,031 266,006 272,240
+Landfill  72,809 45,327 54,886
+Recycled  200,613 171,276 183,150
+Incineration  12,971 8,035 5,627
+Energy Recovery  10,247 18,278 19,694
+Reuse  4,705 8,528 7 ,649
+Composting  1,957 13,821 634
+Deep Well Injection  1,506 741 600
+Other  223 0 0
+T otal  305,031 266,006 272,240
+Water Withdrawal (m³) 
+Water Withdrawal  1,478,921 1,751,094 1,697 ,41 1
+Spills and Discharges4
+Recordable Environmental Incident Rate (Incidents Per 200,000 Hours Worked)  0.02 0.02 0.02
+Total Volume of Spills (m³)  1,058 665 485
+Total Volume of Hydrocarbon Spills >1 bbl (bbl)  263 155 312
+2.  Limited assurance provided b y KPMG for 2023. Refer to Statements on Sustainability Metrics and Related Notes for standards, frameworks, definitions, 
+and/or management determined criteria.
+3.  Scope 3 reporting includes business trav el and waste generated in operations categories. Waste GHG emissions are based on U.S. EPA Emission Factors Hub. In 2021, business 
+travel GHG emissions are based on GHG Protocol Quantis tool and UK Government GHG conversion factors. In 2022 and 2023, business travel GHG emissions are based on U.S. EPA 
+Environmentally-Extended Input-Output (USEEIO) factors and UK Government GHG emission factors.
+4. We had no significant environmental noncompliance spill incidents and no significant environmental fines.
+Halliburton 2023 Annual & Sustainability Report Appendix  61
+
+Social Data 2021  2022  2023 
+T otal Number of Employees  42,172 44,968 47 ,885
+T otal Number of Hours Worked  131,305,750 140,290,957 146,120,664
+Certifications 
+The Percentage of All Employees and Contractors Who Are Covered by an HSE and SQ Management System  100% 100% 100%
+The Percentage of All Employees and Contractors Who Are Covered by an HSE and SQ Management System 
+that has been Internally Audited 
+100% 100% 100%
+The Percentage of All Employees Who Are Covered by an HSE and SQ Management System That Has Been 
+Audited or Certified by an External Party (API Q1/Q2, ISO 9001, OHSAS 18001/ISO 45001)5
+39% 43% 36%
+Fatalities 
+Fatality Rate (Incidents Per 200,000 Hours Worked)  0.000 0.003 0.001
+Total Number of Fatalities2 0 2 1
+Employees2 0 2 1
+Contractors2 0 0 0
+Personnel and Process Safety 
+Total Recordable Incidents  167 206 183
+Total Recordable Incident Rate (Incidents Per 200,000 Hours Worked)2 0.25 0.29 0.25
+Total Recordable Injuries  165 203 183
+Total Recordable Injuries - Employees  157 194 178
+Total Recordable Injuries - Contractors  8 9 5
+Total Recordable Illness  2 3 0
+Total Recordable Illness - Employees  2 3 0
+Total Recordable Illness - Contractors  0 0 0
+High-Consequence Work-Related Injury — Employees  6 6 7
+High-Consequence Work-Related Injury — Contractors  0 0 0
+High-Consequence Work-Related Injury — Employee Rate (Incidents Per 200,000 Hours Worked)  0.01 0.01 0.01
+High-Consequence Work-Related Injury — Contractor Rate (Incidents Per 200,000 Hours Worked)  0.00 0.00 0.00
+Lost-Time Incident Rate (Incidents Per 200,000 Hours Worked)2 0.09 0.08 0.07
+Lost-Time Incident Rate - Employees2 0.08 0.08 0.06
+Lost-Time Incident Rate - Contractors2 0.01 0.00 0.01
+Lost-Time Incidents  60 56 49
+Lost-Time Incidents - Employees  56 53 46
+Lost-Time Incidents - Contractors  4 3 3
+Recordable Vehicle Incident Rate (Incidents Per Million Miles Traveled)  0.37 0.28 0.29
+Preventable Recordable Vehicle Incident Rate (Incidents Per Million Miles Traveled)2 0.16 0.10 0.10
+Near-Miss Incident Rate (Incidents Per 200,000 Hours Worked)  1.52 0.49 1.41
+Stop Work Authority Observations  205,868 220,754 234,51 1
+HSE Driver Competency  97% 97% 95%
+Journey to ZERO Strategic Objectives Performance Completion  100% 100% 100%
+2.  Limited assurance provided b y KPMG for 2023. Refer to Statements on Sustainability Metrics and Related Notes for standards, frameworks, definitions, and/or management 
+determined criteria.
+5.  Certain 2021 and 2022 numbers were restated based upon changes or improvements to methodologies in collecting the information.
+Halliburton 2023 Annual & Sustainability Report Appendix  62
+
+Social Data 2021  2022  2023 
+Employee T raining 
+Training Hours Per Learner  34 59 71
+HSE Training Compliance  91% 93% 94%
+Employee Training Hours  1,431,684 2,574,710 3,294,626
+Breakdown of Employee Training (% Male)  88% 88% 87%
+Breakdown of Employee Training (% Female)  12% 12% 13%
+Number of HSE Training Courses  638 630 636
+Total Hours of HSE Training (Employees and Contractors)  705,740 866,227 1,574,780
+Total Hours of HSE Training for Employees  550,180 712,692 1,404,718
+Total Hours of HSE Training for Contractors  155,560 153,535 170,062
+Business Leadership Development Courses (Number of Attendees) 
+Business Leadership Level I  149 283 380
+Business Leadership Level II  104 169 177
+Business Leadership Level III  44 94 98
+President’s Leadership Excellence Program  27 28 29
+Employee Age 
+Western Hemisphere (Average)  39.4 39.1 39.5
+Eastern Hemisphere (Average)  39.4 39.6 39.7
+Global / Manufacturing (Average)  43.3 43.3 43.2
+Percentage of Employees < 30 years old  13% 15% 16%
+Percentage of Employees 30-50 years old  71% 68% 67%
+Percentage of Employees > 50 years old  16% 17% 17%
+Employee Hiring 
+Total New Hires  6,275 10,513 8,714
+Rate of New Hires  15% 24% 19%
+Rate of New Female Hires in STEM Roles  19% 23% 28%
+Percentage of Female New Hires by Region 
+Asia Pacific  10% 15% 17%
+Europe / Eurasia / Sub-Saharan Africa  14% 14% 19%
+Latin America  18% 22% 23%
+Middle East / North Africa  6% 12% 12%
+North America Land  5% 6% 7%
+U.S. Gulf Coast  7% 14% 10%
+Global / Manufacturing  23% 22% 23%
+Employee T urnover Rate 
+Total Employee Turnover Rate  13% 18% 13%
+Female Employee Turnover Rate  12% 17% 12%
+Male Employee Turnover Rate  13% 18% 13%
+Voluntary Employee Turnover Rate  10% 12% 10%
+Voluntary Female Employee Turnover Rate  10% 11 % 9%
+Voluntary Male Employee Turnover Rate  10% 12% 10%
+Voluntary STEM Female Turnover Rate  10% 13% 10%
+Voluntary STEM Male Turnover Rate  9% 10% 9%
+Halliburton 2023 Annual & Sustainability Report Appendix  63
+
+Social Data 2021  2022  2023 
+Diversity 
+Countries in Which We Operate  70+ 70+ 70+
+Nationalities  130 130 136
+Female Diversity of Total Workforce2 13% 13% 14%
+Female Diversity in All Management Positions, Including Junior, Middle, and Senior Management2 13% 13% 13%
+Female Diversity in Senior Management Positions  16% 16% 16%
+Female Diversity in Middle Management Positions  14% 14% 14%
+Female Diversity in Junior Management Positions (i.e., First Level of Management)  11 % 12% 12%
+Female Diversity in STEM Roles  16% 17% 19%
+Racial Diversity in Workforce (U.S. Staff Only)  37% 40% 41%
+Racial Diversity in All Management Positions, Including Junior, Middle, and Senior Management (U.S. Staff Only)  27% 29% 31%
+Racial Diversity in Senior Management Positions (U.S. Staff Only)  25% 26% 25%
+Racial Diversity in Middle Management Positions (U.S. Staff Only)  28% 31% 32%
+Racial Diversity in Junior Management Positions, i.e., First Level of Management (U.S. Staff Only)  27% 28% 31%
+Racial Diversity in STEM Roles (U.S. Staff Only)  34% 36% 39%
+Percentage of Localized Workforce 
+Asia Pacific2 93% 93% 92%
+Europe / Eurasia / Sub-Saharan Africa2 94% 92% 92%
+Latin America2 95% 95% 95%
+Middle East / North Africa2 74% 75% 74%
+North America Land and U.S. Gulf2 99% 100% 100%
+Global / Manufacturing2 98% 98% 98%
+Overall2 92% 92% 91%
+Employee Engagement (on a 4-Point Scale) 
+Halliburton Engagement Index (HEI) Rate  3.22 3.26 3.29
+Leader Effectiveness Index (LEI) Rate  3.10 3.14 3.17
+Charitable Giving (Thousand USD) 
+In-Kind Donations5 $ 2,495,240 $ 2,291,646 $ 1,494,193
+Corporate Giving  $ 3,094 $ 5,069 $ 5,172
+Halliburton Foundation  $ 2,296 $ 1,802 $ 2,272
+Employee Giving  $ 778 $ 744 $ 677
+T otal5 $ 2,501,408 $ 2,299,261 $ 1,502,314
+2.  Limited assurance provided b y KPMG for 2023. Refer to Statements on Sustainability Metrics and Related Notes for standards, frameworks, definitions, and/or management 
+determined criteria.
+5.  Certain 2021 and 2022 numbers were restated based upon changes or improvements to methodologies in collecting the information.
+Halliburton 2023 Annual & Sustainability Report Appendix  64
+
+GRI Standards Content Index
+Halliburton reports the information cited in this GRI content index with reference to the GRI Universal Standards, GRI 11: Oil and 
+Gas 2021 Sector Standards, and Topic Standards. We account for the requirements and guidelines of GRI 1: Foundation 2021 in the 
+preparation of this index.
+Disclosure
+Report Location or 
+External Document 
+Reference
+World Economic 
+Forum Stakeholder 
+Capitalism Pillar and 
+Core Metrics
+Universal Standards
+2-1 Organizational 
+details
+2023 Form 10-K, Cover 
+Page, pages 1 & 20;
+Company at a Glance, 
+page 3;
+Financial Highlights, 
+page 4;
+About the Report, 
+page 72
+2-2 Entities included 
+in the organization’s 
+sustainability reporting
+2023 Form 10-K, pages 
+48 & 162, Exhibit 21.1;
+About the Report, 
+page 72
+2-3 Reporting period, 
+frequency and contact 
+point
+2023 Form 10-K, Cover 
+Page;
+About the Report, 
+page 72
+2-4 Restatements of 
+information
+About the Report, 
+page 72
+2-5 External assurance About the Report, 
+page 72;
+Statements on 
+Sustainability Metrics 
+and Related Notes
+2-6 Activities, value 
+chain and other 
+business relationships
+2023 Form 10-K, pages 
+1 & 53
+2-7 Employees 2023 Form 10-K, page 4;
+Company at a Glance, 
+page 3
+2-9 Governance 
+structure and 
+composition
+2024 Proxy Statement;
+Corporate Governance, 
+page 14;
+Data Tables, page 59
+Governance: 
+Governance body 
+composition
+2-10 Nomination and 
+selection of the highest 
+governance body
+2024 Proxy Statement
+2-1 1 Chair of the highest 
+governance body
+2024 Proxy Statement;
+Corporate Governance 
+Guidelines
+2-12 Role of the highest 
+governance body 
+in overseeing the 
+management of impacts
+Corporate Governance 
+Guidelines;
+Engagement, page 1 1;
+Corporate Governance, 
+page 14
+Governance: Material 
+issues impacting 
+stakeholders
+Governance: Setting 
+purpose
+2-13 Delegation of 
+responsibility for 
+managing impacts
+Corporate Governance 
+Guidelines;
+Corporate Governance, 
+page 14
+2-14 Role of the highest 
+governance body in 
+sustainability reporting
+Corporate Governance 
+Guidelines;
+Corporate Governance, 
+page 14
+2-15 Conflicts of interest 2024 Proxy Statement;
+Corporate Governance 
+Guidelines
+2-16 Communication of 
+critical concerns
+Corporate Governance 
+Guidelines
+2-17 Collective 
+knowledge of the highest 
+governance body
+Corporate Governance 
+Guidelines
+Disclosure
+Report Location or 
+External Document 
+Reference
+World Economic 
+Forum Stakeholder 
+Capitalism Pillar and 
+Core Metrics
+2-18 Evaluation of the 
+performance of the 
+highest governance 
+body
+2024 Proxy Statement;
+Corporate Governance 
+Guidelines
+2-19 Remuneration 
+policies
+2024 Proxy Statement;
+Corporate Governance 
+Guidelines
+2-20 Process to 
+determine remuneration
+2024 Proxy Statement
+2-21 Annual total 
+compensation ratio
+2023 Proxy Statement;
+2024 Proxy Statement
+2-22 Statement 
+on sustainable 
+development strategy
+2023 in Review, page 6
+2-23 Policy 
+commitments
+Ethics and Compliance, 
+page 20;
+Human Rights, page 52;
+Halliburton Corporate 
+Governance  
+Website - COBC
+2-24 Embedding policy 
+commitments
+Ethics and Compliance, 
+page 20;
+Halliburton Corporate 
+Governance  
+Website - COBC
+2-25 Processes to 
+remediate negative 
+impacts
+2024 Proxy Statement;
+2023 Form 10-K, page 1;
+Ethics and Compliance, 
+page 20;
+Halliburton Corporate 
+Governance  
+Website - COBC
+2-26 Mechanisms for 
+seeking advice and 
+raising concerns
+Ethics and Compliance, 
+page 20
+Governance: Protected 
+ethics advice and 
+reporting mechanisms
+2-27 Compliance with 
+laws and regulations
+Data Tables, page 59
+2-28 Membership 
+associations
+Halliburton Policies for 
+Political Engagement
+2-29 Approach 
+to stakeholder 
+engagement
+Engagement, page 1 1 Governance: Material 
+issues impacting 
+stakeholders
+2-30 Collective 
+bargaining agreements
+2023 Form 10-K, page 4
+3-1 Process to 
+determine material 
+topics
+Materiality-Based 
+Approach, page 9
+3-2 List of material 
+topics
+Materiality-Based 
+Approach, page 9
+Governance: Material 
+issues impacting 
+stakeholders
+Sector Standards
+T opic 11.1 GHG Emissions
+Energy
+302-1 Energy 
+consumption within the 
+organization
+Data Tables, page 59
+Emissions
+305-1 Direct (Scope 1) 
+GHG emissions
+Data Tables, page 59 Planet: Greenhouse gas 
+(GHG) emissions
+Halliburton 2023 Annual & Sustainability Report Appendix  65
+
+Disclosure
+Report Location or 
+External Document 
+Reference
+World Economic 
+Forum Stakeholder 
+Capitalism Pillar and 
+Core Metrics
+305-2 Energy indirect 
+(Scope 2) GHG 
+emissions
+Data Tables, page 59 Planet: Greenhouse gas 
+(GHG) emissions
+305-3 Other indirect 
+(Scope 3) GHG 
+emissions
+Data Tables, page 59 Planet: Greenhouse gas 
+(GHG) emissions
+305-4 GHG emissions 
+intensity
+Data Tables, page 59
+T opic 11.2 Climate adaptation, resilience, and transition
+Economic Performance
+201-2 Financial 
+implications and other 
+risks and opportunities 
+due to climate change
+2023 Form 10-K, page 9
+Emissions
+305-5 Reduction of GHG 
+emissions
+Emissions Reduction 
+Progress, page 27
+T opic 11.4 Biodiversity
+Biodiversity
+304-2 Significant 
+impacts of activities, 
+products and services 
+on biodiversity
+Environmental 
+Management, page 36
+T opic 11.5 Waste
+Waste
+306-1 Waste generation 
+and significant  
+waste-related impacts
+Environmental 
+Management, page 36
+306-2 Management of 
+significant waste-related 
+impacts
+Environmental 
+Management, page 36
+306-3 Waste generated Environmental 
+Management, page 36;
+Data Tables, page 59
+306-4 Waste diverted 
+from disposal
+Data Tables, page 59
+306-5 Waste directed to 
+disposal
+Data Tables, page 59
+T opic 11.6 Water and effluents
+Water and effluents
+303-1 Interactions 
+with water as a shared 
+resource
+Environmental 
+Management, page 36
+303-3 Water withdrawal Environmental 
+Management, page 36;
+Data Tables, page 59
+T opic 11.8 Asset integrity and critical incident management
+Effluents and Waste
+306-3 Significant spills Data Tables, page 59
+T opic 11.9 Occupational health and safety
+Occupational Health and Safety
+403-1 Occupational 
+health and safety 
+management system
+Health and Safety, 
+page 40
+403-2 Hazard 
+identification, risk 
+assessment, and 
+incident investigation
+Health and Safety, 
+page 40
+403-3 Occupational 
+health services
+Health and Safety, 
+page 40
+403-4 Worker 
+participation, 
+consultation, and 
+communication on 
+occupational health and 
+safety
+Health and Safety, 
+page 40
+Disclosure
+Report Location or 
+External Document 
+Reference
+World Economic 
+Forum Stakeholder 
+Capitalism Pillar and 
+Core Metrics
+403-5 Worker training 
+on occupational health 
+and safety
+Health and Safety, 
+page 40
+403-6 Promotion of 
+worker health
+Health and Safety, 
+page 40;
+Our People, page 44
+People: Health and 
+Safety (%)
+403-7 Prevention 
+and mitigation of 
+occupational health and 
+safety impacts directly 
+linked by business 
+relationships
+Health and Safety, 
+page 40
+403-8 Workers covered 
+by an occupational 
+health and safety 
+management system
+Data Tables, page 59
+403-9 Work-related 
+injuries
+Health and Safety, 
+page 40;
+Data Tables, page 59
+People: Health and 
+Safety (%)
+403-10 Work-related ill 
+health
+Health and Safety, 
+page 40;
+Data Tables, page 59
+T opic 11.10 Employment practices
+Employment practices
+401-1 New employee 
+hires and employee 
+turnover
+Data Tables, page 59 Prosperity: Absolute 
+number and rate of 
+employment
+401-2 Benefits provided 
+to full-time employees 
+that are not provided to 
+temporary or part-time 
+employees
+Our People, page 44;
+Halliburton 
+Sustainability  
+Website - Social
+T raining and Education
+404-1 Average hours 
+of training per year per 
+employee
+Data Tables, page 59 People: Training 
+provided (#)
+404-2 Programs for 
+upgrading employee 
+skills and transition 
+assistance programs
+Training and 
+Development, page 49
+Supplier Social Assessment
+414-1 New suppliers 
+that were screened 
+using social criteria
+Supply Chain 
+Governance, page 22;
+Data Tables, page 59
+414-2 Negative social 
+impacts in the supply 
+chain and actions taken
+Supply Chain 
+Governance, page 22
+T opic 11.11 Non-discrimination and equal opportunity
+T raining and Education
+404-1 Average hours 
+of training per year per 
+employee
+Data Tables, page 59 People: Training 
+provided (#)
+Diversity and Equal Opportunity
+405-1 Diversity of 
+governance bodies and 
+employees
+2024 Proxy Statement;
+Data Tables, page 59
+Governance: 
+Governance body 
+composition
+People: Diversity and 
+inclusion (%)
+T opic 11.12 Forced labor and modern slavery
+Forced or Compulsory Labor
+409-1 Operations and 
+suppliers at significant 
+risk for incidents of 
+forced or compulsory 
+labor
+Supply Chain 
+Governance, page 22;
+Human Rights, page 52
+People: Risk for 
+incidents of child, forced 
+or compulsory labor.
+Supplier Social Assessment
+414-1 New suppliers 
+that were screened 
+using social criteria
+Supply Chain 
+Governance, page 22
+Halliburton 2023 Annual & Sustainability Report Appendix  66
+
+Disclosure
+Report Location or 
+External Document 
+Reference
+World Economic 
+Forum Stakeholder 
+Capitalism Pillar and 
+Core Metrics
+T opic 11.14 Economic impacts
+Economic Performance
+201-1 Direct economic 
+value generated and 
+distributed
+2023 Form 10-K, pages 
+1 & 43
+Prosperity: Economic 
+Contribution
+Prosperity: Total tax paid
+Indirect Economic Impacts
+203-1 Infrastructure 
+investments and 
+services supported
+Local Communities, 
+page 53
+Procurement Practices
+204-1 Proportion of 
+spending on local 
+suppliers
+Data Tables, page 59
+T opic 11.20 Anti-corruption
+Anti-corruption
+205-1 Operations 
+assessed for risks 
+related to corruption
+2023 Form 10-K, page 10
+205-2 Communication 
+and training about 
+anti-corruption policies 
+and procedures
+Anti-Bribery,  
+Anti-Corruption, and 
+Fair Competition,  
+page 21;
+Data Tables, page 59
+Governance:  
+Anti-corruption
+Sector Standard - 
+1 1.20.6
+2024 Proxy Statement
+T opic 11.21 Payments to governments
+Economic Performance
+201-1 Direct economic 
+value generated and 
+distributed
+2023 Form 10-K, pages 
+1 & 43
+Prosperity: Economic 
+Contribution
+Prosperity: Total tax paid
+201-4 Financial 
+assistance received 
+from government
+2023 Form 10-K, page 59
+T opic 11.22 Public policy
+Public Policy
+415-1 Political 
+contributions
+Data Tables, page 59
+Disclosure
+Report Location or 
+External Document 
+Reference
+World Economic 
+Forum Stakeholder 
+Capitalism Pillar and 
+Core Metrics
+T opic Standards
+Economic T opics
+Economic Performance
+201-3 Defined benefit 
+plan obligations and 
+other retirement plans
+2023 Form 10-K, page 67
+Market Presence
+202-1 Ratios of standard 
+entry level wage by 
+gender compared to 
+local minimum wage
+We pay 187% of the 
+federal minimum wage 
+in the United States  
+for all entry-level,  
+non-exempt employees.
+People: Wage level (%)
+Environmental T opics
+Energy
+302-4 Reduction of 
+energy consumption
+Emissions Reduction 
+Progress, page 27
+Supplier Environmental Assessment
+308-1 New suppliers 
+that were screened 
+using environmental 
+criteria
+Supply Chain 
+Governance, page 22
+308-2 Negative 
+environmental impacts 
+in the supply chain and 
+actions taken
+Supply Chain 
+Governance, page 22
+Social T opics
+Child Labor
+408-1 Operations and 
+suppliers at significant 
+risk for incidents of child 
+labor
+Supply Chain 
+Governance, page 22;
+Human Rights, page 52
+People: Risk for 
+incidents of child, forced 
+or compulsory labor.
+Halliburton 2023 Annual & Sustainability Report Appendix  67
+
+Sustainability Accounting Standards 
+Board (SASB) T able
+Halliburton is guided by the SASB disclosure topics and metrics within the 2018-10 version Oil & Gas — Services industry per SASB’s 
+Sustainable Industry Classification System®.
+T opic Accounting Metric Code Report Location or External 
+Document Reference
+World Economic Forum 
+Stakeholder Capitalism 
+Pillar and Core Metrics
+Emissions 
+Reduction 
+Services & Fuels 
+Management
+Total fuel consumed, percentage renewable, 
+percentage used in: (1) on-road equipment and 
+vehicles and (2) off-road equipment
+EM-SV-1 10a.1
+Data Tables, page 59;
+About the Report, page 72;
+Statements on Sustainability 
+Metrics and Related Notes
+Discussion of strategy or plans to address air 
+emissions-related risks, opportunities, and impacts EM-SV-1 10a.2 Emissions Reduction Progress, 
+page 27
+Water 
+Management 
+Services
+(1) Total volume of fresh water handled in 
+operations,
+(2) percentage recycled
+EM-SV-140a.1
+Environmental Management, 
+page 36;
+Data Tables, page 59
+Planet: Water consumption and 
+withdrawal in water-stressed 
+areas
+Discussion of strategy or plans to address 
+water consumption and disposal-related risks, 
+opportunities, and impacts
+EM-SV-140a.2
+Environmental Management, 
+page 36;
+Data Tables, page 59
+Chemicals 
+Management
+Volume of hydraulic fracturing fluid used, 
+percentage hazardous EM-SV-150a.1 Data Tables, page 59
+Discussion of strategy or plans to address chemical-
+related risks, opportunities, and impacts EM-SV-150a.2
+Environmental Management, 
+page 36;
+Halliburton Sustainability 
+Website - Environment
+Workforce Health 
+& Safety
+(1) Total recordable incident rate (TRIR), (2) fatality 
+rate, (3) near miss frequency rate (NMFR), (4) total 
+vehicle incident rate (TVIR), and (5) average hours 
+of health, safety, and emergency response training 
+for (a) full-time employees, (b) contract employees, 
+and (c) short-service employees
+EM-SV-320a.1
+Data Tables, page 59;
+About the Report, page 72;
+Statements on Sustainability 
+Metrics and Related Notes
+Description of management systems used to 
+integrate a culture of safety throughout the value 
+chain and project lifecycle
+EM-SV-320a.2 Health and Safety, page 40
+Business Ethics 
+& Payments 
+T ransparency
+Amount of net revenue in countries that have the 
+20 lowest rankings in Transparency International’s 
+Corruption Perception Index
+EM-SV-510a.1 Data Tables, page 59
+Description of the management system for 
+prevention of corruption and bribery throughout the 
+value chain
+EM-SV-510a.2
+Ethics and Compliance, page 20;
+Anti-Bribery, Anti-Corruption, 
+and Fair Competition, page 21;
+Supply Chain Governance, 
+page 22
+Management 
+of the Legal 
+& Regulatory 
+Environment
+Discussion of corporate positions related to 
+government regulations and/or policy proposals 
+that address environmental and social factors 
+affecting the industry
+EM-SV-530a.1 Corporate Governance, page 14;
+Public Policy, page 25
+Critical 
+Incident Risk 
+Management
+Description of management systems used to 
+identify and mitigate catastrophic and tail-end risks EM-SV-540a.1 Health and Safety, page 40
+Activity Metrics Total number of hours worked by all employees EM-SV-000.D Data Tables, page 59
+Halliburton 2023 Annual & Sustainability Report Appendix  68
+
+United Nations Sustainable Development 
+Goals T able
+Halliburton Material T opics United Nations Sustainable Development Goals Halliburton Key Performance Indicators
+Financial and Governance
+Financial and Economic 
+Performance
+1.  No Poverty
+8.  Decent Work and Economic Growth
+■   Financial Performance Data
+Board Experience and 
+Diversity
+5.  Gender Equality
+8.  Decent Work and Economic Growth
+10.  Reduced Inequalities
+■   Board Diversity
+■   Board Independence
+Corporate Governance, 
+Business Ethics, and 
+T ransparency
+16.  P eace, Justice, and Strong Institutions ■   Training Hours for Code of Business Conduct and Anti-Corruption
+■   Local Ethics Officer Program
+■   Global Ethics Helpline
+Cybersecurity 9.  Industry , Innovation, and Infrastructure ■   Security Assessments
+■   Cybersecurity Training
+Supply Chain Human Rights 4.  Quality Education
+8.  Decent Work and Economic Growth
+1 1.  Sustainable Cities and Communities
+12.  R esponsible Consumption and Production
+■   Percentage of Spend with Local Suppliers
+■   Spend with Small and Female Diverse Suppliers
+■   Supplier Human Rights Assessments
+Legal and Regulatory 
+Compliance
+16.  P eace, Justice, and Strong Institutions ■   Trade Associations or Tax-Exempt Groups
+Enterprise Risk Management 9.  Industry , Innovation, and Infrastructure
+16.  P eace, Justice, and Strong Institutions
+■   Risk Matrix
+■   Security Assessments
+Environmental
+Energy Mix 7 .  Af fordable and Clean Energy
+9.  Industry , Innovation and Infrastructure
+13.  Climate Action
+■   Energy Consumption
+■   Solar and Renewable Energy
+Greenhouse Gas Emissions 7 .  Af fordable and Clean Energy
+9.  Industry , Innovation and Infrastructure
+13.  Climate Action
+■   Emissions Reduction Target
+■   Greenhouse Gas Emissions Intensity
+■   Technology Sustainability Matrix
+Local Environmental Impact 
+and Risk Management
+13.  Climate Action
+15.  Life on Land
+■   Waste Generation and Recycling Rate
+■   Recordable Environmental Incident Rate
+■   Spill Volume
+Environmental Stewardship 6.  Clean Water and Sanitation
+14.  Life Below Water
+15.  Life on Land
+■   Water Use
+■   Spill Volume
+■   Waste Disposal Methods
+Social
+Workplace Health and Safety 3.  Good Health and Well-Being ■   Journey to ZERO Strategic Objectives
+■   Total Recordable Incident Rate
+■   Lost-Time Incident Rate
+■   HSE Training Compliance
+■   HSE and SQ Management System
+T alent Attraction, 
+Development, and Retention
+4.  Quality Education
+8.  Decent Work and Economic Growth
+■   Employee Hiring and Turnover Rates
+■   Employee Engagement
+■   Training Hours Per Learner
+■   Business Leadership Development Courses
+■   President's Leadership Excellence Program
+Diversity and Inclusion 5.  Gender Equality
+8.  Decent Work and Economic Growth
+10.  Reduced Inequalities
+1 1. Sustainable Cities and Communities
+■   Female Diversity and Racial Diversity
+■   Percentage of Localized Workforce
+■   Spend with Small and Female Diverse Suppliers
+Community Relationships 1.  No Poverty
+2.  Zero Hunger
+3.  Good Health and Well-Being
+4.  Quality Education
+1 1.  Sustainable Cities and Communities
+16.  P eace, Justice, and Strong Institutions
+17 .  P artnerships for the Goals
+■   Charitable Giving
+■   Percentage of Localized Workforce
+■   Volunteering
+■   University Partnerships
+The global community adopted the United Nations Sustainable Development Goals (SDGs) in 2015. Halliburton maps our material 
+sustainability topics, commitments, and relevant metrics to the SDGs in order to assess our alignment with the priorities of policymakers 
+and other stakeholders.
+Halliburton 2023 Annual & Sustainability Report Appendix  69
+
+T ask Force on Climate-Related Financial 
+Disclosures (TCFD) T able
+Halliburton is guided by the TCFD disclosure topics within the TCFD Final Report: Recommendations of the Task Force on  
+Climate-Related Financial Disclosures (2017).
+T opic Description Disclosure Report Location
+Governance Disclose the organization’s governance around 
+climate-related risks and opportunities.
+a) Describe the board’s oversight of climate 
+related risks and opportunities.
+Corporate Governance, page 14;
+Enterprise Risk Management, page 17;
+Emissions Reduction Progress, page 27
+Strategy
+Disclose the actual and potential impacts of 
+climate related risks and opportunities on 
+the organization’s businesses, strategy and 
+financial planning where such information is 
+material.
+a) Describe the climate-related risks and 
+opportunities the organization has identified 
+over the short, medium and long term.
+Emissions Reduction Progress, page 27
+b) Describe the impact of climate-related 
+risks and opportunities on the organization’s 
+businesses, strategy and financial planning.
+Sustainability Commitments, page 10;
+Emissions Reduction Progress, page 27
+c) Describe the resilience of the organization’s 
+strategy, taking into consideration different 
+climate-related scenarios, including a 2°C or 
+lower scenario.
+Emissions Reduction Progress, page 27
+Risk 
+Management
+Disclose how the organization identifies, 
+assesses and manages climate-related risks.
+a) Describe the organization’s processes or 
+identifying and assessing climate-related risks.
+Enterprise Risk Management, page 17;
+Emissions Reduction Progress, page 27
+b) Describe the organization’s process for 
+managing climate-related risks. Emissions Reduction Progress, page 27
+Metrics and 
+T argets
+Disclose the metrics and targets used to assess 
+and manage relevant climate-related risks 
+and opportunities where such information is 
+material.
+a) Disclose the metrics used by the 
+organization to assess climate-related risks and 
+opportunities in line with its strategy and risk 
+management process.
+Emissions Reduction Progress, page 27;
+Data Tables, page 59
+b) Disclose Scope 1, Scope 2 and, if 
+appropriate, Scope 3 greenhouse gas (GHG) 
+emissions and the related risks.
+Emissions Reduction Progress, page 27;
+Data Tables, page 59
+c) Describe the targets used by the 
+organization to manage climate-related risks, 
+and opportunities and performance against 
+targets.
+Emissions Reduction Progress, page 27
+Halliburton 2023 Annual & Sustainability Report Appendix  70
+
+A2 
+TECHNOLOGY AND  
+INNOVATION AWARDS
+2023 Gulf Energy Information Excellence Award
+ ■ Best Deepwater Technology — EarthStar® X Near-bit, 
+Shallow and Ultra-deep Resistivity Service
+2023 Hart’s E&P Meritorious Awards (MEA)
+ ■ StrataStar® Deep Azimuthal Resistivity Service,  
+Sperry Drilling
+ ■ LOGIX® Autonomous Drilling Platform’s Auto Steer Module, 
+Sperry Drilling
+ ■ Fuzion® EH electro-hydraulic downhole wet-mate connector, 
+Halliburton Completion Tools
+SUSTAINABILITY AWARDS
+Dow Jones Sustainability Indices
+ ■ 2023 Dow Jones Sustainability North America Index
+S&P Global
+ ■ 2024 Sustainability Y earbook Member based on 2023 
+Corporate Sustainability Assessment
+COMPANY WORKFORCE AWARDS
+ALLY Energy GRIT Awards & Best Energy Workplace
+ ■ 2023 Best Energy Team Award, Halliburton Labs
+Forbes
+ ■ 2023 America's Best Employers by State List - Colorado  
+and Texas
+ ■ 2023 Global 2000 List
+Newsweek
+ ■ 2023 America’s Greatest Workplaces
+ ■ 2023 America’s Greatest Workplaces for Diversity
+Minority Engineer Magazine
+ ■ 2023 Top 50 Employers list 
+Saudi Aramco In-Kingdom Total Value Add Award
+ ■ 2023 Best in Training and Development 
+Global ERG Network — Diversity Impact Awards®
+ ■ 2023 Diversity Spotlight Impact Award — BELIEVE 
+Employee Resource Group
+American Opportunity Index
+ ■ 2023 Top 10 Leaders in Oil & Gas Sector
+2023 Society for Petroleum Engineers  
+Public Service Award
+ ■ Rahul Patil
+HSE AWARDS AND RECOGNITION
+NOIA Safety in Seas Awards
+ ■ 2023 Safety Practice Award — Risk Management &  
+5 Checks to Go
+2023 Workplace Safety and Health Council with 
+Singapore Manufacturing Federation
+ ■ Workplace Safety and Health Innovation Awards — 
+Halliburton Completions Mfg. Pte Ltd: Pressure Test Trolley
+ ■ Workplace Safety and Health Awards for Supervisors — 
+Siva Elumalai & Low Kim Nam
+ ■ Workplace Safety and Health Performance Awards — 
+Silver Award — Halliburton Completions Mfg. Pte Ltd
+2023 OSHA VPP Star Awards
+ ■ Carrollton Manufacturing and Technology —  
+Carrollton, TX
+ ■ Halliburton Drill Bits — Conroe, TX
+ ■ North Belt Manufacturing — Houston, TX
+ ■ Jet Research Center — Alvarado, TX
+ ■ Duncan Manufacturing — Duncan, OK
+ ■ Lafayette Manufacturing — Lafayette, LA
+ExxonMobil Ruby Award
+ ■ 2023 Global Wells Supplier of the Y ear 
+AMCHAM Trinidad and Tobago
+ ■ 2023 Excellence in HSE Award - Halliburton Trinidad Ltd.
+Chevron and Kuwait Gulf Oil Company
+ ■ 2023 EHS Performance Award - Halliburton Overseas Ltd.
+Abu Dhabi International Petroleum Exhibition  
+and Conference
+ ■ 2023 Contractor HSE Excellence Award
+AWARDS AND RECOGNITION
+Halliburton 2023 Annual & Sustainability Report Appendix  71
+
+A3
+Halliburton is a publicly traded corporation registered in 
+Delaware and headquartered in Houston, TX. There were 
+no significant changes to the structure or ownership of the 
+Company in 2023. The data in this report encompasses 
+our product service lines, countries, joint ventures, and 
+non-wholly-owned subsidiaries.
+This report contains descriptions of our 2023 sustainability 
+initiatives, unless otherwise noted. Wherever possible, 
+assessments of performance trends from 2021 to 2023 are 
+provided to better highlight the significance of trends over 
+time. Topics covered in this report are those most pertinent 
+to our business sector, and they arise from the context and 
+expectations of the sector. The boundaries of this report 
+correspond to those of the Company’s 2023 Form 10-K. The 
+data included in this report comes from the Company’s official 
+management and reporting systems for the various functions 
+described in this document.
+The 2023 Annual & Sustainability Report is prepared 
+with reference to the Global Reporting Initiative (GRI) 
+standards. We also follow the reporting guidelines and 
+terminology of the International Petroleum Industry 
+Environmental Conservation Association and the Sustainability 
+Accounting Standards Board (SASB) as well as take into 
+consideration the Task Force on Climate-Related Financial 
+Disclosures (TCFD) recommendations. We have mapped 
+our material sustainability topics, commitments, and relevant 
+metrics to the United Nations Sustainable Development 
+Goals and applicable World Economic Forum’s core set 
+of Stakeholder Capitalism Metrics. We provide annual 
+information to the S&P Global Corporate Sustainability 
+Assessment (CSA), CDP , and other organizations that assess 
+companies for sustainability performance.
+ABOUT THE REPORT
+Published date of previous report: April 2023
+Reporting cycle: Annual restatements of previously reported 
+information are indicated where necessary throughout 
+the report.
+The 2023 Annual & Sustainability Report has not been 
+externally assured in its entirety. KPMG has provided 
+limited assurance on certain metrics in the Statements on 
+Sustainability Metrics and Related Notes as notated in the 
+appendix data tables.
+Y our feedback is valued. Please send any comments, 
+questions, or suggestions about our 2023 Annual & 
+Sustainability Report to: sustainability@halliburton.com 
+or investors@halliburton.com
+Halliburton's 10-K and Proxy Statements are referenced in  
+this report, which can be found on our website under  
+Investors - Annual Reports and Proxies. Y ou can also read our 
+Corporate Governance Guidelines on our website.
+To request additional copies of the report, please go to: 
+www.ir.halliburton.com/shareholder-services/ investor-toolkit.
+THIS REPORT COVERS THE FISCAL PERIOD FROM JANUARY 1, 2023, 
+TO DECEMBER 31, 2023, FOR GLOBAL HALLIBURTON ACTIVITIES.
+Halliburton 2023 Annual & Sustainability Report Appendix  72
