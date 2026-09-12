@@ -201,24 +201,42 @@ def sentence_windows(text: str, max_sentences: int = 2, min_chars: int = 25) -> 
     return windows
 
 
+SUB_BATCH = 16
+
+
 @torch.inference_mode()
 def score_paragraphs_batch(item: DisclosureItem, paragraph_texts: list[str]) -> list[float]:
-    """Real NLI entailment probability for (paragraph, item.hypothesis) pairs."""
+    """Real NLI entailment probability for (premise, item.hypothesis) pairs.
+
+    Premises are length-sorted and processed in sub-batches, then restored to
+    the caller's order. This matters because `padding=True` pads every premise
+    in a batch to the longest one in it: sentence-window scoring (Fault 2)
+    produces a mix of ~35-character and ~900-character premises, and padding
+    them together inflated cost 3.8x versus scoring whole chunks. Grouping
+    similar lengths makes the padding waste small, so the Fault 2 fix costs
+    roughly its honest ~1.5x rather than 3.8x.
+    """
     if not paragraph_texts:
         return []
     tokenizer, model = _load()
-    # DeBERTa-v3-MNLI convention: premise first, hypothesis second.
-    inputs = tokenizer(
-        paragraph_texts,
-        [item.hypothesis] * len(paragraph_texts),
-        return_tensors="pt",
-        truncation=True,
-        padding=True,
-        max_length=MAX_SEQ_LEN,
-    )
-    logits = model(**inputs).logits
-    probs = torch.softmax(logits, dim=-1)
-    return probs[:, 0].tolist()  # index 0 = "entailment"
+    order = sorted(range(len(paragraph_texts)), key=lambda i: len(paragraph_texts[i]))
+    scores = [0.0] * len(paragraph_texts)
+    for start in range(0, len(order), SUB_BATCH):
+        idxs = order[start:start + SUB_BATCH]
+        batch = [paragraph_texts[i] for i in idxs]
+        # DeBERTa-v3-MNLI convention: premise first, hypothesis second.
+        inputs = tokenizer(
+            batch,
+            [item.hypothesis] * len(batch),
+            return_tensors="pt",
+            truncation=True,
+            padding=True,
+            max_length=MAX_SEQ_LEN,
+        )
+        probs = torch.softmax(model(**inputs).logits, dim=-1)[:, 0]  # index 0 = "entailment"
+        for i, p in zip(idxs, probs.tolist()):
+            scores[i] = p
+    return scores
 
 
 def score_paragraph(item: DisclosureItem, paragraph_text: str) -> float:
