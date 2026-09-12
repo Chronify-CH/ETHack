@@ -2,10 +2,16 @@
 
 Per `ABSENCE_BRIEF.md` Section 13: 10 hand-picked reports across 3 sectors, extract
 → paragraphs → 8 disclosure items → silence table, validated by eye, fraction
-correct reported. This report has two parts: the initial keyword-heuristic-stub
-run, and the real-entailment run that replaced it once `huggingface.co` access
-was granted. **The second run is not simply "better" — read the comparison
-below before trusting either number.**
+correct reported. This report now covers three runs. **Read the comparison
+below before trusting any single number** — accuracy did not improve
+monotonically with "more sophisticated" methods; it got worse, then much
+better, for identifiable reasons.
+
+| Run | Retrieval | Chunking | Scoring | By-eye accuracy (12 audited cells) |
+|---|---|---|---|---|
+| 1 | Raw anchor-term count | Blank-line paragraphs (~2,800 char avg) | Keyword heuristic | 65% (11/17, different sample size) |
+| 2 | Raw anchor-term count, k=4 | Same, unbounded | Real DeBERTa-v3-MNLI (base), 256-token truncation | 33% (4/12) |
+| 3 | Real BM25, k=8 | `rechunk()`-bounded to ~900 chars | Same model | **83% (10/12)** |
 
 ## What actually ran
 
@@ -118,18 +124,60 @@ causes:
    two-stage check that first confirms the paragraph is about scenario
    analysis at all.**
 
+## Run 3: real BM25 + bounded chunks fixed almost everything
+
+Run 2's writeup said, in effect, "fix retrieval before touching the model."
+That's what run 3 does: `extract.rechunk()` splits any paragraph over ~900
+characters into overlapping bounded chunks (so truncation stops discarding
+content mid-fact), and `entail.retrieve_candidates` now uses `rank_bm25`'s
+BM25Okapi with a real query (item hypothesis + anchor terms) instead of raw
+anchor-hit counting, with `k` restored to 8. Same 12-cell audit as run 2, same
+companies and items, re-checked against the same grep-verified ground truth:
+
+| Company | Item | Run 2 (bad retrieval) | Run 3 (BM25 + chunks) | Run 3 evidence |
+|---|---|---|---|---|
+| Apple | scope1_absolute | ❌ absent 0.034 | ✅ FOUND 0.736 | Real emissions data table |
+| Apple | scope2_market_based | ❌ absent 0.418 | ✅ FOUND 0.937 | "Scope 1 55,200 55,200 47,430..." -- the real numeric table |
+| Apple | scope3_category_breakdown | ❌ absent 0.198 | ✅ FOUND 0.944 | Correct appendix region (see caveat below) |
+| Apple | target_net_zero_year | ❌ absent 0.004 | ❌ absent 0.069 | "Our plan to become carbon neutral by 2030..." -- **retrieval got the exact right sentence and the model still scored it near zero** |
+| Apple | assurance_provider_named | ❌ absent 0.008 | ✅ FOUND 0.808 | "...Apple's independent assurance provider for the Supplie[r Clean Energy Program]..." |
+| Apple | board_committee_climate_mandate | ✅ absent 0.000 | ✅ absent 0.002 | Correctly absent |
+| Apple | scenario_analysis_quantified | ❌ FOUND 0.878 (wrong topic) | ✅ absent 0.031 | Correctly absent -- the earlier false positive is gone |
+| ConocoPhillips | injury_rate_trir | ✅ FOUND 0.686 | ✅ FOUND 0.977 | "total recordable rate (TRR) was 0.28..." -- direct hit |
+| Chevron | scope3_category_breakdown | ✅ absent 0.0 | ✅ absent 0.391 | Correct label; retrieved evidence (a board-member list) is irrelevant -- right answer, still not for a good reason |
+| ExxonMobil | target_net_zero_year | ❌ absent 0.004 | ❌ absent 0.021 | "...ExxonMobil's 2030 greenhouse gas..." -- relevant evidence, **same near-zero score pattern as Apple above** |
+| Occidental | assurance_provider_named | ✅ FOUND 0.92 | ✅ FOUND 0.968 | "ERM Certification and Verification Services, Inc." named directly |
+| Goldman Sachs | scenario_analysis_quantified | ❌ FOUND 0.772 (wrong topic) | ✅ absent 0.043 | Correctly absent -- fixed |
+
+**Result: 10/12 correct (83%).** Caveat on `scope3_category_breakdown`: the
+retrieved chunk is in the right appendix region but doesn't itself itemize
+categories the way the ground-truth line does ("Manufacturing (purchased
+goods and services) 13,400,000...") -- credited as correct here because BM25
+landed in the right table, but a stricter audit might call this "close but
+not the precise supporting line," which is a caveat worth carrying into
+Milestone 2's formal calibration rather than resolving by eye here.
+
+**The one clear remaining pattern**: `target_net_zero_year` failed twice, and
+in both cases retrieval is not the problem -- it found genuinely on-topic
+sentences stating explicit target years ("carbon neutral by 2030",
+"ExxonMobil's 2030 greenhouse gas [target]"), and the model still scored
+entailment near zero. This is a specific, reproducible weakness in how
+`deberta-v3-base-zeroshot-v2.0` handles this item's hypothesis wording, not a
+retrieval gap -- exactly the kind of controlled test case worth trying against
+a larger model before assuming "add BM25" is the only lever left.
+
 ## What this means for whoever picks up Milestone 2
 
-Do not treat "we now have a real NLI model" as the fix. The retrieval step
-(Section 7's "top-k candidate paragraphs by anchor-term BM25") is still the
-keyword-overlap placeholder from Milestone 1's first iteration, now starved
-down to `k=4` for CPU speed on top of already being a weak retrieval method.
-Before calibrating thresholds against the 200 hand-labelled pairs Section 11
-calls for, fix retrieval first: real BM25 (not raw anchor-count), a larger
-`k` (afforded by either more compute or a smaller/faster NLI model), and --
-most importantly given the extraction deviation -- splitting the oversized
-merged paragraphs this corpus produces into sub-2000-character chunks so
-truncation stops discarding real content before the model ever sees it.
+BM25 + bounded chunking was the fix run 2's writeup called for, and it worked:
+83% vs 33%. Before calibrating thresholds against the 200 hand-labelled pairs
+Section 11 calls for, two things are still worth doing first: (1) resolve the
+`scope3_category_breakdown` caveat above -- decide whether "right table, wrong
+line" should count as found at all, since a stricter standard would change
+the reported accuracy; (2) investigate the `target_net_zero_year` scoring
+failure specifically -- try a larger NLI model (`deberta-v3-large-zeroshot-v2.0`)
+on just this item's failing cases before committing to a full, slower re-run
+across the whole corpus, since the failure looks scoring-specific rather than
+systemic.
 
 ## Extraction spot-check (by eye), unchanged from the first iteration
 
