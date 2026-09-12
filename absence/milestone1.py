@@ -18,6 +18,8 @@ Run: python -m absence.milestone1
 """
 
 import json
+import sys
+import time
 
 from absence.corpus.extract import segment_paragraphs
 from absence.detect.entail import detect_item
@@ -41,8 +43,10 @@ def run():
     companies = load_companies()
     results = []
 
-    for company in companies:
+    for company_idx, company in enumerate(companies, 1):
+        t_company_start = time.time()
         paragraphs = segment_paragraphs(company["text"])
+        print(f"[{company_idx}/{len(companies)}] {company['company']} ({company['sector']}, {len(paragraphs)} paragraphs)...", flush=True)
         row = {
             "company": company["company"],
             "sector": company["sector"],
@@ -53,6 +57,7 @@ def run():
             if item.sector_applicability and company["sector"] not in item.sector_applicability:
                 row["items"][item.id] = {"applicable": False}
                 continue
+            t_item_start = time.time()
             found, score, best_para = detect_item(item, paragraphs)
             row["items"][item.id] = {
                 "applicable": True,
@@ -60,7 +65,10 @@ def run():
                 "score": score,
                 "snippet": (best_para.text[:220] + "...") if best_para else None,
             }
+            tag = "FOUND " if found else "absent"
+            print(f"    {item.id:32} {tag} {score:.3f}  ({time.time()-t_item_start:.1f}s)", flush=True)
         results.append(row)
+        print(f"  -> done in {time.time()-t_company_start:.1f}s", flush=True)
 
     print_silence_table(results)
     with open("absence/data/milestone1_results.json", "w") as f:
