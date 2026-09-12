@@ -12,8 +12,8 @@ downward after the models caught an error in my own ground truth.
 |---|---|---|---|---|
 | 1 | Raw anchor-term count | Blank-line paragraphs (~2,800 char avg) | Keyword heuristic | 59% (10/17, corrected -- see below) |
 | 2 | Raw anchor-term count, k=4 | Same, unbounded | Real DeBERTa-v3-MNLI (base), 256-token truncation | 33% (4/12) |
-| 3 | Real BM25, k=8 | `rechunk()`-bounded to ~900 chars | Same model | **83% (10/12)** |
-| 4 | Same as run 3 | Same as run 3 | DeBERTa-v3-**large**-zeroshot-v2.0 | 69% (9/13) -- **worse than run 3's 77% on identical cells** |
+| 3 | Real BM25, k=8 | `rechunk()`-bounded to ~900 chars | Same model | **83% (10/12); 85% (11/13) on the extended cell set** |
+| 4 | Same as run 3 | Same as run 3 | DeBERTa-v3-**large**-zeroshot-v2.0 | 69% (9/13) -- **worse than run 3's 85% on identical cells** |
 
 ## What actually ran
 
@@ -81,8 +81,10 @@ cell, contradicting my recorded ground truth and prompting a re-check. The
 consequences:
 - Run 1's ExxonMobil `injury_rate_trir` was a **false negative**, not a true
   negative → run 1 drops from 11/17 to 10/17.
-- Run 3's base model also scored this `absent` — also a false negative, and
-  also one I would not have caught.
+- Run 2's base model also scored this `absent` (0.000) — also a false
+  negative. Run 3, after the BM25/rechunk fix, scored it FOUND 0.736, i.e.
+  correctly; an earlier version of this document wrongly attributed run 2's
+  miss to run 3.
 - **Methodological warning for Milestone 2's 200-pair hand-labelling:** if
   the hand-labeller greps for the item's *name* rather than the full space of
   phrasings its *hypothesis* admits, the labels themselves will be wrong, and
@@ -267,10 +269,17 @@ plus ExxonMobil's `injury_rate_trir`, once its ground truth was corrected):
 | ExxonMobil | target_net_zero_year | present | 0.021 absent | 0.066 absent | neither |
 | Occidental | assurance_provider_named | present | 0.968 FOUND | 0.905 FOUND | both |
 | Goldman Sachs | scenario_analysis_quantified | absent | 0.043 absent | 0.446 absent | both |
-| ExxonMobil | injury_rate_trir | present | 0.000 absent | 0.846 FOUND | **run 4** |
+| ExxonMobil | injury_rate_trir | present | 0.736 FOUND | 0.846 FOUND | both |
 
-**Run 3 (base): 10/13 (77%). Run 4 (large): 9/13 (69%).** The large model is
+**Run 3 (base): 11/13 (85%). Run 4 (large): 9/13 (69%).** The large model is
 3.6x slower (77 minutes vs ~21) and scored *lower*.
+
+(Corrected: these were first reported as 10/13 vs 9/13 because I transcribed
+run 2's ExxonMobil `injury_rate_trir` score (0.000) into run 3's column. Run 3
+actually scored that cell FOUND 0.736 -- correctly. This is the second
+transcription/ground-truth error in this document's audits, both caught only
+by re-deriving numbers from the raw logs rather than from my own earlier
+summary. Treat every hand-assembled table here as needing that check.)
 
 Two of run 4's errors are the confident kind, which is the concerning kind:
 - **Apple `assurance_provider_named`, 0.027**: retrieval handed it a
@@ -287,9 +296,9 @@ Two of run 4's errors are the confident kind, which is the concerning kind:
   an intensity-metric definition and "upstream"/"downstream" as *business
   segment* names, not emissions categories.
 
-**Caveat on the size of this result, stated plainly:** 10/13 vs 9/13 is a
-one-cell difference on a 13-cell sample. That is well inside noise, and it
-would be wrong to claim this proves the base model is better. What it does
+**Caveat on the size of this result, stated plainly:** 11/13 vs 9/13 is a
+two-cell difference on a 13-cell sample. That is still a small sample and it
+would be overclaiming to treat the gap as precisely measured. What it does
 establish is the weaker but still decisive claim: **the large model shows no
 measurable improvement at 3.6x the cost**, and the evidence that motivated
 the swap was an artifact of how I sampled the test. Both models fail on
