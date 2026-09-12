@@ -32,7 +32,14 @@ GRID = [i / 100 for i in range(1, 100)]
 
 
 def load_cells(results_path: str = RESULTS_PATH):
-    """Return [(item_id, company, score, label_bool)] for every labelled cell."""
+    """Return [(item_id, company, score, label_bool, shipped_found)] per labelled cell.
+
+    `shipped_found` is the decision the pipeline actually made, which is not
+    always `score >= threshold`: items carrying a structural gate
+    (`min_anchors_with_figure`) can be scored high and still returned absent.
+    The threshold sweep below can only see `score`, so for gated items it
+    understates the pipeline -- hence the separate as-shipped table.
+    """
     labels = json.load(open(LABELS_PATH))["labels"]
     results = json.load(open(results_path))
     cells = []
@@ -44,15 +51,15 @@ def load_cells(results_path: str = RESULTS_PATH):
             label = company_labels.get(item_id)
             if label is None:
                 continue  # unverified -- excluded, never guessed
-            cells.append((item_id, row["company"], cell["score"], bool(label)))
+            cells.append((item_id, row["company"], cell["score"], bool(label), bool(cell.get("found"))))
     return cells
 
 
 def metrics_at(cells, threshold: float):
-    tp = sum(1 for _, _, s, y in cells if s >= threshold and y)
-    fp = sum(1 for _, _, s, y in cells if s >= threshold and not y)
-    fn = sum(1 for _, _, s, y in cells if s < threshold and y)
-    tn = sum(1 for _, _, s, y in cells if s < threshold and not y)
+    tp = sum(1 for _, _, s, y, _ in cells if s >= threshold and y)
+    fp = sum(1 for _, _, s, y, _ in cells if s >= threshold and not y)
+    fn = sum(1 for _, _, s, y, _ in cells if s < threshold and y)
+    tn = sum(1 for _, _, s, y, _ in cells if s < threshold and not y)
     precision = tp / (tp + fp) if tp + fp else None
     recall = tp / (tp + fn) if tp + fn else None
     f1 = (2 * precision * recall / (precision + recall)) if precision and recall else 0.0
@@ -121,7 +128,17 @@ def run(results_path: str = RESULTS_PATH):
         verdict = "DROP" if (mi["recall"] is None or mi["recall"] < 0.7) else "keep"
         print(f"  {item_id:32} {len(item_cells):>3} {pos:>4} {ti:>5.2f} {p:>6} {r:>7} {verdict:>10}")
 
-    print("\nPer-item leave-one-out (the honest version of the table above):")
+    print("\nAs-shipped decisions (what detect_item actually returns, gates included):")
+    print(f"  {'item':32} {'n':>3} {'correct':>8} {'acc':>6} {'base':>6}")
+    for item_id, item_cells in sorted(by_item.items()):
+        correct = sum(1 for _, _, _, y, shipped in item_cells if shipped == y)
+        pos = sum(1 for c in item_cells if c[3])
+        base = max(pos, len(item_cells) - pos) / len(item_cells)
+        acc = correct / len(item_cells)
+        note = "  <-- beats base rate" if acc > base else ""
+        print(f"  {item_id:32} {len(item_cells):>3} {correct:>8} {acc:>6.2f} {base:>6.2f}{note}")
+
+    print("\nPer-item leave-one-out (the honest version of the threshold table above):")
     print(f"  {'item':32} {'n':>3} {'loo_acc':>8} {'base_rate':>10}")
     for item_id, item_cells in sorted(by_item.items()):
         if len(item_cells) < 3:

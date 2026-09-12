@@ -226,3 +226,54 @@ the quantity it thresholds (max over N premises) changed its distribution when
 N changed. Any threshold must be calibrated *for a fixed N*, and N must be
 reported alongside it. This makes Section 11's calibration a blocker rather
 than a nice-to-have.
+
+---
+
+## Fault 9 (diagnosed and fixed): flattened tables make "names it" look like "reports it"
+
+**The wrong diagnosis I nearly acted on.** `scope3_category_breakdown` was
+anti-informative (leave-one-out 0.44 against a 0.67 base rate), and the visible
+symptom pointed at retrieval: ConocoPhillips discloses category text yet scored
+0.091 on a paragraph about Alberta wildfires. I was about to rewrite retrieval.
+
+**Retrieval was fine.** All three ConocoPhillips gold chunks were already in
+the top 8. The wildfire sentence won only because every gold sentence scored
+*lower* — and the model was right to score them low. ConocoPhillips' category
+text is a footnote, "Intended to address Scope 3, Categories 1 and 2", which
+describes what a target covers, and the document contains **no per-category
+figures at all**.
+
+**Two more of my ground-truth labels were wrong** (the seventh and eighth in
+this project, both from reading a phrase rather than what it asserts):
+Occidental names Categories 9, 10 and 11 with no figures; Microsoft names
+Categories 1, 2 and 11 and then says "Learn more in the Environmental Data
+Fact Sheet", deferring the numbers to a separate document exactly as it does
+for `scope1_absolute`. Corrected split: 3 present, 6 absent, 1 borderline.
+
+**The real cause is Fault 6 reaching downstream.** Once a table has been
+flattened into prose, "these are the categories that matter to us" and "here
+is a figure for each category" are nearly the same string. The discriminating
+evidence — numbers aligned to labels — is destroyed before the model sees it,
+so no hypothesis rewrite and no retrieval change can recover it.
+
+**Fix: a structural gate.** `DisclosureItem.min_anchors_with_figure` counts
+how many *distinct* anchor terms appear within 80 characters of a
+grouped-thousands figure across the retrieved chunks — the surviving trace of a
+table row. Prose that merely names categories has no figure beside them. On the
+labelled corpus the separation is clean: positives 5–9 categories-with-figures,
+negatives 0–1.
+
+Result, as-shipped: **9/9 labelled cells correct**, against a 0.67 base rate.
+The gate blocks exactly the three confident false positives (Microsoft 0.974,
+Occidental 0.896, Chevron 0.836) while keeping all three true positives.
+
+**Two caveats that keep this honest:**
+- The gate was designed after seeing this corpus, so 9/9 is **in-sample**. It
+  is a definitional check rather than a fitted parameter — requiring two or
+  more categories with figures is what "a breakdown" means — but it needs
+  confirming on unseen companies.
+- `calibrate.py`'s leave-one-out machinery sweeps thresholds over `score` and
+  therefore **cannot see gates at all**; it still reports 0.56 for this item.
+  That is why the calibration output now carries a separate as-shipped table.
+  A gate has no fitted parameter to hold out, so leave-one-out is not the right
+  instrument for it; out-of-sample companies are.
