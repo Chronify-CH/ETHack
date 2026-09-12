@@ -34,13 +34,30 @@ its hypothesis ("**named** the specific third-party firm"):
 | Occidental | Yes — ERM CVS | FOUND 0.968 | ✅ |
 | JPMorgan | No (its "verified by" refers to carbon credits) | absent 0.030 | ✅ |
 | Bank of America | No (its "verified by" refers to *client* data) | absent 0.010 | ✅ |
-| Goldman Sachs | **Yes — "PricewaterhouseCoopers LLP… Report of Independent Accountants"** | absent 0.017 | ❌ **false negative** |
+| Goldman Sachs | **No** — PwC's letter assures *green-bond proceeds allocation* ("provides no assurance on allocations in excess of net proceeds"), not emissions data | absent 0.017 | ✅ (corrected — I first scored this a false negative) |
 
-**Precision 2/2 = 100%. Recall 2/4 = 50%. Accuracy 8/10.**
+**Precision 2/2 = 100%. Recall 2/3 = 67%. Accuracy 9/10.**
 
-Recall of 0.50 is below Section 11's 0.7 cutoff, so **`assurance_provider_named`
-must be reported as unreliable and excluded from any scored output** until
-fixed. Note the asymmetry: the detector never invents a disclosure, it misses
+> **Correction, and the third ground-truth error in this project.** Goldman
+> Sachs was first recorded here as a false negative because its report names
+> PricewaterhouseCoopers. Reading what PwC actually attested to, it is the
+> Sustainability *Issuance* Report — assurance over green-bond proceeds
+> allocation, which the document itself says "provides no assurance on
+> allocations in excess of net proceeds". The item's hypothesis asks for
+> assurance "over its reported **emissions data**". So Goldman does not
+> disclose one, the detector's `absent` was right, and I was wrong.
+>
+> Note the direction: the LTIR error under-claimed a disclosure, this one
+> over-claimed one. Both came from matching a *keyword* (LTIR-adjacent terms;
+> "PricewaterhouseCoopers") instead of reading what the hypothesis actually
+> requires. `groundtruth_probe.py` surfaces candidates; it cannot do this
+> judgement step, and nothing except reading the surrounding text can.
+
+Recall of 0.67 is still below Section 11's 0.7 cutoff, so
+**`assurance_provider_named` remains unreliable for scored output** on the
+run-3 pipeline. (The Fault 1+2 fixes recover Microsoft's Deloitte disclosure
+-- 0.007 to 0.805 -- which would take this item to 3/3 recall; the full
+fixed-pipeline run will confirm or refute that.) Note the asymmetry: the detector never invents a disclosure, it misses
 real ones — so its `absent` cells are unreliable while its `FOUND` cells have
 held up under every check so far.
 
