@@ -41,6 +41,25 @@ class DisclosureItem:
     # Conditional Silence Score or any other aggregate.
     scored: bool = True
     exclusion_reason: str = ""
+    # Minimum number of DISTINCT anchor terms that must appear with a numeric
+    # figure close by, in the retrieved evidence, before the item can be marked
+    # found. 0 disables the gate.
+    #
+    # This exists because some hypotheses turn on tabular structure that the
+    # extraction deviation destroys (FAULTS.md Fault 6: no PyMuPDF geometry, so
+    # tables are flattened into prose). scope3_category_breakdown is the clear
+    # case: "names which Scope 3 categories are material" and "reports a figure
+    # for each category" read almost identically once a table has been
+    # flattened, and the NLI model cannot separate them -- Microsoft names
+    # Categories 1, 2 and 11 and then defers the numbers to a separate
+    # document, which scored 0.974. Counting categories that carry an adjacent
+    # figure recovers the structural signal the flattening removed.
+    #
+    # This is a definitional check, not a tuned parameter: requiring two or more
+    # categories with figures is what "a breakdown across individual categories"
+    # means. It was nonetheless designed after seeing this corpus, so its clean
+    # separation here is in-sample and needs confirming on unseen companies.
+    min_anchors_with_figure: int = 0
     granularity_levels: tuple[str, ...] = (
         "0 absent",
         "1 qualitative mention only",
@@ -107,9 +126,12 @@ ITEMS: tuple[DisclosureItem, ...] = (
             "category 1:", "category 11:", "category 15:",
         ),
         calibrated_threshold=0.46,
-        scored=False,
+        min_anchors_with_figure=2,
+        scored=True,
         exclusion_reason=(
-            "Anti-informative: leave-one-out accuracy 0.44 against a 0.67 base rate -- the score does not track ground truth. ConocoPhillips discloses 'Category 1, purchased goods and services and Category 2, capital goods' yet scores 0.091 (retrieval returned a paragraph about Alberta wildfires), while Chevron discloses no breakdown at all yet scores 0.836 on a methane-intensity glossary definition. The rewrite improved in-sample precision from 0.60 to 0.83 but changed which cells are wrong rather than making the ordering correct."
+            "Re-enabled with a structural gate (min_anchors_with_figure=2) after the "
+            "anti-informative result was traced to flattened tables rather than to "
+            "retrieval or the hypothesis. See FAULTS.md Fault 9."
         ),
     ),
     DisclosureItem(

@@ -170,6 +170,33 @@ def retrieve_candidates(item: DisclosureItem, paragraphs: list[Paragraph], k: in
     return [p for p, s in ranked[:k] if s > 0]
 
 
+_FIGURE_RE = re.compile(r"\b\d{1,3}(?:,\d{3})+\b")
+_FIGURE_WINDOW = 80
+
+
+def _anchors_with_figures(item: DisclosureItem, chunks: list[Paragraph]) -> set[str]:
+    """Distinct anchor terms that appear with a numeric figure within 80 chars.
+
+    A flattened table reads as "<label> <number> <label> <number> ...", so an
+    anchor sitting close to a grouped-thousands figure is the surviving trace of
+    a table row. Prose that merely names the same anchor ("emissions come from
+    Purchased Goods and Services and Capital Goods") has no figure beside it.
+    Only grouped-thousands figures count, so years and small counts do not.
+    """
+    found: set[str] = set()
+    for chunk in chunks:
+        lowered = chunk.text.lower()
+        for anchor in item.regex_anchors:
+            a = anchor.lower()
+            start = lowered.find(a)
+            while start != -1:
+                if _FIGURE_RE.search(chunk.text[start:start + len(a) + _FIGURE_WINDOW]):
+                    found.add(a)
+                    break
+                start = lowered.find(a, start + 1)
+    return found
+
+
 _SENTENCE_SPLIT_RE = re.compile(r"(?<=[.!?;])\s+(?=[A-Z\"'“»•]|$)")
 
 
@@ -273,6 +300,14 @@ def detect_item(item: DisclosureItem, paragraphs: list[Paragraph], k: int = DEFA
     scores = score_paragraphs_batch(item, premises)
     best_i = max(range(len(scores)), key=lambda i: scores[i])
     best_score = round(scores[best_i], 3)
+
+    if item.min_anchors_with_figure:
+        # Structural gate: how many DISTINCT anchor terms appear with a numeric
+        # figure nearby, across the retrieved chunks. Recovers tabular structure
+        # the extraction flattened (items.py explains why this is needed).
+        found_with_figure = _anchors_with_figures(item, candidates)
+        if len(found_with_figure) < item.min_anchors_with_figure:
+            return False, best_score, premises[best_i], origins[best_i]
     # Per-item calibrated cut, not the old global 0.5. Fitted cut points span
     # 0.03 to 0.94 across these items because their score distributions are not
     # comparable; a single global cut scored 0.73 leave-one-out against a 0.57
