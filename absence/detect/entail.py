@@ -5,29 +5,40 @@ BM25, then score each (premise=paragraph, hypothesis=item.hypothesis) pair
 with an off-the-shelf MNLI-style model and take the max entailment
 probability across candidates.
 
-Model: MoritzLaurer/deberta-v3-base-zeroshot-v2.0 -- verified as the current,
-maintained identifier via the model's HuggingFace API response (not assumed);
-it is the author's own recommended default for zero-shot NLI use, trained
-specifically as a binary entailment / not_entailment classifier (id2label:
-{0: "entailment", 1: "not_entailment"}), which is exactly the (premise,
-hypothesis) -> P(entailment) interface Section 7 calls for -- no 3-way
-NLI-to-binary conversion needed.
+Model: MoritzLaurer/deberta-v3-large-zeroshot-v2.0 -- verified as the current,
+maintained identifier via the model's HuggingFace API response (not assumed).
+Same author, same training recipe, as the "base" size that was used through
+run 3 of this milestone; trained as a binary entailment/not_entailment
+classifier (id2label: {0: "entailment", 1: "not_entailment"}), matching
+Section 7's (premise, hypothesis) -> P(entailment) interface directly.
 
 HISTORY, kept because the failure modes are the point:
 - First iteration: keyword-count retrieval + keyword-heuristic scoring stub.
   65% by-eye accuracy; misses traced to keyword retrieval surfacing
   boilerplate/glossary text over the real supporting passage.
-- Second iteration: same keyword-count retrieval, real entailment scoring,
-  but k cut 8->4 and truncation cut 512->256 tokens purely for CPU runtime.
-  33% by-eye accuracy -- WORSE. Root cause per MILESTONE1_RESULTS.md: this
-  corpus's paragraphs average ~2,800 characters (tables merged into prose by
-  the extraction deviation noted in extract.py), so cutting k and truncation
-  meant the real evidence usually never reached the model at all.
-- This iteration: real BM25 (rank_bm25, proper term-frequency/IDF ranking,
+- Second iteration: same keyword-count retrieval, real entailment scoring
+  (base model), but k cut 8->4 and truncation cut 512->256 tokens purely for
+  CPU runtime. 33% by-eye accuracy -- WORSE. Root cause per
+  MILESTONE1_RESULTS.md: this corpus's paragraphs average ~2,800 characters
+  (tables merged into prose by the extraction deviation noted in extract.py),
+  so cutting k and truncation meant the real evidence usually never reached
+  the model at all.
+- Third iteration: real BM25 (rank_bm25, proper term-frequency/IDF ranking,
   not raw anchor counting) over paragraphs pre-split by extract.rechunk() into
-  bounded ~900-character chunks, so truncation stops discarding real content.
-  See MILESTONE1_RESULTS.md for whether this actually improved the by-eye
-  audit -- do not assume it did just because the method is more sophisticated.
+  bounded ~900-character chunks, base model, k restored to 8. 83% by-eye
+  accuracy. Remaining failures isolated to one item (target_net_zero_year)
+  where retrieval found good evidence and the base model still scored
+  entailment near zero on both audited cases.
+- This iteration (large model): targeted test against exactly those two
+  failing cases, using their real retrieved evidence text and each item's own
+  hypothesis (not a shared placeholder), confirmed the large model fixes one
+  outright (0.069 -> 0.955) and substantially improves the other
+  (0.021 -> 0.464, now borderline rather than clearly wrong), with no
+  regression on two control cases re-tested with their own hypotheses. ~3.6x
+  slower per batch (measured: 72.5s vs ~20s for an 8-candidate batch on the
+  same worst-case document), an estimated ~85-90 minutes for the full corpus
+  vs run 3's ~25 minutes -- accepted here because the earlier failure was
+  isolated and reproducible, not a guess that "bigger must be better."
 
 STUB_FOUND_THRESHOLD is still an uncalibrated placeholder cut point -- formal
 calibration against 200 hand-labelled item/report pairs, with per-item
@@ -49,7 +60,7 @@ _TOKEN_RE = re.compile(r"[a-z0-9]+")
 def _tokenize(text: str) -> list[str]:
     return _TOKEN_RE.findall(text.lower())
 
-MODEL_ID = "MoritzLaurer/deberta-v3-base-zeroshot-v2.0"
+MODEL_ID = "MoritzLaurer/deberta-v3-large-zeroshot-v2.0"
 
 # Uncalibrated -- a placeholder cut point only, see module docstring.
 STUB_FOUND_THRESHOLD = 0.5
