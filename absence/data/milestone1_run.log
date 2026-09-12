@@ -1,0 +1,109 @@
+[1/10] Apple Inc. (Technology, 170 paragraphs)...
+/usr/local/lib/python3.11/dist-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  67%|██████▋   | 135/202 [00:00<00:00, 1343.78it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1827.75it/s]
+    scope1_absolute                  absent 0.034  (14.3s)
+    scope2_market_based              absent 0.418  (12.5s)
+    scope3_category_breakdown        absent 0.198  (12.3s)
+    target_net_zero_year             absent 0.138  (12.2s)
+    assurance_provider_named         absent 0.008  (12.5s)
+    board_committee_climate_mandate  absent 0.000  (3.3s)
+    scenario_analysis_quantified     FOUND  0.878  (12.4s)
+  -> done in 79.4s
+[2/10] Microsoft Corporation (Technology, 89 paragraphs)...
+    scope1_absolute                  absent 0.012  (12.2s)
+    scope2_market_based              absent 0.033  (12.4s)
+    scope3_category_breakdown        FOUND  0.925  (11.8s)
+    target_net_zero_year             FOUND  0.791  (12.0s)
+    assurance_provider_named         absent 0.011  (8.7s)
+    board_committee_climate_mandate  absent 0.003  (3.1s)
+    scenario_analysis_quantified     absent 0.319  (11.3s)
+  -> done in 71.6s
+[3/10] Alphabet Inc. (Google) (Technology, 85 paragraphs)...
+    scope1_absolute                  absent 0.490  (11.9s)
+    scope2_market_based              FOUND  1.000  (12.2s)
+    scope3_category_breakdown        absent 0.106  (12.0s)
+    target_net_zero_year             FOUND  0.984  (12.0s)
+    assurance_provider_named         absent 0.019  (6.0s)
+    board_committee_climate_mandate  absent 0.005  (6.0s)
+    scenario_analysis_quantified     absent 0.318  (12.0s)
+  -> done in 72.2s
+[4/10] ExxonMobil (Energy, 12 paragraphs)...
+    scope1_absolute                  absent 0.005  (3.3s)
+    scope2_market_based              absent 0.019  (3.2s)
+    scope3_category_breakdown        absent 0.017  (3.3s)
+    target_net_zero_year             absent 0.004  (6.0s)
+    assurance_provider_named         absent 0.000  (0.0s)
+    board_committee_climate_mandate  absent 0.000  (0.0s)
+    injury_rate_trir                 absent 0.000  (0.0s)
+    scenario_analysis_quantified     absent 0.092  (8.8s)
+  -> done in 24.6s
+[5/10] Chevron Corporation (Energy, 62 paragraphs)...
+    scope1_absolute                  absent 0.063  (11.4s)
+    scope2_market_based              absent 0.011  (3.0s)
+    scope3_category_breakdown        absent 0.000  (0.0s)
+    target_net_zero_year             absent 0.003  (8.4s)
+    assurance_provider_named         absent 0.004  (11.4s)
+    board_committee_climate_mandate  absent 0.001  (11.3s)
+    injury_rate_trir                 absent 0.028  (5.7s)
+    scenario_analysis_quantified     absent 0.450  (11.5s)
+  -> done in 62.8s
+[6/10] ConocoPhillips (Energy, 187 paragraphs)...
+    scope1_absolute                  FOUND  0.503  (11.3s)
+    scope2_market_based              absent 0.011  (11.6s)
+    scope3_category_breakdown        absent 0.039  (12.0s)
+    target_net_zero_year             absent 0.010  (12.1s)
+    assurance_provider_named         absent 0.018  (12.1s)
+    board_committee_climate_mandate  absent 0.080  (12.1s)
+    injury_rate_trir                 FOUND  0.686  (11.9s)
+    scenario_analysis_quantified     FOUND  0.962  (12.0s)
+  -> done in 95.3s
+[7/10] Occidental Petroleum (Energy, 130 paragraphs)...
+    scope1_absolute                  FOUND  0.714  (11.8s)
+    scope2_market_based              absent 0.031  (11.2s)
+    scope3_category_breakdown        FOUND  0.864  (11.7s)
+    target_net_zero_year             absent 0.095  (12.0s)
+    assurance_provider_named         FOUND  0.920  (11.9s)
+    board_committee_climate_mandate  absent 0.003  (11.9s)
+    injury_rate_trir                 FOUND  0.678  (12.0s)
+    scenario_analysis_quantified     absent 0.122  (12.0s)
+  -> done in 94.6s
+[8/10] JPMorgan Chase & Co. (Financials, 65 paragraphs)...
+    scope1_absolute                  absent 0.467  (12.6s)
+    scope2_market_based              absent 0.004  (3.3s)
+    scope3_category_breakdown        absent 0.062  (12.0s)
+    target_net_zero_year             absent 0.003  (8.8s)
+    assurance_provider_named         absent 0.003  (8.6s)
+    board_committee_climate_mandate  absent 0.002  (11.8s)
+    scenario_analysis_quantified     absent 0.402  (11.7s)
+  -> done in 68.7s
+[9/10] Bank of America (Financials, 78 paragraphs)...
+    scope1_absolute                  FOUND  0.656  (12.0s)
+    scope2_market_based              absent 0.005  (12.1s)
+    scope3_category_breakdown        FOUND  0.758  (11.5s)
+    target_net_zero_year             absent 0.044  (11.3s)
+    assurance_provider_named         absent 0.003  (11.2s)
+    board_committee_climate_mandate  absent 0.005  (11.3s)
+    scenario_analysis_quantified     absent 0.233  (11.4s)
+  -> done in 80.8s
+[10/10] Goldman Sachs Group Inc. (Financials, 121 paragraphs)...
+    scope1_absolute                  FOUND  0.627  (12.8s)
+    scope2_market_based              absent 0.012  (12.1s)
+    scope3_category_breakdown        FOUND  0.726  (8.8s)
+    target_net_zero_year             absent 0.010  (12.0s)
+    assurance_provider_named         absent 0.017  (11.9s)
+    board_committee_climate_mandate  absent 0.009  (8.7s)
+    scenario_analysis_quantified     FOUND  0.772  (11.8s)
+  -> done in 78.0s
+company                      sector        paras  scope1_abs  scope2_mar  scope3_cat  target_net  assurance_  board_comm  injury_rat  scenario_a
+------------------------------------------------------------------------------------------------------------------------------------------------
+Apple Inc.                   Technology      170  absent 0.034  absent 0.418  absent 0.198  absent 0.138  absent 0.008  absent 0.0         n/a  FOUND 0.878
+Microsoft Corporation        Technology       89  absent 0.012  absent 0.033  FOUND 0.925  FOUND 0.791  absent 0.011  absent 0.003         n/a  absent 0.319
+Alphabet Inc. (Google)       Technology       85  absent 0.49   FOUND 1.0  absent 0.106  FOUND 0.984  absent 0.019  absent 0.005         n/a  absent 0.318
+ExxonMobil                   Energy           12  absent 0.005  absent 0.019  absent 0.017  absent 0.004  absent 0.0  absent 0.0  absent 0.0  absent 0.092
+Chevron Corporation          Energy           62  absent 0.063  absent 0.011  absent 0.0  absent 0.003  absent 0.004  absent 0.001  absent 0.028  absent 0.45
+ConocoPhillips               Energy          187  FOUND 0.503  absent 0.011  absent 0.039  absent 0.01  absent 0.018  absent 0.08  FOUND 0.686  FOUND 0.962
+Occidental Petroleum         Energy          130  FOUND 0.714  absent 0.031  FOUND 0.864  absent 0.095  FOUND 0.92  absent 0.003  FOUND 0.678  absent 0.122
+JPMorgan Chase & Co.         Financials       65  absent 0.467  absent 0.004  absent 0.062  absent 0.003  absent 0.003  absent 0.002         n/a  absent 0.402
+Bank of America              Financials       78  FOUND 0.656  absent 0.005  FOUND 0.758  absent 0.044  absent 0.003  absent 0.005         n/a  absent 0.233
+Goldman Sachs Group Inc.     Financials      121  FOUND 0.627  absent 0.012  FOUND 0.726  absent 0.01  absent 0.017  absent 0.009         n/a  FOUND 0.772

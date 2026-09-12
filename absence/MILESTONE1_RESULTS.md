@@ -2,7 +2,10 @@
 
 Per `ABSENCE_BRIEF.md` Section 13: 10 hand-picked reports across 3 sectors, extract
 → paragraphs → 8 disclosure items → silence table, validated by eye, fraction
-correct reported. This is that report.
+correct reported. This report has two parts: the initial keyword-heuristic-stub
+run, and the real-entailment run that replaced it once `huggingface.co` access
+was granted. **The second run is not simply "better" — read the comparison
+below before trusting either number.**
 
 ## What actually ran
 
@@ -10,118 +13,145 @@ correct reported. This is that report.
   (Apple, Microsoft, Alphabet/Google), Energy (ExxonMobil, Chevron, ConocoPhillips,
   Occidental Petroleum), Financials (JPMorgan Chase, Bank of America, Goldman Sachs).
   Fetched via the TinyFish web-fetch connector (see "Environment deviations" below);
-  provenance for every document — source URL, final URL, retrieval timestamp,
-  SHA-256 of the extracted text, character count — is in `absence/data/provenance.json`.
-  Raw extracted text is cached in `absence/data/raw/*.txt` so this milestone is
-  reproducible without re-fetching.
-- **Extraction**: `absence/corpus/extract.py` segments the extracted text into
+  provenance in `absence/data/provenance.json`, raw text cached in
+  `absence/data/raw/*.txt`.
+- **Extraction**: `absence/corpus/extract.py` segments extracted text into
   paragraphs (blank-line delimited, boilerplate/short-fragment filtering).
-- **Items**: 8 of the ~50-item Section 7 inventory, spanning INTEGRITY, TRAJECTORY,
-  SOCIAL and OPTIONALITY pillars (`absence/detect/items.py`).
-- **Detection**: `absence/detect/entail.py` — a keyword-anchor-plus-heuristic stub
-  with the same call signature the real DeBERTa-v3-MNLI entailment call will have.
+- **Items**: 8 of the ~50-item Section 7 inventory (`absence/detect/items.py`).
+- **Detection**: `absence/detect/entail.py` retrieves up to `k` anchor-term
+  candidate paragraphs per item, then scores each against
+  `MoritzLaurer/deberta-v3-base-zeroshot-v2.0` (identifier verified live
+  against the HF API, not assumed) -- a model trained specifically as a binary
+  entailment/not_entailment classifier, matching Section 7's
+  (premise, hypothesis) -> P(entailment) interface exactly.
 - **Runner**: `python -m absence.milestone1` prints the silence table and writes
   `absence/data/milestone1_results.json`.
 
 ## Environment deviations (logged, not hidden)
 
-This session's network egress policy blocks direct access to `sec.gov`,
-company IR domains, and `huggingface.co` (confirmed via curl, WebFetch, and
-Python `requests` — all get a `403` from the egress proxy; this is an
-organization network policy, not a code issue). Two consequences, both
-documented in the affected modules' docstrings:
+This session's network egress initially blocked `sec.gov`, company IR domains,
+and `huggingface.co`; over the course of this milestone the user widened the
+allowlist twice more (`huggingface.co` itself, then its CDN host
+`us.aws.cdn.hf.co`, discovered because HF serves model weight files via a
+redirect to a separate domain from the one hosting model pages/API). One
+deviation remains permanent regardless: **no raw PDF bytes.** The only working
+fetch path was TinyFish, which returns its own extracted text, not raw bytes --
+so there is no real SHA-256 over source PDF bytes, no true page count, and no
+PyMuPDF block-level extraction (Section 5) on this corpus. Paragraph
+segmentation runs over TinyFish's flattened text instead. By eye this did not
+produce column-interleaving garbage on these 10 documents, but it does produce
+**oversized merged paragraphs where tables lack blank-line separation from
+surrounding prose** -- average paragraph length in this corpus is ~2,800
+characters, well above a normal prose paragraph, which turned out to matter a
+great deal (see below).
 
-1. **No raw PDF bytes.** The only working fetch path was the TinyFish
-   connector, which returns its own already-extracted text, not raw bytes.
-   So there is no real SHA-256 over source PDF bytes, no true page count, and
-   no PyMuPDF block-level extraction (bounding boxes, geometric caption/table
-   dropping) as Section 5 specifies — paragraph segmentation here runs over
-   TinyFish's flattened text instead. By eye, this did not produce the
-   column-interleaving garbage the brief warns naive extraction causes on
-   these 10 documents (see spot-checks below) — but that is not a
-   corpus-scale guarantee, and whoever builds Milestone 3 should replace this
-   with real PyMuPDF extraction the moment raw bytes are obtainable.
-2. **No real entailment model.** `huggingface.co` is unreachable, so
-   ClimateBERT and DeBERTa-v3-MNLI cannot be downloaded. `entail.py` is an
-   anchor-term-overlap-plus-number-presence heuristic standing in for real
-   NLI scoring, with the same `score_paragraph(item, text) -> float`
-   signature the real model will have. Its scores are **not calibrated** and
-   must not be read as measuring anything about the companies.
+## Two runs, not one
 
-## Manual accuracy check (the brief's required "by eye" validation)
+**Run 1 (keyword-heuristic stub, `entail.py` before this milestone's later
+commits):** anchor-term overlap + number-presence, `k=8` candidates,
+uncalibrated. By-eye accuracy on 17 grep-verified item/company cells: **65%
+(11/17)**, with every miss traced to retrieval surfacing boilerplate or a
+glossary page over the real supporting text. Full methodology preserved in
+git history of this file.
 
-I manually verified, by grepping the actual extracted document text (not just
-the truncated snippet printed in the silence table), whether each system
-"found"/"absent" call was actually correct — for 17 item×company cells across
-4 companies (Apple, ExxonMobil, Chevron, ConocoPhillips), chosen to cover both
-sectors and both outcome types.
+**Run 2 (real DeBERTa-v3-MNLI entailment):** same retrieval design, but tuned
+down to `k=4` candidates and `max_length=256` tokens purely for CPU runtime
+on this environment's 4-core machine (measured: `k=8`/`max_length=512` against
+this corpus's oversized paragraphs was projected at ~80+ minutes; `k=4`/`256`
+brought the full run to ~12 minutes). Full log of every item score is in
+`/tmp/milestone1_run.log` at time of writing; final scores in
+`absence/data/milestone1_results.json`.
 
-| Company | Item | System said | Ground truth (grep-verified) | Verdict |
+## Manual accuracy check, run 2
+
+Same method as run 1: grep the actual extracted document text for ground
+truth, don't just trust the printed snippet. 12 item/company cells audited,
+covering the same companies as before plus new spot-checks:
+
+| Company | Item | System said | Ground truth | Verdict |
 |---|---|---|---|---|
-| Apple | scope1_absolute | FOUND | Present, real numbers (line 7335, 5827) | ✅ correct |
-| Apple | scope2_market_based | FOUND | Present (line 5831, "Scope 2 (market-based)") | ✅ correct |
-| Apple | scope3_category_breakdown | FOUND | Present (line 5847, "purchased goods and services" with figures) | ✅ correct |
-| Apple | target_net_zero_year | FOUND | Present, "2030" stated repeatedly | ✅ correct |
-| Apple | assurance_provider_named | FOUND | Present, "Apex Companies, LLC" named | ✅ correct |
-| Apple | board_committee_climate_mandate | FOUND | **Absent** — no "board committee"/"committee of the board" text anywhere in the extracted document | ❌ **false positive** |
-| Apple | scenario_analysis_quantified | FOUND | **Absent** — scenario analysis is discussed but purely qualitatively; no dollar figure attached to it anywhere nearby | ❌ **false positive** |
-| ExxonMobil | scope1_absolute | FOUND | **Absent** — this is a 19-page "Executive Summary" doc with no numeric emissions table at all | ❌ **false positive** |
-| ExxonMobil | scope2_market_based | FOUND | **Absent** (same reason) | ❌ **false positive** |
-| ExxonMobil | scope3_category_breakdown | FOUND | **Absent** (same reason) | ❌ **false positive** |
-| ExxonMobil | target_net_zero_year | FOUND | Present — "net zero... by 2050", "...by 2030" (Permian) both stated qualitatively | ✅ correct (label), evidence retrieved was a boilerplate legal-disclaimer paragraph, not this text |
-| ExxonMobil | assurance_provider_named | absent | Absent — no assurance language anywhere in doc | ✅ correct |
-| ExxonMobil | board_committee_climate_mandate | absent | Absent | ✅ correct |
-| ExxonMobil | injury_rate_trir | absent | Absent (this doc doesn't cover safety data) | ✅ correct |
-| ExxonMobil | scenario_analysis_quantified | FOUND | **Absent** — matched "$20 billion in lower-emission investments," which is a capex figure, not a scenario-analysis financial impact | ❌ **false positive** |
-| Chevron | scope3_category_breakdown | absent | Absent — no category-level Scope 3 breakdown anywhere in the document | ✅ correct |
-| ConocoPhillips | injury_rate_trir | FOUND | Present — real "Employee TRIR / Contractor TRIR / Combined TRIR" table exists (line ~11700) | ✅ correct (label), evidence retrieved was an acronym glossary entry, not the real table |
+| Apple | scope1_absolute | absent (0.034) | Present (real numbers, e.g. "Scope 1 55,200...") | ❌ **false negative** — retrieval surfaced a GHG-Protocol methodology paragraph, not the numeric table |
+| Apple | scope2_market_based | absent (0.418) | Present ("Scope 2 (market-based)... 3,000...") | ❌ **false negative** (borderline — retrieved an energy-consumption input table, not the derived Scope 2 line, likely truncated before it) |
+| Apple | scope3_category_breakdown | absent (0.198) | Present ("Manufacturing (purchased goods and services) 13,400,000...") | ❌ **false negative** — retrieved a generic "avoided emissions" sentence instead |
+| Apple | target_net_zero_year | absent (0.004) | Present ("2030" stated repeatedly) | ❌ **false negative** — retrieved paragraph is climate-impact framing text, not Apple's own target statement |
+| Apple | assurance_provider_named | absent (0.008) | Present ("Apex Companies, LLC") | ❌ **false negative, and the concerning kind** — retrieval found the *exact right paragraph* ("Apex Companies, LLC... provide reasonable assurance...") and the model still scored it near zero |
+| Apple | board_committee_climate_mandate | absent (0.000) | Absent (confirmed, no such text anywhere in doc) | ✅ correct |
+| Apple | scenario_analysis_quantified | FOUND (0.878) | Absent (qualitative only, no $ figure) | ❌ **false positive, high confidence** — retrieved an unrelated paragraph about European retail store energy efficiency |
+| ConocoPhillips | injury_rate_trir | FOUND (0.686) | Present (real TRIR table: "Employee TRIR... 0.457, 0.532") | ✅ **correct, and now with the actual correct evidence** (the stub had matched a glossary page for this same true label) |
+| Chevron | scope3_category_breakdown | absent (0.0, no candidates) | Absent (confirmed) | ✅ correct |
+| ExxonMobil | target_net_zero_year | absent (0.004) | Present (qualitative "net zero... by 2050", "...by 2030") | ❌ **false negative** — retrieved a different paragraph about the "Advancing Climate Solutions Report" in general, not the target sentence |
+| Occidental | assurance_provider_named | FOUND (0.92) | Present | ✅ **correct, excellent evidence** ("Independent Limited Assurance Report... ERM Certification and Verification Services, Inc. ('ERM CVS') was engaged...") |
+| Goldman Sachs | scenario_analysis_quantified | FOUND (0.772) | Absent (no scenario-analysis dollar impact in retrieved text) | ❌ **false positive** — retrieved a green-bond issuance paragraph ($100 million notes), unrelated to scenario analysis |
 
-**Result: 11 / 17 correct (65%).**
+**Result: 4 / 12 correct (33%) — worse than the stub's 65% on a comparable audit.**
 
-The more important pattern than the raw percentage: **every miss was the
-retrieval step returning the wrong candidate paragraph**, not a scoring
-threshold problem. The stub retrieves by raw anchor-term overlap, so a long
-boilerplate legal disclaimer (XOM) or an acronym glossary (ConocoPhillips)
-that happens to contain many matching terms and stray numbers outranks the
-actual relevant table. Two of the "correct" calls above (XOM target year,
-ConocoPhillips TRIR) got the right found/absent label for the wrong reason —
-the system never actually surfaced the real supporting text. This is exactly
-the failure mode Section 7 predicts keyword matching would have and real NLI
-entailment (scoring semantic support for the specific hypothesis, not term
-co-occurrence) is designed to fix. It is a finding about the detector, not
-about the companies, per Section 14's explicit warning.
+## This is the actual finding of Milestone 1, and it is not flattering
 
-## Extraction spot-check (by eye)
+Swapping a keyword heuristic for a real, purpose-built NLI model did not
+improve the system, on this audit. Two independent, honestly-reportable
+causes:
+
+1. **Retrieval, unchanged in design, got worse in practice.** The stub used
+   `k=8`; the real model was tuned to `k=4` and 256-token truncation purely to
+   fit a CPU runtime budget on this environment's 4-core machine. On a corpus
+   whose paragraphs average ~2,800 characters (because tables aren't separated
+   from prose -- the extraction deviation noted above), that is nowhere near
+   enough candidates or context to reliably surface the one paragraph that
+   actually contains the disclosed fact. 5 of the 6 real misses above are
+   retrieval misses: the right paragraph exists in the document but never
+   reached the model.
+2. **The model itself is sometimes wrong even when retrieval succeeds.**
+   Apple's `assurance_provider_named` is the clean counterexample: retrieval
+   found the exact right paragraph, naming Apex Companies LLC explicitly and
+   describing the assurance work, and `deberta-v3-base-zeroshot-v2.0` scored
+   it 0.008 -- essentially zero entailment. This is a genuine model-accuracy
+   limitation on this item's hypothesis phrasing, not a pipeline bug.
+3. **One item (`scenario_analysis_quantified`) produced confident false
+   positives twice** (Apple, Goldman Sachs), both times by matching
+   financially-flavored but topically unrelated paragraphs (retail store
+   energy costs; a green bond issuance). Its anchor terms (`$`, `million`,
+   `billion`) are too generic for a report full of dollar figures for
+   unrelated reasons. Per Section 11's own instruction ("items with recall
+   below 0.7 should be dropped... and reported as unreliable rather than left
+   in to add noise"), **`scenario_analysis_quantified` as currently specified
+   should be treated as unreliable pending a redesigned anchor set or a
+   two-stage check that first confirms the paragraph is about scenario
+   analysis at all.**
+
+## What this means for whoever picks up Milestone 2
+
+Do not treat "we now have a real NLI model" as the fix. The retrieval step
+(Section 7's "top-k candidate paragraphs by anchor-term BM25") is still the
+keyword-overlap placeholder from Milestone 1's first iteration, now starved
+down to `k=4` for CPU speed on top of already being a weak retrieval method.
+Before calibrating thresholds against the 200 hand-labelled pairs Section 11
+calls for, fix retrieval first: real BM25 (not raw anchor-count), a larger
+`k` (afforded by either more compute or a smaller/faster NLI model), and --
+most importantly given the extraction deviation -- splitting the oversized
+merged paragraphs this corpus produces into sub-2000-character chunks so
+truncation stops discarding real content before the model ever sees it.
+
+## Extraction spot-check (by eye), unchanged from the first iteration
 
 Manually read the first ~1,500 characters and tail of several documents
-(Apple, Chevron, ExxonMobil, Goldman Sachs). All four are coherent,
-correctly-attributed, non-garbled prose — no evidence of the multi-column
-interleaving failure mode naive PDF-to-text conversion is known to cause. One
-document (ExxonMobil) is genuinely a short 19-page "Executive Summary" by the
-company's own design, not a truncation artifact — confirmed by the complete
-absence of any numeric emissions table in its ~37K characters of extracted
-text, consistent with the shorter page count.
-
-## Fetch reliability note
-
-4 of the first 9 non-Apple fetch attempts (Chevron, ConocoPhillips, Occidental,
-Goldman Sachs direct link) failed with `target_unreachable` on the first try
-and succeeded on retry (or via a `responsibilityreports.com` mirror for
-Chevron and Goldman Sachs, whose direct `chevron.com` / `goldmansachs.com`
-links stayed unreachable even after retry — likely bot-protection on those
-origins). This matches Section 5's expectation that discovery/fetch at any
-real scale needs retries and fallback routes, not a single fetch attempt.
+(Apple, Chevron, ExxonMobil, Goldman Sachs). All coherent, correctly
+attributed, non-garbled prose -- no multi-column interleaving. ExxonMobil's
+document is genuinely a short 19-page "Executive Summary" by design, not a
+truncation artifact.
 
 ## What this does and doesn't prove
 
-**Proven**: the plumbing works end-to-end on real documents — real report
-discovery, real text, paragraph segmentation, item-level retrieval and
-scoring, a printed silence table, all traceable back to source URLs and
-grep-able source text.
+**Proven**: the plumbing works end-to-end on real documents with a real,
+verified, currently-maintained NLI model -- real report discovery, real text,
+paragraph segmentation, item-level retrieval and scoring against a genuine
+zero-shot entailment model, a printed silence table, all traceable back to
+source URLs and grep-able source text.
 
-**Not proven, and explicitly not claimed**: that this detector says anything
-reliable about these companies. 35% of the audited calls were wrong, all
-via the same retrieval weakness, and the detector itself is an uncalibrated
-stub. Milestone 2's threshold calibration against 200 hand-labelled pairs is
-meaningless until real entailment (or at minimum a real BM25 retrieval pass
-per Section 7, not top-1-by-anchor-count) replaces this stub.
+**Not proven, and explicitly not claimed**: that this detector, as currently
+tuned, says anything reliable about these companies. 67% of the audited
+calls in run 2 were wrong. The dominant cause is retrieval starvation from a
+CPU-speed tradeoff, not the entailment model being fundamentally unsuited --
+Occidental's assurance-provider match and ConocoPhillips's TRIR match show
+the model does the right thing when retrieval actually hands it the real
+evidence. Milestone 2's threshold calibration is meaningless until retrieval
+is fixed to reliably do that.
