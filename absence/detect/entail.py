@@ -5,16 +5,24 @@ BM25, then score each (premise=paragraph, hypothesis=item.hypothesis) pair
 with an off-the-shelf MNLI-style model and take the max entailment
 probability across candidates.
 
-Model: MoritzLaurer/deberta-v3-large-zeroshot-v2.0 -- verified as the current,
-maintained identifier via the model's HuggingFace API response (not assumed).
-Same author, same training recipe, as the "base" size that was used through
-run 3 of this milestone; trained as a binary entailment/not_entailment
-classifier (id2label: {0: "entailment", 1: "not_entailment"}), matching
-Section 7's (premise, hypothesis) -> P(entailment) interface directly.
+Model: MoritzLaurer/deberta-v3-base-zeroshot-v2.0 -- verified as the current,
+maintained identifier via the model's HuggingFace API response (not assumed);
+trained as a binary entailment/not_entailment classifier (id2label:
+{0: "entailment", 1: "not_entailment"}), matching Section 7's
+(premise, hypothesis) -> P(entailment) interface directly.
+
+The "large" size of the same model was tried (run 4) and reverted: it scored
+9/13 vs base's 10/13 on an identical by-eye audit while running 3.6x slower.
+That one-cell difference is inside noise and does NOT establish base as
+better -- but it does establish that large showed no measurable gain for its
+cost. See MILESTONE1_RESULTS.md for the audit and, more importantly, for why
+the pre-test that motivated the swap was misleading: it sampled only cells
+the base model already failed, which cannot surface regressions.
 
 HISTORY, kept because the failure modes are the point:
 - First iteration: keyword-count retrieval + keyword-heuristic scoring stub.
-  65% by-eye accuracy; misses traced to keyword retrieval surfacing
+  59% by-eye accuracy (corrected from 65%, see MILESTONE1_RESULTS.md);
+  misses traced to keyword retrieval surfacing
   boilerplate/glossary text over the real supporting passage.
 - Second iteration: same keyword-count retrieval, real entailment scoring
   (base model), but k cut 8->4 and truncation cut 512->256 tokens purely for
@@ -29,16 +37,19 @@ HISTORY, kept because the failure modes are the point:
   accuracy. Remaining failures isolated to one item (target_net_zero_year)
   where retrieval found good evidence and the base model still scored
   entailment near zero on both audited cases.
-- This iteration (large model): targeted test against exactly those two
+- Fourth iteration (large model, REVERTED): targeted test against exactly those two
   failing cases, using their real retrieved evidence text and each item's own
   hypothesis (not a shared placeholder), confirmed the large model fixes one
   outright (0.069 -> 0.955) and substantially improves the other
   (0.021 -> 0.464, now borderline rather than clearly wrong), with no
-  regression on two control cases re-tested with their own hypotheses. ~3.6x
-  slower per batch (measured: 72.5s vs ~20s for an 8-candidate batch on the
-  same worst-case document), an estimated ~85-90 minutes for the full corpus
-  vs run 3's ~25 minutes -- accepted here because the earlier failure was
-  isolated and reproducible, not a guess that "bigger must be better."
+  regression on two control cases re-tested with their own hypotheses.
+  The full run then scored 9/13 vs base's 10/13 on the identical audit, at
+  3.6x the cost (77 minutes vs ~21), introducing a confident false positive
+  (Chevron scope3, 0.857) and re-introducing the Apex-style false negative
+  run 3 had fixed (Apple assurance, 0.027 on a passage naming two providers).
+  Reverted. The lesson is about the pre-test, not the model: sampling only
+  cells the incumbent already fails cannot surface regressions, so it can
+  only ever look favourable.
 
 STUB_FOUND_THRESHOLD is still an uncalibrated placeholder cut point -- formal
 calibration against 200 hand-labelled item/report pairs, with per-item
@@ -60,7 +71,7 @@ _TOKEN_RE = re.compile(r"[a-z0-9]+")
 def _tokenize(text: str) -> list[str]:
     return _TOKEN_RE.findall(text.lower())
 
-MODEL_ID = "MoritzLaurer/deberta-v3-large-zeroshot-v2.0"
+MODEL_ID = "MoritzLaurer/deberta-v3-base-zeroshot-v2.0"
 
 # Uncalibrated -- a placeholder cut point only, see module docstring.
 STUB_FOUND_THRESHOLD = 0.5

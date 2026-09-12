@@ -6,39 +6,39 @@
     "items": {
       "scope1_absolute": {
         "applicable": true,
-        "found": true,
-        "score": 0.736,
-        "snippet": "Parameter Quantity Units Boundary / Protocol Natural Gas Consumption 903,892 Metric million British thermal unit Worldwide occupied properties / Apple Internal Protocol Electricity Consumption 3,199 Million kilowatt hour..."
+        "found": false,
+        "score": 0.026,
+        "snippet": "Apple requested Apex to include in its independent review the following (Subject Matter): \u25aa Assurance of select environmental data and information included in the Report for the fiscal year 2022 reporting period (Septemb..."
       },
       "scope2_market_based": {
         "applicable": true,
         "found": true,
-        "score": 0.937,
-        "snippet": "2e)2 Gross emissions 324,100 166,380 334,430 573,730 586,170 Scope 1 55,200 55,200 47,4 30 52,730 57 ,440 Natural gas, diesel, propane 39,700 40,070 39,340 40,910 42,840 Fleet vehicles 12,600 12,090 4,270 6,950 11,110 Ot..."
+        "score": 0.84,
+        "snippet": "Apex Companies, LLC Page 4 of 4 Gross Carbon Footprint4 20.57 Million metric tonnes of carbon dioxide equivalent Worldwide occupied properties / WRI/WBCSD GHG Protocol 1. Corporate GHG Emissions = Scope 1 GHG Emissions +..."
       },
       "scope3_category_breakdown": {
         "applicable": true,
         "found": true,
-        "score": 0.944,
-        "snippet": "to recycled materials in our products, or use of low-carbon aluminum, as described on page 14. ** Net carbon emissions represents our total gross footprint minus carbon offsets applied to each category. Percentages shown..."
+        "score": 0.516,
+        "snippet": "Apple requested Apex to include in its independent review the following (Subject Matter): \u25aa Assurance of select environmental data and information included in the Report for the fiscal year 2022 reporting period (Septemb..."
       },
       "target_net_zero_year": {
         "applicable": true,
-        "found": false,
-        "score": 0.069,
-        "snippet": "Our plan to become carbon neutral by 2030 centers around a 75 percent emissions reduction target compared with our 2015 footprint. We\u2019ve already reduced our gross carbon footprint12 by over 45 percent since 2015. And we ..."
+        "found": true,
+        "score": 0.721,
+        "snippet": "isive, and inclusive steps to mitigate our impact on the climate. We\u2019ve committed to achieving carbon neutrality across our entire value chain by 2030 \u2014 reducing emissions by 75 percent compared with 2015 and balancing t..."
       },
       "assurance_provider_named": {
         "applicable": true,
-        "found": true,
-        "score": 0.808,
-        "snippet": "chain was 10.6 gigawatts, generating 18.6 million megawatt-hours and avoiding 14.2 million metric tons of carbon emissions. 2 Apple\u2019s independent assurance provider for the Supplier Clean Energy Program conducts work aga..."
+        "found": false,
+        "score": 0.027,
+        "snippet": "rday of September. Data assurance We obtain third-party verification for some of the information in this report from Apex Companies and the Fraunhofer Institute in Germany (as denoted in Appendix D). Data in this report,..."
       },
       "board_committee_climate_mandate": {
         "applicable": true,
         "found": false,
-        "score": 0.002,
-        "snippet": "and restrictions based on the latest scientific research and standards, drawing from regulations, international standards, and voluntary requirements. Many of the specification\u2019s restrictions exceed the most stringent lo..."
+        "score": 0.018,
+        "snippet": "melters and refiners in Apple\u2019s supply chain completed assessments to verify compliance with our standards, and to aid in identifying social, environmental, human rights, and governance risks. We also map other materials..."
       },
       "injury_rate_trir": {
         "applicable": false
@@ -46,8 +46,8 @@
       "scenario_analysis_quantified": {
         "applicable": true,
         "found": false,
-        "score": 0.031,
-        "snippet": "es and yield loss during production allows us to account for the impact of manufacturing. The LCA includes accessories and packaging, as well as decreased emissions through Apple\u2019s Supplier Clean Energy Program. When cal..."
+        "score": 0.361,
+        "snippet": "ream impacts from scope 1 fuels. Evaluating climate risks In 2020, we conducted a climate scenario analysis to help us better understand the potential physical and transition effects of climate change. T o align with the..."
       }
     }
   },
@@ -58,48 +58,48 @@
     "items": {
       "scope1_absolute": {
         "applicable": true,
-        "found": true,
-        "score": 0.5,
-        "snippet": "Scope 1A Current year Base year Metric tons CO2e Scope 2B Scope 3C 0M 3M 6M 9M 12M 15M FY21 FY20 FY22 B C C C A A A B 12,511,000 10,870,000 12,571,000 429,405 123,704 456,119 118,100 288,029 139,413 B -8M -6M -4M -2M 0M ..."
+        "found": false,
+        "score": 0.031,
+        "snippet": "Commitments and progress Carbon negative by 2030 We are committed to being carbon negative by 2030 and by 2050 remove from the atmosphere an equivalent amount of all the carbon dioxide our company has emitted either dire..."
       },
       "scope2_market_based": {
         "applicable": true,
-        "found": true,
-        "score": 0.859,
-        "snippet": "nformation. In FY22, we included this activity in our results and procured unbundled renewable energy credits (RECs) to mitigate the increased emissions for FY22. Our year-over-year figures show a 23 percent reduction in..."
+        "found": false,
+        "score": 0.057,
+        "snippet": "al contracted each year includes credits retired in the same year and to be retired in future years. Learn more in the Environmental Data Fact Sheet a. The chart has been updated to reflect the latest actual values which..."
       },
       "scope3_category_breakdown": {
         "applicable": true,
-        "found": true,
-        "score": 0.881,
+        "found": false,
+        "score": 0.376,
         "snippet": "Our Scope 3 commitment is our most powerful opportunity to help accelerate global decarbonization efforts by engaging suppliers and customers in our value chain and partnering to reduce emissions associated with the busi..."
       },
       "target_net_zero_year": {
         "applicable": true,
         "found": true,
-        "score": 0.654,
+        "score": 0.971,
         "snippet": "Commitments and progress Carbon negative by 2030 We are committed to being carbon negative by 2030 and by 2050 remove from the atmosphere an equivalent amount of all the carbon dioxide our company has emitted either dire..."
       },
       "assurance_provider_named": {
         "applicable": true,
         "found": false,
-        "score": 0.007,
-        "snippet": "Removing carbon We are three years into our mission to build the carbon dioxide removal (CDR) capacity that the world will require to prevent the worst effects of climate change. Our focus 1 Nascent, high-quality solutio..."
+        "score": 0.002,
+        "snippet": "s generated from the Emissions Impact Dashboard (EID) for Microsoft 365 differ from those reflected elsewhere in this corporate disclosure. The figures reported here could change in the future due to better data reportin..."
       },
       "board_committee_climate_mandate": {
         "applicable": true,
         "found": false,
-        "score": 0.006,
-        "snippet": "ot directly correspond to the concept of materiality used in securities law. A listing of what we currently identify and categorize as our top ESG issues can be found on our website. In 2020, Microsoft conducted a materi..."
+        "score": 0.029,
+        "snippet": "our climate-related work, and solicit high-level input on new and emerging initiatives. Additional information on Microsoft's corporate governance is available at microsoft.com/investor. Forward-looking statements This r..."
       },
       "injury_rate_trir": {
         "applicable": false
       },
       "scenario_analysis_quantified": {
         "applicable": true,
-        "found": false,
-        "score": 0.464,
-        "snippet": "Climate Innovation Fund We believe that innovation is a critical component to solving the climate crisis, and that the investment of capital plays an important role in accelerating the availability of new solutions. Micr..."
+        "found": true,
+        "score": 0.794,
+        "snippet": "++ ++ ++ ++ ++ ++ ++ ++ ++ ++ ++ ++ Climate Innovation Fund Investing in climate innovation Microsoft is investing to accelerate climate innovation through our $1 billion Climate Innovation Fund (CIF). In 2021, we also m..."
       }
     }
   },
@@ -111,37 +111,37 @@
       "scope1_absolute": {
         "applicable": true,
         "found": true,
-        "score": 0.525,
+        "score": 0.798,
         "snippet": "l- and energy-related activities (not included in Scope 1 or 2) 1,186,000 8% Scope 3: (4) Upstream transportation 584,000 4% Scope 3: (5) Waste generated in operations 10,000 <1% Scope 3: (6) Business travel 283,000 2% S..."
       },
       "scope2_market_based": {
         "applicable": true,
         "found": true,
-        "score": 0.974,
-        "snippet": "ombined Scope 1, 2 (market-based), and 3 absolute GHG emissions by 2030, 102 and invest in nature-based and technology-based carbon removal solutions to neutralize our remaining emissions Year set: 2021; Base year: 2019 ..."
+        "score": 0.981,
+        "snippet": "Total emissions: Scope 1, 2 (market-based), and 3 (total)15 tCO2e 9,671,400 8,567 ,200 10,775,200 12,617 ,400 14,314,800 Biogenic emissions tCO2 21,900 5,400 3,800 17,900 18,700 Assured for 2023 1 W e recalculated select..."
       },
       "scope3_category_breakdown": {
         "applicable": true,
         "found": true,
-        "score": 0.971,
-        "snippet": "1.0), in the following categories identified as relevant: Category 1: Purchased goods and services Category 2: Capital goods Category 3: Fuel- and energy-related activities not included in Scope 1 or Scope 2 Category 4: ..."
+        "score": 0.957,
+        "snippet": "following GHG emissions metrics were adjusted: 2019 Impact of PPAs and market-based emissions factors; 2019-2022 Scope 3 (total) emissions, 2019-2022 Total emissions; and all 2019-2021 Carbon intensity metrics. 4 S ee en..."
       },
       "target_net_zero_year": {
         "applicable": true,
         "found": true,
-        "score": 0.994,
+        "score": 0.958,
         "snippet": "Our net-zero goal In 2021, we set a goal to reach net- zero emissions across all of our operations and value chain by 2030. To meet this goal, we aim to reduce 50% of our combined Scope 1, Scope 2 (market-based), and Sco..."
       },
       "assurance_provider_named": {
         "applicable": true,
         "found": false,
-        "score": 0.363,
+        "score": 0.07,
         "snippet": "e. 134 T his third-party estimate is based on a 2022 whole-building life cycle assessment, which includes requirements based on the LEED v4 Building Life Cycle Impact Reduction credit requirements, as well as full cradle..."
       },
       "board_committee_climate_mandate": {
         "applicable": true,
         "found": false,
-        "score": 0.006,
+        "score": 0.031,
         "snippet": "il, Google Drive, Google Maps, Google Photos, Google Play, Search, and YouTube. Our devices include Fitbit wearable devices, Google Nest home products, and Pixel devices. Our Google Cloud offerings include Google Cloud P..."
       },
       "injury_rate_trir": {
@@ -150,7 +150,7 @@
       "scenario_analysis_quantified": {
         "applicable": true,
         "found": false,
-        "score": 0.045,
+        "score": 0.212,
         "snippet": "e. 134 T his third-party estimate is based on a 2022 whole-building life cycle assessment, which includes requirements based on the LEED v4 Building Life Cycle Impact Reduction credit requirements, as well as full cradle..."
       }
     }
@@ -163,49 +163,49 @@
       "scope1_absolute": {
         "applicable": true,
         "found": false,
-        "score": 0.033,
-        "snippet": "ational Association of Oil and Gas Producers Sustainability Reporting Guidance for the Oil and Gas Industry (4th edition, 2020, revised February 2023) and key chapters of the GHG Protocol inform the EPI process and the s..."
+        "score": 0.054,
+        "snippet": ", at times, inconsistent market data, government policy signals, and calculation, methodologies, or reporting standards. Actions needed to advance ExxonMobil\u2019s 2030 greenhouse gas emission-reductions plans are incorporat..."
       },
       "scope2_market_based": {
         "applicable": true,
         "found": false,
-        "score": 0.121,
-        "snippet": "flicts, or terrorism; and other factors discussed in this release and in Item 1A. \u201cRisk Factors\u201d in ExxonMobil\u2019s Annual Report on Form 10-K for 2022 and subsequent Quarterly Reports on Forms 10-Q, as well as under the he..."
+        "score": 0.124,
+        "snippet": ", at times, inconsistent market data, government policy signals, and calculation, methodologies, or reporting standards. Actions needed to advance ExxonMobil\u2019s 2030 greenhouse gas emission-reductions plans are incorporat..."
       },
       "scope3_category_breakdown": {
         "applicable": true,
-        "found": true,
-        "score": 0.877,
-        "snippet": "| 2023 Sustainability Report | Executive Summary Creating sustainable solutions We\u2019re pursuing more than $20 billion in lower-emission investments from 2022 through 2027. About 50% of those investments are targeted at re..."
+        "found": false,
+        "score": 0.142,
+        "snippet": "flicts, or terrorism; and other factors discussed in this release and in Item 1A. \u201cRisk Factors\u201d in ExxonMobil\u2019s Annual Report on Form 10-K for 2022 and subsequent Quarterly Reports on Forms 10-Q, as well as under the he..."
       },
       "target_net_zero_year": {
         "applicable": true,
         "found": false,
-        "score": 0.021,
-        "snippet": ", at times, inconsistent market data, government policy signals, and calculation, methodologies, or reporting standards. Actions needed to advance ExxonMobil\u2019s 2030 greenhouse gas emission-reductions plans are incorporat..."
+        "score": 0.066,
+        "snippet": "t zero in Upstream Permian Basin unconventional operated assets by 2030, to eliminate routine flaring in-line with World Bank Zero Routine Flaring, to reach near zero methane emissions from operated assets and other meth..."
       },
       "assurance_provider_named": {
         "applicable": true,
         "found": false,
-        "score": 0.008,
-        "snippet": "many of which may be beyond ExxonMobil\u2019s control, including government regulation, availability and cost-effectiveness of technologies, and market forces and other risks and uncertainties. Such third parties\u2019 statements ..."
+        "score": 0.004,
+        "snippet": "We appreciate your interest in our sustainability journey, and invite you to explore our full Sustainability Report on our website. Footnotes 1. https://www.weforum.org/agenda/2019/07/populations-around-world-changed-ove..."
       },
       "board_committee_climate_mandate": {
         "applicable": true,
         "found": false,
-        "score": 0.001,
+        "score": 0.005,
         "snippet": "| 2023 Sustainability Report | Executive Summary Operations Integrity Management System Our Safety, Security, Health, Environmental, and Product Safety policies are put into practice through a comprehensive, disciplined ..."
       },
       "injury_rate_trir": {
         "applicable": true,
         "found": true,
-        "score": 0.736,
-        "snippet": "forts support our work to play a leading role in a thoughtful energy transition, as the capabilities of today\u2019s workforce reflect many of the same critical skills required for us to help meet the world\u2019s energy needs in ..."
+        "score": 0.846,
+        "snippet": "6 to 2022 0.02 LTIR our industry-leading lost-time incident rate per 200,000 work hours ~12,000 internal job rotations in support of development plans #1 most attractive U.S. energy company for engineering students for 1..."
       },
       "scenario_analysis_quantified": {
         "applicable": true,
         "found": true,
-        "score": 0.92,
+        "score": 0.869,
         "snippet": "d. These reports or any material therein is not to be used or reproduced without the permission of Exxon Mobil Corporation. All rights reserved. SUPPLEMENTAL INFORMATION FOR NON-GAAP AND OTHER MEASURES The Resiliency sec..."
       }
     }
@@ -218,49 +218,49 @@
       "scope1_absolute": {
         "applicable": true,
         "found": false,
-        "score": 0.067,
+        "score": 0.071,
         "snippet": "0% of the plant\u2019s steam needs for the next 10 years. BioSynergy will supply steam from an 80% biomass and 20% solid recovered fuel to production units and is expected to reduce approximately 25,000 tonnes per year of ass..."
       },
       "scope2_market_based": {
         "applicable": true,
         "found": false,
-        "score": 0.235,
-        "snippet": "introduction socialclimate environment governance performance targets to lower the carbon intensity of our operations $2.0 billion in carbon reduction projects from 2021 through 2028 $8.0 billion in lower carbon energy i..."
+        "score": 0.384,
+        "snippet": "out future market, technology, and policy conditions, some of which are developing more slowly than expected. We will continue to evaluate this target while monitoring market conditions, customer demand, regulatory and p..."
       },
       "scope3_category_breakdown": {
         "applicable": true,
-        "found": false,
-        "score": 0.391,
-        "snippet": "M. Austin (2, 3), Michael K. (Mike) Wirth Chairman of the Board and Chief Executive Officer, Charles W. Moorman (2, 3), Jon M. Huntsman Jr. (3, 4), Debra Reed-Klages (1), Enrique Hernandez, Jr. (3, 4), Cynthia J. Warner ..."
+        "found": true,
+        "score": 0.857,
+        "snippet": "introduction socialclimate environment governance performance targets to lower the carbon intensity of our operations $2.0 billion in carbon reduction projects from 2021 through 2028 $8.0 billion in lower carbon energy i..."
       },
       "target_net_zero_year": {
         "applicable": true,
         "found": false,
-        "score": 0.01,
-        "snippet": "of achieving our objectives. Growth or decline in production from different assets, acquisitions or divestitures, or from changes in operations and accounting guidelines, may result in emissions performance changes. Dive..."
+        "score": 0.023,
+        "snippet": "land use by growing forests where there were none before (afforestation) or reestablishing a forest where there was one in the past (reforestation). Other nature-based solutions include restoration of coastal and marine ..."
       },
       "assurance_provider_named": {
         "applicable": true,
         "found": false,
-        "score": 0.143,
+        "score": 0.003,
         "snippet": "on resources are included in this section. assurance The accuracy of the information we report is important to us. We conduct independent third-party assurance for the process used to create the 2023 Corporate Sustainabi..."
       },
       "board_committee_climate_mandate": {
         "applicable": true,
         "found": false,
-        "score": 0.003,
+        "score": 0.028,
         "snippet": "introduction socialclimate environment governance performance disclosures Chevron\u2019s Lobbying and Trade Associations report is designed to be responsive to stakeholders\u2019 increasing interest in how we engage with policymak..."
       },
       "injury_rate_trir": {
         "applicable": true,
-        "found": false,
-        "score": 0.106,
-        "snippet": "with a completion rate of 97%. Compliance program Our compliance program addresses detailed compliance requirements on many important subjects, including anticorruption, internal controls, international trade, antiboycot..."
+        "found": true,
+        "score": 0.692,
+        "snippet": "IOGP review of incident data over a 10-year period, the fundamentals are designed to support those working in frontline operations, in maintenance and on wells teams. Our business units are adopting and deploying the fun..."
       },
       "scenario_analysis_quantified": {
         "applicable": true,
-        "found": true,
-        "score": 0.667,
+        "found": false,
+        "score": 0.058,
         "snippet": "innovation to support the goals of the Paris Agreement. API supports economywide carbon pricing, World Trade Organization-compliant mechanisms to mitigate carbon leakage, and well-designed performance-based methane regul..."
       }
     }
@@ -272,50 +272,50 @@
     "items": {
       "scope1_absolute": {
         "applicable": true,
-        "found": true,
-        "score": 0.503,
-        "snippet": "API Template for GHG Reporting NO. INDICATOR UNITS 2021 2022 1. Direct GHG Emissions (Scope 1) 1.1 Direct GHG Emissions (Scope 1) \u2013 All GHGs million metric tons CO2e 17.7 15.0 1.1.1 Upstream \u2013 All GHGs million metric ton..."
+        "found": false,
+        "score": 0.137,
+        "snippet": "AXPC ESG Metrics Template TOPIC METRIC UNITS 2021 2022 ADDITIONAL COMMENTS Greenhouse Gas Emissions Scope 1 GHG Emissions metric tons CO2e 5,880,410 5,740,354 Scope 1 GHG Intensity GHG Emissions/Gross Annual Production a..."
       },
       "scope2_market_based": {
         "applicable": true,
         "found": false,
-        "score": 0.089,
+        "score": 0.22,
         "snippet": "0.36 trillion cubic feet (or nearly 1 billion cubic feet per day) of natural gas and LNG. To put this in perspective, if all the natural gas and LNG we sold to Asia in 2022 had been used to replace coal for electricity g..."
       },
       "scope3_category_breakdown": {
         "applicable": true,
         "found": true,
-        "score": 0.846,
-        "snippet": "concerted effort to situate pads within existing cut blocks where timber has been cleared to minimize the risk from increased wildfire activity. Similarly, in response to previous years\u2019 increased wildfire activity in Al..."
+        "score": 0.875,
+        "snippet": "ducts. 11 Intended to address Scope 3, Categories 1 and 2 for purchased goods and services and capital goods. 12 IIGCC, 2021. Net-zero standard for oil and gas. 13 GFANZ, 2022. The managed phaseout of high-emitting asset..."
       },
       "target_net_zero_year": {
         "applicable": true,
-        "found": false,
-        "score": 0.067,
+        "found": true,
+        "score": 0.818,
         "snippet": "s goal of 2030. 3 Reduction from a 2016 baseline. Emissions Intensity (kg CO2e/BOE) PATHWAY TO NET-ZERO \u00b9 Near-Term (2025) \u2022 Zero routine flaring by 2025\u00b2 Medium-Term (2030) \u2022 NEW: Reduce GHG intensity 50-60% (from 40-50..."
       },
       "assurance_provider_named": {
         "applicable": true,
-        "found": false,
-        "score": 0.026,
-        "snippet": "all variances greater than 10% from the prior year. The corporate EA team reviewed data for completeness and accuracy. 1 According to the International Standard on Assurance Engagements (ISAE) 3000, the objective of a li..."
+        "found": true,
+        "score": 0.676,
+        "snippet": "n metric tons CO2e 197.6 207.9 6. Additional Climate-Related Targets and Reporting 6.1 GHG Reduction Target(s) yes/no yes yes 6.2 TCFD-informed reporting yes/no yes yes 6.3 Additional Climate Reporting Resources 7. Third..."
       },
       "board_committee_climate_mandate": {
         "applicable": true,
         "found": false,
-        "score": 0.005,
+        "score": 0.019,
         "snippet": "t and initiatives. Recommending which issues warrant additional executive leadership, full ELT review or additional board engagement. Reviewing and endorsing agenda and meeting content for the Public Policy and Sustainab..."
       },
       "injury_rate_trir": {
         "applicable": true,
         "found": true,
-        "score": 0.977,
+        "score": 0.96,
         "snippet": "total recordable rate (TRR) was 0.28. Excluding COVID\u201119 cases, our TRR was 0.14. We compare our TRR to oil and gas peers and to other industries. Our work is never so urgent or important that we cannot take the time to ..."
       },
       "scenario_analysis_quantified": {
         "applicable": true,
-        "found": false,
-        "score": 0.054,
+        "found": true,
+        "score": 0.782,
         "snippet": "ional risks. A separate scenario process addresses physical climate\u2011 related risk using consultant scenarios based on the Intergovernmental Panel on Climate Change (IPCC) modeling. Key Strategic Linkages to Our Scenario ..."
       }
     }
@@ -327,51 +327,51 @@
     "items": {
       "scope1_absolute": {
         "applicable": true,
-        "found": false,
-        "score": 0.49,
-        "snippet": "Independent Limited Assurance Report to Occidental Petroleum Corporation ERM Certification & Verification Services Incorporated (\u201cERM CVS\u201d) was engaged by Occidental Petroleum Corporation (\u201cOxy\u201d) to provide limited assur..."
+        "found": true,
+        "score": 0.699,
+        "snippet": "ed)): \u00bb Total Methane Emissions 2020 (Occidental Oil & Gas) \u00bb Total GHG Emissions (Scope 1 and Scope 2 (location-based)): 2020 (OxyChem) \u00bb Total GHG Emissions (Scope 1 and Scope 2 (location-based)): 2019 (Occidental Oil ..."
       },
       "scope2_market_based": {
         "applicable": true,
         "found": false,
-        "score": 0.196,
+        "score": 0.072,
         "snippet": "ed)): \u00bb Total Methane Emissions 2020 (Occidental Oil & Gas) \u00bb Total GHG Emissions (Scope 1 and Scope 2 (location-based)): 2020 (OxyChem) \u00bb Total GHG Emissions (Scope 1 and Scope 2 (location-based)): 2019 (Occidental Oil ..."
       },
       "scope3_category_breakdown": {
         "applicable": true,
-        "found": true,
-        "score": 0.971,
-        "snippet": "revised, or estimates are supplemented by measurements, and to reflect significant changes to Oxy\u2019s assets, operations or organizational boundaries. Oxy has estimated direct GHG emissions from our operations (Scope 1), e..."
+        "found": false,
+        "score": 0.178,
+        "snippet": "PLANET OUR FOCUS GHG Emissions Goals to achieve Net Zero across our total emissions inventory in accordance with the goals of the Paris Agreement. \u00bb Net-zero emissions in our operations and energy use (Scope 1 and 2) bef..."
       },
       "target_net_zero_year": {
         "applicable": true,
         "found": false,
-        "score": 0.088,
-        "snippet": "CLIMATE STRATEGY: BUILDING TO NET-ZERO Oxy recognizes the significant challenge climate change poses to our society and is committed to be part of the solution. We are leveraging our expertise in carbon management and st..."
+        "score": 0.051,
+        "snippet": "SUSTAINABILITY STRATEGY In 2020, Oxy was the first U.S. oil and gas company to announce goals to achieve net-zero GHG emissions for its total emissions inventory including use of sold products. These goals include achiev..."
       },
       "assurance_provider_named": {
         "applicable": true,
         "found": true,
-        "score": 0.968,
-        "snippet": "ategory 11). ERM Certification and Verification Services, Inc., a qualified independent external reviewer, has issued Independent Assurance Statements this year for 2022 emissions and last year for 2019-2021 emissions. F..."
+        "score": 0.905,
+        "snippet": "Independent Limited Assurance Report to Occidental Petroleum Corporation ERM Certification and Verification Services, Inc. (\u2018ERM CVS\u2019) was engaged by Occidental Petroleum Corporation (\u2018Occidental\u2019) to provide limited ass..."
       },
       "board_committee_climate_mandate": {
         "applicable": true,
         "found": false,
-        "score": 0.065,
-        "snippet": "nder our Climate Advocacy and Engagement and our Climate Policy Position documents. The Code of Business Conduct regulates Oxy\u2019s political contributions. The Code covers campaign contributions and other politically relat..."
+        "score": 0.031,
+        "snippet": "BOARD COMMITTEES The S&SE Committee oversees external reporting on ESG and sustainability matters, including climate-related risks and opportunities. This committee\u2019s responsibilities include: \u00bb Oversight of Oxy\u2019s shareh..."
       },
       "injury_rate_trir": {
         "applicable": true,
         "found": true,
-        "score": 0.881,
-        "snippet": "promote alignment with applicable United Nations (UN) Sustainable Development Goals in our operations and business activities, while reinforcing our longstanding focus on HSE performance and community outreach. Our susta..."
+        "score": 0.92,
+        "snippet": "supporting employees and contractors with safe work systems, technology and proactive maintenance and asset integrity programs. A cross-functional team at Oxy works to streamline HSE processes and data management under o..."
       },
       "scenario_analysis_quantified": {
         "applicable": true,
-        "found": false,
-        "score": 0.057,
-        "snippet": "SPILL PREVENTION Oxy has dedicated project teams focused on reducing the number of reportable spill events and the overall volume of material spilled. This spill reduction initiative includes evaluating innovative operat..."
+        "found": true,
+        "score": 0.548,
+        "snippet": "hnology and implementation, and commercial or market considerations, prioritize them for potential mitigation and incorporate them into risk factors or other disclosures as warranted. Oxy incorporates analyses of short- ..."
       }
     }
   },
@@ -383,37 +383,37 @@
       "scope1_absolute": {
         "applicable": true,
         "found": false,
-        "score": 0.174,
-        "snippet": "pe 1 (tank-to-wake) 0.04 0.07 251.1 84.7 3.1 Iron & Steel Scopes 1 and 2 0.6 0.9 1,444.6 683.0 1.1 Cement Scopes 1 and 2 0.5 0.1 1,954.1 188.2 1.3 Aluminum Scopes 1 and 2 0.1 0.3 970.2 650.4 3.0 i. The sectors included i..."
+        "score": 0.178,
+        "snippet": "facilitated emissions\u201d are defined as the total GHG emissions associated with capital markets activity facilitated by a financial institution and is calculated as total amount raised in the capital market transaction mul..."
       },
       "scope2_market_based": {
         "applicable": true,
         "found": true,
-        "score": 0.631,
-        "snippet": "data availability \u2014 w ere included in 2024. In addition, data centers used by Neovest, a subsidiary which offers a broker-neutral service, are excluded due to limited availability of data. Joint ventures outside our oper..."
+        "score": 0.9,
+        "snippet": "facilitated emissions\u201d are defined as the total GHG emissions associated with capital markets activity facilitated by a financial institution and is calculated as total amount raised in the capital market transaction mul..."
       },
       "scope3_category_breakdown": {
         "applicable": true,
-        "found": false,
-        "score": 0.424,
+        "found": true,
+        "score": 0.827,
         "snippet": "financed emissions) For c apital markets (facilita ted emissions) Energy Mixiii Scope 3 (end use) 84.4 42.9 1,876.2 2,961.8 3.1 Oil & Gas Operational Scopes 1 and 2 4.3 2.9 212.2 404.1 3.2 Electric Power Scope 1 21.1 6.3..."
       },
       "target_net_zero_year": {
         "applicable": true,
         "found": false,
-        "score": 0.027,
-        "snippet": "ets are designed to help us track our clients\u2019 decarbonization progress and inform how we can best support our clients\u2019 low- carbon transition objectives. Our targets are not intended to restrict our financing to any sec..."
+        "score": 0.135,
+        "snippet": "ENERGY MIX As of December 31, 2024, the carbon intensity of our Energy Mix portfolio decreased by 33.2%, compared to the 2019 baseline . Our progress mainly reflects increased financing of zero- and low-carbon power gene..."
       },
       "assurance_provider_named": {
         "applicable": true,
         "found": false,
-        "score": 0.03,
+        "score": 0.002,
         "snippet": "al third-party to perform a limited assurance engagement over these metrics presented for 2023 and 2024. Find our Management Assertion and the Report of Independent Accountants here. ii. 2024 fugitive emissions reflect i..."
       },
       "board_committee_climate_mandate": {
         "applicable": true,
         "found": false,
-        "score": 0.01,
+        "score": 0.008,
         "snippet": "EO metrics. Presented as a percentage of the respective populations who self-identified race/ethnicity, which was 97% and 95% of the Firm\u2019s total U.S.-based employees and U.S.-based senior level employees, respectively, ..."
       },
       "injury_rate_trir": {
@@ -422,7 +422,7 @@
       "scenario_analysis_quantified": {
         "applicable": true,
         "found": true,
-        "score": 0.976,
+        "score": 0.961,
         "snippet": "ts, resulting in lower revenue or higher operating costs for carbon-emitting companies if a carbon tax is implemented. Additionally, companies may need to increase their capital expenditures through investments that impr..."
       }
     }
@@ -435,37 +435,37 @@
       "scope1_absolute": {
         "applicable": true,
         "found": false,
-        "score": 0.107,
+        "score": 0.03,
         "snippet": "emissions and this transaction is the first CCS transaction following the August 2022 passage of the Inflation Reduction Act. The facility is expected to capture more than 200,000 metric tons of CO2 per year\u2014the equivale..."
       },
       "scope2_market_based": {
         "applicable": true,
-        "found": false,
-        "score": 0.039,
+        "found": true,
+        "score": 0.977,
         "snippet": "Scope 2 indirect emissions Metric tons CO2e 1,678,547 634,510 610,013 617,413 Total Scope 1 and location-based Scope 2 emissions Metric tons CO2e 1,785,417 701,285 678,063 683,176 Reduction in total Scope 1 and location-..."
       },
       "scope3_category_breakdown": {
         "applicable": true,
         "found": true,
-        "score": 0.644,
-        "snippet": "lations are based on site-specific data for fuel consumed and utilities purchased, applying published emissions factors and AR5 global warming potentials (GWPs). Scope 3 calculations are based on data for the relevant ac..."
+        "score": 0.688,
+        "snippet": "9 0 0 0 Reduction in total net Scope 1 and market-based Scope 2 emissions Percent decrease from base year Not applicable 100% 100% 100% Scope 3 indirect emissions Category 1 - Purchased goods and services Metric tons CO2..."
       },
       "target_net_zero_year": {
         "applicable": true,
         "found": false,
-        "score": 0.102,
+        "score": 0.287,
         "snippet": "ry 2030 financing activity targets as a part of our Net Zero Goal for the following sectors: auto manufacturing, aviation, cement, energy, iron and steel, maritime shipping and power generation. The metrics we use to tra..."
       },
       "assurance_provider_named": {
         "applicable": true,
         "found": false,
-        "score": 0.01,
-        "snippet": "verified by a third party. Additionally, there is no one data source, or even group of data sources, that adequately and consistently covers our needs for client emissions and production information across the target sec..."
+        "score": 0.001,
+        "snippet": "SUSTAINABILITY APPROACH RISK GOVERNANCE METRICS & TARGETS INDEXES APPENDICES The table below presents Bank of America\u2019s GHG emissions data for 2010 (the baseline) as well as for the three most current years of data, cove..."
       },
       "board_committee_climate_mandate": {
         "applicable": true,
         "found": false,
-        "score": 0.315,
+        "score": 0.052,
         "snippet": "ur company\u2019s risk management efforts, including periodically on climate risk. The Board and the ERC receive risk reporting on key and emerging risks. The Board\u2019s Corporate Governance Committee has specific responsibility..."
       },
       "injury_rate_trir": {
@@ -474,8 +474,8 @@
       "scenario_analysis_quantified": {
         "applicable": true,
         "found": false,
-        "score": 0.022,
-        "snippet": "ample, customers may need access to higher-than-expected physical currency due to sustained power outages. Liquidity risk is actively managed through scenario analysis, counterparty assessments and integration into broad..."
+        "score": 0.144,
+        "snippet": "how various risks and opportunities may manifest, and we continue to explore potential use cases. We have a long record of investing in all aspects of stress testing, and we are doing the same for CSA. We have assessed t..."
       }
     }
   },
@@ -486,38 +486,38 @@
     "items": {
       "scope1_absolute": {
         "applicable": true,
-        "found": true,
-        "score": 0.627,
+        "found": false,
+        "score": 0.108,
         "snippet": "Trend1 2021-2022 2022 2021 2020 2017 [Baseline] Energy (cont.) Energy use intensity for offices (kWh/sq. ft.)2 , 6 \u2191 21.5 21.4 20.7 32.7 \u25ca Reduction in energy use intensity for offices from baseline (%)4 -34% -35% -37% n..."
       },
       "scope2_market_based": {
         "applicable": true,
-        "found": false,
-        "score": 0.157,
+        "found": true,
+        "score": 0.904,
         "snippet": "Indirect (tCO2 e)2, 6 \u2193 9,840 12,635 6,776 21,107 Purchased electricity6 66% 73% 61% 89% Purchased steam & chilled water 34% 27% 39% 11% Scope 3: Category 6 \u2014 Business Travel (tCO2e) \u2191 57,233 23,802 29,295 120,001 Commer..."
       },
       "scope3_category_breakdown": {
         "applicable": true,
-        "found": false,
-        "score": 0.408,
+        "found": true,
+        "score": 0.816,
         "snippet": "Indirect (tCO2 e)2, 6 \u2193 9,840 12,635 6,776 21,107 Purchased electricity6 66% 73% 61% 89% Purchased steam & chilled water 34% 27% 39% 11% Scope 3: Category 6 \u2014 Business Travel (tCO2e) \u2191 57,233 23,802 29,295 120,001 Commer..."
       },
       "target_net_zero_year": {
         "applicable": true,
         "found": false,
-        "score": 0.023,
+        "score": 0.028,
         "snippet": "020 Sustainability Report s. Global renewable energy consumption and verified carbon credits reflect the totals at the time of original reporting (excluding the acquisition activities). 4 This symbol \u25ca before an indicato..."
       },
       "assurance_provider_named": {
         "applicable": true,
         "found": false,
-        "score": 0.017,
+        "score": 0.011,
         "snippet": "Our examination was conducted in accordance with attestation standards established by the American Institute of Certified Public Accountants (AICPA). Those standards require that we plan and perform the examination to ob..."
       },
       "board_committee_climate_mandate": {
         "applicable": true,
         "found": false,
-        "score": 0.022,
+        "score": 0.013,
         "snippet": "o these activities, including climate-related risks, the Board carries out its oversight of these matters directly, at the full Board level, as well as through its committees. This may include periodic updates on the fir..."
       },
       "injury_rate_trir": {
@@ -526,8 +526,8 @@
       "scenario_analysis_quantified": {
         "applicable": true,
         "found": false,
-        "score": 0.043,
-        "snippet": "our UK Stewardship Code Statement, and our Global Proxy Voting Policy. Systemic Risk Management Description of approach to incorporation of liquidity risk management programs into portfolio strategy and redemption risk m..."
+        "score": 0.446,
+        "snippet": "Topic Accounting Metric Category Code Response Commercial Banks (cont.) Incorporation of ESG Factors in Credit Analysis Commercial and industrial credit exposure, by industry Quantitative FN-CB-410a.1 Credit Exposure fro..."
       }
     }
   }

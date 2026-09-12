@@ -13,7 +13,7 @@ downward after the models caught an error in my own ground truth.
 | 1 | Raw anchor-term count | Blank-line paragraphs (~2,800 char avg) | Keyword heuristic | 59% (10/17, corrected -- see below) |
 | 2 | Raw anchor-term count, k=4 | Same, unbounded | Real DeBERTa-v3-MNLI (base), 256-token truncation | 33% (4/12) |
 | 3 | Real BM25, k=8 | `rechunk()`-bounded to ~900 chars | Same model | **83% (10/12)** |
-| 4 | Same as run 3 | Same as run 3 | DeBERTa-v3-**large**-zeroshot-v2.0 | in progress at time of writing |
+| 4 | Same as run 3 | Same as run 3 | DeBERTa-v3-**large**-zeroshot-v2.0 | 69% (9/13) -- **worse than run 3's 77% on identical cells** |
 
 ## What actually ran
 
@@ -234,3 +234,70 @@ Occidental's assurance-provider match and ConocoPhillips's TRIR match show
 the model does the right thing when retrieval actually hands it the real
 evidence. Milestone 2's threshold calibration is meaningless until retrieval
 is fixed to reliably do that.
+
+## Run 4: the large model, and a lesson about how I validated it
+
+Run 3's writeup recommended trying `deberta-v3-large-zeroshot-v2.0` against
+`target_net_zero_year`'s two failures before committing to a full re-run. I
+did that: on the two failing cases (using each item's own hypothesis and its
+real retrieved evidence), the large model fixed one outright (0.069 → 0.955)
+and improved the other (0.021 → 0.464), with no regression on two controls.
+That looked like clear evidence for the swap. It was not.
+
+**The pre-test was a biased sample.** I tested the large model only on cells
+the base model already got *wrong*, plus two controls it already got *right*.
+A model evaluated solely on its predecessor's known failures can essentially
+only look good — there is no way for that test to surface regressions on the
+cells I never re-checked. Which is exactly where the regressions were.
+
+Full run 4, audited against the same 13 cells as run 3 (the 12 from run 3
+plus ExxonMobil's `injury_rate_trir`, once its ground truth was corrected):
+
+| Company | Item | Ground truth | Run 3 (base) | Run 4 (large) | Who's right |
+|---|---|---|---|---|---|
+| Apple | scope1_absolute | present | 0.736 FOUND | 0.026 absent | **run 3** |
+| Apple | scope2_market_based | present | 0.937 FOUND | 0.840 FOUND | both |
+| Apple | scope3_category_breakdown | present | 0.944 FOUND | 0.516 FOUND | both |
+| Apple | target_net_zero_year | present | 0.069 absent | 0.721 FOUND | **run 4** |
+| Apple | assurance_provider_named | present | 0.808 FOUND | 0.027 absent | **run 3** |
+| Apple | board_committee_climate_mandate | absent | 0.002 absent | 0.018 absent | both |
+| Apple | scenario_analysis_quantified | absent | 0.031 absent | 0.361 absent | both |
+| ConocoPhillips | injury_rate_trir | present | 0.977 FOUND | 0.960 FOUND | both |
+| Chevron | scope3_category_breakdown | absent | 0.391 absent | 0.857 FOUND | **run 3** |
+| ExxonMobil | target_net_zero_year | present | 0.021 absent | 0.066 absent | neither |
+| Occidental | assurance_provider_named | present | 0.968 FOUND | 0.905 FOUND | both |
+| Goldman Sachs | scenario_analysis_quantified | absent | 0.043 absent | 0.446 absent | both |
+| ExxonMobil | injury_rate_trir | present | 0.000 absent | 0.846 FOUND | **run 4** |
+
+**Run 3 (base): 10/13 (77%). Run 4 (large): 9/13 (69%).** The large model is
+3.6x slower (77 minutes vs ~21) and scored *lower*.
+
+Two of run 4's errors are the confident kind, which is the concerning kind:
+- **Apple `assurance_provider_named`, 0.027**: retrieval handed it a
+  near-perfect passage — "We obtain third-party verification for some of the
+  information in this report from **Apex Companies and the Fraunhofer
+  Institute in Germany**" — naming two providers outright. The large model
+  scored it 0.027. This is the *same failure class* the base model showed in
+  run 2 (0.008 on the Apex paragraph), so the larger model did not fix it;
+  it reintroduced it after run 3 had gotten the cell right.
+- **Chevron `scope3_category_breakdown`, 0.857**: a confident false positive
+  on a passage about carbon-intensity targets and "$2.0 billion in carbon
+  reduction projects" — no Scope 3 category breakdown at all. Verified with
+  `groundtruth_probe.py`: the document's only near-misses are "end use" inside
+  an intensity-metric definition and "upstream"/"downstream" as *business
+  segment* names, not emissions categories.
+
+**Caveat on the size of this result, stated plainly:** 10/13 vs 9/13 is a
+one-cell difference on a 13-cell sample. That is well inside noise, and it
+would be wrong to claim this proves the base model is better. What it does
+establish is the weaker but still decisive claim: **the large model shows no
+measurable improvement at 3.6x the cost**, and the evidence that motivated
+the swap was an artifact of how I sampled the test. Both models fail on
+different cells rather than one dominating, which is itself a sign that
+neither is reliable yet and that the real fix is calibration, not size.
+
+**Action taken:** reverted `MODEL_ID` to `deberta-v3-base-zeroshot-v2.0` --
+faster, no worse on the available evidence. Model choice should be settled by
+Milestone 2's calibration against 200 hand-labelled pairs (Section 11), on a
+sample drawn independently of which cells any particular model already fails,
+not by a 13-cell by-eye audit in either direction.
