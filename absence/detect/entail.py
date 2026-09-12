@@ -1,10 +1,9 @@
-"""Milestone 1 item-detection via real zero-shot NLI entailment.
+"""Milestone 1 item-detection via real BM25 retrieval + zero-shot NLI entailment.
 
 Per ABSENCE_BRIEF.md Section 7: retrieve candidate paragraphs by anchor-term
-overlap (standing in for prefilter.py's BM25 pass at this milestone's scale),
-then score each (premise=paragraph, hypothesis=item.hypothesis) pair with an
-off-the-shelf MNLI-style model and take the max entailment probability across
-candidates.
+BM25, then score each (premise=paragraph, hypothesis=item.hypothesis) pair
+with an off-the-shelf MNLI-style model and take the max entailment
+probability across candidates.
 
 Model: MoritzLaurer/deberta-v3-base-zeroshot-v2.0 -- verified as the current,
 maintained identifier via the model's HuggingFace API response (not assumed);
@@ -14,25 +13,41 @@ specifically as a binary entailment / not_entailment classifier (id2label:
 hypothesis) -> P(entailment) interface Section 7 calls for -- no 3-way
 NLI-to-binary conversion needed.
 
-This replaces the keyword-heuristic stub from the first iteration of this
-milestone (see git history / MILESTONE1_RESULTS.md for that stub's behavior
-and its 65% by-eye accuracy, with every miss traced to keyword retrieval
-surfacing boilerplate/glossary text over the real supporting passage). The
-retrieval step below is unchanged (still anchor-term overlap, not real BM25 or
-semantic retrieval) -- the model change only affects scoring, so retrieval
-misses are still possible if the real evidence never makes it into the
-top-k candidates.
+HISTORY, kept because the failure modes are the point:
+- First iteration: keyword-count retrieval + keyword-heuristic scoring stub.
+  65% by-eye accuracy; misses traced to keyword retrieval surfacing
+  boilerplate/glossary text over the real supporting passage.
+- Second iteration: same keyword-count retrieval, real entailment scoring,
+  but k cut 8->4 and truncation cut 512->256 tokens purely for CPU runtime.
+  33% by-eye accuracy -- WORSE. Root cause per MILESTONE1_RESULTS.md: this
+  corpus's paragraphs average ~2,800 characters (tables merged into prose by
+  the extraction deviation noted in extract.py), so cutting k and truncation
+  meant the real evidence usually never reached the model at all.
+- This iteration: real BM25 (rank_bm25, proper term-frequency/IDF ranking,
+  not raw anchor counting) over paragraphs pre-split by extract.rechunk() into
+  bounded ~900-character chunks, so truncation stops discarding real content.
+  See MILESTONE1_RESULTS.md for whether this actually improved the by-eye
+  audit -- do not assume it did just because the method is more sophisticated.
 
 STUB_FOUND_THRESHOLD is still an uncalibrated placeholder cut point -- formal
 calibration against 200 hand-labelled item/report pairs, with per-item
 precision/recall, is Milestone 2's job (Section 11), not this one's.
 """
 
+import re
+
 import torch
+from rank_bm25 import BM25Okapi
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 
 from absence.corpus.extract import Paragraph
 from absence.detect.items import DisclosureItem
+
+_TOKEN_RE = re.compile(r"[a-z0-9]+")
+
+
+def _tokenize(text: str) -> list[str]:
+    return _TOKEN_RE.findall(text.lower())
 
 MODEL_ID = "MoritzLaurer/deberta-v3-base-zeroshot-v2.0"
 
@@ -40,21 +55,19 @@ MODEL_ID = "MoritzLaurer/deberta-v3-base-zeroshot-v2.0"
 STUB_FOUND_THRESHOLD = 0.5
 
 # CPU-only performance tuning (measured empirically on this environment's
-# 4-core machine against real corpus text, not synthetic samples): this
-# corpus's paragraphs average ~2,800 characters because the naive blank-line
-# segmentation in extract.py merges table blocks into oversized blocks (a
-# known, documented side effect of not doing real PyMuPDF table separation --
-# see extract.py's module docstring). At MAX_SEQ_LEN=512 nearly every
-# candidate hits the truncation cap, making each pair ~8s/sequence on this
-# machine; a full 10-document x 8-item x k-candidate run took 66s per batch
-# of 8 candidates for the largest document, i.e. over an hour end to end.
-# MAX_SEQ_LEN=256 and DEFAULT_K=4 cut that to ~12s per batch for the same
-# worst-case document (~10-15 min for the full corpus) at the cost of
-# truncating long merged blocks more aggressively -- occasionally cutting off
-# the actual disclosed fact inside an oversized block. This is a speed/
-# accuracy tradeoff made explicit here, not a silent default.
+# 4-core machine against real corpus text via extract.rechunk()-bounded
+# chunks, not synthetic samples). Chunks are now bounded to ~900 characters
+# (roughly 160-200 tokens for this corpus's prose), so MAX_SEQ_LEN=256 rarely
+# truncates real content anymore -- unlike the previous iteration, where
+# candidates were the raw ~2,800-character merged paragraphs and truncation
+# routinely cut off the disclosed fact before the model saw it. DEFAULT_K=8
+# (up from 4) was chosen because BM25 with bounded chunks measured ~20s per
+# 8-candidate batch on the worst-case document (ConocoPhillips) -- an
+# estimated ~25 minutes for the full 10-document corpus, accepted here in
+# exchange for retrieval actually having a chance to surface the real
+# evidence, which the smaller k could not (see MILESTONE1_RESULTS.md).
 MAX_SEQ_LEN = 256
-DEFAULT_K = 4
+DEFAULT_K = 8
 torch.set_num_threads(4)
 
 _tokenizer = None
@@ -73,17 +86,27 @@ def _load():
     return _tokenizer, _model
 
 
-def _anchor_hits(item: DisclosureItem, text: str) -> int:
-    lowered = text.lower()
-    return sum(1 for anchor in item.regex_anchors if anchor.lower() in lowered)
-
-
 def retrieve_candidates(item: DisclosureItem, paragraphs: list[Paragraph], k: int = DEFAULT_K) -> list[Paragraph]:
-    """Cheap anchor-term retrieval standing in for prefilter.py's BM25 pass."""
-    scored = [(p, _anchor_hits(item, p.text)) for p in paragraphs]
-    scored = [(p, s) for p, s in scored if s > 0]
-    scored.sort(key=lambda pair: pair[1], reverse=True)
-    return [p for p, _ in scored[:k]]
+    """Real BM25 retrieval, query-expanded with the item's anchor terms.
+
+    Per Section 7: "retrieve the top-k candidate paragraphs by anchor-term
+    BM25". The query is the item's hypothesis plus its regex_anchors list
+    (anchors get the query closer to the specific vocabulary a real
+    disclosure would use, e.g. "scope 1", "tonnes"); BM25's term-frequency/
+    inverse-document-frequency weighting (not raw anchor-hit counting) then
+    ranks chunks. A zero-score chunk is dropped rather than padding out k --
+    BM25 with a well-formed query returning score 0 means no query term
+    appears in that chunk at all, which is a stronger signal than "ran out of
+    anchor hits" was in the earlier keyword-count version.
+    """
+    if not paragraphs:
+        return []
+    corpus_tokens = [_tokenize(p.text) for p in paragraphs]
+    bm25 = BM25Okapi(corpus_tokens)
+    query_tokens = _tokenize(item.hypothesis + " " + " ".join(item.regex_anchors))
+    scores = bm25.get_scores(query_tokens)
+    ranked = sorted(zip(paragraphs, scores), key=lambda pair: pair[1], reverse=True)
+    return [p for p, s in ranked[:k] if s > 0]
 
 
 @torch.inference_mode()

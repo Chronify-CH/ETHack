@@ -6,22 +6,23 @@ print a silence table. No corpus, no database, no peers. Prove the extraction
 and entailment work, by eye, on real documents. Report what fraction of items
 you got right against a manual read."
 
-Two logged deviations from the brief, both required by this environment's
-network policy (see absence/data/provenance.json and module docstrings for
-detail, not repeated here):
-  - absence/corpus/extract.py segments TinyFish's own extracted text rather
-    than doing PyMuPDF block extraction on raw PDF bytes.
-  - absence/detect/entail.py is a keyword-heuristic stub with the real
-    entailment call's signature, not calibrated DeBERTa-v3-MNLI.
+Logged deviation from the brief, permanent for this environment (see
+absence/data/provenance.json and extract.py's module docstring for detail):
+absence/corpus/extract.py segments TinyFish's own extracted text rather than
+doing PyMuPDF block extraction on raw PDF bytes.
+
+Detection now uses real BM25 retrieval (rank_bm25) over rechunk()-bounded
+paragraphs and real DeBERTa-v3-MNLI entailment scoring -- see entail.py's
+module docstring for the two earlier, worse-performing iterations this
+replaced and why they were worse, not just "a stub we upgraded".
 
 Run: python -m absence.milestone1
 """
 
 import json
-import sys
 import time
 
-from absence.corpus.extract import segment_paragraphs
+from absence.corpus.extract import rechunk, segment_paragraphs
 from absence.detect.entail import detect_item
 from absence.detect.items import ITEMS
 
@@ -45,7 +46,7 @@ def run():
 
     for company_idx, company in enumerate(companies, 1):
         t_company_start = time.time()
-        paragraphs = segment_paragraphs(company["text"])
+        paragraphs = rechunk(segment_paragraphs(company["text"]))
         print(f"[{company_idx}/{len(companies)}] {company['company']} ({company['sector']}, {len(paragraphs)} paragraphs)...", flush=True)
         row = {
             "company": company["company"],

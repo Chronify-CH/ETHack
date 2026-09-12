@@ -73,3 +73,41 @@ def segment_paragraphs(text: str, min_chars: int = 120) -> list[Paragraph]:
         paragraphs.append(Paragraph(idx=idx, text=joined))
         idx += 1
     return paragraphs
+
+
+def rechunk(paragraphs: list[Paragraph], max_chars: int = 900, overlap_chars: int = 150) -> list[Paragraph]:
+    """Split oversized blank-line paragraphs into bounded, overlapping chunks.
+
+    This corpus's blank-line segmentation produces paragraphs averaging ~2,800
+    characters, because tables from the PDF-to-markdown conversion often lack
+    blank-line separation from surrounding prose (see the module deviation
+    note -- real PyMuPDF geometry-based table separation would avoid this).
+    Milestone 1's first real-entailment run showed the consequence directly:
+    truncating these oversized blocks to fit the NLI model's max sequence
+    length routinely cut off the actual disclosed fact before the model ever
+    saw it (5 of 6 audited misses in MILESTONE1_RESULTS.md were retrieval/
+    truncation failures, not model failures).
+
+    This does not fix table/prose separation -- it works around the
+    consequence by ensuring no single retrievable unit is larger than roughly
+    what the NLI model can see without truncation, with overlap so a fact
+    sitting near a chunk boundary isn't split across two chunks and lost from
+    both. Paragraphs already under max_chars pass through unchanged.
+    """
+    chunks: list[Paragraph] = []
+    idx = 0
+    for para in paragraphs:
+        text = para.text
+        if len(text) <= max_chars:
+            chunks.append(Paragraph(idx=idx, text=text))
+            idx += 1
+            continue
+        start = 0
+        while start < len(text):
+            end = min(start + max_chars, len(text))
+            chunks.append(Paragraph(idx=idx, text=text[start:end].strip()))
+            idx += 1
+            if end >= len(text):
+                break
+            start = end - overlap_chars
+    return chunks
