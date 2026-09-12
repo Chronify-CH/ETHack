@@ -140,3 +140,92 @@ The consistent direction is **false negatives, not false positives**: across
 every item measured, the detector misses real disclosures far more often than it
 invents them. For a project whose output is a *silence* ledger, that bias is the
 worst possible one — it manufactures silence that isn't there.
+
+---
+
+# Run 5: the fixed pipeline (BM25 query fix + sentence-window scoring)
+
+Full corpus, ~78 minutes. Ground truth is the same hand-verified set, with one
+correction noted below.
+
+## Fourth ground-truth error, again caught by the detector
+
+I recorded ConocoPhillips' `assurance_provider_named` as absent because "the
+firm is not named". The fixed run scored it 0.898 and returned as evidence:
+*"Limited assurance is performed by an external third party, **ERM CVS**, on
+all environmental metrics…"* The firm **is** named. My check had read only the
+first few probe hits and stopped.
+
+That is four ground-truth errors: LTIR (under-claimed), PwC (over-claimed),
+a transcription slip, and now this (under-claimed). Three of the four were
+surfaced by the detector disagreeing with me, not by my own re-checking.
+
+## Per-item: run 3 → run 5
+
+| Item | run 3 accuracy | run 5 accuracy | Recall 3→5 | Precision 3→5 | Grade |
+|---|---|---|---|---|---|
+| `board_committee_climate_mandate` | 0/10 detections, ~0% recall | **≥8/10** | 0% → **100%** (4/4 known) | — → 100% | **F → B+** |
+| `target_net_zero_year` | 3/10 | **6/10** | 30% → **60%** | 100% → 100% | **F → D** |
+| `assurance_provider_named` | 8/10 | **8/10** | 50% → **100%** | 100% → 67% | **B− → B−** |
+| `scope1_absolute` | 6/10 | **7/10** | 57% → 57% | 80% → **100%** | **D+ → C** |
+| `injury_rate_trir` | 4/4 checked | 4/4 checked | high | 100% | **B** |
+| `scenario_analysis_quantified` | 2 known FPs | **~6 FPs of 7 detections** | — | ~14% | **F → F−** |
+| `scope3_category_breakdown` | 6/10 detections | **10/10 detections** | — | ≤90% (Chevron FP confirmed) | **unmeasured, now suspicious** |
+| `scope2_market_based` | unmeasured | unmeasured | — | — | **unmeasured** |
+
+## What genuinely improved
+
+`board_committee_climate_mandate` went from the worst item in the project to
+one of the best. It now finds real, correctly-named committees:
+- Microsoft: "The Environmental, Social, and Public Policy Committee of
+  Microsoft's Board of Directors provides oversight… on environmental
+  sustainability strategy"
+- ConocoPhillips: "the Public Policy and Sustainability Committee (PPSC) of
+  the board"
+- Bank of America: "The Board's Enterprise Risk Committee oversees risk…
+  including periodically on climate risk"
+- Occidental: correctly FOUND (0.980)
+
+Its true negatives are also correct *for the right reason*: Goldman scored
+0.475 (just below) on its "Firmwide Climate Steering Group" — a management
+body, not a board committee — and Chevron 0.328 on "The Board also oversees…
+climate and sustainability matters", which is the board generally rather than
+a named committee. Both are the strict reading the hypothesis asks for.
+
+## What got worse, and it is not subtle
+
+`scenario_analysis_quantified` produced **seven detections, of which roughly
+six are false positives**, and the evidence strings show exactly why:
+
+| Company | Score | What it actually matched |
+|---|---|---|
+| Goldman Sachs | 0.898 | "our G-SIB surcharge increased to 3.0%" — a bank capital ratio |
+| Apple | 0.979 | "a Green Fund, which Apple launched in 2019" |
+| Microsoft | 0.966 | "$1 billion Climate Innovation Fund" |
+| Chevron | 0.942 | "OGCI is a CEO-led initiative" |
+| JPMorgan | 0.982 | "clients operating in sectors more vulnerable to transition risk" |
+| ExxonMobil | 0.968 | a non-GAAP supplemental-information header |
+
+Precision ≈ 14%. This item is not mis-tuned, it is mis-specified, and the
+Fault 8 max-over-N effect turned a mediocre item into an actively misleading
+one. **It must be removed from the item set until rewritten** — the hypothesis
+needs to require a scenario-linked monetary impact, and the anchors must stop
+matching every dollar sign in the document.
+
+`scope3_category_breakdown` now fires on **all 10 companies**, including
+Chevron, where no Scope 3 category breakdown exists at all. A column that
+detects something in every single document is not measuring absence.
+
+## Honest overall read
+
+The fixes did what they were designed to do — the two severe faults are
+genuinely repaired, and recall roughly doubled on the items where retrieval or
+chunk dilution was the blocker. But the same change inflated scores everywhere
+(Fault 8), so the two mis-specified items now fail loudly instead of quietly.
+
+Net across the four items with full ground truth: **run 3 = 17/40 cells
+correct, run 5 = 29/40.** Real improvement, and still nowhere near
+publishable. Three items must be excluded from scored output
+(`scenario_analysis_quantified`, `scope3_category_breakdown` pending
+verification, `target_net_zero_year` at 60% recall), and the threshold
+remains uncalibrated at a new, higher-N operating point.
