@@ -39,6 +39,12 @@ MIN_CHARS = 15_000
 
 ARCHIVE_RE = re.compile(r"/([A-Z]+)_([A-Z0-9]+)_(\d{4})(?:_[0-9a-f]+)?\.pdf$", re.IGNORECASE)
 
+# Tickers a company's older editions are filed under. The document is the same
+# company's report; only the name on the cover changed. The alias maps it onto
+# the current ticker so the three editions sit together, and the rename is
+# recorded on the entry rather than hidden by it.
+TICKER_ALIASES = {"CHK": ("EXE", "Published under the company's former name, Chesapeake Energy.")}
+
 
 def _load_payload(path: pathlib.Path) -> dict:
     """Accept every shape the MCP layer persists results in."""
@@ -99,6 +105,9 @@ def ingest(paths: list[str]) -> None:
                 print(f"  ?? no ticker/year in URL, skipped: {url}")
                 continue
             _, ticker, year = m.group(1), m.group(2).upper(), int(m.group(3))
+            alias_note = ""
+            if ticker in TICKER_ALIASES:
+                ticker, alias_note = TICKER_ALIASES[ticker]
             target = targets.get(ticker)
             if target is None:
                 print(f"  ?? {ticker} is not in the target manifest, skipped")
@@ -146,6 +155,8 @@ def ingest(paths: list[str]) -> None:
                 "status": "ok",
                 "local_path": str(out),
             }
+            if alias_note:
+                by_slug[slug]["filed_under_former_name"] = alias_note
             print(f"  ++ {slug:22} {len(text):>9,} chars")
             written += 1
 

@@ -1,0 +1,2831 @@
+2023 SUSTAINABILITY REPORT
+
+2023 SUSTAINABILITY REPORT 1
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+T ABLE OF CONTENTS
+2 CEO Letter 
+3 About Coterra 
+4 Our Portfolio 
+5 Climate 
+5 Governance 
+6 Strategy 
+9  Risk Management 
+10 Metrics 
+13 Emissions Reduction Initiatives 
+17 Methane Measurement
+20 T argets 
+21 Environmental, Health and Safety 
+21 Environmental, Health and Safety Management  
+System 
+ 
+22 Air and Water Quality 
+23 Water Management 
+24 Biodiversity Impacts 
+25 Workforce Health and Safety 
+27 Community Relations 
+27 Security, Human Rights and Rights of  
+Indigenous Peoples 
+28 Business Ethics and Transparency 
+30 Human Capital 
+32 Appendix 
+32 T ask Force on Climate-related Financial  
+Disclosures (TCFD)
+33 Sustainability Accounting Standards  
+Board (SASB)
+
+2023 SUSTAINABILITY REPORT 2
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+We at Coterra are pleased to present our second annual 
+Sustainability Report. Our commitment to environmental 
+responsibility and safety arises from our core values of 
+transparency, technical excellence, rigorous analysis,  
+and data-driven problem solving. We operate in many 
+communities across the United States, and we are 
+committed to being responsible members of these 
+communities. Environmental stewardship is a natural 
+outgrowth of these core values and commitments.
+We are also committed to building long-term sustainable 
+shareholder value. We believe that the best way to build 
+shareholder value is to make sound investment decisions 
+through each market cycle, to continuously optimize our 
+program with best available technology, and to be an 
+innovative organization. We demand operational excellence 
+and best engineering and safety practices from one another. 
+These are fundamental sustaining values. 
+Emission reduction is one of our top engineering priorities. 
+We at Coterra are actively engaged in seeking ways  
+to continuously monitor and measure our emissions. 
+Accurate, reliable emission monitoring and measurement 
+are foundational to abating emissions.  However, the 
+technological landscape here remains challenged. In this 
+report, you will find a review of recent field tests we have 
+undertaken to calibrate and quantify the field efficacy of  
+a collection of emission detection and quantification 
+technologies. These rigorous field trials have shown us 
+that more innovation is required to  develop scalable 
+emission detection and quantification technologies that 
+perform as well in the field as in the laboratory. Nonetheless, 
+there are some emerging technologies that show promise, 
+and we are following their development closely. I am proud 
+of the way our organization has approached this problem. 
+We want to get it right.
+Our commitment is demonstrated by our recent decision 
+to join the Oil & Gas Methane Partnership 2.0 (OGMP  
+2.0), the United Nations Environment Program’s framework 
+dedicated to achieving reliable methane emission 
+measurement, reporting and mitigation.  Joining OGMP 
+2.0 was a natural outgrowth of efforts already underway 
+at Coterra. 
+Sustainability means different things to different people. 
+We believe that sustainable solutions reduce emissions 
+while providing affordable energy to a growing global 
+population. In the United States, we hear a lot of serious 
+concern about income inequality. Globally, energy 
+inequality is equally concerning. The status quo is 
+unsustainable, for too much of the world’s population 
+lacks energy access and energy affordability. Oil and 
+natural gas are critical components to any genuine global 
+energy policy conversation. Our products stand alongside 
+renewable energy, nuclear energy, and emerging energy 
+technologies as critical elements of global energy supply. 
+Coterra contributes by producing some of the cleanest 
+oil and natural gas molecules in the world. Furthermore, 
+United States’ exports of oil and natural gas help provide 
+energy security, energy affordability, and, consequently, 
+a more just and equitable world. Anything else is inherently 
+unsustainable.
+We hope you will enjoy this data-driven report. Thank you 
+for your interest.
+Sincerely
+THOMAS E. JORDEN
+Chairman, Chief Executive Officer and President
+LETTER FROM OUR CEO
+At Coterra, we are committed 
+to responsible and transparent 
+environmental, social and  
+governance (ESG) practices.
+THOMAS E. JORDEN
+Chairman, Chief Executive  
+Officer and President
+
+2023 SUSTAINABILITY REPORT 3
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+Coterra produces hydrocarbons across three 
+major U.S. basins, supplying key energy products 
+that facilitate modern-day civilization. We look to 
+maximize value for all stakeholders through our 
+key building blocks: our people, our assets, our 
+culture of embracing innovation, and our financial 
+strength.
+ABOUT COTERRA
+ REPORT OVERVIEW
+Hydrocarbons are critical to facilitating modern-day civilization, supplying 
+nearly 80% of the world’s energy demand in 2021.1 Coterra is committed  
+to producing these critical energy products in a safe and responsible  
+manner for the benefit of all stakeholders. We strive to reduce our  
+environmental impact, to invest in our people and communities, and to  
+govern our Company in accordance with the highest ethical standards.
+This report addresses the environmental, social, and governance (ESG) 
+topics that are relevant to Coterra’s business. The contents have been 
+informed by our stakeholders, the T ask Force on Climate-related  
+Financial Disclosures (TCFD), and the Sustainability Accounting  
+Standards Board’s (SASB) Extractives & Minerals Processing Sector:  
+Oil & Gas - Exploration & Production Standard.
+1IEA (2022), World Energy Outlook 2022, IEA, Paris https://www.iea.org/reports/world-energy-outlook-2022
+
+2023 SUSTAINABILITY REPORT 4
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+OUR PORTFOLIO
+ACTIVITY METRICS (SASB: EM-EP-000.A,B,C)
+Coterra’s Permian acreage is located in  
+the Delaware Basin, spanning west T exas 
+and southeast New Mexico.
+Coterra’s Marcellus assets  
+are primarily concentrated in  
+Susquehanna County, within 
+northeast Pennsylvania.
+Coterra’s Anadarko assets  
+are primarily located in central  
+Oklahoma.
+PERMIAN BASIN
+MARCELLUS SHALE
+ANADARKO BASIN
+Metric Production of: 2022
+SASB EM-EP-000.A2
+(1) Oil 87 Mbbl/day
+(2) Gas 2,806 MMscf/day
+Natural Gas Liquids 79 Mbbl/day
+(3) Synthetic Oil 0
+(4) Synthetic Gas 0
+SASB EM-EP-000.B3 Number of Offshore Sites 0
+SASB EM-EP-000.C3 Number of T errestrial Sites 1,195
+2Net production volumes to Coterra
+3Gross operated upstream and midstream sites
+
+2023 SUSTAINABILITY REPORT 5
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+CLIMA TE
+CLIMATE GOVERNANCE | (TCFD: Governance – a,b)
+Coterra’s Board of Directors (Board) is responsible for overall  
+risk oversight. Management has primary responsibility  
+for assessing and managing climate-related risks and 
+opportunities. Management regularly interacts with the 
+Board and its committees, including the Environment, 
+Health & Safety Committee and the Governance and 
+Social Responsibility Committee on climate-related risks 
+and opportunities and other ESG matters.
+The primary purpose of the Environment, Health & 
+Safety Committee is to provide assistance to the 
+Board in providing risk oversight and support of the 
+Company’s policies, programs, and initiatives on  
+the environment, health, and safety. Among other 
+things, the Environment, Health & Safety Committee:
+•  Oversees the Company’s environmental, health, and 
+safety (EHS) and sustainability policies, programs, data, 
+and the reporting and public disclosure thereof;
+•  Monitors environmental matters and trends in such 
+matters that affect the Company’s activities and 
+performance;
+•  Reviews the Company’s compliance with environmental, 
+health, and safety laws and regulations, including:
+-  management of and responses to environmental 
+releases;
+-  safety incidents, statistics and outcomes and the 
+Company’s responses;
+-  the Company’s assessment of and responses to 
+pending legislative and regulatory efforts; and
+-   initiatives and training designed to improve EHS 
+performance.
+•  Consults with the Board and internal and external advisors 
+regarding the management of the Company’s EHS 
+programs.
+The Environment, Health & Safety Committee also 
+compares our EHS performance with established 
+benchmarks such as the Bureau of Labor Statistics (BLS), 
+American Exploration and Production Council (AXPC), 
+and the Independent Producers EHS Managers Forum. 
+This allows the Board to assess our EHS performance on 
+a continuous basis and provides the governance structure 
+to ensure our programs provide a safe working environment 
+for our employees.
+The primary purposes of the Governance and Social 
+Responsibility Committee are:
+•  T o oversee the Company’s efforts for socially responsible 
+operations, programs, and initiatives not otherwise 
+delegated to another committee of the Board and the 
+reporting or public disclosure of such  efforts by the 
+Company, including this report;
+•  T o identify individuals qualified to become directors, 
+consistent with criteria approved by the Board, and to 
+recommend to the Board director nominees for the next 
+annual meeting of stockholders and board committee 
+members; 
+•  T o oversee the annual evaluation of the performance 
+and effectiveness of the Board and its committees; 
+•  T o develop and recommend to the Board the corporate 
+governance guidelines applicable to the Company; and
+•  T o take a leadership role in shaping the corporate 
+governance of the Company.
+Our Vice President–EHS is in charge of day-to-day 
+implementation and management of our environmental 
+programs, including our greenhouse gas (GHG) emissions 
+management.
+
+2023 SUSTAINABILITY REPORT 6
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+CLIMATE STRATEGY | (TCFD: Strategy – a,b,c; SASB: 
+EM-EP-420a.4)
+Coterra has identified climate change-related risks and 
+opportunities that may impact our business over the 
+short-, medium-, and long-term.
+•  Short-term risks: risks that might impact near-term 
+financial results, including those that may materialize 
+within the current annual reporting cycle.
+•  Medium-term risks: risks that might materially impact 
+our financial results due to longer-term manifestation  
+of climate-related impacts that might require us to 
+significantly adjust our strategy, including those that 
+may materialize over a 2- to 5-year timeframe.
+•  Long-term risks: risks that may fundamentally impact 
+the viability of our long-term strategy and business 
+model, including those that may materialize over a 5-  
+to 10-year timeframe.
+The nature of these risks depends on the physical aspects 
+of climate change, market regulations, investor pressure 
+to reduce our carbon footprint, and our ability to understand 
+and respond to rapidly evolving developments.
+IDENTIFIED RISK AND OPPORTUNITIES
+Risks 
+For information about risk factors that could cause actual 
+results to differ materially from those described herein, 
+please refer to Coterra’s annual report on Form 10-K, 
+quarterly reports on Form 10-Q, current reports on  
+Form 8-K, and other filings with the SEC, which are 
+available on Coterra’s website at www.coterra.com.
+MarketOpportunities | (Short-, Medium- & Long-T erm)
+We believe that global energy demand will most likely 
+continue to grow, with oil and gas remaining a meaningful 
+portion of the energy supply mix. Approximately 18%4 of 
+the world’s 2021 population lives in countries identified 
+by the IEA WEO5 as having advanced economies. These 
+countries have an oil consumption per capita of 11.34 
+barrels annually. In contrast, approximately 54%4 of the 
+world’s 2021 population lives in China, India and Africa, 
+which are not identified as advance economies by the IEA 
+WEO.5 The oil consumption per capita in these areas is 
+only 2.14 barrels of oil annually. During the 2010’s decade 
+prior to the COVID pandemic, the advanced economies’ 
+oil consumption per capita declined, with a compound 
+annual growth rate (CAGR) of -0.5%,4 but their absolute oil 
+consumption continued to grow at 0.1%4 CAGR. However, 
+China’s, India’s, and Africa’s oil consumption per capita 
+grew at a 2.9%4 CAGR and their absolute oil demand grew 
+at a 4.3%4 CAGR during the same time period. Natural gas 
+demand continues to grow as well. In 2022, global liquified 
+natural gas (LNG) set a new record high for trade volumes, 
+increasing 5% from 2021 to 51.7 billion cubic feet per day 
+(Bcf/d).6 The largest increase from LNG-exporting countries 
+was the United States, with a 16%6 increase from 2021 to 
+2022. With this increase, the United States temporarily 
+became the world’s top LNG exporter in the first half of 
+2022 prior to the Freeport LNG terminal shutting down. 
+We believe we are in a premier position to capitalize on 
+this opportunity to supply the world with the growing 
+demand for oil and gas. 
+EmissionsReductionOpportunities | 
+(Short-, Medium- & Long-T erm)
+We are actively pursuing strategic actions to manage 
+climate risks and to capture opportunities by investing in 
+projects and technologies to reduce our greenhouse gas 
+emissions. Examples of these initiatives are included 
+throughout the remainder of this report. The Company’s 
+strategic and business planning considers the value of 
+these projects in the context of the Company’s overall 
+approach to climate change risk management.
+4 2022 BP Statistical Review of World Energy, https://www.bp.com/ 
+en/global/corporate/energy-economics/statistical-review-of-world-energy.html
+5 IEA (2022), World Energy Outlook 2022, IEA, Paris https://www.iea.org/reports/world-energy-outlook-2022
+6 U.S. Energy Information Administration (EIA), T oday in Energy, July 5, 2023
+
+2023 SUSTAINABILITY REPORT 7
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+SCENARIO ANAL YSIS
+Coterra uses scenario planning to help inform the Company’s 
+risk management and business strategy. Evaluation and 
+consideration of future uncertainties is critical to maintaining 
+our business agility and strengthening our capital allocation 
+process. We test the strength and resiliency of our portfolio 
+by sensitizing our internal financial models to multiple 
+macro-commodity pricing scenarios. Specifically related 
+to climate change, we utilize the models developed by 
+two of the largest organizations that collect and track 
+energy data, the International Energy Agency (IEA) and 
+the United States (U. S.) Energy Information Administration 
+(EIA). The IEA has three scenarios presented in their  
+2022 World Energy Outlook (WEO), and the EIA has nine 
+scenarios presented in their 2023 Annual Energy Outlook 
+(AEO). Energy demand, mix, and prices vary across the 
+scenarios, primarily driven by varying degrees of public 
+policy assumptions for the IEA scenarios.
+This report considers the following scenarios:
+•  EIA 2023 Annual Energy Outlook Reference Case 
+Scenario (EIA Base Case),
+•  IEA 2022 World Energy Outlook Stated Policies 
+Scenario (STEPS), and
+•  IEA 2022 World Energy Outlook Net Zero Emissions  
+by 2050 Scenario (NZE).
+EIA Base Case and STEPS are not designed to achieve a 
+particular outcome. Their outcomes are the result of 
+assumptions made within each scenario. Conversely, the 
+IEA generated NZE by starting with the end goals of capping 
+global warming at 1.5° Celsius above pre-industrial levels 
+and achieving net zero CO 2 emissions from the global 
+energy sector by 2050. They then formulated one possible 
+set of assumptions that allowed for their model to achieve 
+the desired outcome. Due to the assumptions being 
+developed secondary to the end goal in this scenario, it  
+is important to evaluate the feasibility of the assumptions 
+in NZE.
+Global population and average individual wealth 
+expected to grow, bolstering energy demand
+By 2050, the global population7 is expected to rise by 
+almost 25%, increasing from approximately 7.8 billion 
+people in 2021 to approximately 9.7 billion people in 2050. 
+The global economy7 is expected to grow at nearly 3% 
+per year during this time.
+In STEPS, global energy demand grows 19% with an energy 
+mix from a diversity of sources7, helping support energy 
+reliability across demand sectors. Projected oil and natural 
+gas supply grow during the period.
+In NZE, 2050 global energy demand declines 15% from 
+2021 despite global wealth and population growth.7 Oil 
+and natural gas demand decline 78% and 72% respec-
+tively in this scenario.7 Energy per capita declines 22% 
+while GDP per capita increases 80%,8 implying significant 
+assumptions around behavioral change and energy 
+efficiency. These proposed efficiencies may be difficult  
+to achieve.
+7IEA (2022), World Energy Outlook 2022, IEA, Paris https://www.iea.org/reports/world-energy-outlook-2022
+8Estimated 2050 GDP by applying IEA’s GDP CAGRs to 2021 GDP, from Oxford Economics (2022) and IMF (2022), as referenced in the IEA WEO
+0
+100
+200
+300
+400
+500
+600
+700
+2020
+0
+100
+200
+300
+400
+500
+600
+700
+800
+STEPS: Global Total Energy Supply (Exajoules)7 
+2020 20502021 2030 2040
+NZE: Global Total Energy Supply (Exajoules)7
+20502021 2030 2040
+Natural Gas
+Oil
+Coal
+Nuclear
+Solar
+Wind
+Hydro
+Modern Bioenergy
+Other Renewables
+Traditonal Use 
+of Biomass
+Natural Gas
+Oil Coal
+Nuclear
+Solar
+Wind
+Hydro
+Modern Bioenergy
+Other Renewables
+Traditonal Use 
+of Biomass
+
+2023 SUSTAINABILITY REPORT 8
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+Also, the NZE scenario’s energy mix favors growth in 
+renewables and electrification. This is driven by significant 
+cost reduction assumptions for low-carbon technologies, 
+including capital costs9 that decline 61%, 63%, and 14%  
+for solar photo-voltaic, offshore wind, and onshore wind, 
+respectively, over the 2020–2050 period. Even with the cost 
+reductions, wind capital costs are still higher than combined- 
+cycle natural gas capital costs. Solar capital costs are lower 
+than combined-cycle natural gas, but solar also has a 
+significantly lower capacity factor due to solar’s daily 
+intermittency. Additionally, IEA acknowledges that the NZE’s 
+lower demand assumption is critical to limiting overall 
+investment required in this scenario. NZE proposed costs 
+may be understated.
+Facilitating low-carbon technologies is a function of the 
+non-renewable critical mineral market, which would also need 
+to grow substantially and at a rapid rate. Critical minerals are 
+non-renewable and could face environmental concerns. They 
+are also geographically concentrated, potentially impacting 
+energy security, with China currently holding significant 
+market share of the world’s mineral processing market.10
+Additionally, in NZE, the world’s 2050 power generation is 
+71% intermittent energy, composed of 32% wind and 39% 
+solar.11 In 2021, intermittent power generation comprised 
+10% of the global power mix.11 NZE’s lack of dispatchable 
+sources could be challenged. We expect an all-of-the-above 
+energy mix will be the likely path to ensuring energy reliability 
+and affordability for a growing global population.
+North American oil and gas production  
+expected to remain resilient
+In EIA Base Case, oil and gas production grow approximately 
+12% and 15% respectively through 2050. In STEPS, North 
+American oil and gas production remains resilient and 
+maintains substantial global market share after growing 
+over the next decade. NZE assumes advanced economies 
+implement a $250/tonne carbon tax by 2050, inflating the 
+cost to produce hydrocarbon. This results in North America 
+conceding natural-gas market share to regions with  
+higher estimated emission intensities and/or regions that 
+do not have a carbon tax. However, in order to more 
+effectively reduce global emissions, production should be 
+weighted toward the lower emission intensity producers 
+with scale. As the world’s largest, and one of the lower 
+methane emitting producers,12 the U.S. will likely remain  
+a strong contender for global market share in a low-  
+carbon scenario. 
+Coterra is well positioned to continue to supply  
+needed energy to the world
+We recognize the significant variance of commodity 
+pricing across each of these scenarios. Since EIA Base 
+Case and STEPS scenarios are developed from historic 
+and projected trends as opposed to a predetermined 
+outcome, we believe their projected commodity prices  
+are more probable than NZE. Coterra’s portfolio of 
+projects would be resilient to the pricing suggested  
+by EIA Base Case and STEPS scenarios. 
+9IEA’s 2022 World Energy Outlook – Capital cost percent reductions assume United States where applicable
+10IEA (2021), The Role of Critical Minerals in Clean Energy Transitions, IEA, Paris https://www.iea.org/reports/the-role-of-critical-minerals-in-clean- energy-transitions
+11IEA (2022), World Energy Outlook 2022, IEA, Paris https://www.iea.org/reports/world-energy-outlook-2022
+12IEA (2021), World Energy Model Documentation 2021, Paris
+2023 pricing reflects actual average daily oil and gas pricing from January through August 2023 sourced from the EIA, www.eia.gov
+GAS PRICE (USD/Mbtu)
+1
+2
+3
+4
+5
+WEO-STEPS
+2023 2030 2050
+WEO-NZE EIA � BASE CASE
+EIA � BASE CASE
+OIL PRICE (USD/barrel)
+GAS PRICE (USD/MMbtu)
+20
+40
+60
+80
+100
+120
+2023 2030 2050
+$90
+$82
+$101
+$95
+$35
+$24
+$75.81
+$1.80
+$1.90
+$2.91
+WEO-NZE
+WEO-STEPS
+EIA � BASE CASE
+WEO-NZE
+WEO-STEPS
+$3.77
+$4.00
+$2.44
+$4.70
+GAS PRICE (USD/Mbtu)
+1
+2
+3
+4
+5
+WEO-STEPS
+2023 2030 2050
+WEO-NZE EIA � BASE CASE
+EIA � BASE CASE
+OIL PRICE (USD/barrel)
+GAS PRICE (USD/MMbtu)
+20
+40
+60
+80
+100
+120
+2023 2030 2050
+$90
+$82
+$101
+$95
+$35
+$24
+$75.81
+$1.80
+$1.90
+$2.91
+WEO-NZE
+WEO-STEPS
+EIA � BASE CASE
+WEO-NZE
+WEO-STEPS
+$3.77
+$4.00
+$2.44
+$4.70
+
+2023 SUSTAINABILITY REPORT 9
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+Conclusion
+Hydrocarbons are critical to meeting the world’s growing 
+energy needs for transportation, electricity, heating and 
+cooling, cooking, and industrial use—ultimately creating 
+the everyday goods all around us. Global population 
+and average individual wealth are expected to grow, 
+driving energy demand. The U.S. is expected to play a 
+significant role in meeting the world’s energy needs by 
+delivering lower emission-intensity oil and gas to the 
+market at scale.
+Coterra agrees with EIA’s Base Case and IEA’s STEPS 
+that oil and gas will have a critical role in the global energy 
+mix. We also believe we are in a premier position to supply 
+those resources due to our low-cost, low-greenhouse 
+gas intensity assets, as referenced in this report.
+Coterra’s diversified portfolio across multiple geographic 
+basins with robust low-cost oil, natural gas, and NGL 
+reserves allows us to further mitigate our exposure to 
+potential market risks by being able to adapt to changing 
+energy demand needs. We are committed to delivering 
+low-cost energy to the world in a responsible way. 
+CLIMATE RISK MANAGEMENT  |  
+(TCFD: Risk Management – a,b,c)
+Coterra is committed to managing the transition and physical 
+risks related to climate change. We employ a multidisciplinary, 
+company-wide Enterprise Risk Management (ERM) process 
+for integrating risk management throughout our business. 
+This process includes identifying, evaluating, and addressing 
+risks and opportunities on a regular basis. The ERM process 
+is overseen by our executive team and is reviewed by  
+the Board. Executive-level responsibility is assigned to 
+each identified risk. The risks and impacts associated 
+with our business require effective collaboration 
+among departments, business units, and external 
+stakeholders. Climate change risks and opportunities 
+are integrated into this process. When assessing risks in 
+this ERM process, we evaluate each risk depending on 
+the potential magnitude of impacts resulting from the risk, 
+as well as the likelihood that the risk will materialize and 
+impact Coterra. In assessing the magnitude and likelihood 
+of a risk resulting in a material financial impact to Coterra, 
+we also evaluate the expected timing over which the risk 
+might materialize, including short-, medium-, and long-term 
+horizons.
+We also identify and assess climate-related risks as  
+part of our overall sustainable business strategy. Risk 
+management topics are reviewed and discussed on a 
+regular basis among our leadership team and across the 
+entire organization. Business unit leaders are responsible 
+for incorporating business unit–specific risk management 
+plans into their operations.
+Depending on the potential impact of the identified risk 
+relative to the risk threshold we are willing to accept,  
+appropriate risk mitigation and monitoring strategies are 
+put in place, with associated controls and assurance 
+mechanisms.
+Our risk management process is applied at the operational 
+level to Coterra’s projects through integration into our 
+approach to project management, as well as to operating 
+facilities through our operational policies and procedures.
+
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+CLIMA TE METRICS
+Coterra tracks and reports Scope 1 and 2 greenhouse gas emissions on an absolute basis and as an intensity relative to production.  Our 2022 reported emissions 
+have been verified per the International Standards Organization’s (ISO) 14064-3 standard with limited assurance by a third-party auditor.  Scope 1 was audited against 
+the Environmental Protection Agency’s (EPA) Greenhouse Gas Reporting Program (GHGRP), and Scope 2 was audited against the Global Reporting Initiative’s (GRI) 
+Greenhouse Gas Protocol. No material discrepancies were identified, supporting Coterra’s disclosed GHG emissions data.
+TCFD: METRICS AND TARGETS – a ,b; SASB: EM-EP-110a.1,2
+METRIC CODE METRIC 2019 2020 2021 2022
+SASB-EM-EP-110a.113
+Gross global Scope 1 emissions (metric tons CO2e) 2,869,327 1,834,657 1,515,275 1,546,915
+Gross global Scope 1 methane emissions (metric tons CH4) 38,111 18,704 9,527 9,483 
+Percentage methane of total CO2e 33.2% 25.5% 15.7% 15.3%
+Percentage covered under emissions-limiting regulations 0% 0% 0% 0% 
+Gross global Scope 2 emissions14 (metric tons CO2e) Did Not T rack 136,224 96,454 168,643
+SASB-EM-EP-110a.213
+Amount of gross global Scope 1 emissions (metric tons CO2e) from:
+(1) Flared hydrocarbons 574,378 287,975 145,742 135,228
+(2) Other combustion 1,399,228 1,125,372 1,124,392 1,191,198
+(3) Process emissions 41,801 13,653 12,482 11,456
+(4) Other vented emissions 802,728 352,236 216,524 192,978
+(5) Fugitive emissions 51,192 55,421 16,135 16,056
+GREENHOUSE GAS EMISSIONS
+2023 SUSTAINABILITY REPORT 10
+13When converting CH4 and N2O to CO2 equivalent to account for Global Warming Potential (GWP), Coterra uses 25 and 298, respectively, per 40 CFR Part 98 Subpart A
+14Coterra did not track Scope 2 emissions in 2019
+
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+CLIMA TE METRICS CONTINUED
+METRIC 2019 2020 2021 2022
+Company-Wide Scope 1 (metric tons CH4 emitted /{metric tons CH4  
+produced + received15}) 0.126% 0.064% 0.033% 0.033%
+Company-Wide Scope 1 (metric tons CH4 emitted/metric tons CH4 produced) 0.168% 0.071% 0.038% 0.039%
+Upstream17 Scope 1 (metric tons CH4 emitted/metric tons CH4 produced) 0.130% 0.064% 0.031% 0.033%
+Midstream17 Scope 1 (metric tons CH4 emitted/metric tons CH4 received) 0.098% 0.063% 0.045% 0.031%
+METRIC 2019 2020 2021 2022
+Company-Wide flaring18 (volume of gas flared/volume of gas produced) 0.471% 0.228% 0.141% 0.109%
+METHANE EMISSIONS INTENSITIES
+FLARING EMISSIONS INTENSITY
+METRIC 2019 2020 2021 2022
+Company-Wide Scope 1 (metric tons CO2e/{produced + received Mboe15}) 8.42 5.58 4.65 4.57
+Company-Wide Scope 1 (metric tons CO2e/produced Mboe) 9.59 6.47 5.48 5.47
+Company-Wide Scope 216 (metric tons CO2e/produced Mboe) Did Not T rack 0.49 0.35 0.60
+Company-Wide Scope 1 + Scope 216 (metric tons CO2e/produced Mboe) Did Not T rack 6.96 5.83 6.07
+Upstream17 Scope 1 (metric tons CO2e/Mboe15) 6.82 3.93 2.85 2.71
+Midstream17 Scope 1 (metric tons CO2e/Mboe15) 18.65 15.19 14.59 13.50
+GREENHOUSE GAS EMISSIONS INTENSITIES
+2023 SUSTAINABILITY REPORT 11
+15 Midstream Mboe is calculated using quantity of gas received by the facility and transported hydrocarbon liquids to a facility as defined in Subpart W using a 6:1 BOE ratio
+16Coterra did not track Scope 2 emissions in 2019
+17 Upstream and midstream relate to the Onshore Production and Onshore Gathering and Boosting EPA defined industry segments, respectively
+18Coterra’s flaring intensity includes high pressure, low pressure, and pilot light flaring, as well as vented gas from uncontrolled tanks
+
+2023 SUSTAINABILITY REPORT 12
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+UPSTREAM PEER GREENHOUSE GAS INTENSITY COMPARISON  
+We analyze our upstream emissions on a standalone basis to compare our performance against our peers,19 
+as our peer group has varying levels of operations within the upstream and midstream segments. The following 
+data is derived from EPA Subpart W–submitted data:
+MARCELLUS GHG Intensity (MT CO2e / Gross Mboe)
+1.84 1.27 1.72
+4.01
+2022 
+CTRA
+2021 
+CTRA
+2021 PEER 
+AVERAGE
+2021 
+REMAINING 
+INDUSTRY
+0
+6
+12
+18
+COTERRA GHG Intensity (MT CO2e / Gross Mboe)
+2.852.71
+5.70
+12.07
+2022 
+CTRA
+2021 
+CTRA
+2021 PEER 
+AVERAGE
+2021 
+REMAINING 
+INDUSTRY
+0
+6
+12
+18
+0
+6
+12
+18
+ANADARKO GHG Intensity (MT CO2e / Gross Mboe)
+7.46
+8.92
+11.91
+16.30
+2022 
+CTRA
+2021 
+CTRA
+2021  PEER 
+AVERAGE
+2021 
+REMAINING 
+INDUSTRY
+0
+6
+12
+18
+PERMIAN GHG Intensity (MT CO2e / Gross Mboe)
+3.21
+4.56 5.02
+11.11
+2022 
+CTRA
+2021 
+CTRA
+2021 PEER 
+AVERAGE
+2021 
+REMAINING 
+INDUSTRY
+0
+12
+6
+18
+0
+6
+12
+18
+19As of November 1, 2023, compensation peer group is comprised of AR, APA, CHK, DVN, FANG, EOG, EQT, HES, MRO, OXY , OVV, and PXD
+MARCELLUS GHG Intensity (MT CO2e / Gross Mboe)
+1.84 1.27 1.72
+4.01
+2022 
+CTRA
+2021 
+CTRA
+2021 PEER 
+AVERAGE
+2021 
+REMAINING 
+INDUSTRY
+0
+6
+12
+18
+COTERRA GHG Intensity (MT CO2e / Gross Mboe)
+2.852.71
+5.70
+12.07
+2022 
+CTRA
+2021 
+CTRA
+2021 PEER 
+AVERAGE
+2021 
+REMAINING 
+INDUSTRY
+0
+6
+12
+18
+0
+6
+12
+18
+ANADARKO GHG Intensity (MT CO2e / Gross Mboe)
+7.46
+8.92
+11.91
+16.30
+2022 
+CTRA
+2021 
+CTRA
+2021  PEER 
+AVERAGE
+2021 
+REMAINING 
+INDUSTRY
+0
+6
+12
+18
+PERMIAN GHG Intensity (MT CO2e / Gross Mboe)
+3.21
+4.56 5.02
+11.11
+2022 
+CTRA
+2021 
+CTRA
+2021 PEER 
+AVERAGE
+2021 
+REMAINING 
+INDUSTRY
+0
+12
+6
+18
+0
+6
+12
+18
+
+2023 SUSTAINABILITY REPORT 13
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+EMISSIONS REDUCTION INITIATIVES  |  
+(TCFD: Metrics and T argets – a,c; SASB: EM-EP-110a.3)
+Coterra’s two main emitted Scope 1 greenhouse gases 
+are carbon dioxide (CO 2) and methane (CH 4). Through 
+innovation and technology, we are committed to reducing 
+the amount of these gases we release related to our 
+operations. Our ongoing analysis of our near real-time 
+emissions inventory data enables us to track CO2 and CH4 
+emissions by each categorical source. This aids in 
+identifying equipment and emission sources with the 
+greatest potential for emission reduction opportunities. 
+We also leverage our associations with groups like the 
+American Petroleum Institute’s “The Environmental 
+Partnership” and the American Exploration and Production 
+Council (AXPC) to further identify opportunities to reduce 
+our emission footprint.
+CARBON DIOXIDE
+Carbon dioxide emissions from our operations are primarily 
+produced through combustion. Approximately 90%  
+of Coterra’s Scope 1 carbon dioxide emissions are 
+related to combustion in engines used in our compression, 
+drilling, and completion operations, while approximately 
+9% of our carbon dioxide emissions are related to flaring. 
+The below figure demonstrates the major components of 
+our Scope 1 CO2 emissions:
+From 2019 to 2022, Coterra reduced its absolute Scope 1 
+CO2 emissions by approximately 32%. T o achieve this 
+reduction to date, and to continue to reduce our CO2 
+emissions in the future, Coterra is utilizing electrification, 
+fuel optionality, and flare mitigation throughout our 
+operations.
+Electrification
+Coterra’s strategic investments to electrify significant 
+portions of our operating areas affords us the opportunity 
+to transition a meaningful portion of the large engines in 
+our operations to electric motors, markedly reducing our 
+CO2 emissions associated with those sources. Although 
+these initiatives transition some of our Scope 1 emissions 
+into Scope 2 emissions, the net Scope 1 plus Scope 2 
+emissions are typically  25%–45% less due to several 
+factors. First, the emission intensity (CO2e/MWh) of the 
+power grid in the areas of our operations are low relative 
+to some other oil and gas producing areas. We expect the 
+grids where we operate to continue lowering their 
+emission intensities through improvement of efficiencies 
+related to thermal generation; increased use of lower 
+carbon electrical generation; and possible utilization of 
+carbon capture, utilization, and storage (CCUS) within the 
+power generation sector. Second, the efficiency of 
+electric motors to convert energy input into work output 
+tends to be better than internal combustion engines. 
+Electric motors also reduce other pollutants from our 
+operations such as NOX, SOX, and particulate matter and 
+the risk of incomplete combustion resulting in carbon 
+monoxide (CO) and CH4 emissions. The three largest 
+operational processes for which we are currently abating 
+CO2 emissions through electrification are compression 
+(e-compression), hydraulic fracturing (e-frac), and drilling 
+(e-drilling).
+ELECTRIC INFRASTRUCTURE
+•  A Coterra-owned grid powers our operations in 
+Culberson and Reeves Counties, T exas
+•  Coterra is currently running eight rigs and one 
+hydraulic fracturing crew equipped to run off of  
+grid power, where available
+•  Coterra plans to exit 2023 with 16 midstream 
+electric compressor units in service
+•  This system provides optionality for possible 
+behind-the-meter power generation
+0
+500,000
+1,000,000
+1,500,000
+2,000,000
+2020 2021 2022
+Compressor Combustion
+Drilling and Completion 
+Combustion
+Flaring
+Other
+CO2 (MT)
+2019
+Substation: Part of Coterra’s Electrical System
+
+2023 SUSTAINABILITY REPORT 14
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+E-Compression
+Compression is our largest source of emissions, making 
+up approximately 58% of our 2022 Scope 1 CO 2e 
+emissions. Our midstream operations in the Permian 
+Basin represented approximately 79% of Coterra’s 2022 
+CO2 compressor combustion emissions. In 2022, we 
+installed four large electric compressors in our midstream 
+operations. We have continued this initiative into 2023, 
+and we expect to end the year with sixteen midstream 
+e-compressors in service. We are currently evaluating a 
+scenario in which we could convert over 75% of Coterra’s 
+midstream compression horsepower to electric compression 
+by 2027, materially reducing Coterra’s GHG emissions from 
+this source. We are also converting well-site compression 
+to electric compression where technically and economically 
+feasible. An added benefit of e-compression is eliminating 
+methane emissions from incomplete combustion in the 
+engines of compressors.
+E-Frac
+Coterra’s CO2 emissions related to the combustion of fuels 
+used in the hydraulic fracturing of our wells constitute 
+approximately 83% of Coterra’s CO 2 emissions from  
+drilling and completing wells. In the summer of 2022, we 
+began operations with a grid-powered e-frac fleet in the 
+Permian. The use of this technology reduces the net 
+Scope 1 and Scope 2 emissions related to hydraulic 
+fracturing by 40%–45% when compared to a traditional 
+diesel-powered fleet. With partial year operations in 2022, 
+16% of the wells completed in the Permian Basin utilized 
+a grid-powered e-frac fleet. In 2023, we expect this to 
+increase to approximately 37%. 
+E-Drilling
+Approximately 17% of our CO2 emissions from drilling and 
+completing wells are related to the combustion of fuels in 
+the drilling process. From 2021 to 2022, we increased the 
+percentage of wells drilled using grid-powered drilling  
+rigs in the Permian Basin from approximately 50% to 
+approximately 73%.  In 2023, we project approximately 82% 
+of our Permian Basin wells will utilize this technology. Also, 
+in 2023, we began e-drilling in the Anadarko Business unit, 
+where we expect approximately 46% of our 2023 drilling 
+operations in the basin to utilize grid-power for our drilling 
+activity. 
+Fuel Optionality
+Where technically and economically feasible, Coterra is 
+utilizing lower CO2-producing fuels. Many of the large engines 
+we use in our operations have optionality regarding the 
+type of fuels used in their combustion. Coterra uses a 
+portfolio of options ranging from diesel, biodiesel, field 
+gas, and residue gas as fuel for our engines. By investing 
+in infrastructure to deliver, and in some cases utilizing 
+specialized equipment to burn, lower carbon–producing 
+fuels, Coterra is reducing the CO2 emissions from 
+combustion in our operations.
+Flare Mitigation
+Flaring constituted approximately 9% of the Scope 1 
+CO2 emissions from Coterra’s operations in 2022. We 
+strive  to minimize flaring, not only to reduce our overall 
+CO2 emissions, but to minimize the volumes of natural 
+gas  we produce but are unable to sell. From 2019  
+to 2022, Coterra reduced its flaring intensity by 
+approximately 77%. This improvement was accomplished 
+via several initiatives.
+First, we strive to ensure adequate gathering and 
+pipeline takeaway capacity to move the natural gas we 
+produce to market. All Coterra-operated wells have  
+a gas-gathering line to accept their gas production.  
+Since the end of 2021, Coterra has zero routine 
+high-pressure flaring across its operations. 
+Ensuring gas-gathering lines are in place before wells 
+are capable of producing is a result of cooperation 
+between our operations teams, our owned midstream 
+group, and our third-party gas gatherers. When either 
+planned or unplanned upset conditions related to our 
+gas takeaway capacity occur,  we work with our partners 
+to reduce the impact of those curtailments. Due to 
+optionality provided by looping within many of our 
+gas-gathering systems, we can often divert gas volumes 
+to other portions of the gathering system to continue to 
+allow gas to flow away from our production facilities. If 
+upset conditions are expected to be of long duration or 
+cause large volumes  of gas to be flared, we also often 
+choose to shut-in wells until our  takeaway capacity is 
+restored.
+
+2023 SUSTAINABILITY REPORT 15
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+Second, Coterra’s completion activities follow green 
+completions guidelines. Federal regulation defines green 
+completions as the capture of produced gases during well 
+completion activities and allows for flaring or venting only 
+when it is not technically feasible to capture the gases or 
+when the situation presents a hazardous condition.
+In addition, our modern production facility designs result 
+in less gas being flared. The use of our tankless facility 
+design, coupled with vapor recovery units, reduces the 
+volume of low-pressure flaring in our operations and 
+allows us to sell more of the gas we produce.
+Also, our Coterra owned and operated gas-gathering allows 
+for increased efficiencies related to non-routine high-pres-
+sure flaring due to midstream curtailments. In 2022, our 
+Permian high-pressure flare intensity due to midstream 
+curtailment was approximately 50% less for Coterra-owned 
+gas gathering compared to our third-party gas gatherers.
+Finally, we have begun centralizing high-pressure flares 
+within our operations. By centralizing flares to strategic 
+points in our gathering systems, we can reduce the 
+number of flares we must manage. This results in less 
+maintenance, fewer required inspections, and lower 
+incidences of unlit flares. T o date, Coterra has installed 
+eight central flares at compressor stations throughout 
+our gas gathering systems.  This has eliminated 131 high 
+pressure flare sources from our production facilities.
+METHANE
+Methane (CH4) constituted approximately 15% of Coterra’s 
+computed Scope 1 CO2e greenhouse gas emissions in 2022. 
+The figure below demonstrates the major components  
+of our CH4 emissions:
+Coterra is committed to reducing the CH4 emissions from 
+our operations to reduce our impact on the environment. 
+We would also prefer to capture and sell CH4 when techni-
+cally and economically feasible. Between 2019 and 2022, 
+Coterra innovated across its portfolio to generate an 
+approximate 77% reduction in CH4 intensity, computed  
+as the total metric tons of CH4 emitted divided by the  
+total metric tons of CH4 produced. T o achieve this reduction 
+to date, and to continue to reduce our CH4 emissions in 
+the future, Coterra is focusing on pneumatic controllers, 
+well liquid unloading, combustion efficiency, venting 
+related to completions, and fugitive  CH 4 emissions.
+Pneumatic Controllers
+Approximately 61% of Coterra’s CH4 emissions in 2022 
+were related to natural gas-powered pneumatics. T o reduce 
+these emissions, we install non-emitting pneumatic 
+devices on new facilities, we have implemented a retrofit 
+program to convert existing facilities to non-emitting 
+pneumatic devices, and we have rerouted a portion of our 
+pneumatics-related CH4 emissions from atmospheric 
+bleed to emission-control devices such as flares. Utilizing 
+compressed-instrument air instead of natural gas to 
+power pneumatic control devices is the primary way 
+Coterra attains non-emitting control systems. Where air 
+compressors are not feasible, we utilize nitrogen, instead 
+of produced gas, as a supply gas to power pneumatic 
+control devices to eliminate methane emissions. 
+Well-Liquid Unloading
+Well-liquid unloading events constituted approximately 
+16% of Coterra’s CH4 emissions in 2022. Well-liquid 
+unloading events are required to remove fluid buildup in 
+wells to improve or restore well production and are 
+performed by venting wells to atmospheric tanks. Coterra 
+reduced the CH4 associated with these events by 
+approximately 53% from 2019 to 2022. This reduction 
+was accomplished via several methods. First, Coterra 
+uses well-liquid unloading data in the prioritization process 
+when deciding where to install artificial lift systems, capillary 
+strings, and wellsite compressors. Second, Coterra 
+requires on-site supervision of the entire unloading process. 
+This allows for the events to be of shorter duration, since 
+they are stopped once the well is unloaded. Finally, we hold 
+monthly meetings to review our liquid unloading events 
+with the regional and field staff to analyze best steps 
+forward to reduce emissions from this source.
+0
+10,000
+20,000
+30,000
+40,000
+2020 2021 2022
+Pneumatic Controllers
+Well Liquid Unloading
+Combustion Efficiency
+Fugitives
+Completions/Workovers
+Other
+CH4 (MT)
+2019
+
+2023 SUSTAINABILITY REPORT 16
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+CombustionEfficiency
+Approximately 12% of Coterra’s methane emissions in 
+2022 were related to combustion efficiency. These 
+emissions are related to the incomplete combustion of 
+fuels burned in engines and flares. Emissions from these 
+sources are calculated using emission factors used in  
+the United States Environmental Protection Agency’s 
+Greenhouse Gas Reporting Program and are based on 
+the volume and type of fuel burned in the engines and 
+flares within our operations. Coterra’s initiative to electrify 
+large engines where technically and economically feasible 
+in our operations reduces the CH4 emissions related to 
+these sources.
+Completion Operations
+Venting during completion and workover operations 
+represented approximately 3% of Coterra’s CH4 emissions 
+in 2022. The large majority of these emissions were 
+associated with milling out frac plugs after wells had been 
+hydraulically fractured. Gas returned to surface during 
+this operation is low pressure, intermittent, and not 
+capable of being sent to sales. 
+Fugitive Emissions
+Fugitive emissions constituted approximately 7% of 
+Coterra’s CH 4 emissions in 2022. These emissions 
+represent the unintended release of gas through various 
+components such as flanges, valves, connectors, and 
+pressure relief valves. T o help identify and minimize fugitive 
+emissions, Coterra employs the use of optical gas imaging 
+(OGI) cameras for leak-detection inspections on an ongoing 
+basis as required by regulation. In addition to Coterra’s 
+OGI inspections required by regulation, we have also 
+instituted additional voluntary OGI inspections on certain 
+facilities. These additional inspections are designed to 
+capture potentially large, unintended releases and are 
+carried out either by handheld or drone-based OGI 
+cameras. Members of our team are trained and certified 
+thermographers from the Infrared T raining Center. The 
+training provides our operators with not only the operating 
+techniques and basics of thermal science, but also an 
+understanding of the regulatory framework, safety practices, 
+camera techniques, and video image interpretive skills.
+Coterra has implemented additional enhanced monitoring 
+practices across our operating areas beyond the required 
+surveillance. These monitoring techniques include fixed-wing 
+aerial flyovers, ground-based lasers, and point sensors all 
+designed to alert our teams to unintended releases and 
+to more quickly remedy these releases. The technology 
+available to monitor methane emissions is developing 
+and evolving, and Coterra expects a portfolio of solutions 
+will ultimately play a significant role in reducing our 
+fugitive emissions.
+In addition to CH 4 surveillance, Coterra’s maintenance 
+programs are also designed to reduce our fugitive 
+emissions before they occur. By actively maintaining 
+equipment in proper working order, Coterra reduces its 
+exposure to fugitive emissions related to component 
+failures.
+Coterra’s modern facility designs also reduce our  
+exposure to fugitive emissions. Our tankless facilities 
+reduce the number of components with a high risk of 
+fugitive emissions. 
+Between 2019 and 2022, Coterra’s efforts related to fugitive 
+methane emissions reduction resulted in an approximate 
+67% reduction in CH4 emissions from this source.
+T ANKLESS FACILITIES
+Coterra’s tankless facility design aims to reduce fugitive emissions, especially those related to atmospheric 
+storage tanks. This design eliminates tanks from our facilities, as well as thief hatches and end-of-line devices 
+that have the potential for fugitive emissions. Our tankless designs also incorporate vapor recovery units that 
+reduce low-pressure flare volumes and allow Coterra to sell more of the gas it produces. Coterra is utilizing 
+the tankless facility design on new facilities in our liquid-rich areas of operation, and when Coterra adds new 
+wells to legacy facilities in these areas, we also retrofit those legacy facilities to tankless facilities when 
+technically and economically feasible. 
+Drone performing voluntary OGI inspection on a Coterra tankless facility in the Permian Basin
+
+2023 SUSTAINABILITY REPORT 17
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+METHANE MEASUREMENT
+Finding and eliminating methane emissions from our 
+upstream and midstream operations is a key focus for 
+Coterra. Methane is an odorless, invisible gas that is 
+challenging to detect without specialized equipment,  
+and quantification of methane leak volumes is even more 
+challenging. T echnologies have been designed to assist 
+companies in detecting and responding to these leaks, 
+with many of them attempting to quantify the volume of the 
+leak. Measurement technologies with quantification efforts 
+generally rely on weather data and plume transport models 
+combined with directly measured methane concentrations 
+to predict the emissions rate of a leak. This process results 
+in variability between technology types, uncertainty related 
+to individual measurements, and possible bias when looking 
+at a population of measurements. Some advanced methane 
+detection and measurement technologies are known as 
+Continuous Emissions Monitoring Systems (CEMS), 
+meaning they continually take measurements while deployed 
+and operating correctly.  However, time of day, limited  site 
+coverage, wind direction and speed, humidity, and other 
+weather conditions can impact the effectiveness of CEMS 
+technologies. There are also technologies in this space 
+that are not continuous but can detect and estimate the 
+quantity of methane emissions. One example of these is 
+aerial detection platforms, which can be mounted on aircraft 
+or satellites. While Coterra believes these “survey” style 
+technologies provide useful information for leak detection 
+and quantification, their temporal cadence capabilities do 
+not yet provide frequent enough inspections to match the 
+dynamic nature of our operations. The following section 
+focuses primarily on our experience using CEMS.
+Summarize the Outcome of  
+Any Coterra Efforts to Directly  
+Measure Methane Emissions
+We are actively testing, and in some cases employing, 
+advanced methane detection and measurement 
+technologies to identify and mitigate our largest 
+emissions sources. We aim to integrate our “bottom-up” 
+emission factor-based inventories with direct measure-
+ment to quantify our total methane emissions across 
+our assets. 
+Since 2019, we have tested the capabilities of 11 
+distinct methane monitoring technologies to enhance 
+our leak detection and repair (LDAR) programs and to 
+directly measure our site-level emissions. Recently,  
+we performed an in-depth evaluation of CEMS that 
+included seven different technologies deployed across 
+three different sites in the Permian Basin, consisting of 
+two upstream facilities and one compressor station. 
+These systems included varying technologies that 
+consisted of metal oxide point sensors, laser spectros-
+copy, and infrared imaging. We performed this study 
+with the objective  of evaluating CEMS’ effectiveness 
+of leak detection  and for the four systems that 
+offered it, methane quantification. The trial lasted for 
+six months during normal operating conditions at each 
+of the sites. 
+Leak Detection Performance
+During the trial, two known significant unplanned 
+emissions events took place at one of the production 
+sites. This site employed six of the seven technologies 
+tested in the overall study. The table below shows the 
+responses for each of these events by each CEMS. 
+These technologies were 50% successful at detecting 
+and alerting to these events, with only 25% able to 
+localize the emissions source.
+2023 Shareholder Proposal T o Report On The Reliability  
+Of Methane Emission Disclosures
+EVENT 1: ~1,400 MCFD METHANE  
+RATE FOR 5 HOURS
+EVENT 2: ~400 MCFD METHANE  
+RATE FOR 21 HOURS
+T echnology Alerted? Localized? Quantification Alerted? Localized? Quantification
+A Ye s No 863 MCFD Ye s Ye s 52 MCFD
+B No No N/A Ye s No N/A
+C No No N/A No No 0 MCFD
+D Ye s Ye s N/A Ye s No 0.4 MCFD
+E No No 777 MCFD No No N/A
+F No No N/A Ye s Ye s N/A
+
+2023 SUSTAINABILITY REPORT 18
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+LeakQuantificationPerformance
+The quantification results from the four CEMS technologies 
+that offered quantification varied by an order of magnitude 
+during our known unplanned events, as well as during the 
+entire six-month trial. Since total site emissions were not 
+controlled over the course  of the entire trial, we do not 
+know how the technologies compared to reality. The 
+average daily emission rates are shown in the graph below:
+Controlled releases were conducted in collaboration with 
+a consortium of universities, with expertise in field testing 
+methane detection technologies. This allowed us to assess 
+the responses of these technologies to known, controlled 
+emissions rates and to enhance the scientific rigor of the trial. 
+The scatter plot below shows the relationship between 
+actual controlled release rates and quantified emission 
+rates from each technology over the duration of all 
+controlled releases.  Normalization was done by averaging 
+the emission rates recorded by each CEMS in the hours 
+before and after the controlled releases each day. The 
+negative quantified emissions estimates for some of the 
+data points below are a result of this normalization. Based 
+on the data collected, there is no correlation between the 
+controlled emission release rates and the quantified 
+emission rates.  
+Due to the results of this trial, and previous experience 
+with CEMS technologies, we do not currently have 
+confidence to use quantified emissions from CEMS 
+tools to make business decisions or estimate methane 
+emissions inventories. 
+AVERAGE DAIL Y EMISSIONS MCFD, T otal T rial
+QUANTIFIED EMISSION RATES VS CONTROLLED 
+RELEASE RATES DURING TRIAL
+0
+4
+8
+12
+0.2
+0.4
+0.6
+2.4
+0
+1
+2
+3
+1.0
+8.0 7.8
+0
+20
+40
+60
+10.7
+0.4 0.0
+10.5
+58.5
+0-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+60
+70
+80
+5 10 15 20 25 30
+r2=0.001
+Line of Best Fit
+y=x
+CONTROLLED RELEASE EMISSION RATE MCFD
+TECHNOLOGIES
+QUANTIFIED EMISSION RATE MCFD
+A
+C
+D
+E
+Production Site 1
+Production Site 2
+Compressor Station
+A
+TECHNOLOGY
+C D E
+AVERAGE DAIL Y EMISSIONS MCFD, All T rial QUANTIFIED EMISSION RATES VS CONTROLLED 
+RELEASE RATES DURING TRIAL
+0
+4
+8
+12
+0.2
+0.4 0.6
+2.4
+0
+1
+2
+3
+1.0
+8.0 7.8
+58.5
+0
+20
+40
+60
+10.7
+0.4 0.0
+10.5
+0-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+60
+70
+80
+5 10 15 20 25 30
+r2=0.001
+Line of Best Fit
+y=x
+CONTROLLED RELEASE EMISSION RATE MCFD
+TECHNOLOGY
+QUANTIFIED EMISSION RATE MCFD
+A
+C
+D
+E
+PRODUCTION SITE 1
+ASITE: C D E
+PRODUCTION SITE 2
+COMPRESSOR STATION
+
+2023 SUSTAINABILITY REPORT 19
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+Conclusion
+Currently, we do not see CEMS as a superior alternative to 
+our existing LDAR program. Coterra’s current LDAR program 
+consists of optical gas imaging (OGI) cameras, drones, and 
+third-party flyovers. While not continuous measurement, 
+aerial flyovers provide high spatial resolution methane 
+detection. In our experience, the quantification data provided 
+from aerial flyover technologies tends to reasonably correlate 
+with our estimated leak rates when we have corroborating 
+data sources to generate independent leak rate estimates. 
+We are now employing aerial flyovers across our operations.
+We will continue to evaluate all forms of methane detection 
+and quantification, working with technology providers to find 
+scalable and reliable solutions.  
+Explain whether there is likely to be  
+a material difference between direct 
+measurement results and Coterra’s  
+reported methane emissions
+Direct methane measurement and inventory reconciliation 
+practices are in early development. Coterra does not 
+believe it is yet possible to make assertions with a high 
+degree of accuracy related to discrepancies between 
+direct measurement and emission factor-based inventories. 
+We will continue to work towards measurement-based 
+methane emissions to help us better allocate capital for 
+reducing actual emissions. To assist us with this, we  
+are joining the Oil and Gas Methane Partnership 2.0 
+(OGMP 2.0). This framework is dedicated to achieving 
+reliable methane emission measurement, reporting, 
+and mitigation. As part of OGMP 2.0, we plan to submit 
+our 2023 methane emission estimates through their 
+framework in May of 2024.
+We have identified several key methane emissions sources 
+we believe current regulatory emission inventory calculations 
+could be mischaracterizing.  In some cases, the current 
+methodologies may tend to overestimate actual emissions.  
+In other cases, they may tend to underestimate actual 
+emissions. For example, we believe pneumatic devices  
+are generally overestimated using current reporting  
+practices, while incomplete combustion from reciprocating 
+compressors is generally underestimated. 
+Assess the degree to which any  
+differences would alter estimates  
+of Coterra’s Scope 1 emissions
+Our Scope 1 GHG inventory emission calculations for 2022 
+were 1,546,915 MT CO2e, of which 15.3% was methane. 
+Hypothetically assuming that our actual methane emissions 
+are higher than our inventory-based estimates, our total 
+Scope 1 emissions would increase approximately 8%  
+for every 50% increase in methane emissions above the 
+reported volumes.
+
+2023 SUSTAINABILITY REPORT 20
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+0
+2
+4
+6
+8
+10
+2019 2020 2021 2022 2023 
+TARGET
+2023 
+ESTIMATE
+THROUGH Q3
+GREENHOUSE GAS 
+EMISSIONS INTENSITY
+MT CO2e / Gross Mboe Produced
+9.59
+6.47
+5.48 5.47
+4.75
+HIGH: 5.42
+LOW:  4.96
+0.00
+0.05
+0.10
+0.15
+0.20
+2019 2020 2021 2022 2023 
+TARGET
+2023 
+ESTIMATE
+THROUGH Q3
+METHANE EMISSIONS 
+INTENSITY
+MT CH4 Emitted / Gross 
+MT CH4 Produced
+0.168%
+0.071%
+0.038% 0.039%
+0.024%
+LOW:  
+0.030%
+HIGH:  
+0.034%
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+2019 2020 2021 2022 2023 
+TARGET
+2023 
+ESTIMATE
+THROUGH Q3
+TOTAL COMPANY 
+FLARE INTENSITY
+Volume of Gas Flared / Volume 
+of Gas Produced
+0.471%
+0.228%
+0.141%
+0.109%
+0.092%
+LOW:  
+0.101%
+HIGH:  
+0.110%
+50%
+REDUCTION
+80%
+REDUCTION
+86%
+REDUCTION
+CLIMATE TARGETS  | (TCFD: Metrics and T argets – c; SASB: EM-EP-110a.3)
+In 2023, three climate metrics were included in Coterra’s executive short-term incentive targets. These three targets 
+constitute 15% of the overall executive short-term incentives:
+Figures listed above include only Scope 1 Subpart W reportable emissions. 2019 to 2021 figures are based on combined results for Cabot & Cimarex.  
+2019 to 2023 reductions calculated at Q3 2023 estimated year to date results.
+0
+2
+4
+6
+8
+10
+2019 2020 2021 2022 2023 
+TARGET
+2023 
+ESTIMATE
+THROUGH Q3
+GREENHOUSE GAS 
+EMISSIONS INTENSITY
+MT CO2e / Gross Mboe Produced
+9.59
+6.47
+5.48 5.47
+4.75
+HIGH: 5.42
+LOW:  4.96
+0.00
+0.05
+0.10
+0.15
+0.20
+2019 2020 2021 2022 2023 
+TARGET
+2023 
+ESTIMATE
+THROUGH Q3
+METHANE EMISSIONS 
+INTENSITY
+MT CH4 Emitted / Gross 
+MT CH4 Produced
+0.168%
+0.071%
+0.038% 0.039%
+0.024%
+LOW:  
+0.030%
+HIGH:  
+0.034%
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+2019 2020 2021 2022 2023 
+TARGET
+2023 
+ESTIMATE
+THROUGH Q3
+TOTAL COMPANY 
+FLARE INTENSITY
+Volume of Gas Flared / Volume 
+of Gas Produced
+0.471%
+0.228%
+0.141%
+0.109%
+0.092%
+LOW:  
+0.101%
+HIGH:  
+0.110%
+50%
+REDUCTION
+80%
+REDUCTION
+86%
+REDUCTION
+METRIC MIDPOINT  
+OF TARGET
+REDUCTION  
+COMPARED TO 2019
+GHG Intensity (MT CO2e / Gross Mboe Produced) 5.19 46%
+Methane Intensity (MT CH4 Emitted / Gross MT CH4 Produced) 0.032% 81%
+Flare Intensity (Volume of Gas Flared / Volume of Gas Produced) 0.106% 77%
+
+2023 SUSTAINABILITY REPORT 21
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+ENVIRONMENT AL, HEAL TH & SAFETY
+ENVIRONMENTAL, HEAL TH AND SAFETY 
+MANAGEMENT SYSTEM  |  
+(SASB: EM-EP-540a.2)
+Coterra is focused on improving our environmental, 
+health, and safety (EHS) performance. Our Environment, 
+Health & Safety Committee has ultimate oversight of  
+our EHS policies, programs, and initiatives and reports 
+regularly to the full Board. Our EHS management system 
+(MS) establishes a framework for EHS compliance and 
+performance and covers all elements of our operating 
+lifecycle. It influences our management of environmental 
+protection, biodiversity impacts, and workforce health  
+and safety; the aspects of which are described in the 
+following sections. 
+The EHS MS has controls and safeguards in place to 
+assist in the safe execution of our work within the oil and 
+gas exploration and production sector. Our sites have 
+processes to regularly inspect the facilities and identify, 
+record, and track prevention and mitigation efforts for 
+identified potential hazards. The EHS MS is reviewed 
+periodically and updated to incorporate best practices. 
+For key tasks, we have EHS standards that provide clear 
+guidelines and requirements to perform the tasks in a 
+safe and environmentally responsible way. Our Vice 
+President–EHS provides oversight of our EHS MS.
+Coterra’s EHS MS outlines our compliance with 
+applicable environmental laws and regulations and 
+highlights our commitments, including monitoring, 
+auditing, and enhancing our environmental and safety 
+performance. The EHS MS applies to all our operations 
+and is available to employees on our intranet and to 
+contractors via a third-party service. Employees and 
+contractors are expected to comply with our policies, 
+programs, standards, and procedures. Coterra integrates 
+EHS considerations into our projects and operations. 
+EHS regulatory requirements are monitored for potential 
+changes at a federal, state, and local level, and identified 
+changes are then communicated to impacted operations 
+teams.
+We provide monthly EHS training for our employees and 
+encourage our contractors’ involvement. EHS training 
+topics are generated through analysis of lessons learned, 
+historical trends, and regulatory changes. In addition, we 
+also provide EHS leadership training to operational 
+supervisors.
+Before Coterra proceeds with any non-routine work, we 
+perform a Job Safety Analysis (JSA) to identify potential 
+safety and environmental hazards. We conduct EHS 
+review assessments through monthly and quarterly 
+internal inspections and are subject to potential external 
+annual facilities inspections by our insurance company. 
+We have a self-assessment and corrective action 
+management process for proactively identifying and 
+addressing improvement opportunities, including external 
+third-party environmental assessments. We also perform 
+preventative maintenance on equipment across our 
+operating areas to mitigate potential equipment failures.
+Our EHS staff participate in our internal EHS network and 
+industry trade groups. Coterra’s EHS staff is also 
+encouraged to participate in professional and industry 
+seminars and conferences to remain at the forefront of 
+EHS matters within our industry.
+
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+METRIC CODE METRIC 2022
+SASB-EM-EP-120a.1
+Air emission of the following pollutants:
+(1) Metric tons NOX (excluding N2O) 86,738
+(2) Metric tons SOX 68
+(3) Metric tons volatile organic compounds (VOCs) 3,998
+(4) Metric tons particulate matter (PM10) 1,775
+METRIC CODE METRIC 2019 2020 2021 2022
+SASB-EM-EP-
+140a.1
+(1) T otal freshwater withdrawn (Thousand cubic meters) 6,117 4,169 4,498 5,555
+Percentage withdrawn in regions of high or extremely 
+high baseline water stress20 0% 0% 0% 0%
+(2) T otal fresh water consumed (Thousand cubic meters) 5,632 3,731 4,065 5,150
+SASB-EM-EP-
+140a.2
+Volume of produced water generated (Thousand  
+cubic meters) 32,101 29,943 30,500 39,294
+Volume of flowback generated (Thousand cubic meters) 1,585 968 1,870 947
+(1) Percentage discharged 0% 0% 0% 0%
+(2) Percentage injected 85.2% 89.3% 78.7% 78.7%
+(3) Percentage recycled 14.8% 10.7% 21.3% 21.4%
+Percentage hydrocarbon content in discharged water 0% 0% 0% 0%
+Percentage of frac water from recycled sources 39% 43% 56% 61%
+SASB-EM-EP-
+140a.321
+Percentage of hydraulically fractured wells for which 
+there is public disclosure of all fracturing fluid 
+chemicals used
+100% 100% 100% 100%
+AIR QUALITY (SASB: EM-EP-120a.1) WA TER MANAGEMENT (SASB: EM-EP-140a.1, 2, 3)
+ENVIRONMENT AL, HEAL TH & SAFETY METRICS
+2023 SUSTAINABILITY REPORT 22
+20As defined by the Water Resource Institute’s (WRI) Water Risk Atlas tool, Aqueduct
+21Coterra discloses the chemicals used in hydraulic fracturing fluid through www.fracfocus.org
+We are committed to minimizing air pollutants emitted. Our air quality programs are designed so that our operations 
+meet or exceed federal and state regulations that establish emissions limits, emissions control requirements, 
+monitoring, testing, record-keeping, and reporting requirements to protect and maintain air quality.
+T o improve our air quality performance, Coterra focuses on our emissions reduction initiatives as described within 
+our response to climate. This includes, but is not limited to, electrification of drilling, completion, compression, and 
+production equipment; centralized flaring; tankless facilities; non-emitting pneumatic controllers; and our leak 
+detection and repair (LDAR) program, including flyovers.
+
+2023 SUSTAINABILITY REPORT 23
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+WATER MANAGEMENT
+Responsible water management is central to our operations 
+and our communities. We recognize the risk water scarcity 
+poses to Coterra and to our stakeholders. Water is an 
+essential component in our oil and gas operations. Coterra 
+focuses on the efficient management of water across our 
+operations and strives to take the precautions necessary 
+to protect and responsibly use the water supplies in the 
+communities in which we operate. As such, water scarcity  
+is integrated into our risk assessments and as part of our 
+business strategy. In 2022, no freshwater was withdrawn 
+from high/extremely high water-scarcity risk regions, 
+according to the World Resource Institute’s (WRI) Water 
+Risk Atlas tool, Aqueduct. Our Environment, Health & 
+Safety Committee and Vice President–EHS provide 
+oversight to water management activities and issues.
+T o minimize freshwater usage, we recycle and reuse 
+produced waters where technically and economically 
+feasible. Coterra actively investigates alternative means 
+to minimize freshwater needs, such as sourcing produced 
+water from third-party disposal facilities and other offset 
+operators. When recycled water volumes do not fulfill our 
+stimulation requirements, Coterra purchases water, 
+including freshwater, brackish and other non-potable 
+water, from third-party sources.
+In our Marcellus Business Unit operations, while we recycle 
+nearly 100% of the water generated by our flowback and 
+production operations, additional water sourcing is utilized 
+for our Marcellus hydraulic fracturing activity due  
+to the low produced-water volumes. Pennsylvania 
+freshwater withdrawal sources operate in accordance 
+with the Susquehanna River Basin Commission (SRBC)’s 
+Consumptive Use Mitigation Policy through facility-specific 
+conditions presented in dockets issued and approved by 
+the SRBC. Further, freshwater withdrawal facilities are required 
+to be compliant with facility-specific water management 
+plans approved by the Pennsylvania Department of 
+Environmental Protection (PADEP). The approved dockets 
+and plans detail specific withdrawal quantities and limitations 
+at each source to ensure adequate environmental  
+protections and mitigate potential adverse impacts to  
+the sources. Flowback/produced fluid generated is sent 
+to PADEP-permitted beneficial reuse facilities or reused 
+directly in our operations. Permitted beneficial reuse 
+facilities that do not return water to the Company for 
+reuse in completions operations will generally provide  
+the water to other operators in the basin for reuse in 
+well-completion activities.
+Groundwater Protection
+Our groundwater protection program covers our 
+operational regions and includes performing water-  
+supply baseline surveys and sampling; well-integrity 
+processes; engaging with landowners; and complying 
+with federal, state, and local regulations. We do not 
+intentionally discharge process water, fracturing water,  
+or produced water to surface water bodies.
+We have developed an on-demand pipeline system 
+that ties into our existing produced-water gathering, 
+recycling, and disposal infrastructure so that we 
+can reuse produced water as source water for our 
+completion operations. Over 200 miles of pipeline 
+reduces the need for surface storage and trucking, 
+minimizing potential spills. This system reduces the 
+Company’s need to purchase and use fresh water 
+for hydraulic fracturing operations. As water volume 
+requirements for stimulation operations have grown, 
+Coterra has been able to meet the additional water 
+requirements through this system.
+PERMIAN BASIN ON-DEMAND PIPELINE SYSTEM
+PERMIAN BASIN % RECYCLED WATER SOURCED FOR COMPLETION OPERATIONS
+63%
+2019 2020 2021 2022
+74%
+81%
+96%
+Booster Station: Part of Coterra’s engineered system for water reuse
+
+2023 SUSTAINABILITY REPORT 24
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+BIODIVERSITY IMPACTS  |   (SASB: EM-EP-160a.1,2)
+Unplanned releases of any kind are contrary to our 
+commitment to environmental stewardship. We seek to 
+manage our operations effectively and limit the number of 
+unplanned releases. In the event that we do have a 
+release, we are prepared with secondary containment 
+systems, auto-shutoff instrumentation and controls, 
+response plans, incident analysis, and corrective actions. 
+In addition, we utilize incident response companies for 
+release management, remediation, and disposal of waste 
+to ensure all releases are handled effectively.
+Our EHS department partners with all operations of  
+the Company and engages with local biodiversity 
+subject-matter experts to support and enhance our 
+activities. As part of our EHS MS, our biodiversity and 
+land-use programs receive oversight from our 
+Environmental, Health & Safety Committee and Vice 
+President-EHS.  Our EHS MS identifies and includes 
+biodiversity management plans for priority areas.
+As part of our planning process prior to development 
+operations, Coterra performs environmental assessments 
+(EAs) to identify and mitigate potential biodiversity hazards. 
+Our EAs are informed by data sets and regulations from 
+various state and federal organizations. Coterra’s EA 
+process identifies threatened and endangered species, 
+special  concerned species, and other resources within 
+the area. In addition, wetland delineations are conducted 
+on proposed well-site locations. T o date, EA results have 
+not materially impacted Coterra’s ability to construct 
+well-site locations nor impacted Coterra’s ability to 
+access reserves.
+Minimizing Surface Impacts
+Coterra uses horizontal drilling and multi-well pads along 
+with the latest technology that allows for increased lateral 
+lengths, which reduces the number of pads needed to 
+access reserves and minimizes our overall surface 
+footprint. This also leads to more efficient operations due 
+to less frequent mobilization of drilling rigs and completion 
+crews, fewer individual sites requiring maintenance, and 
+less road construction and traffic. T o minimize erosion 
+and sedimentation issues, Coterra uses physical controls, 
+optimizes well-pad design and layout, and performs 
+regular inspections.
+Site Reclamation
+Once a well-pad site is no longer needed, the wells are 
+properly plugged and abandoned, associated equipment 
+is removed, and the location is reclaimed. Reclamation is 
+performed per guidelines created by the various federal 
+and state agencies with reclamation oversight.
+BIODIVERSITY DATA
+METRIC CODE METRIC 2019 2020 2021 2022
+SASB-EM-EP-
+160a.2
+Number of hydrocarbon spills 42 31 17 26
+Aggregate volume of hydrocarbon spills (Bbls) 602 481 166 941
+Volume of hydrocarbon spills in the Arctic 0 0 0 0
+Volume of hydrocarbon spills impacting shorelines 
+with ESI rankings 8–10 0 0 0 0
+Volume of hydrocarbons recovered from spills (Bbls) 339 150 68 366
+
+2023 SUSTAINABILITY REPORT 25
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+WORKFORCE HEAL TH AND SAFETY  |    
+(SASB: EM-EP-320a.2)
+Safety is a core value of Coterra. We believe safe operations 
+not only protect the individuals on our locations, but 
+ultimately lead to more efficient operations. We have a 
+formal health and safety policy that applies to all employees. 
+Our commitment to safety is integrated throughout our 
+organization—from frontline employees and contractors 
+to our executive leadership and Board.
+Our Executive Safety Council (ESC), a group of seven 
+management team members, convenes regularly to set 
+safety best practices across our operations. Our Vice 
+President–EHS oversees day-to-day implementation  
+and management of our safety programs.
+While Coterra strives for a culture of safety, incidents can 
+occur. When we have an incident, we conduct an incident 
+investigation to determine the cause and identify possible 
+measures to prevent future occurrences. We have also 
+implemented safety stand-downs to reinforce our safety 
+principles and to ensure everyone on location recognizes 
+the importance of job safety. A “safety stand-down” is an 
+event where we shut down a job, area, or department for  
+a period of time and gather employees and contractors 
+together to discuss and reinforce specific safety topics 
+and the overall safety culture at Coterra.
+Coterra’s operations are conducted under a Stop Work 
+Authority (SWA) program that empowers employees and 
+contractors to stop work if they discover a dangerous 
+condition or other serious EHS hazard. All Coterra 
+employees and contractors have the authority and 
+obligation to stop any task or operation if they have 
+concerns or questions regarding potential EHS hazards. 
+Once an SWA is in effect, work cannot resume until all 
+stop work issues and concerns have been adequately 
+addressed.
+Contractor Safety Program
+Coterra employs a diverse group of contractors that provide 
+specialized service functions necessary for our operations. 
+Coterra is dedicated to enhancing our contractors’ safety 
+performance while on our locations by vetting contractors 
+for required training and qualifications, conducting periodic 
+reviews and assessments, and addressing incidents.
+Coterra’s EHS policies and programs apply to Coterra 
+contractors while on our locations. Contractors are held 
+to the same EHS expectations as Coterra employees.  
+We also actively monitor and disclose contractor safety 
+performance and participate in local contractor safety 
+councils to explore and assess new ways to improve 
+performance.
+Prior to working on a Coterra job site, we review potential 
+contractors for citations, safety statistics, written 
+programs, training documentation, and job specific 
+requirements. We use specifically selected criteria and 
+contractual requirements to regularly enhance and 
+maintain contractor safety performance.
+Our contractors are expected to participate in EHS 
+meetings as deemed necessary for their role. We 
+conduct ongoing field evaluations of contractors to 
+verify implementation of EHS programs and to confirm 
+that our contractors are meeting Coterra’s safety 
+requirements.
+Coterra’s contractors execute a Master Service Agreement 
+(MSA), or similar agreement, which contractually obligates 
+them to comply with Coterra’s EHS policies. The MSA 
+also requires contractors to immediately report to Coterra 
+all details of any near miss, injury, illness, property damage, 
+and environmental impact and to fully cooperate in 
+remedial activities in order to restore and protect the 
+environment.
+Contractors chosen to work for Coterra are required to 
+participate in the ISNetworld contractor verification 
+program. This industry-leading safety verification process 
+allows us to screen contractors based on their safety 
+performance in relation to their peers. Our MSAs with our 
+contractors include language requiring contractors to 
+provide their employees with appropriate safety 
+equipment and training, as well as to adhere to all 
+applicable environmental and safety regulations. 
+As part of Coterra’s commitment to providing a safe 
+operation, a select group of contractors are selected 
+every year to complete a verification and review process 
+administered by ISNetworld. This process consists of 
+contractor employee interviews and contractor 
+management interviews which are designed to identify 
+gaps in the contractor’s EHS program. Based on these 
+reviews, ISNetworld develops action items and works 
+with the contractor to verify completion of those items.
+Emergency Response Program
+Coterra is committed to preparing for, and responding to, 
+emergencies. This commitment is detailed in our emergency 
+response program. We have emergency response plans in 
+place for all areas of our operations based on the Incident 
+Command System (ICS), which is a system that is utilized 
+by all levels of government and many private-sector 
+companies. Examples of emergency response plans for our 
+operations are our Crisis Management Plan (CMP); 
+Emergency Response Plan (ERP); and T actical Response 
+Plan (TRP). The primary purpose of these plans is to establish 
+a response that is efficient, coordinated, and effective, 
+while delivering the necessary protection to our people, 
+environment, assets, and reputation. We conduct training 
+and drills on a regular basis to ensure the preparedness of 
+our response personnel. Our stakeholders are also able to 
+report emergencies directly, and we have protocols set forth 
+to communicate with them in the case of an emergency 
+response incident. Our emergency response program is 
+led by Coterra’s Senior Vice President–Operations and 
+the corporate Crisis Management T eam (CMT), which 
+provides guidance to our regional emergency response 
+teams. Emergency response-related trainings are 
+provided on our Incident Command Module. We actively 
+conduct emergency response drills and engage a third 
+party to help improve our emergency response planning 
+and drills. All Coterra locations have our emergency 
+hotline phone number posted publicly for stakeholder 
+visibility, and we have a guide on emergency response 
+protocols that we share with external stakeholders, 
+including local first responders and officials.
+
+2023 SUSTAINABILITY REPORT 26
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+2023 SUSTAINABILITY REPORT 26
+ENVIRONMENT AL, HEAL TH & SAFETY METRICS
+WORKFORCE HEAL TH & SAFETY  (SASB: EM-EP-320a.1)
+22Short-service employee metrics are included within our full-time employee metrics
+METRIC CODE METRIC 2019 2020 2021 2022
+SASB-EM-EP-
+320a.122
+(a) Full-time employees
+(1) T otal recordable incident rate (per 200k hours worked) 0.70 0.69 0.30 0.56
+(1a) Lost time incident rate (per 200k hours worked) 0.46 0.34 0.10 0.23
+(2) Fatality rate (per 200k hours worked) 0.00 0.00 0.00 0.00
+(3) Near miss frequency rate (per 200k hours worked) Did Not T rack 0.77 0.20 0.79
+(4) Average hours of health, safety and emergency response training Did Not T rack 14.32 14.01 17.29
+(b) Contract employees
+(1) T otal recordable incident rate (per 200k hours worked) 0.59 0.37 0.44 0.39
+(1a) Lost time incident rate (per 200k hours worked) 0.10 0.25 0.27 0.19
+(2) Fatality rate (per 200k hours worked) 0.00 0.00 0.02 0.01
+(3) Near miss frequency rate (per 200k hours worked) Did Not T rack 0.98 0.22 0.52
+(c) Full-time employees & contractor employees
+(1) T otal recordable incident rate (per 200k hours worked) 0.61 0.42 0.42 0.40
+(1a) Lost time incident rate (per 200k hours worked) 0.15 0.27 0.24 0.19
+(2) Fatality rate (per 200k hours worked) 0.00 0.00 0.01 0.01
+(3) Near miss frequency rate (per 200k hours worked) Did Not T rack 0.94 0.22 0.56
+
+2023 SUSTAINABILITY REPORT 27
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+COMMUNITY RELA TIONS
+COMMUNITY ENGAGEMENT AND IMPACT
+At Coterra, we are committed to investing in high-impact 
+opportunities within the regions where we operate. Our 
+approach is rooted in active engagement with community 
+stakeholders, allowing us to stay attuned to both emerging 
+opportunities and historical concerns and needs. 
+In 2023, Coterra launched the Community Action Group 
+(CAG) initiative, a unique approach that strengthens our 
+connection with communities. This initiative places 
+emphasis on gathering input from both employees and 
+community stakeholders to determine which organizations 
+and projects we should support. The CAG has become 
+an integral part of our community relations strategy, 
+ensuring that our community engagement efforts remain 
+closely aligned with local needs.
+We also utilize our associations with groups like the 
+Permian Strategic Partnership and the Marcellus Shale 
+Coalition to help us better understand the needs of the 
+communities where we operate.
+Education and Workforce Initiatives
+One of our primary goals is to support workforce 
+development initiatives. T o achieve this, Coterra has 
+established partnerships with various educational 
+institutions, spanning from preschools to colleges. 
+Additionally, we have been strong advocates for STEM 
+(Science, T echnology, Engineering, and Mathematics) 
+initiatives.
+Our commitment to career and technology development 
+is exemplified through collaborations with nearly 30 Career 
+and T echnical Centers (CTCs) across the Appalachian and 
+Permian regions. Working closely with local educational 
+leaders, we have played a pivotal role in shaping curricula 
+and identifying equipment needs for schools in our 
+operational regions. Furthermore, the exchange of ideas, 
+concepts, and curricula among educational leaders in 
+New Mexico, T exas, Oklahoma, and Pennsylvania has 
+underscored our dedication to investing in high-impact 
+educational opportunities across various regions.
+Community Well-being
+The safety and security of our communities are 
+paramount, and we recognize the critical role played by 
+our local first responders. We provide training, equipment 
+donations, and other necessary support. 
+Community Enhancement and Preservation
+Through organizations such as 4-H, FFA, and Farm 
+Bureau, we not only provide scholarships for participants 
+but also foster stronger ties with local farmers and 
+agricultural communities, enhancing the overall 
+prosperity of the regions we call home.
+We actively convene working groups consisting of local 
+leaders to ensure that their needs are understood and met. 
+By fostering collaboration, we aim to create desirable spaces 
+where communities can relax and enjoy their surroundings.
+Through these initiatives, Coterra continues to demonstrate 
+its dedication to responsible corporate citizenship and 
+the betterment of the regions where we live and work.
+SECURITY , HUMAN RIGHTS AND RIGHTS OF 
+INDIGENOUS PEOPLES  |   (SASB: EM-EP-210a.3)
+Coterra endeavors to conduct its business in a socially 
+responsible and ethical manner consistent with human 
+rights principles. We are committed to embedding 
+respect for human rights throughout all aspects of our 
+business. We respect the land rights of indigenous 
+people and are committed to protecting culturally 
+sensitive areas. Our Governance and Social Responsibility 
+Committee provides oversight regarding community 
+engagement and social responsibility, including alignment 
+with our Human Rights Policy.  This policy can be found on 
+our website: www.coterra.com.
+COMMUNITY RELATIONS METRICS
+METRIC CODE METRIC 2019 2020 2021 2022
+SASB-EM-EP-
+210a.1
+(1) Percentage of proved reserves in or near areas of 
+conflict 0% 0% 0% 0%
+(2) Percentage of probable reserves in or near areas 
+of conflict 0% 0% 0% 0%
+SASB-EM-EP-
+210b.2
+Number of non-technical delays 0 0 0 0
+Duration of non-technical delays (days) 0 0 0 0
+
+2023 SUSTAINABILITY REPORT 28
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+Coterra is committed to the highest ethical standards in  
+its business through good corporate governance. These 
+high standards permeate the Coterra culture as we strive 
+to provide transparency to our stakeholders including 
+employees, shareholders, business partners, regulators, 
+and the communities in which we work. Our Board is 
+guided by our Corporate Governance Guidelines and 
+plays a vital role in the execution and monitoring of 
+corporate governance at Coterra. Our Environment, 
+Health & Safety Committee, Audit Committee, Governance 
+and Social Responsibility Committee, and Compensation 
+Committee are each made up of independent directors. 
+Charters for these committees can be found on our website: 
+www.coterra.com.
+Compliance
+Our Code of Business Conduct and Ethics covers all areas 
+of professional conduct, including conflicts of interest, 
+customer relationships, insider trading, financial disclosure, 
+intellectual property, political contributions, and confidential 
+information. It also requires strict adherence to all laws  
+and regulations applicable to the Company’s business. Our 
+Chief Executive Officer, General Counsel, Chief Financial 
+Officer, and Chief Human Resources Officer administer, 
+and our Board, Audit Committee, and Governance and 
+Social Responsibility Committee oversee, compliance 
+with the Code of Business Conduct and Ethics. Employees, 
+officers, and directors receive periodic training on, and 
+are required to certify that they have read and understand, 
+the Code of Business Conduct and Ethics.
+ Whistleblower Hotline
+We have an external whistleblower hotline available 24/7  
+to employees and third parties to report any violations of 
+our Code of Business Conduct and Ethics anonymously,  
+if they choose. Reports are logged into our system  
+where they are reviewed and processed following  
+our established procedures. Our processes include 
+delegating appropriately for internal investigations on 
+each report. Reports are investigated and tracked until 
+resolved and reported to our Audit Committee.
+METRIC CODE METRIC 2019 2020 2021 2022
+SASB-EM-EP-
+510a.1
+(1) Percentage of proved reserves in countries that 
+have the 20 lowest rankings in T ransparency 
+International’s Corruption Perception Index
+0% 0% 0% 0%
+(2) Percentage of probable reserves in countries that 
+have the 20 lowest rankings in T ransparency 
+International’s Corruption Perception Index
+0% 0% 0% 0%
+BUSINESS ETHICS & TRANSPARENCY
+
+2023 SUSTAINABILITY REPORT 29
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+Political Involvement
+We operate in an industry that is heavily regulated and, 
+therefore, we are deeply affected by the political and 
+legislative process. We strongly believe that Coterra’s 
+long-term value to our shareholders is enhanced by a 
+business environment that protects and supports the  
+oil and gas industry’s ability to responsibly operate to 
+provide important energy resources to consumers. 
+Corporate contributions, if any, in furtherance of this 
+interest are made only if consistent with our Political 
+Contributions and Activities policy within our Code of 
+Business Conduct and Ethics, authorized by the Chief 
+Executive Officer and reviewed by our Board.
+Direct Contributions
+From time to time, Coterra supports organizations that  
+are active in the public-policy and political-engagement 
+processes, as they affect the exploration, production, and 
+transportation of natural gas and oil, including those organized 
+under Section 527 of the Internal Revenue Code. In so doing, 
+Coterra adheres to our Code of Business Conduct and Ethics 
+and to all U.S. and state laws and regulations that govern 
+political engagement for U.S. public companies. In 2022, 
+Coterra’s contributions to Section 527 organizations 
+consisted of the following:
+Indirect Political Spending
+We are also members of business and industry trade groups 
+that engage in educational and collaborative initiatives 
+regarding issues that affect our industry. Some of these 
+associations also engage in lobbying activities that seek to 
+promote legislative solutions that are sound and responsible 
+and, in our judgment, appropriately advance not only 
+Coterra’s business, but the goals and interests of our 
+industry as a whole. Coterra occasionally makes contributions 
+to 501(c)(4) tax-exempt civic or social-welfare organizations 
+that engage in political activity in support of our industry or 
+the business community as a whole. Our Chief Executive 
+Officer approves Coterra’s participation in, and levels of 
+contributions to, all business and trade associations and 
+social welfare organizations.
+In 2022, the total non-deductible, lobbying-related portion 
+of our dues paid to all business and trade associations  
+and 501(c)(4) organizations, as reported to us by those 
+organizations, was approximately $2,285,987, as detailed 
+below:
+SECTION 527 ORGANIZATION CONTRIBUTION
+GOPAC $ 25,000
+T otal $ 25,000
+BUSINESS/TRADE ASSOCIATION OR 
+SOCIAL-WELFARE ORGANIZATION 2022 DUES
+American Exploration and Production 
+Council (AXPC) $ 140,000
+American Petroleum Institute (API) $ 1,926,425
+Appalachian Natural Gas Operators $ 63,000
+Energy Equipment & Infrastructure  
+Alliance $ 1,500
+Marcellus Shale Coalition (MSC) $ 10,750
+New Mexico Oil & Gas Association 
+(NMOGA) $ 79,813
+Pennsylvania Chamber of Commerce $ 4,042
+Permian Basin Petroleum Association $ 15,000
+Petroleum Strategic Partnership $ 11,208
+Petroleum Alliance of Oklahoma $ 24,000
+T exas Independent Producers & 
+Royalty Owners Association (TIPRO) $ 1,000
+T exas Oil & Gas Association (TXOGA) $ 7,449
+Western Energy Alliance $ 1,800
+T otal $ 2,285,987
+
+2023 SUSTAINABILITY REPORT 30
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+Our culture is shaped by three important viewpoints:
+•  People First: We recognize that our employees work 
+hard every day and give us the ability to adapt and thrive 
+in a challenging and competitive industry.
+•  Ideas Welcome: We encourage our employees to speak 
+up and not be afraid to contribute ideas to help improve 
+our company and our performance. We empower our 
+employees to have a voice. We strive to eliminate barriers 
+that prevent the sharing of ideas at all levels of the 
+organization.
+•  T eam Approach: Cross-functional team collaboration 
+ensures we make informed business decisions.
+We believe that employees should come to work in a safe 
+and open environment where ideas, excellence, and hard 
+work lead to rewarding opportunities. Coterra’s core principles 
+are established and consistent; however, we allow our 
+practices to evolve as we learn, grow, and succeed.
+Our operational framework rests on these key pillars: 
+•  Results: We focus on delivering results. Whether related 
+to safety, environmental stewardship, or economic 
+returns, we focus on endeavors that lead to measurable 
+improvement.
+•  Safety: We prioritize the safety of our employees and 
+the communities where we operate by emphasizing 
+personal responsibility and safety leadership.
+•  Integrity: Integrity and open communication are key to 
+good decision-making. We honor our commitments and 
+take ownership of both our work and our actions.
+•  Transparency: We are an open culture with a shared 
+mission to create value by generating sustainable returns 
+for investors while responsibly providing reliable energy 
+solutions to all.
+•  Excellence: We are not interested in being average. We 
+believe in challenging ourselves to meet a standard of 
+excellence in everything we do.
+•  Opportunity: We give authority and responsibility to 
+those who demonstrate their ability to perform rather 
+than by following a system based on tenure.
+Recruitment
+During our recruitment process, we define every role and 
+skillset according to the current and future needs of our 
+business. We utilize university-based hiring, including 
+focused efforts on minority serving institutions, and 
+internships for technical and future management jobs. 
+CompensationandBenefits
+At Coterra, our employees are an integral part of our 
+success. We are committed to offering employees a total 
+rewards package that includes highly competitive 
+compensation that is focused on driving results and 
+performance and industry leading health, welfare, and 
+retirement benefits.
+Our benefits include:
+•  Education reimbursement, allowing employees to be 
+reimbursed for tuition, books, and lab fees up to the 
+maximum IRS allowable reimbursement
+•  A scholarship program or educational assistance for 
+dependent children of employees
+•  Medical and prescription insurance, including telehealth 
+options
+• Vision and dental insurance
+•  100% company-paid life and disability insurance and 
+company-paid spouse and dependent life insurance 
+At Coterra, we believe our people are a key element of our 
+competitive advantage. We strive to maintain minimal hierarchy, 
+creating a culture where anyone who is inspired and offers good 
+ideas can have an impact on how we operate our business.
+HUMAN CAPIT AL
+
+2023 SUSTAINABILITY REPORT 31
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+with lower-cost supplemental insurance buy-up policies 
+for employees and spouses
+•  An enhanced employee assistance program reinforcing 
+our commitment to mental health for our employees 
+and their dependents
+•  Health savings accounts with a generous Company 
+contribution
+•  Generous paid leave, including paid parental leave, 
+competitive vacation time, flexible time off to care for 
+the physical and mental health of the employee or their 
+family, paid Company holidays, floating holidays to use 
+as the employee chooses, and bereavement leave
+•  401(k) with Company match and a 100% employer-paid 
+retirement contribution
+•  Annual service award program to recognize and reward 
+our employees for their longevity and commitment to 
+the organization
+• Matching gifts program
+Employee Development
+Aligning with our culture, we provide employees with  
+the opportunity to advance their careers by elevating 
+skills and capabilities consistent with the needs of  
+our Company.
+Coterra is committed to cultivating growth and offers 
+targeted training and development programs. We 
+encourage our employees to excel in their field and offer 
+tuition reimbursement to all employees. We offer formal 
+on-site, remote, and hands-on field training programs such 
+as geoscience and engineering technical programs with 
+external partners. We also provide leadership training, 
+including courses focused on effective presentations and 
+public speaking, leadership development, and engagement. 
+We strive to ensure that our leadership succession plans 
+are aligned with manager assessments, feedback, 
+leadership development programs, and mentoring.
+Employee Engagement
+At Coterra, we regularly engage with our employees and 
+encourage open dialogue, which is fundamental to our 
+strategy. We value open communication. Rather than 
+conducting anonymous surveys, we often hold small 
+group meetings for employees with senior managers, as 
+well as with the Chief Executive Officer at least annually. 
+Employees are given multiple lines of communication 
+they can utilize if they have any concerns. We focus on 
+providing multiple opportunities for leaders and 
+employees to engage in thoughtful discussion around 
+individual performance, prior year results, development 
+opportunities, and career goals. In addition to these 
+formal opportunities, our employees are encouraged to 
+engage in regular discussions with their leaders regarding 
+expectations and performance.
+Retaining our talent is a priority, and employee turnover  
+is tracked closely and discussed at least annually with  
+our Chief Executive Officer and broader leadership.
+Diversity, Equity and Inclusion (DEI)
+Diversity leads to richer discussions, more innovation, 
+better productivity, and increased long-term value creation. 
+We are committed to attracting a diverse workforce that 
+has strong technical competence, is not afraid to contribute 
+innovative ideas, and works well in a team environment. 
+Our Manager–T alent Management oversees our DEI 
+efforts and reports to our Chief Human Resources 
+Officer. 
+The Governance and Social Responsibility Committee 
+provides ultimate oversight over DEI matters. The 
+Governance and Social Responsibility Committee  
+reports quarterly to the full Board. T ogether they review  
+all DEI-related matters. The Compensation Committee 
+also holds periodic discussions on succession planning 
+which also incorporates DEI. Coterra actively recruits on 
+diverse job boards and at minority-serving institutions 
+and provides management with qualified candidates from 
+different demographic backgrounds. This ensures a broad 
+talent perspective is considered. All demographic data  
+is regularly shared with leadership. Coterra provides 
+anti-harassment, anti-discrimination, inclusion, and 
+workforce management training for all employees as  
+part of the Code of Business Conduct and Ethics training 
+at time of hire and on an annual basis thereafter.
+A copy of our latest EEO-1 survey data is available on our 
+website: www.coterra.com
+
+2023 SUSTAINABILITY REPORT 32
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+T ASK FORCE ON CLIMA TE-RELA TED FINANCIAL DISCLOSURES (TCFD) INDEX
+This report has been informed by T ask Force on Climate-related Financial Disclosures (TCFD). Below is a reference to each of the recommended disclosures:
+GOVERNANCE
+Describe the organization’s governance around  
+climate-related risks and opportunities
+a. Describe the board’s oversight of climate-related risk. Climate: Page 5
+b.  Describe management’s role in assessing and managing climate-related risks and opportunities. Climate: Page 5
+STRATEGY
+Disclose the actual and potential impacts of climate-related  
+risks and opportunities on the organization’s businesses,  
+strategy, and financial planning where such information is 
+material.
+a.  Describe the climate-related risks and opportunities the organization has identified over the short, medium, and long term. Climate: Page 6
+b.  Describe the impact of climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning. Climate: Page 6
+c.  Describe the resilience of the organization’s strategy, taking into consideration different climate-related scenarios, including a 2°C or lower scenario. Climate: Page 7
+RISK MANAGEMENT
+Disclose how the organization identifies, assesses, and  
+manages climate-related risks.
+a.  Describe the organization’s processes for identifying and  assessing climate-related risks. Climate: Page 9
+b.  Describe the organization’s processes for managing  climate-related risks. Climate: Page 9
+c.  Describe how processes for identifying, assessing, and managing climate-related risks are integrated into the organization’s overall risk management. Climate: Page 9
+METRICS AND TARGETS
+Disclose the metrics and targets used to assess and manage  
+relevant climate-related risks and opportunities where such 
+information is material.
+a.  Disclose the metrics used by the organization to assess climate risks and opportunities in line with its strategy and risk management process. Climate: Page 10
+b.  Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse (GHG) emissions, and the related risks. Climate: Page 10
+c.  Describe the targets used by the organization to manage climate-related risks and opportunities and performance against targets. Climate: Page 20
+APPENDIX
+
+2023 SUSTAINABILITY REPORT 33
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+SUST AINABILITY ACCOUNTING ST ANDARDS BOARD (SASB) INDEX
+Extractives & Minerals Processing Sector: Oil & Gas – Exploration & Production Standard
+This report provides Coterra’s performance data informed by SASB’s Extractives & Minerals Processing Sector: Oil & Gas - Exploration & Production standard. All data represents full-year 2022 information and represents 100% of Coterra’s 
+operating assets. Below is a reference to certain recommended standards
+METRIC CODE METRIC 2019 2020 2021 2022
+GREENHOUSE GAS EMISSIONS
+SASB-EM-EP-110a.123
+Gross global Scope 1 emissions (metric tons CO2e) 2,869,327 1,834,657 1,515,275 1,546,915
+Percentage methane 33.2% 25.5% 15.7% 15.3%
+Percentage covered under emissions-limiting regulations 0% 0% 0% 0%
+Gross global Scope 2 emissions24 (metric tons CO2e) Did Not T rack 136,224 96,454 168,643
+SASB-EM-EP-110a.223
+Amount of gross global Scope 1 emissions (metric tons CO2e) from:
+(1) Flared hydrocarbons 574,378 287,975 145,742 135,228
+(2) Other combustion 1,399,228 1,125,372 1,124,392 1,191,198
+(3) Process emissions 41,801 13,653 12,482 11,456
+(4) Other vented emissions 802,728 352,236 216,524 192,978
+(5) Fugitive emissions 51,192 55,421 16,135 16,056
+SASB-EM-EP-110a.3 Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of 
+performance against those targets See Climate – Emissions Reduction Initiatives, Page 13
+23When converting CH4 and N2O to CO2 equivalent to account for Global Warming Potential (GWP), Coterra uses 25 and 298, respectively, per 40 CFR Part 98 Subpart A
+24Coterra did not track Scope 2 emissions in 2019
+
+2023 SUSTAINABILITY REPORT 34
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+SUST AINABILITY ACCOUNTING ST ANDARDS BOARD (SASB) INDEX
+Extractives & Minerals Processing Sector: Oil & Gas – Exploration & Production Standard
+METRIC CODE METRIC 2019 2020 2021 2022
+AIR QUALITY
+SASB-EM-EP-120a.1
+Air emission of the following pollutants:
+(1) Metric tons NOX (excluding N2O) 86,738
+(2) Metric tons SOX 68
+(3) Metric tons volatile organic compounds (VOCs) 3,998
+(4) Metric tons particulate matter (PM10) 1,775 
+WATER MANAGEMENT
+SASB-EM-EP-140a.1
+(1) T otal freshwater withdrawn (Thousand cubic meters) 6,117 4,169 4,498 5,555
+Percentage withdrawn in regions of high or extremely high baseline water stress25 0% 0% 0% 0%
+(2) T otal fresh water consumed (Thousand cubic meters) 5,632 3,731 4,065 5,150
+SASB-EM-EP-140a.2
+Volume of produced water generated (Thousand cubic meters) 32,101 29,943 30,500 39,294
+Volume of flowback generated (Thousand cubic meters) 1,585 968 1,870 947
+(1) Percentage discharged 0% 0% 0% 0%
+(2) Percentage injected 85.2% 89.3% 78.7% 78.7%
+(3) Percentage recycled 14.8% 10.7% 21.3% 21.4%
+Percentage hydrocarbon content in discharged water 0% 0% 0% 0%
+Percentage of frac water from recycled sources 39% 43% 56% 61%
+SASB-EM-EP-140a.326 Percentage of hydraulically fractured wells for which there is public disclosure of all fracturing fluid chemicals used 100% 100% 100% 100%
+25As defined by the Water Resource Institute’s (WRI) Water Risk Atlas tool, Aqueduct
+26Coterra discloses the chemicals used in hydraulic fracturing fluid through www.fracfocus.org
+
+2023 SUSTAINABILITY REPORT 35
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+SUST AINABILITY ACCOUNTING ST ANDARDS BOARD (SASB) INDEX
+Extractives & Minerals Processing Sector: Oil & Gas – Exploration & Production Standard
+METRIC CODE METRIC 2019 2020 2021 2022
+BIODIVERSITY IMPACTS
+SASB-EM-EP-160a.1 Description of environmental management policies for active sites See Biodiversity Impacts, Page 24
+SASB-EM-EP-160a.2
+Number of hydrocarbon spills 42 31 17 26
+Aggregate volume of hydrocarbon spills (Bbls) 602 481 166 941
+Volume of hydrocarbon spills in the Arctic 0 0 0 0
+Volume of hydrocarbon spills impacting shorelines with ESI rankings 8–10 0 0 0 0
+Volume of hydrocarbons recovered from spills (Bbls) 339 150 68 366
+SECURITY , HUMAN RIGHTS AND RIGHTS OF INDIGENOUS PEOPLES
+SASB-EM-EP-210a.1
+(1) Percentage of proved reserves in or near areas of conflict 0% 0% 0% 0%
+(2) Percentage of probable reserves in or near areas of conflict 0% 0% 0% 0%
+SASB-EM-EP-210a.3 Discussion of engagement processes and due diligence practices with respect to human rights, indigenous rights and  
+operation in areas of conflict
+See Security, Human Rights and Rights of 
+ Indigenous Peoples, Page 27
+COMMUNITY RELATIONS
+SASB-EM-EP-210b.1 Discussion of process to manage risks and opportunities associated with community rights and interests See Community Relations, Page 27
+SASB-EM-EP-210b.2
+Number of non-technical delays 0 0 0 0
+Duration of non-technical delays 0 0 0 0
+
+2023 SUSTAINABILITY REPORT 36
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+SUST AINABILITY ACCOUNTING ST ANDARDS BOARD (SASB) INDEX
+Extractives & Minerals Processing Sector: Oil & Gas – Exploration & Production Standard
+METRIC CODE METRIC 2019 2020 2021 2022
+WORKFORCE HEAL TH AND SAFETY
+SASB EM-EP-320a.127
+(a) Full-time employees:
+(1) T otal recordable incident rate (per 200k hours worked) 0.70 0.69 0.30 0.56
+(1a) Lost time incident rate (per 200k hours worked) 0.46 0.34 0.10 0.23
+(2) Fatality rate (per 200k hours worked) 0.00 0.00 0.00 0.00
+(3) Near miss frequency rate (per 200k hours worked) Did Not T rack 0.77 0.20 0.79
+(4) Average hours of health, safety, and emergency response training Did Not T rack 14.32 14.01 17.29
+(b) Contract employees:
+(1) T otal recordable incident rate (per 200k hours worked) 0.59 0.37 0.44 0.39
+(1a) Lost time incident rate (per 200k hours worked) 0.10 0.25 0.27 0.19
+(2) Fatality rate (per 200k hours worked) 0.00 0.00 0.02 0.01
+(3) Near miss frequency rate (per 200k hours worked) Did Not T rack 0.98 0.22 0.52
+(c) Full-time employees + contractor employees:
+(1) T otal recordable incident rate (per 200k hours worked) 0.61 0.42 0.42 0.40
+(1a) Lost time incident rate (per 200k hours worked) 0.15 0.27 0.24 0.19
+(2) Fatality rate (per 200k hours worked) 0.00 0.00 0.01 0.01
+(3) Near miss frequency rate (per 200k hours worked) Did Not T rack 0.94 0.22 0.56
+SASB EM-EP-320a.2 Discussion of management systems used to integrate a culture of safety throughout the exploration and production lifecycle See Workforce Health and Safety, Page 25
+27Short-service employee metrics are included within our full-time employee metrics
+
+2023 SUSTAINABILITY REPORT 37
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+SUST AINABILITY ACCOUNTING ST ANDARDS BOARD (SASB) INDEX
+Extractives & Minerals Processing Sector: Oil & Gas – Exploration & Production Standard
+METRIC CODE METRIC 2019 2020 2021 2022
+RESERVES VALUATION AND CAPITAL EXPENDITURES
+SASB EM-EP-420a.4 Discussion of how price and demand for hydrocarbons and/or climate regulation influence the capital expenditure  
+strategy for exploration, acquisition, and development of assets See Climate Strategy, Page 6
+BUSINESS ETHICS AND TRANSPARENCY
+SASB EM-EP-510a.1
+(1) Percentage of proved reserves in countries that have the 20 lowest rankings in T ransparency International’s Corruption Perception Index 0% 0% 0% 0%
+(2) Percentage of probable reserves in countries that have the 20 lowest rankings in T ransparency International’s Corruption Perception Index 0% 0% 0% 0%
+SASB EM-EP-510a.2 Discussion of the management system for prevention of corruption and bribery throughout the value chain See Business Ethics and T ransparency, Page 28
+CRITICAL INCIDENT RISK MANAGEMENT
+SASB EM-EP-540a.2 Description of management systems used to identify and mitigate catastrophic and tail-end risks See Emergency Response Program, Page 25
+ACTIVITY METRICS
+SASB EM-EP-000.A28
+Production of:
+(1) Oil 87 Mbbl/d
+(2) Natural gas 2,806 MMscf/d
+Natural gas liquids 79 Mbbl/d
+(3) Synthetic oil 0
+(4) Synthetic gas 0
+SASB EM-EP-000.B29 Number of offshore sites 0
+SASB EM-EP-000.C29 Number of terrestrial sites 1,195
+28Net production volumes to Coterra
+29Gross operated upstream and midstream sites
+
+2023 SUSTAINABILITY REPORT 38
+CEO LETTER  ABOUT COTERRA OUR PORTFOLIO CLIMATE ENVIRONMENTAL, 
+HEALTH & SAFETY
+COMMUNITY  
+RELATIONS
+BUSINESS ETHICS  
+& TRANSPARENCY HUMAN CAPITAL APPENDIX
+DISCLAIMER
+This report contains terms, standards and reporting metrics used by T ask Force on 
+Climate-Related Financial Disclosures (TCFD) and Sustainability Accounting Standards Board 
+(SASB, together with TCFD, the Frameworks). The contents of this report are intended as 
+guidance only and may not be comprehensive in scope or coverage, including as to such 
+Frameworks. Coterra Energy Inc. (Coterra or the Company) does not intend to and is not 
+endorsing or adopting phrases, specific terms or recommendations from the Frameworks. 
+Non-financial information, such as that included in this report, is subject to more potential 
+limitations than financial information, given the methods used for calculating or estimating 
+such information. We do not make any express or implied representations or warranties and 
+shall not assume any liability whatsoever for providing guidance or using these Frameworks, 
+or for any errors, mistakes or omissions in this report. In addition, the inclusion herein of, or the 
+reference to, a third-party scenario reflects the modeling assumptions and outputs of the 
+respective scenario authors and is not an endorsement by Coterra of its accuracy or likelihood.
+Additionally, the concept of materiality used in this report is not intended to correspond to the 
+concept of materiality associated with the disclosures required by the U.S. Securities and 
+Exchange Commission (SEC). Please refer to our annual report on Form 10-K and our other 
+filings with the SEC for information about the risks and uncertainties to our business and 
+operations and about our industry in general. This report also incorporates a greater number 
+of estimates and assumptions than many of our required disclosures under U.S. federal 
+securities laws, as well as longer time frames. This means that many of the matters discussed 
+in this report are not, or currently cannot be ascertained to be, “material” as that term is defined 
+by the U.S. federal securities laws. While certain matters discussed in this report may be 
+significant, any significance should not be read as necessarily rising to the level of materiality 
+used for the purposes of complying with the U.S. federal securities laws, even where we use 
+the word “material” or “materiality” in this report. Moreover, given the inherent uncertainty of 
+the estimates, assumptions and timelines contained in this report, we may not be able to 
+anticipate the degree to which we will be able to meet our plans, targets or goals in advance. 
+This report covers our owned and operated businesses and does not address the performance 
+or operations of our suppliers, contractors and partners unless otherwise noted. This report 
+does not distinguish between the activities and operations of Coterra and those of our 
+subsidiaries. Performance data in this report related to Coterra’s activities and operations 
+during 2019, 2020 and 2021 reflects, on a pro forma basis, the combined activities and 
+operations of Cabot Oil & Gas Corporation and Cimarex Energy Co. (Cimarex), which 
+completed a merger transaction that formed Coterra on October 1, 2021.
+This report contains certain forward-looking statements within the meaning of federal 
+securities laws. Forward-looking statements are not statements of historical fact and reflect 
+Coterra’s current views about future events. Such forward-looking statements include, but are 
+not limited to, statements about returns to shareholders, enhanced shareholder value, future 
+financial and operating performance and goals and commitment to sustainability and ESG 
+leadership, emissions reduction targets and other climate- and environmental-related goals, 
+strategies and plans, strategic pursuits and goals, including with respect to the publication of 
+Coterra’s sustainability reports and other statements that are not historical facts contained in 
+this report. The words “expect,” “project,” “estimate,” “believe,” “anticipate,” “intend,” “budget,” 
+“forecast,” “opportunity,” “target,” “expectation,” “plan,” “scenario,” “predict,” “potential,” 
+“possible,” “may,” “should,” “could,” “would,” “will,” “strategy,” “outlook,” “committed,” “strive“ 
+and similar expressions are also intended to identify forward-looking statements. We can 
+provide no assurance that the forward-looking statements contained in this report will occur 
+as projected and actual results may differ materially from those projected. Readers should not 
+place undue reliance on any forward-looking statement. Moreover, many of the assumptions, 
+standards, metrics and measurements used in preparing this report continue to evolve and 
+are based on assumptions believed to be reasonable at the time of preparation but should not 
+be considered guarantees or promises of future performance. Forward-looking statements 
+are based on current expectations, estimates and assumptions that involve a number of risks 
+and uncertainties that could cause actual results to differ materially from those projected.
+These risks and uncertainties include, without limitation, the risk that our and Cimarex’s 
+businesses will not be integrated successfully; the risk that the cost savings and any other 
+synergies from the merger involving Cimarex may not be fully realized or may take longer to 
+realize than expected; the volatility in commodity prices for crude oil and natural gas; cost 
+increases; supply chain disruptions; the effect of future regulatory or legislative actions, 
+including the risk of new restrictions with respect to well spacing, hydraulic fracturing, natural 
+gas flaring, seismicity, produced water disposal or other oil and natural gas development 
+activities; the impact of public health crises, including pandemics (such as the COVID-19 
+pandemic) and epidemics and any related Company or governmental policies or actions; 
+actions by, or disputes among or between, the Organization of Petroleum Exporting Countries 
+and other producer countries; market factors; market prices (including geographic basis 
+differentials) of oil and natural gas; impacts of inflation; labor shortages and economic 
+disruption (including as a result of public health crises or geopolitical disruptions such as the 
+war in Ukraine or the conflict between Israel and Hamas); the presence or recoverability of 
+estimated reserves; the ability to replace reserves; environmental risks; drilling and operating 
+risks; exploration and development risks; competition; the ability of management to execute 
+its plans to meet its goals; global sociodemographic and economic trends; technological 
+innovations (including, but not limited to, the pace of technological developments with 
+respect to leak detection); climate-related conditions and weather events; our ability to gather 
+and verify data regarding environmental impacts; our ability to successfully implement various 
+initiatives throughout the organization under expected time frames; the compliance of various 
+third parties, including our contractors, with our policies and procedures; and other risks 
+inherent in Coterra’s businesses. While the list of factors presented here is considered 
+representative, no such list should be considered to be a complete statement of all potential 
+risks and uncertainties. Should one or more of these risks or uncertainties materialize, or 
+should underlying assumptions prove incorrect, actual outcomes may vary materially from 
+those indicated. For additional information about other factors that could cause actual results 
+to differ materially from those described in the forward-looking statements, please refer to 
+Coterra’s annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on 
+Form 8-K and other filings with the SEC, which are available on Coterra’s website at www.
+coterra.com.
+Forward-looking statements are based on the estimates and opinions of management at the 
+time the statements are made. Except to the extent required by applicable law, Coterra does 
+not undertake any obligation to publicly update or revise any forward-looking statement, 
+whether as a result of new information, future events or otherwise.
+Readers are cautioned not to place undue reliance on these forward-looking statements. 
+Coterra cautions that its future oil, natural gas and natural gas liquids (NGL) production, 
+revenues and expenses are subject to all of the risks and uncertainties normally incident to 
+the exploration for and development, production and sale of oil, natural gas and NGLs. These 
+risks include, but are not limited to, price volatility, inflation or lack of availability of goods and 
+services, environmental risks, drilling risks, political changes, changes in laws or regulations, 
+the uncertainty inherent in estimating future oil and gas production or reserves and, as noted 
+above, other risks identified in our Form 10-K and our other filings with the SEC.
+
+Coterra Energy Inc. 
+Three Memorial City Plaza 
+840 Gessner Road
+Suite 1400
+Houston, TX 77024
+www.coterra.com
+If you have any questions regarding the Corporate  
+Sustainability Report, please contact us at IR@coterra.com.
