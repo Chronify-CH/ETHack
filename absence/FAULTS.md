@@ -182,3 +182,47 @@ Nothing in the output distinguishes these. Until Faults 1–3 are fixed, an
 disclosed"* — which is precisely the distinction the whole project exists to
 measure, and therefore the most important thing to fix before Milestone 4's
 Conditional Silence Score is computed on top of it.
+
+---
+
+## Fault 8 (introduced by the Fault 2 fix): max-over-N inflates scores
+
+The Fault 2 fix scores overlapping sentence windows and takes the **max**.
+That raised the number of premises per item from ~8 chunks to ~30 windows —
+so there are now roughly four times as many chances for one spuriously
+high-scoring premise to win. Max over more samples is upward-biased; this is
+an ordinary multiple-comparisons effect, and it applies to true and false
+cells alike.
+
+Measured on the first three companies of the fixed run, against ground truth
+established in `PER_METRIC.md`:
+
+**Recovered (the fix working as intended):**
+
+| Cell | run 3 | fixed | Ground truth |
+|---|---|---|---|
+| Apple `target_net_zero_year` | 0.069 absent | **0.943 FOUND** | present ✅ |
+| Microsoft `assurance_provider_named` | 0.007 absent | **0.805 FOUND** | present ✅ |
+| Microsoft `scope1_absolute` | 0.500 FOUND | **0.078 absent** | absent ✅ (false positive removed) |
+| Occidental `board_committee` (validation) | 0.065 absent | **0.980 FOUND** | present ✅ |
+
+**Introduced (the cost):**
+
+| Cell | run 3 | fixed | Ground truth |
+|---|---|---|---|
+| Apple `scenario_analysis_quantified` | 0.031 absent | **0.979 FOUND** | **absent** ❌ new false positive |
+| Alphabet `assurance_provider_named` | 0.363 absent | **0.860 FOUND** | **absent** ❌ new false positive |
+
+So the fix trades false negatives for false positives. For a silence ledger
+that trade is *directionally* right — inventing silence is worse than missing
+it — but it is not free, and it lands hardest on the two items already known
+to be mis-specified (`scenario_analysis_quantified`'s `$`/`million`/`billion`
+anchors; `assurance_provider_named`'s reliance on a firm name appearing near
+assurance language).
+
+**The correct response is not to revert.** It is that the 0.5 threshold, which
+was already uncalibrated, is now definitively wrong: it was never fitted, and
+the quantity it thresholds (max over N premises) changed its distribution when
+N changed. Any threshold must be calibrated *for a fixed N*, and N must be
+reported alongside it. This makes Section 11's calibration a blocker rather
+than a nice-to-have.
