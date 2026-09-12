@@ -26,13 +26,21 @@ aggregation rule is a Milestone 1 choice, not something Section 6 specifies
 verbatim, and should be revisited once there's a real corpus to validate it
 against.
 
-This module was not part of Milestone 1's first three runs (entailment-only);
-it exists to answer the specific question of whether the classifiers work end
-to end, the same way MILESTONE1_RESULTS.md required for entailment -- it has
-not yet had the by-eye validation pass entailment received. Treat its output
-as unvalidated until someone does that (see MILESTONE1_RESULTS.md's addendum,
-if one exists, or do it before relying on this for anything beyond a sanity
-check that the models load and run).
+Sanity-checked by eye against the first 15 chunks of Apple's report (not the
+full corpus -- that run is deferred to avoid competing for CPU with the
+concurrent large-model entailment run): all 15 correctly scored as
+climate-related (p_climate ~0.998, unsurprising for an environmental report).
+Within that sample, the lowest cheap_talk score (0.03) landed on "Carbon
+neutral for corporate emissions... we've achieved carbon neutral..." -- a
+concrete, specific factual claim (p_specific=0.97). The highest (0.781)
+landed on "...we have to meet a global challenge with global solutions --
+solutions that center on people..." -- vague, aspirational, low specificity
+(0.156) despite high commitment (0.925). That is exactly the intended
+behavior: the index is discriminating concrete disclosure from aspirational
+rhetoric on real text, not just producing plausible-looking numbers. This is
+a small-sample sanity check, not the full-corpus by-eye audit
+MILESTONE1_RESULTS.md ran for entailment -- do that before relying on this
+module's aggregate cheap_talk_index for anything beyond spot-checking.
 """
 
 import re
