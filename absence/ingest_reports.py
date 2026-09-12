@@ -40,7 +40,7 @@ MIN_CHARS = 15_000
 ARCHIVE_RE = re.compile(r"/([A-Z]+)_([A-Z0-9]+)_(\d{4})(?:_[0-9a-f]+)?\.pdf$", re.IGNORECASE)
 
 
-def _load_results(path: pathlib.Path) -> list[dict]:
+def _load_payload(path: pathlib.Path) -> dict:
     """Accept every shape the MCP layer persists results in."""
     raw = path.read_text()
     try:
@@ -51,7 +51,7 @@ def _load_results(path: pathlib.Path) -> list[dict]:
         obj = json.loads(raw[start:])
     if isinstance(obj, list) and obj and isinstance(obj[0], dict) and "text" in obj[0] and "results" not in obj[0]:
         obj = json.loads(obj[0]["text"])
-    return obj["results"] if isinstance(obj, dict) else obj
+    return obj if isinstance(obj, dict) else {"results": obj, "errors": []}
 
 
 def _targets_by_ticker() -> dict:
@@ -66,7 +66,33 @@ def ingest(paths: list[str]) -> None:
     written = skipped = 0
 
     for path in paths:
-        for r in _load_results(pathlib.Path(path)):
+        payload = _load_payload(pathlib.Path(path))
+
+        # A URL the fetcher could not reach is a data point, not a non-event.
+        # It is recorded so the corpus can never look complete when it is not
+        # -- but never over an entry that already succeeded, so replaying an
+        # old batch file cannot demote a document fetched since.
+        for err in payload.get("errors", []):
+            m = ARCHIVE_RE.search(err.get("url", ""))
+            if not m:
+                continue
+            ticker, year = m.group(2).upper(), int(m.group(3))
+            target = targets.get(ticker)
+            slug = f"{ticker.lower()}_energy_{year}"
+            if by_slug.get(slug, {}).get("status") == "ok" or target is None:
+                continue
+            by_slug[slug] = {
+                "slug": slug, "ticker": ticker, "company": target["company"],
+                "sector": "Energy", "subsector": target["subsector"],
+                "source_url": err["url"], "retrieved_via": "TinyFish fetch_content",
+                "retrieved_at": now, "report_year_from_url": year,
+                "status": "unavailable",
+                "unavailable_reason": f"Fetcher returned {err.get('error')!r} for this URL.",
+            }
+            print(f"  !! {slug:22} UNREACHABLE ({err.get('error')})")
+            skipped += 1
+
+        for r in payload.get("results", []):
             url = r.get("url", "")
             m = ARCHIVE_RE.search(url)
             if not m:

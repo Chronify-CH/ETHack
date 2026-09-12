@@ -1,0 +1,2916 @@
+Diamondback Energy //  2021 CSR //  1
+SUSTAINABILITY
+
+ABOUT  THIS REPORT
+This is the fourth annual corporate sustainability report for Diamondback Energy, Inc. (“the Company” 
+or “Diamondback”). Except where otherwise noted, the scope of this report comprises all consolidated 
+operations and includes data through December 31, 2020. This includes operations at our public mid-
+stream subsidiary, Rattler Midstream LP (“Rattler”), but does not include operations at our public mineral 
+and royalty subsidiary, Viper Energy Partners LP (“Viper”), as Viper does not have physical oil and gas 
+operations.
+We developed the contents of this report through research, peer benchmarking and conversations with 
+internal and external stakeholders. The report was prepared with content aligned to voluntary frame-
+works and standards maintained by the Sustainability Accounting Standards Board (SASB), Task Force 
+on Climate-related Financial Disclosures (TCFD), Global Reporting Initiative (GRI), International Petroleum 
+Industry Environmental Conservation Association (IPIECA) and American Exploration and Production 
+Council (AXPC).
+We are pleased to share this document as a summation of our corporate responsibility efforts in 2020 
+and our objectives moving forward.
+Diamondback Energy //  2021 CSR //  1
+TABLE OF CONTENTS
+ 1   About This Report
+ 3   A Message From Our CEO
+ 4  About Diamondback Energy
+ 5   Diamondback Sustainability Targets
+ 6    2020 Financial and Operating  
+Performance Highlights
+ 7   Our Commitment to Environmental  
+Responsibility
+21    Our Commitment to Managing and  
+Reducing Risks
+23   Our Commitment to Governance  
+and Business Ethics
+27  Our Commitment to Our People
+33  Our Commitment to Communities
+36  Advancing With Purpose
+37  Appendix: Key Performance Indicators
+41  SASB Index
+44		Report	of	Independent	Certified	 
+Public Accountants
+
+Addressing Our Material Topics
+We focus our corporate responsibility strategy and initiatives in areas that are materially relevant to our 
+business	performance	and	where	we	can	make	a	significant	positive	impact.	Our	material	topics	detailed	
+throughout this report include:
+Engaging Our Stakeholders
+We seek to incorporate a variety of perspectives in our ESG strategy and initiatives. Our engagement efforts 
+with key stakeholder groups are outlined below and covered in greater detail throughout this report.
+STAKEHOLDERS ACTIVITIES AND OPPORTUNITIES
+Stockholders
+  Engaging at least annually for insights and suggestions regarding our  
+corporate governance standards, compensation and sustainability efforts
+ Met with investors representing more than 65% of outstanding shares in 2020
+Diamondback employees
+  Regular employee communications
+  Skills training and professional development courses
+  Leadership development programs
+Community members
+  Interaction and outreach through volunteer programs, service projects  
+and other events
+  Support of new and expanded learning opportunities in local school districts
+Surface and mineral  
+interest owners
+  On-site visits with property owners when planning new or expanded projects, 
+such as drilling
+  Access to our owner relations team
+Regulatory agencies    Ongoing communication with federal, state and local agencies
+  Support for development of industry-relevant public policy
+Board of Directors
+		Regular	briefings	to	the	Safety,	Sustainability	and	Corporate	Responsibility	
+Committee (SSCR) from management on corporate responsibility and  
+ESG strategies
+  Review of ongoing risks and opportunities related to sustainability practices
+Supply chain partners
+  Regular screening and evaluation of contractors
+  Guidance and support in meeting our performance and compliance standards
+  Vendor audits
+ESG research providers
+  Progress updates on new disclosures
+  Consideration of performance measures in reporting
+  Conversations to better understand ESG standards and how performance  
+is assessed
+Diamondback Energy //  2021 CSR //  2
+»  ENVIRONMENTAL RESPONSIBILITY  encompassing climate change, greenhouse gases and emis-
+sions,	flaring,	water	usage	and	recycling,	spills	and	spill	management,	waste	and	biodiversity
+»  MANAGING AND REDUCING RISKS  through our attention to safety, security and emergency 
+preparedness
+»  GOVERNANCE AND BUSINESS ETHICS  spanning corporate governance, business ethics  
+and compliance
+»  OUR PEOPLE  through advancing diversity, equity and inclusion, human rights, health and safety, training, 
+and professional development for all Diamondback employees
+»  COMMUNITIES  through our outreach, philanthropy, volunteerism and investment
+
+Looking Forward
+If there is a silver lining to the storms that we endured in 
+2020,	it	is	that	these	struggles	verified	the	strength	not	only	
+of employees and our operations, but also our ESG princi-
+ples and corporate values. We rebounded from adversity by 
+steadfastly doing business the right way—for our stockhold-
+ers, our employees and our communities. We upheld our 
+commitments to operating sustainably, doing so with integ-
+rity and supporting the communities where we live  
+and operate.
+All of these achievements exemplify the passion, creativity 
+and talents of our 700-plus employees and hundreds of 
+contractors. You have my heartfelt appreciation and utmost 
+respect. I also want to thank our stockholders for the con-
+fidence	that	you	place	in	Diamondback.	We	are	honored	to	
+serve you.
+We remain committed to doing business in the right way—
+guided	by	our	five	core	values	of	integrity,	leadership,	excel-
+lence, people and teamwork.
+Sincerely,
+Despite the challenges caused by the global pan-
+demic, I am proud to say our corporate responsibility 
+improved throughout 2020. We consciously worked to 
+protect all of our stakeholders through the pandemic 
+and improved all facets of our environmental, social 
+and governance performance. We stayed true to our 
+values through the lowest points of 2020 and rallied 
+as	a	united	team	to	finish	the	year	from	a	position	of	
+strength. The trials that we overcame have made us 
+stronger, more resourceful and better prepared to  
+capitalize on the next wave of opportunities that will 
+present themselves in 2021 and beyond.
+Throughout 2020, our full-time employees and hun-
+dreds of contractors continued to report to work, 
+whether	in	the	field	or	remotely,	regardless	of	the	
+external conditions. We provided all our employees 
+with the means to continue to work safely throughout 
+the pandemic, and I am proud of how they responded 
+to this challenge. Our human resources (HR) team 
+coordinated with our health, safety and environmental 
+(HSE) group on a pandemic response “E-Plan,” ranging 
+from providing face coverings and hand sanitizer, and 
+requiring	social	distancing	to	flexible	work-from-home	
+arrangements. Our managers and HR representatives 
+also reached out to every employee at several points 
+during the year to check on their well-being.
+These actions helped sustain Diamondback through 
+the	most	difficult	period	in	our	nine-year	history	as	a	
+public company, which in turn enabled us to continue 
+investing in corporate responsibility initiatives that 
+create	economic,	social	and	educational	benefits	in	our	
+communities. Because our life-blood is exclusively in 
+the Permian Basin of West Texas, we care deeply about 
+its future and operate as a responsible and supportive 
+community member.
+Diamondback’s corporate responsibility initiatives center 
+on a dozen key issues that are material to our business 
+and where we can make the most direct impact: risk 
+management, energy intensity, global climate change, 
+emissions, waste and spills, water use and recycling, 
+business ethics, compliance, diversity and inclusion, 
+health and safety, training and education, and commu-
+nity engagement. We reach out often to our stockhold-
+ers, employees and community partners for ideas on 
+how Diamondback can make a more profound, lasting 
+positive impact.
+THE GLOBAL PANDEMIC AS A RESULT OF THE SPREAD OF 
+COVID-19 LED TO SIGNIFICANT CHALLENGES FOR EVERY  
+COMPANY IN 2020. DIAMONDBACK WAS NO EXCEPTION, AS 
+THIS CRISIS CAUSED A HISTORIC DROP IN GLOBAL DEMAND 
+FOR OIL AND RESULTED IN AN UNPRECEDENTED DECLINE IN OIL 
+PRICES. THE PANDEMIC NOT ONL Y AFFECTED THE ECONOMICS 
+OF OUR BUSINESS, BUT ALSO HAD A DIRECT IMPACT ON THE 
+DAIL Y LIVES OF OUR OVER 700 EMPLOYEES.
+Here are a few examples of our 2020 corporate responsibility accomplishments that illustrate how all of us at 
+Diamondback are focused on driving positive change:
+ENVIRONMENT
+We invested more than $30 million in 
+projects designed to reduce our carbon 
+footprint, water use and other environ-
+mental impacts. Results in 2020 included 
+a	58%	drop	in	our	flaring	of	natural	gas	
+and a nearly 10% increase in our recycled 
+water rate. Also, we set new 2025 goals 
+to	end	routine	flaring	and	recycle	more	
+than 65% of water used in operations.
+GOVERNANCE
+Our Board of Directors increased the 
+weighting of ESG performance stan-
+dards in determining short-term incen-
+tive compensation for Diamondback 
+employees, to 20% of the formula. 
+Also, the Board approved a “Net Zero 
+Now” goal: As of January 1, 2021, we 
+are committed to efforts that ensure 
+every hydrocarbon molecule produced 
+by Diamondback will result in zero net 
+Scope 1 emissions.
+DIVERSITY , INCLUSION  
+AND EQUITY
+We	intensified	our	focus	on	nurturing	
+an environment at Diamondback that 
+is inclusive, diverse and equitable, so 
+that all employees feel empowered to 
+contribute their full talents and their best 
+ideas. In 2020, the proportion of women 
+and ethnically diverse employees across 
+management and professional job 
+classes either rose or held steady.
+SAFETY
+Both our workforce total recordable incident and workforce  
+lost-time incident rates decreased compared with 2019. While 
+our ultimate goal is to have zero recordable incidents, we set a 
+2021 target to reduce our total recorded incident rate to 0.25 or 
+less, 50% lower than our previous target. We are also stepping up 
+our vehicle safety training efforts company-wide in 2021.
+COMMUNITY
+We increased our support and contributions to local food banks 
+to assist those impacted by COVID-19 and to supplemental 
+education efforts which are always a focus at Diamondback. 
+Diamondback and our employees piloted and supported read-
+ing, science, technology, engineering, arts and math programs 
+to strengthen underserved students’ skills.
+A Message From  
+OUR CEO
+Diamondback Energy //  2021 CSR //  3
+Travis D. Stice 
+CEO and Director
+
+DIAMONDBACK PERMIAN BASIN ACREAGE*
+Diamondback Acreage
+Delaware Basin
+Central Basin Platform 
+Midland Basin
+Headquartered in Midland, Texas, Diamondback is an independent oil and 
+natural gas company. We began operations in December 2007 with the acqui-
+sition of 4,174 net acres in the Permian Basin of West Texas. The Company 
+incorporated in December 2011 and completed its initial public offering in 
+October 2012. Diamondback operates on nearly 379,000* net acres in the 
+Permian Basin.
+As of December 31, 2020, the Company had 732 full-time employees. We 
+also hire independent contractors and consultants to assist with various 
+business functions. Our common stock is listed on the Nasdaq Global Select 
+Market under the symbol FANG.
+Diamondback focuses on the acquisition, development, exploration and 
+exploitation of unconventional onshore oil and natural gas reserves. Since 
+our formation, we have focused these efforts solely within the Permian Basin.
+Our strategic approach allows us to:
+  Enhance returns through our low-cost development strategy of resource 
+conversion, capital allocation and continued improvements in operational 
+and	cost	efficiencies
+  Focus on increasing hydrocarbon recoveries and maximizing returns 
+through horizontal drilling and development
+  Adopt technologies and best practices that reduce the environmental 
+impact of our operations
+		Increase	production	and	reserves	by	efficiently	developing	our	oil-rich	
+resource base and maximizing its value and resource potential
+  Pursue acquisitions using our proven ability to evaluate resource potential 
+and	identify	those	that	best	meet	our	strategic	and	financial	targets
+		Maintain	financial	flexibility	with	low	leverage
+ABOUT  DIAMONDBACKENERGY
+Diamondback Energy //  2021 CSR //  4
+In	the	first	quarter	of	2021,	Diamondback	completed	the	acquisition	of	all	the	leasehold	interests	and	related	assets	of	Guidon	Operating	LLC,	as	well	as	the	
+acquisition of QEP Resources, Inc. in an all stock merger. These transactions added over 80,000 net acres to our holdings in the Permian Basin.
+*As of 12/31/2020.
+
+DIAMONDBACK  SUSTAINABILITY TARGETS
+Diamondback Energy //  2021 CSR //  5
+2019 2020
+2.0%
+>15.0%17.1%15.8%
+2021
+Target
+<1.0%
+>65.0%
+0
+2
+4
+6
+Flaring
+5.7%
+2019 2020
+9.5
+2024 
+Target
+0
+4
+8
+12
+16
+GHG Intensity
+15.1
+50%
+Reduction
+from 2019
+2019 2020
+0.04
+2024
+Target
+0.07
+70%
+Reduction
+from 2019
+2019 2020
+0.002%
+2021
+Target
+0.000
+0.005
+0.010
+0.015
+Liquid Spill Rate
+0.012%
+0.00
+0.02
+0.04
+0.06
+0.08
+Methane Intensity
+2019 2020 2021
+Target
+2025
+Target
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Water Recycling
+0.420.42
+0.53
+≤0.25
+0.010%
+2018 2019 2020 2021
+Target
+0.0
+0.2
+0.4
+0.6
+Workplace Safety
+2019 2020
+2.0%
+>15.0%17.1%15.8%
+2021
+Target
+<1.0%
+>65.0%
+0
+2
+4
+6
+Flaring
+5.7%
+2019 2020
+9.5
+2024 
+Target
+0
+4
+8
+12
+16
+GHG Intensity
+15.1
+50%
+Reduction
+from 2019
+2019 2020
+0.04
+2024
+Target
+0.07
+70%
+Reduction
+from 2019
+2019 2020
+0.002%
+2021
+Target
+0.000
+0.005
+0.010
+0.015
+Liquid Spill Rate
+0.012%
+0.00
+0.02
+0.04
+0.06
+0.08
+Methane Intensity
+2019 2020 2021
+Target
+2025
+Target
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Water Recycling
+0.420.42
+0.53
+≤0.25
+0.010%
+2018 2019 2020 2021
+Target
+0.0
+0.2
+0.4
+0.6
+Workplace Safety
+2019 2020
+2.0%
+>15.0%17.1%15.8%
+2021
+Target
+<1.0%
+>65.0%
+0
+2
+4
+6
+Flaring
+5.7%
+2019 2020
+9.5
+2024 
+Target
+0
+4
+8
+12
+16
+GHG Intensity
+15.1
+50%
+Reduction
+from 2019
+2019 2020
+0.04
+2024
+Target
+0.07
+70%
+Reduction
+from 2019
+2019 2020
+0.002%
+2021
+Target
+0.000
+0.005
+0.010
+0.015
+Liquid Spill Rate
+0.012%
+0.00
+0.02
+0.04
+0.06
+0.08
+Methane Intensity
+2019 2020 2021
+Target
+2025
+Target
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Water Recycling
+0.420.42
+0.53
+≤0.25
+0.010%
+2018 2019 2020 2021
+Target
+0.0
+0.2
+0.4
+0.6
+Workplace Safety
+2019 2020
+2.0%
+>15.0%17.1%15.8%
+2021
+Target
+<1.0%
+>65.0%
+0
+2
+4
+6
+Flaring
+5.7%
+2019 2020
+9.5
+2024 
+Target
+0
+4
+8
+12
+16
+GHG Intensity
+15.1
+50%
+Reduction
+from 2019
+2019 2020
+0.04
+2024
+Target
+0.07
+70%
+Reduction
+from 2019
+2019 2020
+0.002%
+2021
+Target
+0.000
+0.005
+0.010
+0.015
+Liquid Spill Rate
+0.012%
+0.00
+0.02
+0.04
+0.06
+0.08
+Methane Intensity
+2019 2020 2021
+Target
+2025
+Target
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Water Recycling
+0.420.42
+0.53
+≤0.25
+0.010%
+2018 2019 2020 2021
+Target
+0.0
+0.2
+0.4
+0.6
+Workplace Safety
+2019 2020
+2.0%
+>15.0%17.1%15.8%
+2021
+Target
+<1.0%
+>65.0%
+0
+2
+4
+6
+Flaring
+5.7%
+2019 2020
+9.5
+2024 
+Target
+0
+4
+8
+12
+16
+GHG Intensity
+15.1
+50%
+Reduction
+from 2019
+2019 2020
+0.04
+2024
+Target
+0.07
+70%
+Reduction
+from 2019
+2019 2020
+0.002%
+2021
+Target
+0.000
+0.005
+0.010
+0.015
+Liquid Spill Rate
+0.012%
+0.00
+0.02
+0.04
+0.06
+0.08
+Methane Intensity
+2019 2020 2021
+Target
+2025
+Target
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Water Recycling
+0.420.42
+0.53
+≤0.25
+0.010%
+2018 2019 2020 2021
+Target
+0.0
+0.2
+0.4
+0.6
+Workplace Safety
+2019 2020
+2.0%
+>15.0%17.1%15.8%
+2021
+Target
+<1.0%
+>65.0%
+0
+2
+4
+6
+Flaring
+5.7%
+2019 2020
+9.5
+2024 
+Target
+0
+4
+8
+12
+16
+GHG Intensity
+15.1
+50%
+Reduction
+from 2019
+2019 2020
+0.04
+2024
+Target
+0.07
+70%
+Reduction
+from 2019
+2019 2020
+0.002%
+2021
+Target
+0.000
+0.005
+0.010
+0.015
+Liquid Spill Rate
+0.012%
+0.00
+0.02
+0.04
+0.06
+0.08
+Methane Intensity
+2019 2020 2021
+Target
+2025
+Target
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Water Recycling
+0.420.42
+0.53
+≤0.25
+0.010%
+2018 2019 2020 2021
+Target
+0.0
+0.2
+0.4
+0.6
+Workplace Safety
+NATURAL GAS FLARING 
+(%	of	Gross	gas	flared/gross	gas	produced)
+RECYCLED WATER USAGE
+(% of Recycled water/total water used)
+SCOPE 1 GHG INTENSITY 
+(mt CO2e/gross MBOE produced)
+WORKPLACE SAFETY
+(Employee TRIR)
+METHANE INTENSITY 
+(mt CH4/gross MBOE)
+PRODUCED LIQUID SPILLS (LESS RECOVERED)
+(BBLs of produced liquid spills not recovered/total produced liquids)
+GOAL:
+End routine 
+flaring by 2025
+GOAL:
+>65% recycling 
+by 2025
+GOAL:
+Reduce by 50% 
+by 2024
+GOAL:
+Reduce by 70% 
+by 2024
+2021 GOAL:
+TRIR at or  
+below 0.25
+2021 GOAL:
+<0.01% of  
+produced liquids
+
+Diamondback ended 2020 with estimated proved oil and natural gas reserves of 1,316 MMBOE, including 99.4 
+MMBOE attributable to Diamondback’s publicly traded mineral subsidiary Viper. We produced an average of 300.3 
+MBOE/d in 2020, a 6% increase from 283.0 MBOE/d in 2019. Our 2020 production comprised approximately 60% oil, 
+20% natural gas liquids and 20% natural gas.
+Diamondback realized a cash margin per BOE of 71% in 2020, extending our track record of cost leadership. We 
+generated a full-year return on average capital employed of 4.5% for the year, a result that was substantially affected 
+by	the	difficult	commodity	backdrop	due	to	the	global	pandemic.	However,	our	quick	response	to	the	pandemic	and	
+superior cost control allowed the Company to generate $162 million of Free Cash Flow* in 2020. We also continued 
+returning capital to stockholders through our annual cash dividend, which increased from $1.50 to $1.60 per share in 
+the fourth quarter of 2020.
+More	details	on	our	2020	financial	and	operating	performance	can	be	found	in	our	Form 10-K.
+TOTAL PROVED RESERVES
+(MMBOE )
+0
+300
+600
+900
+1200
+1500
+0
+1
+2
+3
+4
+Total Average Production 
+(BOE/d in Thousands)
+Total Revenues 
+(In Millions)
+1,128
+992
+335
+1,316
+2017 2018 2019 2020
+$4.0
+$2.2
+$1.2
+$2.8
+2017 2018 2019 2020
+0
+300
+600
+900
+1200
+1500
+0
+1
+2
+3
+4
+Total Average Production 
+(BOE/d in Thousands)
+Total Revenues 
+(In Millions)
+1,128
+992
+335
+1,316
+2017 2018 2019 2020
+$4.0
+$2.2
+$1.2
+$2.8
+2017 2018 2019 2020
+TOTAL REVENUE 
+(In billions)
+Diamondback Energy //  2021 CSR //  6
+2020 FINANCIAL AND  OPERATING PERFORMANCE  HIGHLIGHTS
+*Free	Cash	Flow	is	a	non-GAAP	measure.	For	its	definition	and	a	reconciliation	to	a	comparable	GAAP	measure,	please	see	our	earnings release for 2020.
+
+OUR COMMITMENT  TO ENVIRONMENTAL RESPONSIBILITY
+WE RECOGNIZE AND EMBRACE OUR RESPONSIBILITY TO PRODUCE ENERGY SOURCES THAT THE WORLD NEEDS WHILE ALSO LIMITING OUR IMPACT ON THE PLANET . DEVELOPING 
+OUR RESOURCES SUSTAINABL Y AND MINIMIZING THE ENVIRONMENTAL IMPACT OF THIS DEVELOPMENT ARE CORE VALUES IN ALL ASPECTS OF DIAMONDBACK’S BUSINESS.
+Environmental Policy and Environmental Management System
+We are committed to the environmentally responsible exploration, exploitation, acquisition and production of oil, nat-
+ural gas and natural gas liquids. We are dedicated to performing these duties in compliance with applicable federal, 
+state and local laws, including laws regulating emissions of greenhouse gases, such as methane. We take actions 
+beyond those required by law to reduce methane and other greenhouse gas (GHG) emissions, recycle an increasing 
+percentage	of	water	and	make	significant	investments	in	infrastructure	to	reduce	environmental	impact.	Our	environ-
+mental management system consists of gas leak detection and repair, spill tracking and remediation, and combustion 
+source	identification	and	reduction	programs.	Through	these	programs	we	monitor	and	measure	our	environmental	
+performance	company-wide.	Management	and	operational	teams	review	this	data	on	a	regular	basis	to	find	areas	of	
+improvement and initiate corrective actions.
+Our environmental protection actions in 2020 included implementing better mitigation solutions and developing 
+stronger preventative maintenance plans to help reduce the Company’s environmental footprint on both an absolute 
+and per barrel basis. Also, our incentive compensation for employees throughout the Company is tied to achievement 
+of our environmental responsibility targets. This compensation change was implemented in our 2020 Short Term 
+Incentive (STI) scorecard with a 15% weighting, and subsequently expanded in 2021 to a 20% weighting.
+We continually investigate, evaluate and incorporate the best available control technology (BACT), wherever feasible, 
+to reduce or prevent adverse environmental impacts from our operations. Diamondback invested more than $30 mil-
+lion on various projects in 2020, and we plan to invest another $60 million through 2024 toward achieving our environ-
+mental	responsibility	objectives	and	five-year	targets.
+Through these efforts, we are on track to reduce Diamondback’s environmental impact over the next four years, as 
+highlighted in the tables throughout this section. Additional details about our environmental data and calculations can 
+be found in the Appendix starting on page 37.
+Diamondback Energy //  2021 CSR //  7
+
+Diamondback Energy //  2021 CSR //  8
+The table below summarizes our key efforts to address primary sources of Scope 1  
+GHG emissions from Diamondback’s production operations.
+AS OF JANUARY 1, 2021, EVERY HYDROCARBON MOLECULE 
+PRODUCED BY DIAMONDBACK IS ANTICIPATED TO BE 
+PRODUCED WITH ZERO NET SCOPE 1 EMISSIONS.
+NET ZERO 
+NOW
+SOURCE ACTIVITY ACTIONS 
+Combustion
+Gas-lift engines 
+  Began installing electric drive compression on new  
+compressor installs
+  Active replacement of existing natural gas combustion  
+compression	fleet	with	electric
+Electrical generation   Replaced gas-powered generators with line power 
+Flaring 
+Routine
+  Connected all new wells to sales pipelines prior to well completion
+		Shut	in	oil	production	to	prevent	or	limit	flaring	wherever	possible
+  Obtained multiple sales connections wherever possible
+Non-routine
+  Improved third-party maintenance planning
+  Reduced third-party downtime
+  Resolved third-party capacity constraints
+	Shut	in	oil	production	to	prevent	or	limit	flaring	wherever	possible
+Atmospheric  
+storage tanks Oil tank emissions 
+  Installed additional engineered controls to eliminate venting
+		 	Installed	16-ounce	tanks	to	drive	remaining	flash	gas	to	
+combustors
+  Limited tank facility design to eliminate tank emissions
+Natural gas  
+pneumatic devices Device actuating
+  Continued to replace natural gas controllers with compressed air 
+units; plan to replace nearly all natural gas controllers with com-
+pressed air units
+Equipment leaks Leak detection  
+and repair (LDAR)
+		Initiated	quarterly	drone	flyover	inspections	of	all	batteries	in	
+2021; well above and beyond regulatory requirements
+  Added monthly inspections and reporting
+  Implemented continuous monitoring pilots in 2021 and plan to 
+install permanent systems by year-end
+  In 2021, created Forward Looking InfraRed (FLIR) teams in 
+Operations and Air Compliance to increase frequency of leak 
+detection monitoring
+Energy and Greenhouse Gas 
+Management
+Consistent with our overall approach to environmental responsibility, we strive to limit and capture air 
+emissions by implementing BACT on all new facilities and wells. BACT projects include various infra-
+structure	applications,	such	as	fitting	our	tanks	with	vapor	recovery	towers	and	compressors	that	can	
+capture more than 95% of possible emissions. This process encompasses the majority of the $60 million 
+we plan to spend over the next four years to meet our GHG and methane intensity reduction targets.
+OUR “NET ZERO NOW” COMMITMENT
+Effective January 1, 2021, we committed to achieving zero net Scope 1 GHG emissions from our oil and 
+gas production. Along with taking aggressive steps to cut emissions and reduce our GHG intensity, we will 
+purchase carbon offset credits equivalent to our remaining Scope 1 emissions. Over time, we plan to invest 
+in additional projects that more directly offset our Scope 1 emissions, but the Net Zero Now project shows 
+our commitment to environmental responsibility today. Hitting and exceeding our emissions reduction tar-
+gets will be the priority, but the purchase of carbon offsets can be seen as our “bridge” to the time when our 
+project investments can supplement the reduction of our carbon footprint.
+Diamondback secured voluntary carbon offsets that are registered in the American Carbon Registry. The 
+projects associated with these offsets include the capture, transportation and sequestration of carbon 
+dioxide in Texas and Wyoming. These projects represent goals 9 (industry, innovation and infrastructure) 
+and 13 (climate action) of the United Nations’ Sustainable Development Goals.
+
+Diamondback Energy //  2021 CSR //  9
+GHG EMISSIONS REDUCTION PROGRAMS
+Diamondback is committed to mitigating our GHG emissions. 
+We simultaneously implement various emissions control, detec-
+tion and repair objectives in order to honor this commitment. 
+For us to determine the BACT for emissions, we must have 
+robust detection and monitoring to validate and respond to 
+failures of control devices. In 2021, we plan to launch trials 
+of four different technology systems to establish continuous 
+monitoring and response in our operations. Data collection 
+and alarming capabilities will allow us to rapidly identify and 
+respond to leaks associated with equipment malfunction or 
+failure prior to an extended release. The data we collect from 
+these systems enables us to enact preventative maintenance 
+plans for future incidents. 
+To monitor our facilities for fugitive emissions, we conduct 
+on-the-ground inspections for LDAR. These inspections, con-
+ducted at least semi-annually, allow us to meet our regulatory 
+requirements while also giving us another opportunity to 
+find	and	repair	previously	unknown	leaks.	 Diamondback	has 	
+trained	dedicated	field	 staff	who	use	FLIR	cameras	 to	monitor	
+our	assets	daily	and	 repair	any	 leak	identified.	Our	 internal	Air 	
+Compliance group is also equipped with FLIR cameras for for-
+mal internal inspections and reporting. 
+Diamondback is adapting technology to mature beyond 
+manned on-the-ground monitoring. In 2021, we began con-
+ducting	quarterly	 drone	flyovers	which	inspect	our	 facilities	
+for emissions releases. An independent third-party conducts 
+the	quarterly	 drone	flyovers	and	 provides	immediate	data	 to	
+us	to	plan	repairs.	 The	drone	flyovers	increase	the	frequency 	
+of our inspection and monitoring and thus should improve our 
+response time to a fugitive emission source.
+Our goal is to implement real-time continuous monitoring of 
+fugitive emissions. In order to monitor one common source of 
+fugitive	emissions	in	 real-time,	we	are	installing	flame	 sensor	
+technology	 on	many	of	our	flare	systems	to	alert	 us	when	the	
+flare	should	be	lit	but	 no	flame	is	present.	The	sensor	alerts 	
+our	personnel	to	re-ignite	 the	flame	or	 shut	the	well	in	to	pre-
+vent gas from venting. 
+We continue to seek out the best practices and technology to 
+achieve our GHG emissions goals. Our engineering staff and 
+field	personnel	participate	in	quarterly	roundtable	discussions 	
+to identify design changes that could help us better capture 
+emissions moving forward. Recently, we engaged a third-party 
+GHG	Intensity	 engineering	firm	to	review	our	 standard	facility 	
+design and make recommendations to improve control-related 
+emissions while optimizing operations. We accepted all of 
+the recommendations made and we have begun to implement 
+these changes across all of our horizontal facilities.
+We use renewable energy in the form of solar-powered pumps 
+for chemical delivery, automated valves (where appropriate) 
+and lighting. We are currently exploring opportunities for more 
+solar	installations	 throughout	our	operating	fields	to	meet	 our	
+electricity needs with renewable power.
+ELECTRIFICATION OF COMBUSTION SOURCES
+We are expanding our use of electricity-powered compres-
+sors, which emit less GHG compared to natural-gas-fueled 
+equipment. Since 2020, we have eliminated more than 100 
+gas-powered generators and compressors throughout the 
+Company.	A	small	percentage	of	our	compression	fleet	is	cur-
+rently electric and our goal is to install electric compression 
+going forward when operationally feasible. We have decreased 
+generated horsepower by 25% and now have less than 15% of 
+our total load provided by gas generators. By the end of 2021, 
+we expect to remove over 25 more generators while increasing 
+the percentage of our load powered by line power to over 90%. 
+Additionally,	we	intend	to	run	our	first	drilling	rig	on	electricity	
+supplied directly from power lines instead of through a genera-
+tor in 2021. While we will not be able to run all of our rigs off of 
+line power versus on-site generators, we will look to expand that 
+capability wherever possible.
+GHG EMISSIONS INTENSITY LEVEL  
+(mt CO2e/Gross MBOE) IN 2020, A  
+37% DECREASE COMPARED WITH 2019 19.5
+12020 emissions data is pending EPA review.
+0
+6
+12
+18
+0.00
+0.01
+0.02
+0.03
+0.04
+0.05
+0.06
+0.07
+0.08
+GHG Intensity
+Methane Intensity
+15.1
+9.5
+2019 2020
+0.07
+0.04
+2019 2020
+0
+6
+12
+18
+0.00
+0.01
+0.02
+0.03
+0.04
+0.05
+0.06
+0.07
+0.08
+GHG Intensity
+Methane Intensity
+15.1
+9.5
+2019 2020
+0.07
+0.04
+2019 2020
+SCOPE 1 GHG INTENSITY
+(mt CO2e/Gross MBOE)
+METHANE INTENSITY
+(mt CH4/Gross MBOE)
+37% 43%
+
+Diamondback Energy //  2021 CSR //  10
+Flared Gas
+Historically,	natural	gas	 flaring	has	been	the	largest	source 	
+of Diamondback’s GHG emissions. As such, one of our top 
+priorities to minimize GHG emissions is to eliminate routine 
+gas	flaring.	 We	flared	approximately	2.0%	 of	our	gross	natural 	
+gas produced in 2020 compared with approximately 5.7% in 
+2019—a 65% reduction. 
+Much	of	Diamondback’s	flaring	in	2020	stemmed	from	the	activ-
+ities of our third-party midstream gatherers and processors. We 
+continue to work with our midstream providers by implementing 
+operational and commercial solutions to incentivize performance. 
+Diamondback also actively works to obtain multiple gas sales 
+connections at our larger gas producing batteries wherever 
+possible.	This	allows	us	to	flow	gas	to	the	secondary	outlet	and	
+minimize	flaring	in	the	event	a	third-party	gatherer	and	processor	
+has planned maintenance or experiences a force majeure event. 
+We are committed to solutions-oriented discussions with our 
+midstream partners to remedy areas of poor performance, but we 
+need them to commit to the same level of environmental respon-
+sibility expected of us as the operator. While these solutions 
+often	reduce	our	cash	flow,	we	have	commercially	incentivized	
+our third-party gatherers to move our gas to market. We seek to 
+re-negotiate	contracts	with	our	midstream	providers	to	fixed	fees	
+wherever possible, as this fee structure removes the potential for 
+gatherers to elect not to take our gas for economic reasons. We 
+have also proactively shut in or curtailed our own oil production 
+to	limit	or	minimize	flaring	due	to	third-party	downtime	or	lack	of	
+sufficient	takeaway.	While	such	actions	decrease	Diamondback’s	
+oil production and impact our revenue, we believe they are neces-
+sary in setting the example that industry behaviors must change 
+to	eliminate	routine	flaring.
+TARGETING THE SOURCES AND CAUSES OF FLARES
+We continue to implement improved technologies and adopt 
+onsite practices that move us closer to our ultimate goal:  
+prevent air emissions from coming off the tanks and drastically 
+reduce	combustion	and	flaring.	In	2020,	we	implemented	new	
+monitoring	and	data	collection	technology	to	enable	our	field	
+teams and supervisors to evaluate and effectively respond to a 
+flaring	incident.	We	established	a	daily	tracking	system	to	identify	
+flaring	events	and	air	emissions	which	are	then	evaluated	with	
+the same rigor as if they were an oil or water spill on the ground, 
+including root-cause analysis and continuous monitoring for 
+improvement.
+Since 2014, the standard Diamondback facility design has 
+employed vapor recovery towers and vapor recovery units. 
+These	systems	have	decreased	the	flash	of	gas	in	tanks	by	
+more than 80% and allowed for the sale of previously com-
+busted vapors. Additionally, Diamondback has made a design 
+change to our tanks and will incorporate 16-ounce tanks mov-
+ing forward. Moving to this higher rated tank helps reduce the 
+amount of vapor released into the atmosphere by allowing 
+those built-up fumes to reach a control device instead.
+In 2020, we started operating a new compressed natural gas 
+(CNG)	plant	in	one	of	our	Southern	Delaware	Basin	fields.	This	
+gave	us	the	capacity	to	reduce	potential	flaring	by	several	mil-
+lion standard cubic feet (scf) per day where takeaway capac-
+ity	was	insufficient.	Working	with	our	gatherer,	we	have	now	
+secured ample takeaway and decommissioned this CNG facility, 
+but we will not hesitate to implement this strategy again should 
+the need arise.
+We	have	set	a	short-term	target	for	2021	to	flare	less	than	1.0%	
+of our gross natural gas production and will continue to set short-
+term targets in our company STI scorecard. Our long-term goal 
+is	to	eliminate	routine	flaring	(as	defined	by	the	World	Bank)	by	
+2025 while taking into consideration the safety of our operations.
+GAS FLARED AS A PERCENTAGE OF 
+GROSS NATURAL GAS PRODUCTION
+2018 2019
+5.7%
+2020
+0
+2
+4
+6
+Gas Flares
+4.2%
+2.0%
+65%
+
+Water Usage 
+and Water Risk 
+Management
+Diamondback is dedicated to the responsible use of water. We use 
+the World Resources Institute’s Aqueduct Water Risk Atlas to cat-
+egorize scarce water zones in our operating area. This tool helps 
+guide us to make environmentally responsible decisions for future 
+water needs. We recognize that our operations are primarily located 
+in a water scarce region. As such, we aim to minimize our draw on 
+local resources, particularly communities’ available supply of fresh-
+water. We use a blend of recycled produced water, brackish water 
+and freshwater for our drilling and completion operations across our 
+asset base, with an increased focus on both produced and brackish 
+water as our primary options. We have a short-term goal to use pro-
+duced water for 15% of the water used in our completion operations 
+in 2021 as set out in our company STI scorecard, up from 10% in 
+2020. We will continue to set short-term goals in our scorecard in 
+the coming years. Our long-term target is to source over 65% of our 
+water used for drilling and completion operations from recycled 
+sources by 2025.
+Our investments of more than $63 million in 2019 to improve our 
+water recycling, gathering and disposal infrastructure continued to 
+yield	benefits	over	the	course	of	2020.	We	increased	our	use	of	recy-
+cled water for operations to 17.1% of the total volume in 2020, com-
+pared with 15.8% in 2019 and 9.9% in 2018. Our freshwater intensity 
+rate decreased to 0.20 BBL/Gross BOE in 2020 compared with 0.51 
+in 2019.
+We source brackish (non-potable) water for our drilling and hydraulic 
+fracturing operations where it is available and economically feasible. 
+This helps conserve the available supply of freshwater, since the 
+brackish water we use is generally too high in salinity for irrigation or 
+household use. 
+In	2020,	we	revised	our	definition	of	brackish	water	to	conform	with	
+the	AXPC	standard.	AXPC	classifies	water	containing	up	to	1,000	
+parts per million (ppm) of total dissolved solids as fresh. Under the 
+AXPC standard, brackish water comprised 59% of our total water vol-
+ume used in operations and freshwater comprised 24% of the total 
+in 2020. The remaining 17% was recycled water.
+We are also building new water storage and treatment facilities 
+that will hold up to 10 MMBBLs of recycled water to be used for our 
+completions or share with other oil and gas producers in the region. 
+This has enabled us to increase our long-term goal of using more 
+than 65% of recycled water in operations by 2025, up from 25% last 
+year. Our short-term 2021 target is to use more than 15% of recycled 
+water in operations.
+For more details on Diamondback’s water-management program and 
+processes, please refer to our 2021 CDP Water Security response.
+Managing Induced 
+Seismicity
+When we are not able to recycle produced water, we inject it under-
+ground responsibly. In response to research literature suggesting an 
+association between hydraulic fracturing and minor tremors or other 
+seismic activity below ground, we invested in additional equipment in 
+2020 to monitor and report on potential induced seismicity events. We 
+not only use the readouts from these seismic monitoring stations in 
+our risk analyses of site locations, but also share data with university 
+and state government researchers. Diamondback complies with appli-
+cable federal and state regulations on underground injection control.
+TOTAL WATER USED IN  
+OPERATIONS
+(MMBBLs)
+103.4
+176.8
+99.9
+2018 2019 2020
+0
+50
+100
+150
+200
+Water used in operations
+17.1%
+15.8%
+9.9%
+2018 2019 2020
+0
+5
+10
+15
+20
+Water recycle rate
+0.20
+0.51
+1.61
+2018 2019 2020
+0.0
+0.5
+1.0
+1.5
+2.0
+Fresh Water Intensity
+103.4
+176.8
+99.9
+2018 2019 2020
+0
+50
+100
+150
+200
+Water used in operations
+17.1%
+15.8%
+9.9%
+2018 2019 2020
+0
+5
+10
+15
+20
+Water recycle rate
+0.20
+0.51
+1.61
+2018 2019 2020
+0.0
+0.5
+1.0
+1.5
+2.0
+Fresh Water Intensity
+WATER RECYCLE RATE
+(BBL/BBL)
+103.4
+176.8
+99.9
+2018 2019 2020
+0
+50
+100
+150
+200
+Water used in operations
+17.1%
+15.8%
+9.9%
+2018 2019 2020
+0
+5
+10
+15
+20
+Water recycle rate
+0.20
+0.51
+1.61
+2018 2019 2020
+0.0
+0.5
+1.0
+1.5
+2.0
+Fresh Water Intensity
+FRESH WATER  
+INTENSITY
+(BBL/Gross BOE)
+Diamondback Energy //  2021 CSR //  11
+
+Diamondback Energy //  2021 CSR //  12
+Spills and Spill Management
+Diamondback	is	dedicated	to	preventing	the	release	of	fluid	from	containment	as	
+part of our commitment to protect our employees, our communities and the planet. 
+We	hold	ourselves	accountable	to	exceed	industry	standards	for	effluent	manage-
+ment as well as spill prevention control and countermeasures. Our 2021 target is to 
+spill less than 0.01% of the gross barrels of produced liquids, and we will continue 
+to have a short-term goal in our future company scorecards. Utilizing our knowledge 
+from past experiences enables us to minimize the impact of spills on the outside 
+environment.
+Spill-prevention controls and countermeasures are ingrained in our operational 
+culture. We are committed to installing properly designed equipment, inspecting 
+facilities regularly, implementing a vigorous preventative maintenance program 
+and ensuring our employees follow appropriate handling practices. 
+A	multifunctional	team	gathers	monthly	to	review	each	spill,	verifying	its	classifi-
+cation, failure mechanism and location. We use a comprehensive dashboard to 
+assess	trends	and	create	data-driven	recommendations	for	design	modifications,	
+additional preventive maintenance, and revised operational practices to eliminate 
+similar issues in the future. 
+Currently, more than 98% of our produced water is handled via pipelines, and 
+we continue to increase that percentage. Additionally, we conduct 100% of 
+our water movement for completion operations via pipeline. Prior to beginning 
+completion operations on a well, we require our transfer services contractors to 
+perform a leak and pressure test on the pipelines being used. We set minimum 
+operational	standards	and	equipment	specifications	that	must	be	adhered	to	
+during active completions. We create and maintain Spill Prevention Control and 
+Countermeasure (SPCC) plans in accordance with federal regulations for our pro-
+duction facilities. We evaluate all new facilities and implement SPCC plans to  
+better	protect	additional	locations	not	specifically	mentioned	in	the	regulation.	 
+For example, the majority of our batteries are constructed with a lined secondary 
+containment area for recovering liquids that might be lost in the event of a release.
+While we are still working to reduce our spill rate, in 2020 we recovered approximately 
+68% of the volume of spills that occurred. We track both spilled and recovered 
+volumes	and	have	spent	significant	capital	on	secondary	forms	of	containment	to	
+minimize the impact of each spill. 
+SPILL-PREVENTION TECHNOLOGIES
+We install high-liquid-level alarms on storage tanks as well as high-level “well-
+kill” systems. The high-level alarm allows operations personnel to proactively 
+respond to situations at each facility. As an additional protection measure, the 
+“well-kill” or shutdown signal will automatically shut in the wells to avoid tank 
+overflows.	Through	additional	automation	 at	Diamondback	 facilities,	 lease	oper-
+ations personnel can view tank levels and production data on their phones and 
+computers.
+In 2020, we also rolled out a new incident reporting system that enables our 
+employees and contractors to communicate more effectively for faster spill 
+response and remediation. 
+SPILL RECOVERY
+On most facilities, Diamondback constructs secondary containment with an imper-
+vious barrier around our tank batteries and salt water disposal facilities. In the event 
+of a liquid release, we strive to capture any released liquids and return them to the 
+tank with no impact on the ecosystem around the facility. We track all spills and 
+recoveries, regardless of size, in our software system. Senior management routinely 
+reviews spill and recovery data and tracks current versus past performance in tan-
+dem with our stated goals.
+Our goal for any release is timely response and effective mitigation. We work with 
+third-party contractors to implement proven methodologies for soil remediation that 
+meet	or	exceed	regulatory	requirements.	We	require	soil	testing	by	certified	labo-
+ratories to ensure closure requirements are achieved. Our goal is simple, leave the 
+land on which we operate better than how we found it.
+TOTAL LIQUID SPILL 
+VOLUMES
+(MBBL)
+LIQUID SPILL RATE
+(BBL/MBBL)
+26.8
+97.2
+2019 2020
+0
+20000
+40000
+60000
+80000
+100000
+Spill Count
+0.07
+0.24
+2019 2020
+0.00
+0.05
+0.10
+0.15
+0.20
+0.25
+Spill Volume
+635
+832
+2019 2020
+0
+200
+400
+600
+800
+1000
+Spills
+NUMBER OF SPILLS
+26.8
+97.2
+2019 2020
+0
+20000
+40000
+60000
+80000
+100000
+Spill Count
+0.07
+0.24
+2019 2020
+0.00
+0.05
+0.10
+0.15
+0.20
+0.25
+Spill Volume
+635
+832
+2019 2020
+0
+200
+400
+600
+800
+1000
+Spills
+26.8
+97.2
+2019 2020
+0
+20000
+40000
+60000
+80000
+100000
+Spill Count
+0.07
+0.24
+2019 2020
+0.00
+0.05
+0.10
+0.15
+0.20
+0.25
+Spill Volume
+635
+832
+2019 2020
+0
+200
+400
+600
+800
+1000
+Spills
+
+Waste
+Reducing waste in our operations not only helps the environment, but also makes sound business sense. 
+Since production and completions typically generate negligible waste, we primarily focus on minimizing 
+waste at our drilling sites.
+A portion of the wells we drill in the Permian Basin require the use of an oil-based mud called diesel 
+invert. After use, we dry the cuttings from drilling operations to a level of less than 5% total petroleum 
+hydrocarbons (TPH) and re-use the oil based mud we collect in the process. We further treat the cuttings 
+to less than 1% TPH before deep-burying it on site. Our ability to treat cuttings onsite also helps reduce 
+the volume of trucks required to haul to disposal. 
+In	2021,	we	began	using	water-based	mud	in	our	drilling	operations,	which	not	only	has	significantly	 
+improved our drilling performance, but is also more environmentally-friendly and reduces the need to treat 
+cuttings as previously described. This process has been successful in the Midland Basin and we are cur-
+rently testing it in the Delaware Basin. By the end of 2021, we expect to eliminate the need to use oil-based 
+mud in all of our drilling operations in the Midland Basin, where over 75% of our wells are drilled.
+Land Use and Biodiversity
+Diamondback works to protect biodiversity and minimize adverse environmental impacts associated 
+with our operations. We collaborate with landowners, regulatory agencies, local government representa-
+tives and other stakeholders in developing natural resource management plans geared toward minimiz-
+ing disturbances and restoring habitat in affected areas.
+MINIMIZING IMPACT
+Our teams perform satellite-image reviews of potential pad and battery sites to spot topographical fea-
+tures, such as playas, that may require avoidance. Next, a site visit is performed with the landowner to 
+identify potential impacts not discovered by the prior satellite review. 
+As part of our drilling plans, we seek to utilize existing pads and batteries to reduce the amount of disrup-
+tion to new land. In addition, we are drilling more wells per drilling pad. We averaged nearly 2.7 wells per 
+pad in 2020 compared with 2.5 in 2019. We also drill longer laterals when possible to access more res-
+ervoir area with less surface impact. In 2020, our average lateral length for wells completed was 10,585 
+feet compared with 9,598 feet in 2019, a 10% improvement.
+Diamondback continues to work with The Environmental Partnership, composed of more than 80 com-
+panies in the oil and gas industry committed to continuously improving environmental performance. This 
+group collaborates on initiatives to reduce emissions of methane and volatile organic compounds from 
+industry operations.
+In 2020, we helped drive The Environmental Partnership’s efforts to improve LDAR practices across oil 
+and gas production sources. We also took a lead role in encouraging member companies to replace all 
+high-bleed pneumatic controllers with low- or zero-bleed technologies over the next four years.
+We also contribute to environmental initiatives through our work with other industry groups, including:
+  Texas Oil & Gas Association
+  Permian Basin Petroleum Association
+  American Exploration & Production Council 
+  Permian Basin Water Management Council
+UNITED IN DRIVING  
+SUSTAINABLE PRACTICES
+Diamondback Energy //  2021 CSR //  13
+
+RECLAMATION AND RESTORATION
+When a well reaches the end of its economic life, we have a three-step process to plug and reclaim 
+that wellbore and its pad site.
+The	first	step	is	 to	temporarily	 abandon	(TA)	the	wellbore	by	removing	 the	downhole	production	 equip-
+ment and setting a plug in the production casing above the top perforations, as well as closing all 
+surface	valves.	This	practice	ensures	 we	have	redundant	barriers	that	 prevent	reservoir	fluids	from 	
+being	able	to	flow	 to	the	surface.	In	 2020,	we	TA’d	94	wells,	primarily	older	vintage	 vertical	wells	in	the 	
+Midland Basin.
+The second step is to plug and abandon (P&A) the well after a period of time. We endeavor to plug and 
+abandon wells in a manner that is at or above the requirements of the Texas Railroad Commission 
+(TRRC). We currently plan to P&A 10% or more of our inactive wellbores each year. For reference, we 
+P&A’d 37 wells in 2020, even when facing the budget constraints presented by the global pandemic 
+and fall in commodity prices.
+The	final	step	in	this	process	 is	the	surface	 remediation	 of	the	well	pad.	During	 this	step	we	con-
+sult with landowners on how they would like the well pads reclaimed. If the landowner wants the 
+pad and road removed, the caliche rock on the pad and road is reused to repair other lease roads. 
+Approximately 95% of the caliche rock from remediated pads was reused to repair roads in 2020. The 
+bare land where the lease road and well pad were located is either re-seeded or left bare according to 
+the landowner’s request.
+ENDANGERED SPECIES
+In 2021, Diamondback enrolled in a candidate conservation plan with assurances (CCAA) through the 
+U.S. Fish & Wildlife Service in order to ensure the protection of the Dunes Sagebrush Lizard. The lizard 
+is native to the shinnery oak of Mescalero Sands of New Mexico and the Monahans Sandhills of Texas. 
+This includes portions of Andrews, Crane, Ector, Gaines, Ward and Winkler Counties. The CCAA is com-
+pletely voluntary and will ensure preservation of the species on shared land with oil and gas production.
+Compliance
+Our oil and natural gas exploration, development and production operations are subject to stringent envi-
+ronmental laws and regulations, including those related to waste handling, remediation of hazardous 
+substances, water discharge and air emissions. In 2020, Diamondback completed or initiated a total of 
+223 compliance audits involving acquired facilities in accordance with the Texas Environmental, Health, 
+and Safety Audit Privilege Act.
+Diamondback also participated in the Texas Commission on Environmental Quality’s Permian Basin “Find 
+It	and	Fix	It”	program.	This	program	encourages	air	quality	compliance	for	operators	and	ensures	defi-
+ciencies are timely and properly corrected.
+Building upon the Company’s initial work in 2019 to reduce light pollution from our drilling operations near 
+McDonald Observatory, we installed new “halo” crown lights at all Diamondback drilling locations in the 
+Permian	Basin	during	2020.	As	a	result,	we	became	certified	as	a	member	of	the	observatory’s	Dark	Skies	
+Initiative in January 2021.
+Our low-luminosity lighting and related practices contribute to more optimal nighttime viewing conditions 
+in the region. Reduced light pollution also helps minimize impacts on nocturnal wildlife. Beyond these envi-
+ronmental	benefits,	our	new	halo-style	lighting	improves	overall	site	visibility,	safety	and	productivity	in	our	
+drilling operations.
+DARK SKIES INITIATIVE
+Diamondback Energy //  2021 CSR //  14
+
+SPOTLIGHT:2021 CLIMATE CHANGE ANALYSIS
+Diamondback’s approach to managing climate risk is aligned with the TCFD recommendations for analyzing the potential impacts of climate-related risks 
+and	opportunities	to	our	business.	The	TCFD	provides	a	framework	of	recommended	disclosures	for	companies	like	Diamondback,	including	five	reporting	
+elements: governance, strategy, risk management, scenario analysis, and metrics and targets. We acknowledge that the world is undertaking an energy 
+transition, and the timing and scale of this transition to a lower-carbon economy remain uncertain. The TCFD framework allows us to evaluate and commu-
+nicate to our stakeholders how we believe our oil and gas portfolio could be impacted by an energy transition using different assumptions over time.
+DIAMONDBACK AND ITS STAKEHOLDERS ARE COMMITTED TO UNDERSTANDING THE POTENTIAL IMPACT OF GROWING ALTERNATIVE 
+ENERGY SOURCES AND THE TRANSITION TO A LOWER-CARBON ECONOMY ON DIAMONDBACK’S OIL AND GAS PORTFOLIO. 
+Diamondback Energy //  2021 CSR //  15
+
+Diamondback Energy //  2021 CSR //  16
+TCFD RECOMMENDED 
+DISCLOSURE DIAMONDBACK’S RESPONSE
+Governance
+As Diamondback’s ESG strategy evolves, management regularly interacts with the board and its committees, including its SSCR committee. 
+The SSCR committee was formed in 2019 to 
+i.  review and provide guidance on Diamondback’s policies and performance regarding ESG matters, 
+ii.		advise	the	board	of	directors	and	management	on	significant	public	issues	that	are	pertinent	to	the	Company,	and	
+iii.  assist management in setting strategy, establishing goals and integrating ESG matters into strategic and tactical business activities across the Company.
+Strategy
+Diamondback considers risks as far into the future as practicable given the variability in regulatory, economic and technological circumstances. While there is much speculation around climate-related risks and 
+opportunities,	we	are	not	always	in	a	position	to	act	on	a	potential	risk	or	to	benefit	from	a	potential	opportunity	without	adequate	available	information.	We	have	outlined	our	specific	climate-related	risks	and	 
+opportunities below.
+Scenario Analysis
+Last year, the impact of COVID -19	intensified	the	uncertainties	facing	global	energy	demand,	and	stressed	the	importance	of	modeling	our	business	plan	using	various	scenarios.	In	order	to	analyze	potential	risks	
+to our oil and gas portfolio in a carbon-constrained environment, we utilized the most recent International Energy Agency (IEA) World Energy Outlook (WEO) published in October 2020. See our scenario analysis 
+beginning on page 18.
+Risk Management
+As an exploration and production company, we face a number of risks, including climate-related risks. Management is responsible for the day-to-day management of risks we face as a company, while our board of 
+directors, as a whole and through its committees, is responsible for the oversight of risk management. In its risk oversight role, our board of directors has the responsibility to satisfy itself that the risk management 
+processes designed and implemented by management are adequate and functioning as designed.
+Our board of directors believes that full and open communication between management and the board of directors is essential for effective risk management and oversight. Our Chairman of the Board meets regu-
+larly	with	our	Chief	Executive	Officer	and	our	Chief	Financial	Officer	to	discuss	strategy	and	risks	facing	the	Company,	including	climate-related	risks.	Our	executive	officers	regularly	attend	the	board	meetings	and	
+are available to address any questions or concerns raised by the board on risk management and any other matters. Other members of our management team periodically attend the board meetings or are otherwise 
+available to confer with the board to the extent their expertise is required to address risk management matters. Periodically, our board of directors receives presentations from senior management on strategic mat-
+ters involving our operations. During such meetings, our board of directors also discusses strategies, key challenges, and risks and opportunities for the Company with senior management.
+Metrics and Targets
+In	2020,	Diamondback	was	one	of	the	first	of	its	peers	to	introduce	climate-related	targets	into	its	compensation	scorecard,	thereby	tying	these	targets	to	the	compensation	of	every	employee	in	the	Company.
+This year, Diamondback is reporting climate-related and other sustainability metrics in accordance with the AXPC, an organization representing the largest independent oil and natural gas exploration companies in 
+the United States. Our metrics and targets can be found throughout this report and in our Appendix. 
+Also this year, we announced four long-term environmental targets:
+i.	Reduce	methane	intensity	by	at	least	70%	from	2019	levels	by	2024										iii.	Eliminate	routine	flaring	(as	defined	by	the	World	Bank)	by	2025
+ii. Reduce GHG intensity by at least 50% from 2019 levels by 2024                iv. Increase recycled water used in operations to more than 65% by 2025
+
+Diamondback Energy //  2021 CSR //  17
+RISK TYPE DESCRIPTION
+Current Regulation
+Diamondback complies with all current regulatory requirements. We monitor for any new or emerging regulations and modify our operations as necessary. There has been new legislation introduced and proposed at the federal  
+and state levels to quantify and limit GHG emissions. The Environmental Protection Agency and the Bureau of Land Management have issued regulations to control methane emissions in our industry.  
+We closely monitor the status of existing and emerging GHG regulations and the potential impact it may have on our business by performing multiple scenario analyses to test the resiliency of our portfolio. 
+Emerging Regulation Diamondback	closely	follows	emerging	and	proposed	regulations.	We	believe	that	our	current	operating	plan	accounts	for	stricter	monitoring	and	regulation	of	emissions	and	methane.	Diamondback’s	five-year	emissions	reduction	
+targets (GHG intensity and CH4 intensity) drive the majority of decisions related to responsible development, and we believe that these targets will keep us ahead of emerging regulatory risks.
+Technology
+Diamondback has cross-functional employees who analyze new and emerging technologies for emission monitoring and control. We believe the use of these technologies is pertinent to operating in an environmentally responsible 
+manner.
+Diamondback focuses on continued improvement and evolving technological capabilities and resources to meet our business needs. This year, we launched trials of four different technology systems to improve monitoring and 
+response in our operations. For example, instantaneous data collection and alarming capabilities will allow us to identify leaks associated with equipment malfunction or failure immediately and create a preventative maintenance 
+plan	to	help	eliminate	future	incidents.	We	also	hold	quarterly	round-table	discussions	with	our	engineering	and	infrastructure	related	field	personnel	to	seek	out	design	changes	to	better	capture	emissions	moving	forward.	In	2020,	
+we	engaged	a	third-party	engineering	firm	to	review	our	standard	facility	design	and	make	recommendations	to	improve	control-related	emissions	while	optimizing	operations.
+Legal Diamondback always monitors and manages potential legal risks, including those related and unrelated to climate. 
+Market
+Diamondback’s	revenues,	operating	results,	profitability,	future	rate	of	growth,	and	the	carrying	value	of	our	oil	and	natural	gas	properties	depend	significantly	upon	the	prevailing	prices	for	oil	and	natural	gas.	Historically,	oil	and	
+natural	gas	prices	have	been	volatile	and	are	subject	to	fluctuations	in	response	to	changes	in	supply	and	demand,	market	uncertainty	and	a	variety	of	additional	factors	that	are	beyond	our	control.	These	factors	include,	but	are	not	
+limited to, the price and availability of alternative fuels, conservation measures and technological advances that could reduce demand for our products. Diamondback evaluates climate risk using scenario analyses of technology and 
+market conditions that consider supply, demand and pricing scenarios at least as challenging as IEA’s Sustainable Development Scenario. These scenario analyses provide management and Diamondback’s Board of Directors the 
+information necessary to create our annual and longer-term operating plans. 
+Reputation Diamondback’s perceived reputation could decrease or increase our cost of doing business, depending on the perception of various stakeholders. The potential risks as set forth in the TCFD include risks tied to changing customer or 
+community perceptions of an organization’s contribution to or detraction from the transition to a lower-carbon economy. 
+Acute Physical
+Diamondback	considers	acute	physical	risks	(including	floods,	tornadoes	and	hurricanes)	in	our	risk	assessments.	As	with	other	oil	and	gas	operators,	Diamondback	operates	in	some	of	the	most	extreme	weather	conditions	in	the	
+world.	We	currently	do	not	see	any	acute	physical	risks	affecting	our	business	any	more	than	normal	operations.	We	consider	extreme	weather	conditions	when	modeling	our	business	plan	and	are	confident	in	our	ability	to	continue	
+operations in those scenarios.
+Chronic Physical
+Diamondback does not anticipate chronic physical risks impacting our business in the short-, medium-, or long-term time frame. As with other oil and gas operators, Diamondback operates in some of the most extreme weather con-
+ditions in the world. We currently do not see any chronic physical risks (including sea level rise or chronic heat waves) affecting our business any more than normal operations. We consider extreme weather conditions when model-
+ing	our	business	plan	and	are	confident	in	our	ability	to	continue	operations	in	those	scenarios.
+CLIMATE-RELATED RISKS
+Diamondback considers climate-related risks in nearly all of its operational planning. The relevant risks include current and emerging regulation, technology, legal, market, reputation, acute physical and chronic physical risks.
+See Diamondback's 2020 10-K for a discussion of additional potential risks.
+
+Diamondback Energy //  2021 CSR //  18
+OPPORTUNITY TYPE DESCRIPTION
+Use of lower-emission  
+sources of energy through  
+full-field electrification
+Diamondback incorporates a strategy of having electrical infrastructure in place prior to placing new wells on production. This is done through the collaboration of a multi-functional team of facilities engineers, land repre-
+sentatives, reservoir engineers and completion engineers to plan Diamondback’s development and associated infrastructure needs. Through weekly discussions, these teams have been able to provide line power to over 
+95% of the wells Diamondback has completed in the last few years.
+Reduced water usage 
+Diamondback has long been committed to recycling water from our production operations. We primarily re-use produced water for our completion operations, limiting the amount of freshwater sourced for our develop-
+ment plan. 
+In addition to recycling efforts, we have also placed a premium on sourcing water that is not compatible for farming or ranching activities (brackish water). By doing so, we continue to lower our impact on local citizens 
+and lessen our impact on freshwater reservoirs. The combination of either brackish water or recycled water accounted for approximately 76% of all water usage by the Company in 2020, and we expect this number to con-
+tinue to increase over time.
+Increased revenues through  
+gas captured rather than flared
+Diamondback	believes	reducing	flaring	 is	vital	to	the	success	of	our	company	and	 our	industry,	and	 excessive	flaring	can	be	a	major	impediment	to	 a	successful	 upstream	business	plan.	 To	date,	we	have	been	able	to	
+nearly	eliminate	 all	occurrences	of	flaring	 due	to	operational	issues.	We	 have	also	worked	with	 our	midstream	business	partners	to	 incentivize	 them	to	spend	 capital	and	 operational	expense	dollars	 to	be	prepared	for 	
+our	development	plan	and	 flare	less.	As	we	 continue	to	work	 with	our	third-party	midstream	 partners,	we	expect	 the	run-time	of	our	pipelines	 to	continue	to	 increase,	resulting	in	lower	flaring	 intensity.
+Through	these	efforts,	Diamondback	saw	a	significant	decrease	 in	flaring	intensity	 in	2020.	In	2019,	11.8 	million	mcf	was	flared	due	to	capacity	constraints	and	 operational	issues.	In	2020,	that	number	was	reduced 	
+to	4.9	million	mcf	flared,	which	 was	almost	entirely	associated	 with	downstream	 capacity	constraints.	We	expect	to	continue	 to	drive	this	number	down	 in	collaboration	with	our	 midstream	business	partners,	increas-
+ing revenue and decreasing our environmental footprint.
+CLIMATE-RELATED OPPORTUNITIES
+Diamondback also considers climate-related opportunities as we evolve our operating model. Some of these opportunities include:
+SCENARIO ANAL YSIS
+In order to analyze potential risks to Diamondback’s oil and gas portfolio in a carbon-constrained environment, we utilized the most recent IEA WEO, published in October 2020, to examine various supply and demand scenarios 
+through 2040 (see www.iea.org/reports/world-energy-outlook-2020). The 2020 WEO details global energy trends and the possible impacts to supply and demand, carbon emissions, air pollution and energy access, with a particular 
+focus on pathways out of the COVID-19 crisis over the next ten years to 2030.
+The IEA’s WEO scenarios have become widely recognized as industry standard for long-term energy analysis. Additionally, the TCFD recommends that organizations like Diamondback should use scenario analysis to help inform 
+its	business	strategy	and	assess	the	resiliency	of	its	business	to	a	range	of	plausible	climate-related	scenarios.	Specifically,	the	TCFD	believes	that	organizations	should	use	a	“2	degrees,”	or	lower,	scenario	(i.e.,	a	scenario	that	
+lays out an emissions trajectory consistent with holding the increase in global average temperatures to 2 degrees Celsius above pre-industrial levels) to test portfolio resilience. Therefore, the IEA’s WEO scenarios represent appro-
+priate stress tests for Diamondback’s portfolio outlook, as the Sustainable Development Scenario discussed below falls within the TCFD’s recommendation.
+
+The Four Main Scenarios of the IEA’s 2020 World Energy Outlook
+  Stated Policies Scenario (STEPS) — This scenario assumes that the COVID-19 pandemic is brought 
+under control in 2021 and the global economy returns to pre-pandemic levels in the same year. In 
+addition, this scenario provides an assessment of where today’s policy frameworks and current policy 
+ambitions might take the energy sector in the coming decades, taking into account the continued evo-
+lution of known technologies.
+  Delayed Recovery Scenario (DRS) – This scenario includes the same policy assumptions as the 
+STEPS but assumes that a prolonged COVID-19 pandemic causes lasting damage to the global eco-
+nomic recovery. This scenario assumes that the global economy returns to pre-pandemic levels in 
+2023 and global energy demand only returns in 2025. 
+  Sustainable Development Scenario (SDS) — This scenario encompasses an energy consumption 
+pathway that limits global increases in temperature to less than 1.65 degrees Celsius with a 50% 
+probability and without relying on global net-negative CO 2 emissions. The details of this scenario 
+derive from the recent IEA Sustainable Recovery Plan. 
+  Net Zero Emissions by 2050 Case (NZE2050) — This case extends the SDS and includes detailed IEA 
+modeling of what measures need to be put in place during the next ten years in order to put global CO2 
+emissions on track for net zero by 2050.
+In the STEPS, global oil demand returns to pre-crisis levels in 2023, after which demand growth levels out 
+by the 2030s, but does not peak before 2040. Demand in 2040 is projected to be 104.1 million barrels per 
+day (MMBBL/d), about 10 MMBBL/d greater than today.
+In the SDS, worldwide oil demand is projected to fall to 86.5 MMBBL/d by 2030 and to 66.2 MMBBL/d 
+by 2040. Demand for natural gas is also projected to fall away starting in the late 2030s under this sce-
+nario. That said, even in the SDS both oil and gas still account for a substantial portion of global energy 
+demand through 2030. 
+The IEA’s STEPS and SDS represent strong potential actions to reduce global fossil fuel demand. 
+Therefore,	we	believe	they	serve	as	good	tests	of	Diamondback’s	resilience	and	of	our	ability	to	profitably	
+develop and produce energy resources in a demand-constrained world.
+Both the STEPS and SDS indicate that companies producing oil and gas on the lower end of breakeven 
+costs	will	be	best	positioned	to	succeed,	as	the	lowest-cost	resources	would	be	developed	first.
+80
+90
+100
+110
+204020352030202520202010
+2018 2019
+5.68%
+Reaching 2019 levels
+STEPS
+Pre-Crisis
+DRS
+80
+90
+100
+110
+2020
+2010 2020e 2030 2040
+4.18%
+1.97%
+Diamondback Energy //  2021 CSR //  19
+OIL DEMAND BY SCENARIO
+(MMBBL/d)
+Source: International Energy Agency (2020), World Energy Outlook 2020, IEA, Paris.
+
+DIAMONDBACK’S POSITION IN THE PERMIAN BASIN
+Diamondback operates entirely within the Permian Basin. The Permian Basin spans West Texas and south-
+eastern	New 	Mexico 	and 	is 	one 	of 	the 	most 	pr olific 	oil 	and 	gas 	basins 	in 	the 	United 	States. 	The 	Permian 	Basin 	
+encompasses 
+several sub-basins, including the Midland Basin and the Delaware Basin. In its 2021 report, 
+“JPM
+	Shale
+	
+Economics,”
+	
+J.P .
+	
+Morgan
+	identifies
+	
+the
+	
+Midland
+	
+Basin
+	
+as
+	
+the
+	
+most
+	
+economical
+	Nor
+th
+	
+American
+	
+onshore oil 
+resource play, with an estimated oil price breakeven cost of approximately $35 per barrel as of 
+March 2021. In the same report, J.P . Morgan estimated the Delaware Basin oil price breakeven cost to be 
+approximately $36 per barrel. As of December 31, 2020, Diamondback owned approximately 195,000 net 
+acres in the Midland Basin and approximately 155,000 net acres in the Delaware Basin.
+COST ANAL YSIS
+Diamondback is a leading, low-cost operator among North American oil shale players. To corroborate the 
+results found by J.P . Morgan in their 2021 breakeven analysis, we performed an internal study and found 
+that
+	
+our
+	asset
+	
+base
+	is
+	
+profitable
+	
+down
+	t
+o
+	
+approximately
+	
+$32/BBL. This was calculated as the per-barrel WTI 
+oil
+	price
+	
+needed
+	
+to
+	gener
+ate
+	
+cash
+	
+flow
+	
+equivalent
+	t
+o
+	
+the
+	
+amount
+	
+of
+	
+capital
+	
+required
+	t
+o
+	
+keep
+	
+our
+	
+estimated
+	
+Q
+4	
+2021
+	oil
+	pr
+oduction
+	
+flat
+	thr
+ough
+	
+2022.
+	Diamondback
+	
+went
+	
+a
+	step
+	
+further
+	and
+	calculated
+	o
+ver
+	
+8,700
+	eco-
+nomical drilling locations at an assumed price of $40 WTI (~25% below the 2040 SDS price of $53/BBL). A t 
+Diamondback’s current completion pace, this implies approximately 32 years of the ability to drill economical 
+wells, over a decade past the 2040 timeline of the SDS.
+If the STEPS or SDS outlined by the IEA come to fruition over the next 20 years, oil and gas prices are 
+likely to increase as efforts to limit fossil fuel consumption occur. However, in both cases, the lowest-cost 
+resources
+	
+will
+	be
+	
+considered
+	first
+	for
+	de
+velopment.
+	
+At
+	the
+	
+$32/BBL
+	breake
+ven
+	
+cost
+	
+calculated
+	internally
+	
+by
+	
+Diamondback, current data suggests the 
+Company will be well below the 2040 projected breakeven prices 
+in both the STEPS and the SDS, indicating that we are in a strong position to continue to produce oil and gas 
+economically and help meet the global demand for oil.
+Our scenario planning analysis suggests that Diamondback’s strategic focus on high-return, low-cost opera-
+tions in the Permian Basin should allow us to continue to monetize our reserves even in the most carbon-con-
+strained of the 2020 IEA WEO scenarios. As a result, we believe that it is currently unlikely that our assets 
+would 
+be stranded during the projected period even under the SDS. 
+LOOKING AHEAD
+Climate change is an important concern for our Company and our stakeholders. We will continue to search 
+for innovative ways to implement cost-effective, appropriate steps to monitor, measure and reduce our energy 
+use, waste and emissions.
+For more details on Diamondback’s climate analysis, please refer to our 2021 CDP Climate Change response.
+Diamondback Energy //  2021 CSR //  20
+IEA CRUDE OIL PRICE ESTIMATES
+($/BBL)
+2019 2025
+$71
+2030
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Crude Oil Price Estimates
+$63
+$76
+2040
+$85
+Source: International Energy Agency (2020), World Energy 
+Outlook 2020, IEA, Paris.
+FULL-CYCLE OIL BREAK-EVENS ASSUMING 15% BTAX IRRs 
+($/BBL)
+0
+10
+20
+30
+40
+50
+60
+Full-Cycle Oil Break-Evens Assuming 15% and 25% BTAX IRRs
+Midland
+$34.71
+DJ Basin
+$36.40
+Delaware
+$35.64
+Bakken
+$40.15
+Eagle Ford
+$37.62
+SCOOPSTACK
+$46.76
+PRB
+$53.87
+Source: J.P . Morgan Research, “JPM Shale Economics,” March 2021
+Stated Policies Scenario
+Sustainable Development Scenario
+
+OUR COMMITMENT  TO MANAGING AND  REDUCING RISKS
+WE SYSTEMATICALL Y IDENTIFY , ASSESS AND RESOLVE A BROAD SPECTRUM OF CURRENT AND POTENTIAL RISKS THAT MIGHT COMPROMISE OUR ABILITY TO OPERATE SAFEL Y AND RESPONSIBL Y . 
+DIAMONDBACK’S SENIOR LEADERS ALSO MONITOR EMERGING TRENDS AND SHIFTING CONDITIONS IN THE ENERGY INDUSTRY , RANGING FROM NEW REGULATORY REQUIREMENTS AND CHANGES 
+TO BOTH DOMESTIC AND GLOBAL ENERGY POLICY TO THE IMPACTS OF GLOBAL CLIMATE CHANGE.
+We are prepared to respond effectively to challenges and have positioned ourselves in the most certain regulatory environment possible. Nearly 100% of our assets are located in 
+Texas, one of the safest places to operate in the world from a geopolitical and regulatory perspective. This also reduces our risk to a change in national energy policy.
+Maintaining Secure Facilities and Operations
+We are vigilant about safeguarding our people and property. Our security experts deploy and regularly update technologies designed to thwart both accidental and intentional threats. 
+As a result, Diamondback facilities experienced no major security incidents in 2020.
+Our	protective	actions	included	installing	additional	field	security	cameras	and	enhanced	monitoring	software.	We	monitor	field	operations	through	random	inspections,	including	
+searches of facilities and vehicles on our locations. During these inspections, we conduct drug and alcohol screenings of all persons at the location. We also maintain  
+around-the-clock gate security at our largest operations in the Delaware and Midland basins to limit access to authorized personnel only.
+Diamondback Energy //  2021 CSR //  21
+
+Diamondback Energy //  2021 CSR //  22
+Guarding Against Cyberattacks  
+and Breaches
+Diamondback takes a holistic, multi-layered approach to protect our stockholders, employees, assets, and operations against 
+cyberattacks. This approach is underpinned by the National Institute of Standards and Technology (NIST) Cybersecurity 
+framework	and	Cybersecurity	&	Infrastructure	Security	Agency	(CISA)	recommendations.	We	have	made	significant	technol-
+ogy	investments	across	our	IT	landscape	to	protect	our	network,	servers,	databases,	applications,	email,	field	operations	and	
+end user devices. We continually evolve our information technology (IT) and operations technology (OT) security systems to 
+repel threats and minimize damage from any breaches that might occur. Cybersecurity enhancements are informed by fre-
+quent third-party assessments with particular attention to evolving threats and intrusion methods. Our IT personnel and end 
+users receive training in cybersecurity best practices.
+Emergency Response Program
+Natural disasters, accidental spills and human-instigated threats are among the potential hazards that we encounter as an 
+outgrowth of our work. We continually develop and review our emergency response plans to cover likely scenarios. In coor-
+dination	with	city	officials,	police,	firefighters	and	medical	teams,	we	distribute	these	plans	through	multiple	channels	and	
+update	them	yearly	or	whenever	significant	changes	in	the	community	occur.
+Each	of	our	corporate	and	field-office	facilities	has	its	own	written	plan	that	includes	information	on	how	to	safely	evacuate	
+the	building.	We	train	teams	of	employees	at	each	location	to	assist	their	co-workers	in	the	event	of	a	fire,	bomb	threat	or	
+other crisis. We also conduct annual full-scale drills to maximize emergency preparedness.
+Minimizing Risks to Local Communities
+Most of Diamondback’s operations are in unpopulated areas. In situations where our work poses a potential risk, we assign 
+personnel to communicate with concerned residents and monitor our daily operations to prevent or minimize any potential 
+adverse impacts. This includes providing information to help the public avoid potentially hazardous conditions or activities 
+near our pipelines, well sites and other operations. If any of our operations are near a populated area, we add extra security 
+and protection around that facility.
+Also, we use automated monitoring equipment at production facilities to help safeguard people and the environment.
+
+OUR COMMITMENT  TO GOVERNANCE AND BUSINESS ETHICS
+WE OPERATE WITH INTEGRITY AND TRANSPARENCY WHILE STRIVING TO GOVERN OUR BUSINESS WITH THE HIGHEST ETHICAL STANDARDS.
+Overall Governance
+The Chairman and CEO positions at Diamondback are held by separate individuals, with an Independent Director serving as Chairman. In addition, our Board of 
+Directors comprises a supermajority of independent members with a broad range of professional experience, backgrounds and perspectives.
+In	2020,	Diamondback	added	Stephanie	 Mains	and	Vincent	Brooks	to	the	Board	of	Directors,	further	enhancing	 and	diversifying	not	only	the	skills	and	 qualifi-
+cations of our Board of Directors, but also the ethnic and gender diversity of our Board of Directors. Ms. Mains is a member of the Compensation Committee 
+of the Board of Directors, and Mr. Brooks is a member of the Safety, Sustainability and Corporate Responsibility Committee of the Board of Directors. With 
+these additions, we have now added three diverse members to our Board of Directors since 2018, and 38% of our Directors are gender or ethnically diverse.
+ETHNIC AND GENDER DIVERSITY WITHIN 
+OUR EIGHT -MEMBER BOARD, INCLUDING 
+TWO FEMALE DIRECTORS.
+Diamondback Energy //  2021 CSR //  23
+38%
+
+Diamondback Energy //  2021 CSR //  24
+OUR NEWEST BOARD MEMBERS ARE:
+  Stephanie K. Mains. Ms. Mains has over 30 years of experience across diverse industry segments, 
+including aviation, energy and transportation. With the last 15 years, building and expanding global 
+businesses	serving	the	oil	and	gas,	utility,	distributed	power	and	electrification	spaces.	In	2020,	she	
+held	the	interim	CEO	role	for	GE	Power	Conversion,	a	$1B	advanced	electrification	and	digital	solutions	
+business,	leading	the	business	to	a	profitable	turnaround	through	COVID-19.	From	2015-2019,	she	
+served as the President and CEO, Industrial Solutions, a GE and later ABB company. She led Industrial 
+Solutions, a $2.7B GE business delivering technologies that distribute, protect and control electricity, 
+through a transformation and divestiture to ABB. From 2013-2015, Ms. Mains served as President and 
+CEO of GE Distributed Power Global Services, where she integrated and grew a $2.2B global business 
+platform, servicing technologies that provide at the point of use power to the oil and gas, utilities, min-
+ing and industrial segments. From 2006 until 2013, she held positions of increasing responsibility in 
+GE Energy from General Manager to Vice President. During this time, she led the global build-out and 
+transformation of a $4B service operation providing power equipment and services to utility and oil 
+and gas customers. Prior to joining GE Energy, she spent 16 years across multiple GE businesses in 
+financial	and	leadership	positions,	including	CFO	of	GE	Aviation	Services-	Contractual	Services	and	
+Material Solutions, a $4B aviation material services business. Ms. Mains is currently the CEO of LSC 
+Communications-MCL, a portfolio company of Atlas Holdings, LLC. She serves as a director and audit 
+committee member of Gates Industrial Corporation (NYSE:GTES), a director, audit and compensa-
+tion committee member of LCI Industries (NYSE:LCII), and is a member of the board of managers for 
+Stryten Manufacturing, a privately held portfolio company of Atlas Holdings, LLC. Ms. Mains holds a 
+B.B.A in Finance from the University of Kentucky.
+  Vincent K. Brooks.	Mr.	Brooks	is	a	career	Army	officer	who	served	in	the	U.S.	Army	for	over	42	years,	
+retiring	from	active	duty	in	2019	as	a	four-star	general,	General	Brooks	spent	his	final	17	years	as	a	
+general	officer	and	in	nearly	all	of	those	years	in	command	of	large,	complex	military	organizations	
+in challenging situations. Most recently, from 2016 until his retirement, he was the commander of all 
+Korean and United States forces in the Republic of Korea. In the two positions prior to Korea he served 
+as	the	commander	of	all	United	States	Army	forces	throughout	the	Indo-Asia	Pacific	region	from	2013	
+to 2016 during the strategic rebalancing to Asia, and as the commander of all United States Army 
+forces in the Middle East and Central Asia from 2011 to 2013 during the reduction of forces in Iraq and 
+the buildup of forces in Afghanistan as well as the phenomenon known as “the Arab Spring.” During 
+his tenure in the Army, he gained uncommon experience in leading through complex, ambiguous sit-
+uations	with	significant	national	security	interests	and	risks	at	stake.	He	handled	crisis	management,	
+public communications, risk management and mitigation, budgetary assessment, leadership and 
+management, international relations and interactions, cyber defense and protection, congressional 
+engagement and strategic planning. Since 2020, General Brooks has also served as a director and 
+a member of the compensation committee and nominating and corporate governance committee 
+of Jacobs Engineering Group, Inc. (NYSE: J) and as a director of Verisk Analytics (Nasdaq: VRSK). 
+General Brooks has also served on the board of the Gary Sinise Foundation since March 2019 and on 
+the board of the Korea Defense Veterans Association since February 2020. General Brooks is also a 
+visiting Senior Fellow at Harvard Kennedy School’s Belfer Center for Science and International Affairs, 
+a Distinguished Fellow at the University of Texas with both the Clements Center for National Security 
+and the Strauss Center for International Security and Law, an Executive Fellow with the Institute for 
+Defense and Business, and the President of VKB Solutions LLC. General Brooks holds a Bachelor of 
+Science in Engineering from the U.S. Military Academy at West Point, a Master of Military Art and 
+Science from the U.S. Army School of Advanced Military Studies and holds an honorary Doctor of 
+Laws from the New England School of Law and an honorary Doctor of Humanities from New England 
+Law | Boston.
+
+Corporate Responsibility  
+Oversight
+Our 18-member executive team includes members who are diverse in gender, race, functional experience 
+and education. This team oversees all corporate responsibility strategies and activities at Diamondback. 
+To help inform Board decisions, we engage Diamondback’s largest stockholders at least annually for 
+their insights and suggestions regarding our corporate governance standards, compensation and sus-
+tainability efforts. Additionally, under the Company’s bylaws, we provide proxy access, permitting a stock-
+holder to nominate director candidates provided that the stockholder(s) and the nominee(s) satisfy the 
+requirements	specified	in	our	bylaws.
+Last year, we reached investors representing more than 65% of our then-outstanding shares through 
+these stockholder engagement efforts. We also attended 14 virtual investor conferences and hosted 
+eight virtual bus tours. Additionally, in response to the concerns evidenced by the say on pay results at 
+the Company’s 2020 Annual Meeting of Stockholders, our Chairman of the Board, members of the com-
+pensation	committee	and	certain	executive	officers	conducted	a	comprehensive	engagement	with	17	
+of our largest stockholders representing, at the time, approximately 51% of our outstanding common 
+stock to solicit feedback regarding the say on pay results and the Company’s executive compensation 
+programs. The Compensation Committee took a number of actions in direct response to the feedback 
+received through this process, and at the 2021 Annual Meeting of Stockholders, approximately 96% of 
+the total votes cast were voted in favor of the Company’s say on pay proposal.
+Sharpening Our ESG Focus
+Diamondback’s long-range business success relies on developing our oil and gas resources sustainably 
+and creating a positive impact in the communities where we operate. Diamondback understands that 
+its social and environmental license to operate as a public oil and gas company in the United States will 
+continue	to	be	largely	influenced	by	our	stockholders.	We	regularly	engage	with	our	stockholders	on	ESG	
+matters to ensure that our approach to ESG matters aligns with stockholder expectations. At its core, our 
+environmental strategy recognizes that the United States is transitioning to a lower carbon economy. While 
+many of the foremost authorities on energy demand forecast that oil and gas will continue to account for a 
+substantial portion of global energy demand in even the most carbon constrained projections, we embrace 
+the reality that we must adapt our behavior to continue to succeed in the new energy economy.
+Management regularly interacts with the Board of Directors and its committees regarding its ESG strategy, 
+including its Nominating and Corporate Governance Committee, Compensation Committee and recently 
+formed	SSCR	Committee.	Chaired	by	Melanie	Trent,	the	five-member	SSCR	Committee	was	formed	in	2019	
+to (i) review and provide guidance on Diamondback’s policies and performance regarding ESG matters, 
+(ii)	advise	the	Board	of	Directors	and	management	on	significant	public	issues	that	are	pertinent	to	the	
+Company, and (iii) assist management in setting strategy, establishing goals and integrating ESG matters 
+into strategic and tactical business activities across the Company. 
+In	2020,	Diamondback	took	a	number	of	significant	additional	steps	on	its	path	to	being	an	industry	leader	
+on	ESG	matters.	First,	we	included	specific,	measurable	environmental	and	safety	performance	metrics	in	
+our	short-term	incentive	compensation	program	that	incentivize	performance	on	key	metrics,	including	flar-
+ing,	GHG	emissions,	recycled	water	usage,	fluid	spill	control	and	safety.	Second,	the	Board	approved	Scope	
+1 and methane emission intensity reduction targets and the implementation of the Company’s “Net Zero 
+Now” initiative, which provide for:
+  Reducing Scope 1 GHG intensity by at least 50% from 2019 levels by 2024
+  Reducing methane intensity by at least 70% from 2019 levels by 2024
+  As of January 1, 2021, every hydrocarbon molecule produced by Diamondback will result in zero net 
+Scope 1 emissions
+Learn more in Our Commitment to Environmental Responsibility.
+“ Our goal is to be a best-in-class oil and gas operator in both  
+performance and disclosure as it relates to all ESG matters.”
+—Travis	Stice,	Chief	Executive	Officer
+Diamondback Energy //  2021 CSR //  25
+
+Diamondback Energy //  2021 CSR //  26
+Ethical Business Practices
+Our strong corporate governance practices also include our Corporate Compliance and Code of Business 
+Ethics	Handbook,	which	defines	the	overarching	expectations	that	our	board	of	directors,	officers	and	
+employees	must	follow.	Our	People	Policies	set	out	further	obligations	regarding	conflicts	of	interest,	
+safety, equal opportunity, harassment and retaliation. These policies also outline our support for employ-
+ees through various provisions. We require all employees to review these documents and provide written 
+acknowledgment of their responsibility to uphold the expectations.
+Compliance
+Our compliance program comprises standards of conduct and internal controls reasonably capable of 
+detecting and reducing the likelihood of criminal and other improper conduct, including these six princi-
+pal components: 
+  Organizational leadership
+  Standards and procedures
+  Efforts to exclude bad actors from positions of authority
+  Training and education
+  Monitoring, auditing and evaluation of program effectiveness
+  Appropriate disciplinary and remedial actions
+The	Board	of	Directors	exercises	overall	compliance	program	oversight,	while	the	Chief	Financial	Officer	
+and General Counsel assume day-to-day responsibility. The CEO’s role is to foster a culture of transpar-
+ency, integrity and compliance with all applicable laws.
+Lobbying and Political Involvement
+Our Government Affairs group works closely with various organizations representing the oil and gas 
+industry in Texas and Washington, D.C. to help shape regulatory and public policy decisions that affect 
+Diamondback operations. Diamondback’s involvement in cross-industry associations and working 
+groups also creates valuable opportunities to share best practices and hone our overall ESG strategy. 
+Our Policy Governing Corporate Political Contributions is posted on our website.
+
+Diamondback Energy //  2021 CSR //  27
+0
+200
+400
+600
+800
+Employees
+712711
+252
+732
+2017 2018 2019 2020
+OUR COMMITMENT  TO OUR PEOPLE
+PEOPLE ARE THE HEARTBEAT OF DIAMONDBACK, AND THIS BOND GREW EVEN STRONGER AS WE MANAGED THROUGH COVID-19 AND 
+OTHER CHALLENGES IN 2020. WE CONTINUE TO OFFER OUR EMPLOYEES COMPREHENSIVE SUPPORT FOR THEIR WELL-BEING, INCLUDING 
+EQUITABLE TREATMENT , SAFETY , HEALTH, REWARDS, DEVELOPMENT AND INCLUSION. WE VALUE THE PERSPECTIVES, EXPERIENCES AND 
+IDEAS CONTRIBUTED BY OUR EMPLOYEES FROM A DIVERSE RANGE OF ETHNIC, CULTURAL AND IDEOLOGICAL BACKGROUNDS. 
+Diversity, Equity and Inclusion
+Our standards require that all of our people are respected, cared for and appreciated for the merits of their contributions. We provide a collaborative, inclusive environment at 
+Diamondback so that all employees are empowered to participate and are treated with respect, as they contribute their full talents and their best ideas. We believe that inclusion  
+is the hallmark of true care and compassion for others, and that through inclusion, the workplace is made better, including more deeply embedding the safety mindset and other  
+core tenants of our robust culture of excellence. 
+During 2020, our executive team underwent diversity, equity and inclusion training which fostered and further deepened our discussions about inclusion, and current social  
+matters of importance. 
+We,	as	Diamondback,	are	proud	of	how	we	operate,	who	we	are	and	the	culture	that	we’ve	created.	We	have	zero-tolerance	for	discrimination	and	a	firm	belief	in	equality	inside	of	
+Diamondback. Nevertheless, it is important for all of us to understand that some team members may face situations in their personal lives where they experience discrimination or 
+inequality. This reality is a part of what compels us to continue our community support efforts of many sorts, particularly around inclusion and education.
+TOTAL EMPLOYEES
+(at year-end)
+
+SEEKING DIVERSE TALENT
+As we continued to cultivate an inclusive and respectful work environment that encourages our employees 
+to achieve their full potential, we honored internship commitments made far before the pandemic started, 
+despite the rapid shift in the market and workplace dynamics. We focused efforts on ensuring that we reach 
+diverse	qualified	candidates	for	our	internships.	
+Our internship recruitment efforts included:
+   Virtual recruiting from university campuses
+   Sponsoring campus chapters of the National Society of Black Engineers, Society of Hispanic Professional 
+Engineers, Society of Women Engineers, and Women in Petroleum Engineering student groups
+   Ensuring the people on our recruiting outreach teams are diverse
+   Virtual interviews, or outdoor interviews, for the safety and comfort of both candidates and interviewers
+In 2020, our virtual internship program hosted 11 college junior and seniors, adding to our talent pipeline of the 
+nine interns who worked with us in 2019. Our 2020 interns worked on project assignments in various techni-
+cal functions to provide value for the business, gain a clearer perspective on opportunities in the oil and gas 
+industry, and to experience our culture. We also demonstrated our corporate values to the interns in several 
+ways, including requesting that they participate in community volunteer service opportunities during their 
+internship in 2019. Ultimately, seven of our intern alumni from 2019 and 2020 accepted full-time positions at 
+Diamondback, of which four were gender or ethnically diverse.
+ANTI-DISCRIMINATION POLICIES
+Equal	employment	opportunity	is	core	within	our	People	Policies	Handbook	and	our	Affirmative	Action	Plan.	
+We	base	all	employment	decisions	on	merit,	qualifications	and	abilities.	Employees	can	raise	questions	
+or concerns about any perceived discrimination in our workplace, without fear of reprisal, to the Human 
+Resources department or through our toll-free Compliance Hotline.
+DIVERSITY IN OUR WORKFORCE
+Looking across our workforce in 2020, 32% of our employees were women and 25% were ethnically diverse. 
+Women held 21% of all management positions and 42% of all professional positions at Diamondback at the 
+end of 2020, compared with 19% and 40%, respectively, in 2019. Our proportion of ethnically diverse managers 
+remained consistent at 20% from 2019 to 2020. Our proportion of professional-level roles held by ethnically 
+diverse employees increased from 14% in 2019 to 16% in 2020.
+OUR E-PLAN RESPONSE  
+TO COVID-19
+Our pandemic response, called the E-Plan due to our belief 
+that the situation would be a long-term, evolving state of 
+alert, began with simply a watch early in the year, and by 
+March	2020,	had	resulted	in	closing	our	offices.
+Under close attention and guidance from our human 
+resources team and other executive leaders, our safety and 
+shared services teams provided face masks, gloves, hand 
+sanitizer and revised safety protocols for all employees work-
+ing	in	the	field.	We	continued	these	practices	for	employees	
+working	in	our	offices	when	we	began	to	carefully	reopen	in	
+2021. Our protocol included rigorous mitigation measures 
+such as contact tracing, social distancing guidance and 
+enhanced cleaning standards. We also reinforced the per-
+sonal accountability of each employee in maintaining a safe 
+workplace. 
+Throughout various phases of our E-Plan, we conducted comprehensive training and information campaigns 
+on the COVID-19 safety protocol and other related company requirements, updating it with the latest available 
+information. We maintained stringent requirements regarding case management and contact tracing and 
+achieved zero reports of workplace spread of the virus. 
+For	much	of	the	year,	office-based	employees	were	given	the	flexibility	to	work	remotely.	We	provided	tem-
+porary	flexible	workplace	arrangements	for	employees	dealing	with	childcare	challenges.	For	our	field-based	
+team, it was necessary to continue performing their work in person and traveling across the Permian Basin. 
+Nevertheless, they met the call and never wavered from the responsibility that fell to them. We will be forever 
+proud of them.
+At several points in 2020, our HR team contacted each Diamondback employee to check on their well-being 
+and offer support. In addition to these all-employee calling campaigns, we mailed handwritten note cards,  
+provided multiple status updates through emails and held virtual employee town hall meetings. 
+Read more about our response to COVID-19 under Health and Safety Management on page 30.
+Diamondback Energy //  2021 CSR //  28
+
+Diamondback Energy //  2021 CSR //  29
+HUMAN RIGHTS POLICY
+Diamondback is committed to conducting its business in a manner that respects and promotes the funda-
+mental rights and dignity of all people, in compliance with all applicable legal requirements. Our Human Rights 
+Policy is posted on our website. 
+Total Rewards and Performance 
+Management
+At Diamondback, we value results and believe in recognizing and rewarding performance. Our continued busi-
+ness success centers on maintaining our high-performing, engaged workforce, and we intend to continue fos-
+tering an inclusive company culture that maintains a positive workplace environment where employees thrive. 
+We therefore invest in excellence for our people, by offering an outstanding total rewards package. 
+Our	approach	is	guided	by	participation	in	industry-specific	benchmarking	surveys,	ensuring	we	compensate	
+our workforce competitively against the market in a comprehensive manner. Based on both company and 
+individual performance outcomes, we included all employees across the organization in the opportunity to be 
+considered for both short and long-term incentives. Those long-term incentives are an opportunity to become 
+an owner of the Company, in the form of restricted stock. At the end of 2020, almost all of our employees had 
+been awarded restricted stock.
+In	support	of	provisions	that	build	the	financial	future	for	our	employees,	we	sponsor	a	competitive	401(k)	
+plan where all employees are immediately vested in their contributions as well as the contribution from 
+Diamondback.
+We also proactively provide a comprehensive health and wellness program to support our employees and their 
+families, with no premium cost to employees. We understand that employees put their trust in us when they 
+decide to join Diamondback, and our stewardship impacts not only them, but their families and communities 
+as well. Providing mental health support and quality of life resources, our Employee Assistance Program is 
+accessible by all employees and their household members.
+Development Opportunities
+We encourage employees to expand their professional skills through internal and external opportunities. 
+Despite the unanticipated impact to workplace activity, such as face-to-face instructor led training, we were 
+determined to continue development activities. As we adjusted to the restrictions posed by COVID-19, and the 
+necessity of working remotely, we offered virtual cross-location opportunities. We found that these remote 
+opportunities created value by allowing cross-location participation in the same meeting. Employees were 
+able to meet and learn from peers whom they may never meet in person, yet now have come to call friend. 
+JOB CLASS 2018 2019 2020
+Management 28% 19% 21%
+Professionals 42% 40% 42%
+Others 23% 34% 30%
+Total % of All Employees 30% 32% 32%
+JOB CLASS 2018 2019 2020
+Management 14% 20% 20%
+Professionals 14% 14% 16%
+Others 30% 37% 36%
+Total % of All Employees 22% 25% 25%
+% OF WOMEN PER JOB CLASS
+% OF ETHNICALL Y DIVERSE EMPLOYEES PER JOB CLASS
+
+Diamondback Energy //  2021 CSR //  30
+Through 2020, we offered a variety of virtual opportunities. We plan to continue many of these “virtual” learn-
+ing options in 2021 and beyond as a way to support greater inclusion.
+One of our key offerings was a four-part series on the core principles of leadership. Designed for employ-
+ees who are new to supervising a team or want to refresh their skills, the sessions focus on techniques for 
+building and leading productive and harmonious relationships with colleagues. More than 120 employees 
+participated in at least one session of the series, and we held a pre-series kick-off meeting, with a message of 
+encouragement around leadership responsibility and development from our CEO. 
+We also provided a range of other training opportunities aligned with specific roles and responsibilities 
+throughout Diamondback’s operations, such as: 
+   Performance Management
+ Interviewing Techniques
+ Microsoft Excel Skills
+ CEO and CHRO Hosted New Hire Class of 2020
+ Creating a Harassment Free Workplace
+In total, nearly 8,000 hours of training were completed by Diamondback employees in 2020.
+Health and Safety Management
+Protecting employees, our communities and the environment is a top priority across our operations and is 
+embedded in the way we manage Diamondback assets. Our executive team sets goals, provides oversight, 
+and drives accountability for health, safety and environment (HSE) across all areas of our business. We also 
+work proactively to maintain compliance with all applicable HSE standards, laws, and regulations.
+IDENTIFYING POTENTIAL HAZARDS
+We use robust tracking methods and work closely with regulatory agencies to prevent incidents. Our formal 
+health and safety program delivers employee training and new-hire orientation on various topics, including the 
+importance of proper incident reporting. It also ensures that employees have all the necessary equipment to 
+operate safely.
+Diamondback employees and contractors are often in the best position to identify areas where we need 
+to improve safety. Field personnel can easily report incidents, near misses and potential issues using our 
+dynamic	hazard	identification	system.	Reducing	hazards	and	maintaining	a	safe	work	environment	is	built	into	
+the	fabric	of	our	field	operations	employees.
+Using a mobile app on their smartphone, tablet or laptop, employees upload a summary and photos of  
+the hazardous situation for timely follow-up by a Diamondback supervisor. In 2020, we logged about 1,100 
+incidents and 11,000 potential hazards—more than double the total in 2019—using this system. As a result of 
+our	hazard	identification	program,	we	upgraded	a	secondary	containment	at	a	battery	facility,	installed	bonding	
+cables on oil loading lines to prevent static electric discharges, and installed windsock detectors at a facility with 
+potential	hydrogen	sulfide	exposure.
+In 2020, we increased our focus on identifying and analyzing trends in the Company’s reported incidents. We 
+are implementing a more advanced online reporting and analysis system in 2021 to enable our operations 
+managers and safety specialists to glean even deeper safety insights and recommendations from the data.
+We also involve employees from all operational levels in our Safety Committee, which:
+ Suggests improvements to the overall safety program
+ Recommends preventative measures based on reviewing vehicle and personnel incidents
+ Conducts safety and environmental reviews at operational locations
+ Audits and implements the Diamondback Hazard Communication Program
+
+WORKPLACE INCIDENTS
+Diamondback has a record of zero employee work-related fatalities from 2017-2020. Our employee and con-
+tractor (“combined workforce”) OSHA recordable cases, comprising work-related injuries and illnesses that 
+require	medical	treatment	beyond	first	aid,	totaled	17	in	2020	compared	with	36	in	2019.
+Our employee total recordable incident rate (TRIR) held steady in 2020 compared with 2019 at 0.42, while 
+our lost-time incident rate (L TIR) of 0.14 was 50% lower than in 2019. Also, our contractor TRIR and L TIR both 
+decreased in 2020. Our combined workforce TRIR and L TIR also decreased, from 0.37 in 2019 to 0.34 in 2020.
+We have set a 2021 goal to reduce our employee TRIR to 0.25 or less. Our previous target was 0.5 or less, 
+which we achieved in 2020.
+VEHICLE SAFETY
+Driver	safety	and	efficient	vehicle	operations	are	paramount	in	our	Company.	We	utilize	the	Diamondback	
+Driving Management System to monitor and respond to our driving behaviors. Diamondback uses data 
+obtained by the In-Vehicle Monitoring System (IVMS), which we install in owned and leased vehicles, to moni-
+tor actions that include: 
+ Seat belt use, which we require for all occupants while the vehicle is in motion
+ Speeding more than 10 miles per hour over posted limits
+ Harsh braking and acceleration
+ Vehicle service alerts in excess of manufacturer’s recommended guidelines
+We also conduct annual driver safety training and semi-annual checks of driving records for all employees 
+who could operate a company vehicle in the course of their daily employment. Any driver involved in a vehicle 
+incident is required to submit to a drug and alcohol screen as soon as safely possible.
+We	continue	working	to	improve	vehicle	safety	across	our	fleet	through	driver	training	courses	and	safety	
+monitoring technologies. We respond to patterns of risky behavior with additional coaching, and we reward 
+Diamondback employees who maintain a safe driving record and those who demonstrate marked improvement.
+In 2021, we adopted the Smith System of driver training. This highly respected program focuses on teaching 
+drivers to anticipate dangerous situations and drive defensively. We anticipate training all Diamondback vehi-
+cle	operators	in	the	Smith	System	by	the	first	quarter	of	2022.
+Diamondback Energy //  2021 CSR //  31
+TOTAL RECORDABLE INCIDENT RATE— 
+COMBINED WORKFORCE
+(per 200k hours)
+LOST TIME INCIDENT RATE— 
+COMBINED WORKFORCE
+(per 200k hours)
+Source: AXPC EHS Benchmarking Survey (Onshore)
+Source: AXPC EHS Benchmarking Survey (Onshore)
+0.70
+0.35
+2018 2019 2020
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+Spill Count
+0.47
+0.37
+0.44
+0.34
+0.170.16
+2018 2019 2020
+0.12
+0.18
+0.13
+0.08
+0.00
+0.05
+0.10
+0.15
+0.20
+Spill Volume
+0.70
+0.35
+2018 2019 2020
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+Spill Count
+0.47
+0.37
+0.44
+0.34
+0.170.16
+2018 2019 2020
+0.12
+0.18
+0.13
+0.08
+0.00
+0.05
+0.10
+0.15
+0.20
+Spill Volume
+Diamondback
+Industry Average
+Diamondback
+Industry Average
+
+Diamondback Energy //  2021 CSR //  32
+SCREENING OF CONTRACTORS
+In 2020, we continued to expand our longtime initiative with Veriforce, who collects safety data related to con-
+tractors in Diamondback’s production operations. Each quarter, contractors upload relevant safety information 
+that Veriforce grades as green (low risk), yellow (moderate risk) or red (high risk) based upon Diamondback’s 
+risk	assessment	criteria.	This	relationship	allows	us	to	manage	risk	more	efficiently.
+We evaluate contractors on criteria such as having a formal safety program, a written safety manual, 
+employee background checks and explicit requirements for personal protective equipment. Veriforce’s 
+machine learning and predictive modeling technology help us evaluate the likelihood of a contractor having a 
+recordable incident over a three-month period.
+SAFETY TRAINING AND AWARENESS
+Our people undergo training and education each year on regulatory compliance, industry standards and inno-
+vative opportunities to effectively manage the challenges of developing our resources.
+Diamondback	field	operations	personnel	refresh	their	safety	knowledge	on	a	monthly	basis.	In	2020,	we	piv-
+oted to providing this training virtually due to COVID-19 restrictions. 
+We devoted approximately 4,850 personnel hours to 15 safety topics in 2020, including:
+ H2S awareness
+ Hearing conservation
+ Hazard recognition and communication
+ Naturally occurring radioactive material awareness
+	Firefighting	awareness
+ Leak detection and repair
+ Spill prevention control and countermeasures
+	COVID-19	protocols	for	office	and	field	employees
+ Personal protective equipment
+CONTRACTORS ACHIEVING A “PREFERRED” SCORE BASED 
+ON VERIFORCE’S STANDARDIZED SAFETY QUESTIONNAIRE.
+PERSONNEL HOURS DEVOTED TO SAFETY  
+TRAINING IN 2020.
+99%
+~4,850
+
+Diamondback Energy //  2021 CSR //  33
+OUR COMMITMENT  TO COMMUNITIES
+DIAMONDBACK AND OUR EMPLOYEES VALUE THE DEEP CONNECTIONS WE SHARE WITH OUR NEIGHBORS ACROSS THE 
+PERMIAN BASIN. WE SUPPORT AN ARRAY OF ACTIVITIES AND ORGANIZATIONS THAT ENHANCE THE QUALITY OF LIFE IN 
+NEARBY COMMUNITIES AS WELL AS IN THE BROADER WORLD.
+We believe that access to education advances, fosters belonging and inclusion, and even inspires. Our focus over several years has been to improve 
+access to various types of education in our communities. We are proud that our social commitment remains strong to the underprivileged children in 
+the communities where we operate. 
+In	various	ways	a	significant	portion	of	our	philanthropic	efforts	help	foster	diverse	children	in	our	communities,	by	working	to	remove	barriers	to	inclu-
+sion, particularly socio-economic obstacles. For example, in Texas, we have grown our social contribution to the underprivileged in the communities where 
+we operate, particularly over the last two years. We have contributed funds, physical resources and advice. But, perhaps even more importantly, we have 
+given our time—participating in volunteer events, serving on boards, providing mentorship or advice, and serving our communities in multiple other ways.
+In 2020, we expanded our outreach to help local residents and communities recover from the impact of COVID-19. We also joined with our employees 
+in supporting an array of other causes through donations and volunteerism, which remains an integral part of our Company culture. We’re also proud 
+of	our	field	employees,	many	without	power	at	their	own	homes,	who	went	to	work	in	freezing	temperatures	to	help	return	power	back	to	Texas	during	
+Winter Storm Uri in 2021. Through working together promptly with our business partners, civic leaders and energy providers, we were able to return gas 
+production to help restore power generation in Texas.
+“ We will continue to be here—to listen to  
+our employees and the members of the 
+communities in which we live and work— 
+to learn what Diamondback can do to have 
+the most positive impact going forward.”
+—Travis	Stice,	Chief	Executive	Officer
+
+Diamondback Energy //  2021 CSR //  34
+Amplifying Our Team Members’ 
+Charitable Impact
+We	match	our	employees’	financial	donations	to	registered	nonprofit	organizations	and	double	the	
+amount of our matching contribution when employees donate to a charity based in their local commu-
+nity. In 2020, we provided more than $120,000 in matching funds to 92 organizations ranging from local 
+food banks to charities that provide critical services to the communities where Diamondback operates. 
+Although the health and safety precautions imposed during COVID-19 limited employees’ ability to volun-
+teer in-person, we found creative ways to continue to engage our local communities.
+Aiding COVID-19 Relief  
+and Recovery
+We reprioritized much of our philanthropic outreach in 2020 to support local families, healthcare workers, 
+first	responders	and	community	organizations	that	were	hit	hardest	by	the	ongoing	pandemic.
+Along with donating more than $100,000 to food banks in the Midland and Oklahoma City areas, we 
+helped conduct several food collection drives in our communities. Diamondback employee volunteers 
+also helped distribute sack lunches for local students whose schools had to shut down.
+When frontline medical professionals nationwide began running short on face masks and other personal 
+protective equipment (PPE) as COVID-19 cases swelled, one of our employees helped us arrange to import 
+12,000 masks from China. We donated these masks—a highly scarce commodity at the time—to Midland 
+Memorial	Hospital	and	other	healthcare	facilities	and	first	responders	in	Andrews,	Reeves	and	Winkler	
+counties. Also, we donated tablet computers to Midland Memorial so that COVID-19 patients in the inten-
+sive-care unit could see and hear safely from their loved ones over video conferencing. 
+Supporting Local Schools
+We invest in the future of our communities by supporting new and expanded learning opportunities that 
+equip students with skills for lifelong success. Diamondback employees worked closely with the staff at 
+three elementary schools in Midland and Oklahoma City, in 2020 to foster a positive and inspiring educa-
+tional environment. We also help create opportunities for students at various schools in the region to learn 
+about the oil and gas industry, from potential career paths to our environmental sustainability efforts.
+EXTRA HELP FOR YOUNG READERS
+In the summer of 2020 at Lamar Elementary in Midland, we funded a reading program to help students 
+who had fallen behind their grade level. Due to students being out of the classroom since mid-March 
+2020, our support helped Lamar hire teachers to virtually tutor about 45 students over the summer. 
+Diamondback	also	partnered	with	two	local	nonprofits	that	provided	reading	assistance	programs	to	dis-
+advantaged children. When in-person learning resumed in September, Diamondback employee volunteers 
+continued virtually reading with about 25 Lamar Elementary students on a weekly basis over videoconfer-
+ence. We plan to extend this program to other schools starting in the fall of 2021.
+STEAM AND STEM LEARNING EXPERIENCES
+Diamondback worked with the staff at Travis Elementary School in Midland to present a science, tech-
+nology, engineering, art and math (STEAM) night in early March 2020. We planned, funded and supplied 
+more than 50 employee volunteers for the event, which featured 11 different activity stations. More than 
+300 students and their parents joined in this experience which would not have been possible without 
+Diamondback employees volunteering their time after hours. We also brought in food trucks to provide 
+free meals for all participants.
+In	June	2021,	in	partnership	with	a	local	non-profit,	we	launched	a	new	summer	camp	program	at	our	
+corporate	offices	to	give	Midland-area	students	even	more	chances	to	build	science,	technology,	engi-
+neering and math (STEM) skills through hands-on projects. Camp participants also interacted with 
+Diamondback employees and interns for career mentorship during the sessions.
+
+BACK-TO-SCHOOL SUPPLIES
+We extended our educational support to Spencer Elementary School near Oklahoma City, where nearly all 
+student households qualify to receive free or reduced lunch under federal low-income standards. In the 
+fall of 2020, Diamondback provided sets of notebooks, pens, pencils and other supplies to the school’s 
+250-plus students. Diamondback will build upon this partnership for the Fall 2021 semester.
+Permian Strategic Partnership
+Together with 19 other energy companies, we helped form the Permian Strategic Partnership (PSP) 
+in November 2018 to address local and regional needs more effectively. Diamondback and other PSP 
+members have committed more than $100 million through 2023 to help build superior educational pro-
+grams, accessible housing, a supportive healthcare system, safer roads and a more skilled workforce in 
+West Texas and southeastern New Mexico.
+Diamondback	employees,	including	senior	executives,	participate	in	initiatives	across	all	five	PSP	focus	
+areas. Our work with PSP grew even more vital in helping local communities rebound from the economic, 
+social and health impacts of COVID-19.
+“ ThegenerouscontributionfromDiamondbackafforded
+peace of mind to our parents during an already troublesome 
+time. Even before COVID, providing school supplies and 
+basic necessities such as winter coats caused worry and 
+stress.Manyofourfamilieslosttheirjobsorwereconfined
+to their home, therefore the stress was compounded by the 
+pandemic. I had many parents call who were extremely 
+relieved to not have to worry about school supplies 
+and coats for their children. In a time of uncertainty, 
+Diamondback provided some peace of mind.”
+—Stacy Storey, Principal, Spencer Elementary School 
+PSP activities in 2020 and early 2021 included:
+  Partnering with the National Board for Professional Teaching Standards over the next three years to 
+strengthen coaching and mentoring networks for teachers in southeastern New Mexico and Ector 
+County	in	west	Texas.	PSP	is	providing	financial	support	for	more	than	300	teachers	to	attend	profes-
+sional	development	courses	and	become	nationally	certified	in	a	variety	of	subject	areas.
+  Broadening access to healthcare services across the Permian Basin through funding to hire additional 
+primary care providers and medical assistants in underserved communities. PSP is working with 
+Texas Tech University Health Sciences Center to expand Midland-based teaching and lab facilities, 
+increase medical student capacity by 12 slots per year, rotate students among rural hospitals and 
+encourage more students to pursue medical careers.
+		Providing	enhanced	lifesaving	equipment	to	first	responders	across	the	Permian	Basin	as	part	of	a	
+campaign	to	reduce	traffic-related	injuries	and	fatalities.
+  Supporting a campaign that urged all residents to participate in the 2020 U.S. Census as a crucial step to 
+help local governments secure federal funding for housing, public safety, education and other needs.
+Tree Planting in Local Parks
+In	the	fall	of	2020,	our	Company	partnered	with	Keep	Midland	Beautiful,	a	community	nonprofit	organiza-
+tion, to plant 25 trees at a local park that had been neglected in recent years. We also paid for irrigation 
+equipment	to	help	keep	the	new	trees	flourishing	for	decades	to	come.	Our	plans	for	2021	include	plant-
+ing a total of 100 trees and installing irrigation at often overlooked parks in the city.
+Diamondback Energy / / 2021 CSR / / 35
+
+ADVANCING  WITH PURPOSE
+WE ARE ENERGIZED BY THE OPPORTUNITIES AHEAD OF US AS OUR COMPANY , INDUSTRY AND COMMUNITIES REGAIN 
+MOMENTUM IN 2021. DIAMONDBACK’S RESILIENT BUSINESS STRATEGY , CLEARL Y FOCUSED ESG OBJECTIVES AND 
+ENERGETIC PEOPLE WILL CARRY US FORWARD.
+Building upon the lessons gained from both our setbacks and successes, we will continue to benchmark Diamondback’s operations 
+against industry peers and strive for continuous improvement. As we enhance our corporate responsibility efforts and increase  
+stockholder value, we look forward to providing periodic updates in future reports. 
+Diamondback Energy //  2021 CSR //  36
+
+Diamondback Energy //  2021 CSR //  37
+APPENDIX
+KEY PERFORMANCE INDICATORS
+EXPLORATION & PRODUCTION METRIC YEAR ENDED
+12/31/2020
+YEAR ENDED 
+12/31/2019
+YEAR ENDED 
+12/31/2018
+YEAR ENDED 
+12/31/2017
+YEAR ENDED 
+12/31/2016 FOOTNOTE
+Hydrocarbons Produced (a)
+Oil MBBL  66,182  68,518  34,367  21,418  11,562 
+Gas MMcf  130,549  97,613  34,669  20,660  10,728 
+NGL MBBL  21,981  18,498  7,465  4,056  2,399 
+Total Net Hydrocarbons Produced MBOE  109,921  103,285  47,610  28,917  15,749 
+Average Daily Net Production MBOE/d  300.3  283.0  130.4  79.2  43.1 
+Proved Reserves (a)
+Oil MBBL  759,401  710,903  626,936  233,181  139,174 
+Gas MMcf  1,607,064  1,118,811  1,048,649  285,369  174,896 
+NGL MBBL  289,196  230,203  190,291  54,609  37,134 
+Total Proved Reserves MBOE  1,316,441  1,127,575  992,001  335,351  205,457 
+People
+Employees #  732 ⁜  712  711  252  145 (b)
+Female Management % 21%⁜ 19% 28% 23% 24% (b)
+Female Professionals % 42%⁜ 40% 42% 24% 31% (b)
+Female Others % 30%⁜ 34% 23% 49% 36% (b)
+Total Female Employees % 32%⁜ 32% 30% 34% 31% (b)
+Minority Management % 20%⁜ 20% 14% 15% 12% (b)
+Minority Professionals % 16%⁜ 14% 14% 16% 8% (b)
+Minority Others % 36%⁜ 37% 30% 22% 25% (b)
+Total Minority Employees % 25%⁜ 25% 22% 18% 16% (b)
+Employee Turnover % 7%⁜ 11% 6% 7% 15% (b)(c)
+Safety (Employee) (d)
+"OSHA Recordable" Cases #  3  3  2  —  —
+"Days Away From Work" Cases #  1  2  2  —  —
+
+Diamondback Energy //  2021 CSR //  38
+EXPLORATION & PRODUCTION METRIC YEAR ENDED
+12/31/2020
+YEAR ENDED 
+12/31/2019
+YEAR ENDED 
+12/31/2018
+YEAR ENDED 
+12/31/2017
+YEAR ENDED 
+12/31/2016 FOOTNOTE
+Total Recordable Incident Rate per 200k hours  0.42 ⁜  0.42  0.53  —  — (e)(f)(g1)
+Lost Time Incident Rate per 200k hours  0.14  0.28  0.53  —  —
+Fatalities # — — — — —
+Safety (Independent Contractor) (d)
+"OSHA Recordable" Cases #  14 33  41  20  6 
+"Days Away From Work" Cases #  3 16  18  10 —
+Total Recordable Incident Rate per 200k hours  0.33 0.36  0.35  0.25  0.09 (e)
+Lost Time Incident Rate per 200k hours  0.07  0.18  0.15  0.13 —
+Fatalities # — 1 — — —
+Safety (Combined Workforce) (d)
+"OSHA Recordable" Cases #  17 36  43  20  6 
+"Days Away From Work" Cases #  4 18  20  10 —
+Total Recordable Incident Rate per 200k hours  0.34 0.37  0.35  0.25  0.09 (e)
+Lost Time Incident Rate per 200k hours  0.08  0.18  0.16  0.12 —
+Fatalities # — 1 — — —
+Vehicle Safety (d)
+Vehicle Incidents #  23 15 6  1  2 
+Vehicle Incident Rate per million miles  2.53 1.56 1.33  0.34  0.90 
+Flaring
+Gross Volume of Flared Hydrocarbons MSCF  4,914,208 ⁜  11,772,007 3,026,846  780,630  416,983 (e)(g2)
+Gross Gas Flared as a % of Net BOE Production %  0.75 %  1.90 % 1.06% 0.45% 0.44%
+Gross Gas Flared as a % of Gross BOE Production %  0.65 %  1.60 % 0.90% unavailable unavailable (e)
+Gross Gas Flared as a % of Gross Gas Production %  1.97 %  5.68 %  4.18 % unavailable unavailable (e)
+GHG Emissions (h)(i)
+Scope I GHG Emissions mt CO2e  1,192,556 ⁜  1,852,946  538,750  415,336  174,413 (d)(e)(f)(g3)
+Scope II GHG Emissions mt CO2e  281,020 ⁜ unavailable unavailable unavailable unavailable (g4)
+Scope I GHG Intensity mt CO2e/Net MBOE  10.85  17.94  12.16  14.36  11.07 (d)
+Scope I GHG Intensity mt CO2e/Gross MBOE  9.50  15.12 unavailable  unavailable  unavailable (e)
+
+Diamondback Energy //  2021 CSR //  39
+EXPLORATION & PRODUCTION METRIC YEAR ENDED
+12/31/2020
+YEAR ENDED 
+12/31/2019
+YEAR ENDED 
+12/31/2018
+YEAR ENDED 
+12/31/2017
+YEAR ENDED 
+12/31/2016 FOOTNOTE
+Scope I Methane Emissions as a % of GHG Emissions % 10.6% 11.4% unavailable unavailable unavailable
+Percentage of Scope I GHG Emissions covered  
+under emissions limiting regulations % 0% 0% 0% 0% 0%
+Amount of Scope I Emissions from:
+Flared Hydrocarbons mt CO2e  418,135  1,005,009 unavailable unavailable unavailable
+Other Combustion mt CO2e  643,909  699,250 unavailable unavailable unavailable
+Process Emissions mt CO2e — — unavailable unavailable unavailable
+Other Vented Emissions mt CO2e  116,716  132,585 unavailable unavailable unavailable
+Fugitive Emissions mt CO2e  13,796  16,103 unavailable unavailable unavailable
+CO2 emissions mt CO2  1,064,560  1,640,774  309,812  299,758  27,093 (d)
+CH4 emissions mt CH4  5,079.0  8,428.5  8,108.1  4,598.1  5,889.8 (j)
+CH4 Intensity % % 0.15% 0.30% 0.37% unavailable unavailable (j)(k)
+CH4 Intensity % mt CH4/Gross MBOE  0.04  0.07 unavailable unavailable unavailable (e)
+N2O emissions mt N2O  3.43  4.90  2.01  2.10  0.25 (d)
+Spills (d)
+Hydrocarbon Spills #  386 342  288  211  unavailable (l)
+Non-Hydrocarbon Spills #  249 490  319  229  unavailable (l)
+Hydrocarbon Volumes BBL  2,853 4,659  4,098  4,013  2,021 
+Produced Water Volumes BBL  23,969 92,544  27,441  14,843  4,544 
+Combined Volumes BBL  26,822 97,203  31,539  18,856  6,565 
+Hydrocarbon Spills Recovered % 71% 68% unavailable unavailable  unavailable 
+Produced Water Spills Recovered % 68% 51% unavailable unavailable  unavailable 
+Total Spills Recovered % 68% 52% 81% 90%  unavailable 
+Total Produced Fluid Spill per 1,000 BBL  
+Produced Fluids BBL/Gross MBBL  0.07 ⁜ 0.24 0.22 0.22 0.17 (e)
+Total Produced Hydrocarbon Spill Rate per 1,000 
+BBL Produced BBL/Gross MBBL  0.03  0.05 0.10 0.15 0.14
+Total Produced Non-Hydrocarbon Spill Rate per 1,000 
+BBL Produced BBL/Gross MBBL  0.08 0.29 0.26 0.26 0.19
+Produced Liquid Spills (less recovered) Rate % 0.002% 0.012% unavailable unavailable unavailable
+
+Diamondback Energy //  2021 CSR //  40
+EXPLORATION & PRODUCTION METRIC YEAR ENDED
+12/31/2020
+YEAR ENDED 
+12/31/2019
+YEAR ENDED 
+12/31/2018
+YEAR ENDED 
+12/31/2017
+YEAR ENDED 
+12/31/2016 FOOTNOTE
+Water
+Total water used in operations MBBL  103,424  176,775  99,922  64,998  unavailable 
+Brackish water used in operations MBBL  61,249  86,327  6,182 —  unavailable 
+Recycled water used in operations MBBL  17,689  27,936  9,911  435  unavailable 
+Freshwater used in operations MBBL  24,486  62,512  83,829  64,563  unavailable 
+Total Water Intensity MBBL/Net MBOE  0.94  1.71  2.10  2.25  unavailable 
+Freshwater Intensity MBBL/Net MBOE  0.22  0.61  1.76  2.23  unavailable 
+Freshwater Intensity MBBL/Gross MBOE  0.20  0.51  1.61  1.89  unavailable (e)
+Water Recycle Rate MBBL/MBBL 17.1%⁜ 15.8% 9.9% 0.7%  unavailable (e)
+Governance
+Independent Board Members % 88% 71% 71% 80% 80%
+Women Board Members % 25% 14% 14% 0% 0%
+Minority Board Members % 13% 0% 0% 0% 0%
+All	2018	figures	in	the	report	reflect	Diamondback	data	plus	data	attributable	to	Energen	Corporation	(“Energen”)	for	December	2018	
+subsequent to its acquisition by Diamondback, unless otherwise noted.
+	 (a)		 These	figures	represent	Diamondback	plus	Viper.
+ (b)  Criteria used to calculate this metric was based on employee personnel data from self-reported employee census data.
+ (c)  Employee turnover does not include data and changes due to acquisition and divestiture activities related to Energen or Ajax Resources LLC.
+	 (d)		 2018	figures	represent	Diamondback’s	activity,	excluding	Energen.
+ (e)  Criteria used for this metric follows AXPC ESG Framework.
+ (f)  Criteria used for this metric follows SASB methodology. See the table beginning on page 41 for further information on the criteria.
+(g1) Criteria used for this metric follows GRI-403-9 methodology.
+(g2) Criteria used for this metric follows GRI-OG6 methodology.
+(g3)  Criteria used for this metric follows GRI-305-1 methodology. Gases included in the calculation are CO2, CH4 and N2O. Diamondback used 
+the global warming potentials from the Intergovernmental Panel on Climate Change’s Fourth Assessment Report.
+(g4)  Criteria used for this metric follows GRI-305-2 methodology. Gases included in the calculation are CO2, CH4 and N2O. Diamondback used 
+the market-based method in accordance with the World Resources Institute’s Greenhouse Gas Protocol.
+ (h)  2020 emission data is pending EPA review.
+ (i)  Diamondback’s previously reported 2019 Scope 1 GHG emissions were incorrect. We have restated these emissions correctly in this report 
+and obtained limited third-party assurance on our 2020 GHG emissions, along with other 2020 data as noted.
+	 (j)		 2018	figures	represent	Diamondback	and	Energen	combined	activity.
+ (k)   Methane intensity % is calculated as (tonnes of methane emissions)/((total gas produced)*(average mole fraction of methane in produced  
+gas)*(methane density of .0192 kg/scf)*(1000 scf/mscf)*(1 tonne/1000 kg)).
+ (l)   Beginning in 2020, Diamondback began adhering to AXPC methodology, which includes spills greater than or equal to 1 BBL which are not 
+confined	to	impermeable	secondary	containment.	Previous	years	include	spills	greater	than	1	BBL and do not take into consideration if a 
+spill occurred outside of containment.   
+FORWARD-LOOKING STATEMENTS AND OTHER DISCLAIMERS
+This	report	contains	forward-looking	statements	as	defined	by	the	Securities	and	Exchange	Commission.	All	statements,	other	
+than historical facts, that address activities that Diamondback assumes, plans, expects, believes, intends or anticipates (and other 
+similar expressions) will, should or may occur in the future are forward-looking statements. The forward-looking statements are 
+based on management’s current beliefs, based on currently available information, as to the outcome and timing of future events, 
+including the current industry and macroeconomic conditions, commodity pricing environment, production levels, any future 
+regulatory actions affecting Diamondback, the impact and duration of the COVID-19 pandemic, acquisitions and sales of assets, 
+drilling and capital expenditure plans, environmental targets and initiatives and other factors believed to be appropriate. These 
+forward-looking statements involve certain risks and uncertainties, many of which are beyond Diamondback’s control and could 
+cause the actual results or developments to differ materially from those currently anticipated by the management of Diamondback. 
+Information	concerning	these	risks	and	other	factors	can	be	found	in	Diamondback’s	filings	with	the	Securities	and	Exchange	
+Commission, including its reports on Forms 10-K, 10-Q and 8-K. Diamondback undertakes no obligation to update or revise any for-
+ward-looking statement as a result of new information, future events or otherwise.
+⁜		This	metric	was	reviewed	by	our	independent	certified	public	accountants	in	accordance	with	attestation	standards	established	by	the	American	Institute	of	Certified	Public	Accountants	for	the	year	ended	December	31,	2020,	as	stated	in	their	report	appearing	on	page 44. Refer to footnotes for the 
+criteria used to present these metrics.
+
+Diamondback Energy //  2021 CSR //  41
+SASB INDEX
+TOPIC ACCOUNTING METRIC CATEGORY UNIT OF  
+MEASURE CODE 2020 FANG  
+RESPONSE
+2019 FANG  
+RESPONSE
+Greenhouse Gas Emissions
+Gross global Scope 1 emissions
+Quantitative Metric tons CO2e (t), 
+Percentage (%) EM-EP-110a.1 
+ 1,192,555.9  1,852,946.2 
+percentage methane, 10.6% 11.4%
+percentage covered under emissions-limiting regulation 0.0% 0.0%
+Amount	of	gross	global	Scope	1	emissions	from:	(1)	flared	hydrocarbons,	
+Quantitative Metric tons CO2e (t) EM-EP-110a.2
+ 418,134.8  1,005,008.6 
+(2) other combustion,  643,909.0  699,249.9 
+(3) process emissions, — —
+(4) other vented emissions, and  116,715.7  132,585.0 
+(5) fugitive emissions  13,796.3  16,102.7 
+Discussion of long-term and short-term strategy or plan to manage  
+Scope 1 emissions, emissions reductions targets, and an analysis of  
+performance against those targets
+Discussion & 
+Analysis N/A EM-EP-110a.3 See Commitment to Environmental Responsibility
+Water Management
+(1) Total fresh water withdrawn, 
+Quantitative
+Thousand cubic  
+meters (m3)
+EM-EP-140a.1
+4,908.3  10,038.7 
+(2) total fresh water consumed 3,892.9 9,380.7
+Fresh water percentage in regions with High or Extremely High Baseline Water Stress
+Percentage (%)
+76-99% 76-99%
+Total water percentage in regions with High or Extremely High Baseline Water Stress 76-99% 76-99%
+Volume	of	produced	water	and	flowback	generated;
+Quantitative
+Thousand cubic  
+meters (m3)
+EM-EP-140a.2
+ 49,922.3  54,675.42 
+percentage (1) discharged,
+Percentage (%)
+0% 0%
+(2) injected, 94% 92%
+(3) recycled; 6% 8%
+hydrocarbon content in discharged water Metric tons (t) — —
+Percentage of hydraulically fractured wells for which there is public disclosure  
+of	all	fracturing	fluid	chemicals	used Quantitative Percentage (%) EM-EP-140a.3 100% 100%
+
+Diamondback Energy //  2021 CSR //  42
+TOPIC ACCOUNTING METRIC CATEGORY UNIT OF  
+MEASURE CODE 2020 FANG  
+RESPONSE
+2019 FANG  
+RESPONSE
+Biodiversity Impacts
+Description of environmental management policies and practices for active sites Discussion & 
+Analysis N/A EM-EP-160a.1 See Land Use and Biodiversity
+Number of hydrocarbon spills, 
+Quantitative Number,  
+Barrels (BBLS) EM-EP-160a.2
+ 386  342 
+aggregate volume of hydrocarbon spills,  2,853  4,659 
+volume in Arctic, — —
+volume impacting shorelines with ESI rankings 8-10, — —
+and volume recovered  2,026  3,168 
+Percentage of (1) proved reserves in or near sites with protected conservation 
+status or endangered species habitat
+Quantitative Percentage (%) EM-EP-160a.3
+0-5% 0-5%
+Percentage of (2) probable reserves in or near sites with protected conservation 
+status or endangered species habitat 0-5% 0-5%
+Security, Human Rights & 
+Rights of Indigenous Peoples
+Percentage	of	(1)	proved	reserves	in	or	near	areas	of	conflict
+Quantitative Percentage (%) EM-EP-210a.1
+0% 0%
+Percentage	of	(2)	probable	reserves	in	or	near	areas	of	conflict 0% 0%
+Percentage of (1) proved and reserves in or near indigenous land
+Quantitative Percentage (%) EM-EP-210a.2
+0% 0%
+Percentage of (2) probable reserves in or near indigenous land 0% 0%
+Discussion of engagement processes and due diligence practices with respect  
+to	human	rights,	indigenous	rights,	and	operations	in	areas	of	conflict
+Discussion & 
+Analysis N/A EM-EP-210a.3 See our Human Rights Policy
+Community Relations
+Discussion of process to manage risks and opportunities associated with  
+community rights and interests
+Discussion & 
+Analysis N/A EM-EP-210b.1 See Commitment to Managing and Reducing  
+Risks and Commitment to Communities
+Number of non-technical delays
+Quantitative
+Number
+EM-EP-210b.2
+— —
+duration of non-technical delays Days — —
+Workforce Health & Safety
+(1) Total recordable incident rate (TRIR) for full-time employees, 
+Quantitative
+Rate
+EM-EP-320a.1
+0.42 0.42
+(2) fatality rate for full-time employees,  — —
+(4)  average hours of health, safety, and emergency response training for  
+full-time employees, Hours (h)  6.6  5.2 
+Discussion of management systems used to integrate a culture of safety  
+throughout the exploration and production lifecycle
+Discussion & 
+Analysis N/A EM-EP-320a.2 See Health and Safety Management
+
+Diamondback Energy //  2021 CSR //  43
+TOPIC ACCOUNTING METRIC CATEGORY UNIT OF  
+MEASURE CODE 2020 FANG  
+RESPONSE
+2019 FANG  
+RESPONSE
+Reserves Valuation &  
+Capital Expenditures
+Amount invested in renewable energy, revenue generated by renewable sales Quantitative Reporting Currency EM-EP-420a.3  $—  $— 
+Discussion of how price and demand for hydrocarbons and/or climate  
+regulation	influence	the	capital	expenditure	strategy	for	exploration,	acquisition,	
+and development of assets
+Discussion & 
+Analysis N/A EM-EP-420a.4 See Climate Change Analysis
+Business Ethics &  
+Transparency
+Percentage of (1) proved reserves in countries that have the 20 lowest rankings 
+in Transparency International's Corruption Perception Index
+Quantitative Percentage (%) EM-EP-510a.1
+0% 0%
+Percentage of (2) probable reserves in countries that have the 20 lowest rankings 
+in Transparency International's Corruption Perception Index 0% 0%
+Description of the management system for prevention of corruption and bribery 
+throughout the value chain
+Discussion & 
+Analysis N/A EM-EP-510a.2 See Commitment to Governance  
+and Business Ethics
+Management of the Legal & 
+Regulatory Environment
+Discussion of corporate positions related to government regulations and/or policy 
+proposals that address environmental and social factors affecting the industry
+Discussion & 
+Analysis N/A EM-EP-530a.1 See Lobbying and Political Involvement
+Critical Incident Risk  
+Management
+Description of management systems used to identify and mitigate catastrophic 
+and tail-end risks
+Discussion & 
+Analysis N/A EM-EP-540a.2 See Commitment to Managing and Reducing Risks
+
+REPORT OF INDEPENDENT  CERTIFIED PUBLIC ACCOUNTANTS
+BOARD OF DIRECTORS AND MANAGEMENT OF DIAMONDBACK ENERGY , INC. 
+We have reviewed the Scope 1 greenhouse gas (GHG) emissions, Scope 2 emissions, produced liquid 
+(hydrocarbon	and	non-hydrocarbon)	spills,	recycled	water	used	in	operations,	flared	gas,	employee	incident	
+rates, and employee demographic information/population information metrics of Diamondback Energy, Inc. 
+(“Diamondback” or the “Company”) for the year ended December 31, 2020, as reported in the Company’s 
+2021 Corporate Sustainability Report (“Subject Matter”). Diamondback’s management is responsible for 
+presenting the Subject Matter based on the standards and guidelines for the Subject Matter established by 
+the Sustainability Accounting Standards Board (“SASB”), the Global Reporting Initiative (“GRI”), the American 
+Exploration and Production Council (“AXPC”) or the World Resources Institute’s Greenhouse Gas Protocol (the 
+“Criteria”), as described in the Company’s 2021 Corporate Sustainability Report. Our responsibility is to express 
+a conclusion on the Subject Matter based on our review. Information presented for the years ended December 
+31, 2016 through December 31, 2019 was not subject to our review and accordingly, we do not express an 
+opinion or any form of assurance on such information. 
+Our review was conducted in accordance with attestation standards established by the American Institute of 
+Certified	Public	Accountants.	Those	standards	require	that	we	plan	and	perform	the	review	to	obtain	limited	
+assurance	about	whether	any	material	modifications	should	be	made	to	the	Subject	Matter	in	order	for	it	to	
+be presented in accordance with the Criteria. A review is substantially less in scope than an examination, the 
+objective of which is to obtain reasonable assurance about whether the Subject Matter is presented in accor-
+dance with the Criteria, in all material respects, in order to express an opinion. Accordingly, we do not express 
+such an opinion. We believe that our review provides a reasonable basis for our conclusion. 
+The other information included in the Company’s 2021 Corporate Responsibility Report is presented by man-
+agement of the Company and is not a part of the Subject Matter. Such information has not been subjected to 
+the procedures applied in the review engagement and accordingly, we do not express an opinion or provide 
+assurance on it. 
+The preparation of sustainability metrics requires management to evaluate the Criteria, make determinations 
+as to the relevancy of information to be included, and make estimates and assumptions that affect reported 
+information. Measurement of certain amounts and sustainability metrics, some of which may be referred to 
+as estimates, is subject to substantial inherent measurement uncertainty, including GHG emissions. Obtaining 
+sufficient	appropriate	review	evidence	to	support	our	conclusion	does	not	reduce	the	inherent	uncertainty	in	
+the amounts and metrics. The selection by management of different but acceptable measurement techniques 
+could result in materially different amounts or metrics being reported. 
+Based	on	our	review,	 we	are	not	aware	of	any	material	 modifications	that	should	 be	made	to	the	Subject 	
+Matter of Diamondback for the year ended December 31, 2020, in order for it to be presented in accordance 
+with the Criteria.
+Oklahoma City, Oklahoma  
+September 23, 2021
+Diamondback Energy //  2021 CSR //  44
+
+Diamondback Energy //  2021 CSR //  45
+Diamondback Energy, Inc.
+500 West Texas Ave., Suite 1200, Midland, TX 79701
+www.diamondbackenergy.com
