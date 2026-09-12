@@ -32,7 +32,7 @@ GRID = [i / 100 for i in range(1, 100)]
 
 
 def load_cells(results_path: str = RESULTS_PATH):
-    """Return [(item_id, company, score, label_bool, shipped_found)] per labelled cell.
+    """Return [(item_id, slug, score, label_bool, shipped_found)] per labelled cell.
 
     `shipped_found` is the decision the pipeline actually made, which is not
     always `score >= threshold`: items carrying a structural gate
@@ -44,14 +44,16 @@ def load_cells(results_path: str = RESULTS_PATH):
     results = json.load(open(results_path))
     cells = []
     for row in results:
-        company_labels = labels.get(row["company"], {})
+        # Joined on slug: one company can now contribute several report
+        # editions, and each edition carries its own hand read.
+        company_labels = labels.get(row["slug"], {})
         for item_id, cell in row["items"].items():
             if not cell.get("applicable"):
                 continue
             label = company_labels.get(item_id)
             if label is None:
                 continue  # unverified -- excluded, never guessed
-            cells.append((item_id, row["company"], cell["score"], bool(label), bool(cell.get("found"))))
+            cells.append((item_id, row["slug"], cell["score"], bool(label), bool(cell.get("found"))))
     return cells
 
 

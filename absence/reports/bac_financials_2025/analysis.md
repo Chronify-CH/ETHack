@@ -1,11 +1,12 @@
-# Bank of America — disclosure audit
+# Bank of America — 2025 report — disclosure audit
 
 - **Sector (as used in this corpus):** Financials
+- **Report edition:** 2025 — "Sustainability at Bank of America, published December 18, 2025" (read off the document's own title page, not inferred from the filename)
 - **Source document:** https://about.bankofamerica.com/content/dam/about/report-center/esg/2025/SustainabilityatBofA2025_WCAG2.2_121625.pdf
 - **Resolved to:** `https://23.211.139.198/content/dam/about/report-center/esg/2025/SustainabilityatBofA2025_WCAG2.2_121625.pdf`
 - **Retrieved:** 2026-09-12T14:35:28.744637Z via TinyFish fetch_content (extracted text; raw PDF bytes not available)
 - **Extracted text:** 230,222 chars, sha256 `bb4370c23de4122ab5f67093ac27d9166d4a630bc4fa640c2d3d4d6414fb317d`
-- **Local copy:** `absence/reports/bac_financials/source.txt` (the exact bytes scored below)
+- **Local copy:** `absence/reports/bac_financials_2025/source.txt` (the exact bytes scored below)
 - **Paragraph chunks after rechunk():** 324
 
 **Agreement with the hand read: 4/4 scored items** (4 of this document's cells are both validated and hand-labelled; the rest are excluded or unverified and are listed but not counted).

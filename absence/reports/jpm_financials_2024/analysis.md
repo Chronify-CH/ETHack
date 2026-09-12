@@ -1,11 +1,12 @@
-# JPMorgan Chase & Co. — disclosure audit
+# JPMorgan Chase & Co. — 2024 report — disclosure audit
 
 - **Sector (as used in this corpus):** Financials
+- **Report edition:** 2024 — "Sustainability Report 2024" (read off the document's own title page, not inferred from the filename)
 - **Source document:** https://www.jpmorganchase.com/content/dam/jpmorganchase/documents/about/jpmc-sustainability-report-2024.pdf
 - **Resolved to:** `https://23.211.139.209/content/dam/jpmorganchase/documents/about/jpmc-sustainability-report-2024.pdf`
 - **Retrieved:** 2026-09-12T14:35:28.743463Z via TinyFish fetch_content (extracted text; raw PDF bytes not available)
 - **Extracted text:** 261,455 chars, sha256 `d4a29d7b8e543413ecb2b2525aa9f8fda8046fb424d1870e38bb96c8c6d4036a`
-- **Local copy:** `absence/reports/jpm_financials/source.txt` (the exact bytes scored below)
+- **Local copy:** `absence/reports/jpm_financials_2024/source.txt` (the exact bytes scored below)
 - **Paragraph chunks after rechunk():** 368
 
 **Agreement with the hand read: 3/3 scored items** (3 of this document's cells are both validated and hand-labelled; the rest are excluded or unverified and are listed but not counted).

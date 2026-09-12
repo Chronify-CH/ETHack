@@ -1,6 +1,6 @@
 [
   {
-    "slug": "apple_technology",
+    "slug": "apple_technology_2023",
     "company": "Apple Inc.",
     "sector": "Technology",
     "source_url": "https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2023.pdf",
@@ -9,10 +9,12 @@
     "retrieved_at": "2026-09-12T14:35:28.718372Z",
     "extracted_text_sha256": "07258e011e9c5846773c83bdeec524283bc662b0080caadb8b7188052b42fea9",
     "extracted_text_chars": 405050,
-    "local_path": "absence/reports/apple_technology/source.txt"
+    "local_path": "absence/reports/apple_technology_2023/source.txt",
+    "report_year": 2023,
+    "report_title_as_printed": "Environmental Progress Report, covering fiscal year 2022"
   },
   {
-    "slug": "msft_technology",
+    "slug": "msft_technology_2022",
     "company": "Microsoft Corporation",
     "sector": "Technology",
     "source_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MSFT_2022.pdf",
@@ -21,10 +23,12 @@
     "retrieved_at": "2026-09-12T14:35:28.727398Z",
     "extracted_text_sha256": "0449c87f16ec3317da5ce7ac38fa086a5bd017071518161bd32b907402812624",
     "extracted_text_chars": 232714,
-    "local_path": "absence/reports/msft_technology/source.txt"
+    "local_path": "absence/reports/msft_technology_2022/source.txt",
+    "report_year": 2022,
+    "report_title_as_printed": "2022 Environmental Sustainability Report"
   },
   {
-    "slug": "googl_technology",
+    "slug": "googl_technology_2024",
     "company": "Alphabet Inc. (Google)",
     "sector": "Technology",
     "source_url": "https://www.gstatic.com/gumdrop/sustainability/google-2024-environmental-report.pdf",
@@ -33,10 +37,12 @@
     "retrieved_at": "2026-09-12T14:35:28.729376Z",
     "extracted_text_sha256": "f76f7c2a40f90ec0cd8664fc248d0411ffd99fc2b522877d45e270cb1fe15678",
     "extracted_text_chars": 355405,
-    "local_path": "absence/reports/googl_technology/source.txt"
+    "local_path": "absence/reports/googl_technology_2024/source.txt",
+    "report_year": 2024,
+    "report_title_as_printed": "Environmental Report 2024, reporting fiscal year 2023 data"
   },
   {
-    "slug": "xom_energy",
+    "slug": "xom_energy_2023",
     "company": "ExxonMobil",
     "sector": "Energy",
     "source_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/e/NYSE_XOM_2023.pdf",
@@ -45,10 +51,12 @@
     "retrieved_at": "2026-09-12T14:35:28.729765Z",
     "extracted_text_sha256": "8e3ebd6101d75084b3832dd6acb2f6e38296db5cc1e8efa446ee4b4983f75df6",
     "extracted_text_chars": 37080,
-    "local_path": "absence/reports/xom_energy/source.txt"
+    "local_path": "absence/reports/xom_energy_2023/source.txt",
+    "report_year": 2023,
+    "report_title_as_printed": "2023 Sustainability Report, Executive Summary, published January 2024"
   },
   {
-    "slug": "cvx_energy",
+    "slug": "cvx_energy_2023",
     "company": "Chevron Corporation",
     "sector": "Energy",
     "source_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NYSE_CVX_2023.pdf",
@@ -57,10 +65,12 @@
     "retrieved_at": "2026-09-12T14:35:28.733107Z",
     "extracted_text_sha256": "e8f2e862140e1d667878c681dbeb43bdf6611d65e72373fa13689515b23d67fc",
     "extracted_text_chars": 165535,
-    "local_path": "absence/reports/cvx_energy/source.txt"
+    "local_path": "absence/reports/cvx_energy_2023/source.txt",
+    "report_year": 2023,
+    "report_title_as_printed": "2023 corporate sustainability report"
   },
   {
-    "slug": "cop_energy",
+    "slug": "cop_energy_2022",
     "company": "ConocoPhillips",
     "sector": "Energy",
     "source_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NYSE_COP_2022.pdf",
@@ -69,10 +79,12 @@
     "retrieved_at": "2026-09-12T14:35:28.739339Z",
     "extracted_text_sha256": "91197559a339fdb645f0fdf6f4b315e317470a47f2b5f4152952382d5edd1445",
     "extracted_text_chars": 536681,
-    "local_path": "absence/reports/cop_energy/source.txt"
+    "local_path": "absence/reports/cop_energy_2022/source.txt",
+    "report_year": 2022,
+    "report_title_as_printed": "Sustainability Report 2022"
   },
   {
-    "slug": "oxy_energy",
+    "slug": "oxy_energy_2023",
     "company": "Occidental Petroleum",
     "sector": "Energy",
     "source_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/o/NYSE_OXY_2023.pdf",
@@ -81,10 +93,12 @@
     "retrieved_at": "2026-09-12T14:35:28.741908Z",
     "extracted_text_sha256": "f1d3f7d36aa2a5416dff509d1784a8a939fea4b154792f2b9e28502fc2aad38f",
     "extracted_text_chars": 272303,
-    "local_path": "absence/reports/oxy_energy/source.txt"
+    "local_path": "absence/reports/oxy_energy_2023/source.txt",
+    "report_year": 2023,
+    "report_title_as_printed": "Oxy 2023 Sustainability Report"
   },
   {
-    "slug": "jpm_financials",
+    "slug": "jpm_financials_2024",
     "company": "JPMorgan Chase & Co.",
     "sector": "Financials",
     "source_url": "https://www.jpmorganchase.com/content/dam/jpmorganchase/documents/about/jpmc-sustainability-report-2024.pdf",
@@ -93,10 +107,12 @@
     "retrieved_at": "2026-09-12T14:35:28.743463Z",
     "extracted_text_sha256": "d4a29d7b8e543413ecb2b2525aa9f8fda8046fb424d1870e38bb96c8c6d4036a",
     "extracted_text_chars": 261455,
-    "local_path": "absence/reports/jpm_financials/source.txt"
+    "local_path": "absence/reports/jpm_financials_2024/source.txt",
+    "report_year": 2024,
+    "report_title_as_printed": "Sustainability Report 2024"
   },
   {
-    "slug": "bac_financials",
+    "slug": "bac_financials_2025",
     "company": "Bank of America",
     "sector": "Financials",
     "source_url": "https://about.bankofamerica.com/content/dam/about/report-center/esg/2025/SustainabilityatBofA2025_WCAG2.2_121625.pdf",
@@ -105,10 +121,12 @@
     "retrieved_at": "2026-09-12T14:35:28.744637Z",
     "extracted_text_sha256": "bb4370c23de4122ab5f67093ac27d9166d4a630bc4fa640c2d3d4d6414fb317d",
     "extracted_text_chars": 230222,
-    "local_path": "absence/reports/bac_financials/source.txt"
+    "local_path": "absence/reports/bac_financials_2025/source.txt",
+    "report_year": 2025,
+    "report_title_as_printed": "Sustainability at Bank of America, published December 18, 2025"
   },
   {
-    "slug": "gs_financials",
+    "slug": "gs_financials_2022",
     "company": "Goldman Sachs Group Inc.",
     "sector": "Financials",
     "source_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/g/NYSE_GS_2022.pdf",
@@ -117,6 +135,8 @@
     "retrieved_at": "2026-09-12T14:35:28.746233Z",
     "extracted_text_sha256": "70e953785408c49d1667c21fa7957afd65d0e6c018ab96897b96d94d4a14ad4b",
     "extracted_text_chars": 249024,
-    "local_path": "absence/reports/gs_financials/source.txt"
+    "local_path": "absence/reports/gs_financials_2022/source.txt",
+    "report_year": 2022,
+    "report_title_as_printed": "Goldman Sachs 2022 Sustainability Report"
   }
 ]

@@ -62,9 +62,11 @@ def render(entry: dict, row: dict, labels: dict) -> str:
     lines: list[str] = []
     a = lines.append
 
-    a(f"# {entry['company']} — disclosure audit")
+    a(f"# {entry['company']} — {entry['report_year']} report — disclosure audit")
     a("")
     a(f"- **Sector (as used in this corpus):** {entry['sector']}")
+    a(f"- **Report edition:** {entry['report_year']} — \"{entry['report_title_as_printed']}\" "
+      "(read off the document's own title page, not inferred from the filename)")
     a(f"- **Source document:** {entry['source_url']}")
     if entry.get("final_url") and entry["final_url"] != entry["source_url"]:
         a(f"- **Resolved to:** `{entry['final_url']}`")
@@ -148,7 +150,7 @@ def render(entry: dict, row: dict, labels: dict) -> str:
     return "\n".join(lines)
 
 
-def render_index(prov, results_by_company, labels_all) -> str:
+def render_index(prov, results_by_slug, labels_all) -> str:
     lines: list[str] = []
     a = lines.append
     a("# Analysed reports")
@@ -158,11 +160,11 @@ def render_index(prov, results_by_company, labels_all) -> str:
       "`absence/data/provenance.json` — and `analysis.md`, its per-item audit "
       "trail. Regenerate the analyses with `python -m absence.export_reports`.")
     a("")
-    a("| folder | company | sector | chars | scored items agreeing with the hand read |")
-    a("|---|---|---|---:|---|")
+    a("| folder | company | sector | year | chars | scored items agreeing with the hand read |")
+    a("|---|---|---|---:|---:|---|")
     for entry in prov:
-        row = results_by_company[entry["company"]]
-        labels = labels_all.get(entry["company"], {})
+        row = results_by_slug[entry["slug"]]
+        labels = labels_all.get(entry["slug"], {})
         checkable = [
             (i, row["items"][i.id], labels.get(i.id))
             for i in ITEMS
@@ -172,7 +174,7 @@ def render_index(prov, results_by_company, labels_all) -> str:
         agree = sum(1 for _, c, l in checkable if bool(c.get("found")) == bool(l))
         frac = f"{agree}/{len(checkable)}" if checkable else "—"
         a(f"| [`{entry['slug']}/`]({entry['slug']}/analysis.md) | {entry['company']} | "
-          f"{entry['sector']} | {entry['extracted_text_chars']:,} | {frac} |")
+          f"{entry['sector']} | {entry['report_year']} | {entry['extracted_text_chars']:,} | {frac} |")
     a("")
     scored_ids = [i.id for i in ITEMS if i.scored]
     a(f"Only the {len(scored_ids)} validated items count toward those fractions: "
@@ -188,20 +190,20 @@ def run() -> None:
     prov = json.load(open(PROVENANCE_PATH))
     results = json.load(open(RESULTS_PATH))
     labels_all = json.load(open(LABELS_PATH))["labels"]
-    results_by_company = {r["company"]: r for r in results}
+    results_by_slug = {r["slug"]: r for r in results}
 
     for entry in prov:
-        row = results_by_company.get(entry["company"])
+        row = results_by_slug.get(entry["slug"])
         if row is None:
             print(f"  no results row for {entry['company']}; skipped")
             continue
         out = REPORTS_DIR / entry["slug"] / "analysis.md"
         out.parent.mkdir(parents=True, exist_ok=True)
-        out.write_text(render(entry, row, labels_all.get(entry["company"], {})))
+        out.write_text(render(entry, row, labels_all.get(entry["slug"], {})))
         print(f"  wrote {out}")
 
     index = REPORTS_DIR / "INDEX.md"
-    index.write_text(render_index(prov, results_by_company, labels_all))
+    index.write_text(render_index(prov, results_by_slug, labels_all))
     print(f"  wrote {index}")
 
 

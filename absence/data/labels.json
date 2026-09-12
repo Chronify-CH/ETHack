@@ -1,5 +1,5 @@
 {
-  "_README": "Hand-verified ground truth for calibration (ABSENCE_BRIEF.md Section 11). Each label is a judgement about whether the SOURCE DOCUMENT satisfies the item's hypothesis as written -- not whether the company discloses the thing anywhere, and not whether the detector found it. Established by reading the surrounding text, not by keyword matching: five separate ground-truth errors in this project came from matching a keyword without checking context (see MILESTONE1_RESULTS.md and PER_METRIC.md). Where a label is marked null the cell was not verified and must be excluded from any metric.",
+  "_README": "Hand-verified ground truth for calibration (ABSENCE_BRIEF.md Section 11). Each label is a judgement about whether the SOURCE DOCUMENT satisfies the item's hypothesis as written -- not whether the company discloses the thing anywhere, and not whether the detector found it. Established by reading the surrounding text, not by keyword matching: five separate ground-truth errors in this project came from matching a keyword without checking context (see MILESTONE1_RESULTS.md and PER_METRIC.md). Keyed by document slug, not by company: a label is a reading of ONE report edition and must never be carried across years. Where a label is marked null the cell was not verified and must be excluded from any metric.",
   "_method": {
     "assurance_provider_named": "Requires a NAMED third-party firm assuring reported emissions/environmental data. Chevron and Goldman describe assurance but name no firm for emissions data (Goldman's PwC letter covers green-bond proceeds allocation, explicitly 'no assurance on allocations in excess of net proceeds'). Alphabet says 'third-party-verified LCAs' without naming a firm.",
     "scope1_absolute": "Requires absolute Scope 1 in tonnes CO2e. Microsoft reports only percentage changes (absolute figures live in a separate Environmental Data Fact Sheet); Chevron reports intensity (kg CO2e/boe); ExxonMobil's executive summary carries no emissions table.",
@@ -10,15 +10,99 @@
     "injury_rate_trir": "Requires a numeric injury rate. ExxonMobil discloses '0.02 LTIR ... lost-time incident rate per 200,000 work hours' -- an equivalent statistic the hypothesis explicitly admits."
   },
   "labels": {
-    "Apple Inc.":               {"scope1_absolute": true,  "scope2_market_based": null, "scope3_category_breakdown": true,  "target_net_zero_year": true, "assurance_provider_named": true,  "board_committee_climate_mandate": false, "scenario_analysis_quantified": false},
-    "Microsoft Corporation":    {"scope1_absolute": false, "scope2_market_based": null, "scope3_category_breakdown": false,  "target_net_zero_year": true, "assurance_provider_named": true,  "board_committee_climate_mandate": true,  "scenario_analysis_quantified": false},
-    "Alphabet Inc. (Google)":   {"scope1_absolute": true,  "scope2_market_based": null, "scope3_category_breakdown": true,  "target_net_zero_year": true, "assurance_provider_named": false, "board_committee_climate_mandate": null,  "scenario_analysis_quantified": false},
-    "ExxonMobil":               {"scope1_absolute": false, "scope2_market_based": null, "scope3_category_breakdown": false, "target_net_zero_year": true, "assurance_provider_named": false, "board_committee_climate_mandate": false, "scenario_analysis_quantified": false, "injury_rate_trir": true},
-    "Chevron Corporation":      {"scope1_absolute": false, "scope2_market_based": null, "scope3_category_breakdown": false, "target_net_zero_year": true, "assurance_provider_named": false, "board_committee_climate_mandate": false, "scenario_analysis_quantified": false, "injury_rate_trir": null},
-    "ConocoPhillips":           {"scope1_absolute": true,  "scope2_market_based": null, "scope3_category_breakdown": false,  "target_net_zero_year": true, "assurance_provider_named": true,  "board_committee_climate_mandate": true,  "scenario_analysis_quantified": false, "injury_rate_trir": true},
-    "Occidental Petroleum":     {"scope1_absolute": true,  "scope2_market_based": null, "scope3_category_breakdown": false,  "target_net_zero_year": true, "assurance_provider_named": true,  "board_committee_climate_mandate": true,  "scenario_analysis_quantified": false, "injury_rate_trir": true},
-    "JPMorgan Chase & Co.":     {"scope1_absolute": true,  "scope2_market_based": null, "scope3_category_breakdown": false, "target_net_zero_year": true, "assurance_provider_named": false, "board_committee_climate_mandate": null,  "scenario_analysis_quantified": false},
-    "Bank of America":          {"scope1_absolute": true,  "scope2_market_based": null, "scope3_category_breakdown": true,  "target_net_zero_year": true, "assurance_provider_named": false, "board_committee_climate_mandate": true,  "scenario_analysis_quantified": false},
-    "Goldman Sachs Group Inc.": {"scope1_absolute": true,  "scope2_market_based": null, "scope3_category_breakdown": null, "target_net_zero_year": true, "assurance_provider_named": false, "board_committee_climate_mandate": false, "scenario_analysis_quantified": false}
+    "apple_technology_2023": {
+      "scope1_absolute": true,
+      "scope2_market_based": null,
+      "scope3_category_breakdown": true,
+      "target_net_zero_year": true,
+      "assurance_provider_named": true,
+      "board_committee_climate_mandate": false,
+      "scenario_analysis_quantified": false
+    },
+    "msft_technology_2022": {
+      "scope1_absolute": false,
+      "scope2_market_based": null,
+      "scope3_category_breakdown": false,
+      "target_net_zero_year": true,
+      "assurance_provider_named": true,
+      "board_committee_climate_mandate": true,
+      "scenario_analysis_quantified": false
+    },
+    "googl_technology_2024": {
+      "scope1_absolute": true,
+      "scope2_market_based": null,
+      "scope3_category_breakdown": true,
+      "target_net_zero_year": true,
+      "assurance_provider_named": false,
+      "board_committee_climate_mandate": null,
+      "scenario_analysis_quantified": false
+    },
+    "xom_energy_2023": {
+      "scope1_absolute": false,
+      "scope2_market_based": null,
+      "scope3_category_breakdown": false,
+      "target_net_zero_year": true,
+      "assurance_provider_named": false,
+      "board_committee_climate_mandate": false,
+      "scenario_analysis_quantified": false,
+      "injury_rate_trir": true
+    },
+    "cvx_energy_2023": {
+      "scope1_absolute": false,
+      "scope2_market_based": null,
+      "scope3_category_breakdown": false,
+      "target_net_zero_year": true,
+      "assurance_provider_named": false,
+      "board_committee_climate_mandate": false,
+      "scenario_analysis_quantified": false,
+      "injury_rate_trir": null
+    },
+    "cop_energy_2022": {
+      "scope1_absolute": true,
+      "scope2_market_based": null,
+      "scope3_category_breakdown": false,
+      "target_net_zero_year": true,
+      "assurance_provider_named": true,
+      "board_committee_climate_mandate": true,
+      "scenario_analysis_quantified": false,
+      "injury_rate_trir": true
+    },
+    "oxy_energy_2023": {
+      "scope1_absolute": true,
+      "scope2_market_based": null,
+      "scope3_category_breakdown": false,
+      "target_net_zero_year": true,
+      "assurance_provider_named": true,
+      "board_committee_climate_mandate": true,
+      "scenario_analysis_quantified": false,
+      "injury_rate_trir": true
+    },
+    "jpm_financials_2024": {
+      "scope1_absolute": true,
+      "scope2_market_based": null,
+      "scope3_category_breakdown": false,
+      "target_net_zero_year": true,
+      "assurance_provider_named": false,
+      "board_committee_climate_mandate": null,
+      "scenario_analysis_quantified": false
+    },
+    "bac_financials_2025": {
+      "scope1_absolute": true,
+      "scope2_market_based": null,
+      "scope3_category_breakdown": true,
+      "target_net_zero_year": true,
+      "assurance_provider_named": false,
+      "board_committee_climate_mandate": true,
+      "scenario_analysis_quantified": false
+    },
+    "gs_financials_2022": {
+      "scope1_absolute": true,
+      "scope2_market_based": null,
+      "scope3_category_breakdown": null,
+      "target_net_zero_year": true,
+      "assurance_provider_named": false,
+      "board_committee_climate_mandate": false,
+      "scenario_analysis_quantified": false
+    }
   }
 }

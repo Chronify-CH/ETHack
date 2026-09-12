@@ -72,7 +72,8 @@
         "threshold": 0.99,
         "scored_item": false
       }
-    }
+    },
+    "slug": "apple_technology_2023"
   },
   {
     "company": "Microsoft Corporation",
@@ -147,7 +148,8 @@
         "threshold": 0.99,
         "scored_item": false
       }
-    }
+    },
+    "slug": "msft_technology_2022"
   },
   {
     "company": "Alphabet Inc. (Google)",
@@ -222,7 +224,8 @@
         "threshold": 0.99,
         "scored_item": false
       }
-    }
+    },
+    "slug": "googl_technology_2024"
   },
   {
     "company": "ExxonMobil",
@@ -303,7 +306,8 @@
         "threshold": 0.99,
         "scored_item": false
       }
-    }
+    },
+    "slug": "xom_energy_2023"
   },
   {
     "company": "Chevron Corporation",
@@ -384,7 +388,8 @@
         "threshold": 0.99,
         "scored_item": false
       }
-    }
+    },
+    "slug": "cvx_energy_2023"
   },
   {
     "company": "ConocoPhillips",
@@ -465,7 +470,8 @@
         "threshold": 0.99,
         "scored_item": false
       }
-    }
+    },
+    "slug": "cop_energy_2022"
   },
   {
     "company": "Occidental Petroleum",
@@ -546,7 +552,8 @@
         "threshold": 0.99,
         "scored_item": false
       }
-    }
+    },
+    "slug": "oxy_energy_2023"
   },
   {
     "company": "JPMorgan Chase & Co.",
@@ -621,7 +628,8 @@
         "threshold": 0.99,
         "scored_item": false
       }
-    }
+    },
+    "slug": "jpm_financials_2024"
   },
   {
     "company": "Bank of America",
@@ -696,7 +704,8 @@
         "threshold": 0.99,
         "scored_item": false
       }
-    }
+    },
+    "slug": "bac_financials_2025"
   },
   {
     "company": "Goldman Sachs Group Inc.",
@@ -771,6 +780,7 @@
         "threshold": 0.99,
         "scored_item": false
       }
-    }
+    },
+    "slug": "gs_financials_2022"
   }
 ]

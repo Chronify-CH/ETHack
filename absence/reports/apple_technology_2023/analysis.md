@@ -1,10 +1,11 @@
-# Apple Inc. — disclosure audit
+# Apple Inc. — 2023 report — disclosure audit
 
 - **Sector (as used in this corpus):** Technology
+- **Report edition:** 2023 — "Environmental Progress Report, covering fiscal year 2022" (read off the document's own title page, not inferred from the filename)
 - **Source document:** https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2023.pdf
 - **Retrieved:** 2026-09-12T14:35:28.718372Z via TinyFish fetch_content (extracted text; raw PDF bytes not available)
 - **Extracted text:** 405,050 chars, sha256 `07258e011e9c5846773c83bdeec524283bc662b0080caadb8b7188052b42fea9`
-- **Local copy:** `absence/reports/apple_technology/source.txt` (the exact bytes scored below)
+- **Local copy:** `absence/reports/apple_technology_2023/source.txt` (the exact bytes scored below)
 - **Paragraph chunks after rechunk():** 594
 
 **Agreement with the hand read: 4/4 scored items** (4 of this document's cells are both validated and hand-labelled; the rest are excluded or unverified and are listed but not counted).

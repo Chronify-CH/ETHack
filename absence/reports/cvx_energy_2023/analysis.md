@@ -1,11 +1,12 @@
-# Chevron Corporation — disclosure audit
+# Chevron Corporation — 2023 report — disclosure audit
 
 - **Sector (as used in this corpus):** Energy
+- **Report edition:** 2023 — "2023 corporate sustainability report" (read off the document's own title page, not inferred from the filename)
 - **Source document:** https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NYSE_CVX_2023.pdf
 - **Resolved to:** `https://206.189.187.49/HostedData/ResponsibilityReportArchive/c/NYSE_CVX_2023.pdf`
 - **Retrieved:** 2026-09-12T14:35:28.733107Z via TinyFish fetch_content (extracted text; raw PDF bytes not available)
 - **Extracted text:** 165,535 chars, sha256 `e8f2e862140e1d667878c681dbeb43bdf6611d65e72373fa13689515b23d67fc`
-- **Local copy:** `absence/reports/cvx_energy/source.txt` (the exact bytes scored below)
+- **Local copy:** `absence/reports/cvx_energy_2023/source.txt` (the exact bytes scored below)
 - **Paragraph chunks after rechunk():** 232
 
 **Agreement with the hand read: 2/4 scored items** (4 of this document's cells are both validated and hand-labelled; the rest are excluded or unverified and are listed but not counted).

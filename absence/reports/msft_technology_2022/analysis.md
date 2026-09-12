@@ -1,11 +1,12 @@
-# Microsoft Corporation — disclosure audit
+# Microsoft Corporation — 2022 report — disclosure audit
 
 - **Sector (as used in this corpus):** Technology
+- **Report edition:** 2022 — "2022 Environmental Sustainability Report" (read off the document's own title page, not inferred from the filename)
 - **Source document:** https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MSFT_2022.pdf
 - **Resolved to:** `https://206.189.187.49/HostedData/ResponsibilityReportArchive/m/NASDAQ_MSFT_2022.pdf`
 - **Retrieved:** 2026-09-12T14:35:28.727398Z via TinyFish fetch_content (extracted text; raw PDF bytes not available)
 - **Extracted text:** 232,714 chars, sha256 `0449c87f16ec3317da5ce7ac38fa086a5bd017071518161bd32b907402812624`
-- **Local copy:** `absence/reports/msft_technology/source.txt` (the exact bytes scored below)
+- **Local copy:** `absence/reports/msft_technology_2022/source.txt` (the exact bytes scored below)
 - **Paragraph chunks after rechunk():** 329
 
 **Agreement with the hand read: 4/4 scored items** (4 of this document's cells are both validated and hand-labelled; the rest are excluded or unverified and are listed but not counted).

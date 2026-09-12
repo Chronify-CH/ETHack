@@ -1,11 +1,12 @@
-# Occidental Petroleum — disclosure audit
+# Occidental Petroleum — 2023 report — disclosure audit
 
 - **Sector (as used in this corpus):** Energy
+- **Report edition:** 2023 — "Oxy 2023 Sustainability Report" (read off the document's own title page, not inferred from the filename)
 - **Source document:** https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/o/NYSE_OXY_2023.pdf
 - **Resolved to:** `https://206.189.187.49/HostedData/ResponsibilityReportArchive/o/NYSE_OXY_2023.pdf`
 - **Retrieved:** 2026-09-12T14:35:28.741908Z via TinyFish fetch_content (extracted text; raw PDF bytes not available)
 - **Extracted text:** 272,303 chars, sha256 `f1d3f7d36aa2a5416dff509d1784a8a939fea4b154792f2b9e28502fc2aad38f`
-- **Local copy:** `absence/reports/oxy_energy/source.txt` (the exact bytes scored below)
+- **Local copy:** `absence/reports/oxy_energy_2023/source.txt` (the exact bytes scored below)
 - **Paragraph chunks after rechunk():** 400
 
 **Agreement with the hand read: 4/4 scored items** (4 of this document's cells are both validated and hand-labelled; the rest are excluded or unverified and are listed but not counted).

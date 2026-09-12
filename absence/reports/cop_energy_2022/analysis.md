@@ -1,11 +1,12 @@
-# ConocoPhillips — disclosure audit
+# ConocoPhillips — 2022 report — disclosure audit
 
 - **Sector (as used in this corpus):** Energy
+- **Report edition:** 2022 — "Sustainability Report 2022" (read off the document's own title page, not inferred from the filename)
 - **Source document:** https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NYSE_COP_2022.pdf
 - **Resolved to:** `https://206.189.187.49/HostedData/ResponsibilityReportArchive/c/NYSE_COP_2022.pdf`
 - **Retrieved:** 2026-09-12T14:35:28.739339Z via TinyFish fetch_content (extracted text; raw PDF bytes not available)
 - **Extracted text:** 536,681 chars, sha256 `91197559a339fdb645f0fdf6f4b315e317470a47f2b5f4152952382d5edd1445`
-- **Local copy:** `absence/reports/cop_energy/source.txt` (the exact bytes scored below)
+- **Local copy:** `absence/reports/cop_energy_2022/source.txt` (the exact bytes scored below)
 - **Paragraph chunks after rechunk():** 754
 
 **Agreement with the hand read: 4/4 scored items** (4 of this document's cells are both validated and hand-labelled; the rest are excluded or unverified and are listed but not counted).

@@ -1,11 +1,12 @@
-# Goldman Sachs Group Inc. — disclosure audit
+# Goldman Sachs Group Inc. — 2022 report — disclosure audit
 
 - **Sector (as used in this corpus):** Financials
+- **Report edition:** 2022 — "Goldman Sachs 2022 Sustainability Report" (read off the document's own title page, not inferred from the filename)
 - **Source document:** https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/g/NYSE_GS_2022.pdf
 - **Resolved to:** `https://206.189.187.49/HostedData/ResponsibilityReportArchive/g/NYSE_GS_2022.pdf`
 - **Retrieved:** 2026-09-12T14:35:28.746233Z via TinyFish fetch_content (extracted text; raw PDF bytes not available)
 - **Extracted text:** 249,024 chars, sha256 `70e953785408c49d1667c21fa7957afd65d0e6c018ab96897b96d94d4a14ad4b`
-- **Local copy:** `absence/reports/gs_financials/source.txt` (the exact bytes scored below)
+- **Local copy:** `absence/reports/gs_financials_2022/source.txt` (the exact bytes scored below)
 - **Paragraph chunks after rechunk():** 363
 
 **Agreement with the hand read: 3/3 scored items** (3 of this document's cells are both validated and hand-labelled; the rest are excluded or unverified and are listed but not counted).

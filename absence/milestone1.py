@@ -47,9 +47,11 @@ def run():
     for company_idx, company in enumerate(companies, 1):
         t_company_start = time.time()
         paragraphs = rechunk(segment_paragraphs(company["text"]))
-        print(f"[{company_idx}/{len(companies)}] {company['company']} ({company['sector']}, {len(paragraphs)} paragraphs)...", flush=True)
+        print(f"[{company_idx}/{len(companies)}] {company['slug']} — {company['company']} ({company['sector']}, {len(paragraphs)} paragraphs)...", flush=True)
         row = {
+            "slug": company["slug"],
             "company": company["company"],
+            "report_year": company.get("report_year"),
             "sector": company["sector"],
             "n_paragraphs": len(paragraphs),
             "items": {},

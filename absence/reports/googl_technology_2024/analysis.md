@@ -1,10 +1,11 @@
-# Alphabet Inc. (Google) — disclosure audit
+# Alphabet Inc. (Google) — 2024 report — disclosure audit
 
 - **Sector (as used in this corpus):** Technology
+- **Report edition:** 2024 — "Environmental Report 2024, reporting fiscal year 2023 data" (read off the document's own title page, not inferred from the filename)
 - **Source document:** https://www.gstatic.com/gumdrop/sustainability/google-2024-environmental-report.pdf
 - **Retrieved:** 2026-09-12T14:35:28.729376Z via TinyFish fetch_content (extracted text; raw PDF bytes not available)
 - **Extracted text:** 355,405 chars, sha256 `f76f7c2a40f90ec0cd8664fc248d0411ffd99fc2b522877d45e270cb1fe15678`
-- **Local copy:** `absence/reports/googl_technology/source.txt` (the exact bytes scored below)
+- **Local copy:** `absence/reports/googl_technology_2024/source.txt` (the exact bytes scored below)
 - **Paragraph chunks after rechunk():** 492
 
 **Agreement with the hand read: 2/3 scored items** (3 of this document's cells are both validated and hand-labelled; the rest are excluded or unverified and are listed but not counted).

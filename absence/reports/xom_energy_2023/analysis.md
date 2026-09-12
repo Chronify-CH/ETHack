@@ -1,11 +1,12 @@
-# ExxonMobil — disclosure audit
+# ExxonMobil — 2023 report — disclosure audit
 
 - **Sector (as used in this corpus):** Energy
+- **Report edition:** 2023 — "2023 Sustainability Report, Executive Summary, published January 2024" (read off the document's own title page, not inferred from the filename)
 - **Source document:** https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/e/NYSE_XOM_2023.pdf
 - **Resolved to:** `https://206.189.187.49/HostedData/ResponsibilityReportArchive/e/NYSE_XOM_2023.pdf`
 - **Retrieved:** 2026-09-12T14:35:28.729765Z via TinyFish fetch_content (extracted text; raw PDF bytes not available)
 - **Extracted text:** 37,080 chars, sha256 `8e3ebd6101d75084b3832dd6acb2f6e38296db5cc1e8efa446ee4b4983f75df6`
-- **Local copy:** `absence/reports/xom_energy/source.txt` (the exact bytes scored below)
+- **Local copy:** `absence/reports/xom_energy_2023/source.txt` (the exact bytes scored below)
 - **Paragraph chunks after rechunk():** 54
 
 **Agreement with the hand read: 4/4 scored items** (4 of this document's cells are both validated and hand-labelled; the rest are excluded or unverified and are listed but not counted).
