@@ -67,9 +67,45 @@ from absence.detect.items import DisclosureItem
 
 _TOKEN_RE = re.compile(r"[a-z0-9]+")
 
+# Fault 1 (FAULTS.md): the BM25 query was the item's full hypothesis sentence
+# plus its anchors, so high-frequency terms that appear in nearly every chunk
+# of an emissions report ("company", "reported", "emissions", "data") swamped
+# the discriminative ones. Measured consequence: for Apple's
+# assurance_provider_named, nine chunks name "Apex Companies" and score from
+# 0.001 to 0.995, and BM25's top-8 retrieved exactly one of them -- the
+# joint-worst. These are dropped from the query. Deliberately small and
+# hand-checked rather than a generic English stoplist: domain words like
+# "scope" or "emissions" must survive even though they are frequent, because
+# they are what distinguishes one item from another.
+_QUERY_STOPWORDS = frozenset("""
+a an the this that these those its their his her it they them
+and or but if then than as at by for from in into of on to with without over under
+is are was were be been being has have had do does did
+company companys corporation firm organisation organization business
+disclose disclosed disclosure disclosures report reported reporting reports
+provide provided provides include included includes including
+specific specified select selected such other others
+information data figure figures number numbers value values
+year years annual
+""".split())
+
 
 def _tokenize(text: str) -> list[str]:
     return _TOKEN_RE.findall(text.lower())
+
+
+def _build_query(item: DisclosureItem) -> list[str]:
+    """BM25 query: content terms from the hypothesis, with anchors weighted up.
+
+    Anchors are repeated so BM25's term-frequency component favours chunks
+    containing the item's distinctive vocabulary ("scope 1", "trir",
+    "market-based") over chunks that merely share the hypothesis's ordinary
+    English. Repetition is a blunt way to weight, but it needs no change to
+    the BM25 implementation and is easy to reason about.
+    """
+    hypothesis_terms = [t for t in _tokenize(item.hypothesis) if t not in _QUERY_STOPWORDS]
+    anchor_terms = _tokenize(" ".join(item.regex_anchors))
+    return hypothesis_terms + anchor_terms * 3
 
 MODEL_ID = "MoritzLaurer/deberta-v3-base-zeroshot-v2.0"
 
@@ -125,10 +161,44 @@ def retrieve_candidates(item: DisclosureItem, paragraphs: list[Paragraph], k: in
         return []
     corpus_tokens = [_tokenize(p.text) for p in paragraphs]
     bm25 = BM25Okapi(corpus_tokens)
-    query_tokens = _tokenize(item.hypothesis + " " + " ".join(item.regex_anchors))
-    scores = bm25.get_scores(query_tokens)
+    scores = bm25.get_scores(_build_query(item))
     ranked = sorted(zip(paragraphs, scores), key=lambda pair: pair[1], reverse=True)
     return [p for p, s in ranked[:k] if s > 0]
+
+
+_SENTENCE_SPLIT_RE = re.compile(r"(?<=[.!?;])\s+(?=[A-Z\"'“»•]|$)")
+
+
+def sentence_windows(text: str, max_sentences: int = 2, min_chars: int = 25) -> list[str]:
+    """Split a chunk into overlapping 1-2 sentence windows for scoring.
+
+    Fault 2 (FAULTS.md): scoring a whole ~900-character chunk destroys the
+    entailment signal. Measured on Occidental's board_committee_climate_mandate,
+    where BM25 retrieved the correct chunk at rank 1:
+
+        raw chunk, as previously scored            0.007
+        the single sentence carrying the fact      0.939
+        a clean paraphrase of the same fact        0.982
+
+    A 134x difference on an identical claim. The model comprehends it either
+    way; a chunk of concatenated headings, bullet glyphs and several unrelated
+    statements is simply far outside the short fluent premises MNLI-style
+    models are trained on.
+
+    Windows of one and two sentences are both emitted: one-sentence windows
+    give the cleanest premise, two-sentence windows catch facts split across a
+    sentence boundary ("We obtained limited assurance. The reviewer was X.").
+    Cost is roughly flat versus scoring whole chunks, because transformer cost
+    scales with sequence length and these premises are ~5x shorter.
+    """
+    sentences = [s.strip() for s in _SENTENCE_SPLIT_RE.split(text)]
+    sentences = [s for s in sentences if len(s) >= min_chars]
+    if not sentences:
+        return [text] if text.strip() else []
+    windows = list(sentences)
+    if max_sentences >= 2:
+        windows += [" ".join(sentences[i:i + 2]) for i in range(len(sentences) - 1)]
+    return windows
 
 
 @torch.inference_mode()
@@ -156,13 +226,29 @@ def score_paragraph(item: DisclosureItem, paragraph_text: str) -> float:
 
 
 def detect_item(item: DisclosureItem, paragraphs: list[Paragraph], k: int = DEFAULT_K):
-    """Returns (found: bool, best_score: float, best_paragraph: Paragraph | None)."""
+    """Returns (found, best_score, best_evidence_text, source_chunk_idx).
+
+    Retrieval works on chunks (BM25 needs the wider context to rank well);
+    scoring works on sentence windows within those chunks (Fault 2). The
+    returned evidence is the exact window that scored highest, which is also
+    far more readable than the ~900-character chunk the previous version
+    returned -- an auditor can see the supporting sentence directly instead of
+    hunting for it inside a wall of concatenated text.
+    """
     candidates = retrieve_candidates(item, paragraphs, k=k)
     if not candidates:
-        return False, 0.0, None
-    scores = score_paragraphs_batch(item, [p.text for p in candidates])
-    scored = list(zip(candidates, scores))
-    scored.sort(key=lambda pair: pair[1], reverse=True)
-    best_paragraph, best_score = scored[0]
-    best_score = round(best_score, 3)
-    return best_score >= STUB_FOUND_THRESHOLD, best_score, best_paragraph
+        return False, 0.0, None, None
+
+    premises: list[str] = []
+    origins: list[int] = []
+    for chunk in candidates:
+        for window in sentence_windows(chunk.text):
+            premises.append(window)
+            origins.append(chunk.idx)
+    if not premises:
+        return False, 0.0, None, None
+
+    scores = score_paragraphs_batch(item, premises)
+    best_i = max(range(len(scores)), key=lambda i: scores[i])
+    best_score = round(scores[best_i], 3)
+    return best_score >= STUB_FOUND_THRESHOLD, best_score, premises[best_i], origins[best_i]

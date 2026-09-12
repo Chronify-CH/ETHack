@@ -59,12 +59,15 @@ def run():
                 row["items"][item.id] = {"applicable": False}
                 continue
             t_item_start = time.time()
-            found, score, best_para = detect_item(item, paragraphs)
+            found, score, evidence, chunk_idx = detect_item(item, paragraphs)
             row["items"][item.id] = {
                 "applicable": True,
                 "found": found,
                 "score": score,
-                "snippet": (best_para.text[:220] + "...") if best_para else None,
+                # The exact sentence window that scored highest, not a 220-char
+                # slice of a ~900-char chunk: this is the auditable unit.
+                "evidence": evidence,
+                "source_chunk_idx": chunk_idx,
             }
             tag = "FOUND " if found else "absent"
             print(f"    {item.id:32} {tag} {score:.3f}  ({time.time()-t_item_start:.1f}s)", flush=True)
