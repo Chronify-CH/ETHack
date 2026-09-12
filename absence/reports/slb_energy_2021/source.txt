@@ -1,0 +1,4679 @@
+2021 Sustainability Report
+Schlumberger Limited
+
+Digital & Integration - Combines 
+Schlumberger’s digital workflow 
+solutions and seismic data 
+interpretation and management 
+businesses with its integrated offering 
+of Asset Performance Solutions. 
+Reservoir Performance - Consists of  
+reservoir-centric technologies and 
+services that are critical to optimizing 
+reservoir productivity and performance.
+Well Construction - Combines the  
+full portfolio of products and services  
+to optimize well placement and 
+performance, maximize drilling 
+efficiency, and improve wellbore 
+assurance.
+Production Systems - Develops and 
+provides technologies and expertise 
+that enhance production and recovery 
+from subsurface reservoirs to the 
+surface, into pipelines, and to refineries.
+SCHLUMBERGER AT A GLANCE
+Schlumberger is a technology company that 
+partners with customers to provide access 
+to energy. Our people provide leading digital 
+solutions and deploy innovative technologies  
+to enable performance and sustainability for  
+the global energy industry. With expertise in  
+more than 120 countries, we collaborate to  
+create technology that unlocks access to  
+energy for the benefit of all.
+2021 revenue
+USD
+22.9B
+92,000+
+Workforce
+160+
+Nationalities
+120+
+Countries
+Schlumberger is organized under four Divisions operating in five distinct Basins  
+that are aligned with critical hubs of activity. The four Divisions are:
+NEW ENERGY
+New Energy explores new avenues of growth 
+by leveraging Schlumberger’s intellectual 
+and business capital in emerging new energy 
+markets, with a focus on low-carbon and 
+carbon-neutral energy technologies.
+CONTENTS
+1 S CHLUMBERGER AT A GLANCE 
+2
+ M
+ESSAGE FROM THE CEO 
+3
+ M
+ESSAGE FROM THE CSSO 
+4
+ O
+UR APPROACH TO SUSTAINABILITY
+5
+  O
+ur SDG-Aligned Initiatives
+6 C
+LIMATE ACTION
+7
+  O
+ur Roadmap to Net Zero
+9
+  De
+carbonizing Operations
+11  N
+ew Energy & Transition Opportunities
+12
+ 
+PEOPLE
+13  C
+reating In-Country Value
+17  R
+especting Human Rights
+19  P
+romoting Talent & DEI
+21 
+NATURE
+22
+  S
+afeguarding Biodiversity
+23
+  Pr
+otecting Natural Resources
+26
+  E
+nabling Circularity
+27
+ H
+EALTH, SAFETY AND  ENVIRONMENT
+28 S
+TAKEHOLDER ENGAGEMENT
+30
+  R
+esponsible Supply Chain
+31 S
+USTAINABILITY GOVERNANCE 
+32 E
+THICS AND COMPLIANCE 
+3
+3
+ T
+CFD ALIGNMENT - MANAGING CLIMATE AND TRANSITION RISK
+37 
+INDEX (TCFD, SASB, UN SDGs)
+41
+ P
+ERFORMANCE DATA TABLE
+1Schlumberger Limited   |   2021 Sustainability Report
+
+independent human 
+ 
+rights audits of our 
+facilities and suppliers 
+ 
+in five countries
+6
+Completed
+Published our first 2021
+ 
+Women and Pay report 
+of the Board at year-end 2021 
+demonstrated substantial knowledge,
+skills, or experience in energy transition and 
+sustainability matters
+83
+%
+ 
+Message from the Chief Executive Officer
+Last year was pivotal for Schlumberger, and I am proud 
+of the actions we have taken to weave sustainability 
+more deeply into our culture, driving our decisions today 
+and setting the foundation for our future.
+We announced our 2050 net zero commitment, including Scope 
+3 emissions. This commitment goes beyond our direct emissions 
+and tightly aligns us with our customers to drive decarbonization 
+across the industry. 
+As an innovation leader, we are uniquely positioned to advance 
+decarbonization. We developed and launched the Transition 
+Technologies* portfolio, which is focused on reducing emissions 
+from oil and gas operations and accelerating the path to net zero 
+for the industry. Making a positive impact on customers’ Scope 1 
+and 2 emissions, while simultaneously providing a key avenue to 
+reduce our own Scope 3 emissions, was a key achievement. We 
+will continue to invest in this portfolio and create new ways to 
+help customers reduce their operational emissions.  
+At the same time, we advanced every venture in the Schlumberger 
+New Energy portfolio, where we are exploring new businesses 
+in low-carbon or carbon-neutral energy technologies. We are 
+building partnerships and applying our experience in technology 
+industrialization to help other industries reduce their emissions, 
+and to expand into areas in energy end-use and storage, where 
+our technology expertise holds great opportunity.  
+ 
+I am grateful for the Board of Directors and our many partners 
+who give us the confidence to have a bold vision, and for the 
+passion of the Schlumberger team, which is dedicated to driving 
+innovation and creating a more sustainable future.  
+Olivier Le Peuch
+Chief Executive Officer
+Women comprised 30% of our executive team in 2021, 
+ 
+and represented 22% of management-level roles and 48% 
+ 
+of new hires for salaried roles with STEM backgrounds
+2021 SUSTAINABILITY HIGHLIGHTS
+ 
+ 
+ 
+ 
+improvement in total recordable 
+ 
+injury frequency rate from 2019
+30
+%
+ 
+Announced a commitment 
+ 
+to net zero by 2050, 
+ 
+including Scope 3 emissions
+Introduced our Transition 
+ 
+Technology portfolio to serve 
+ 
+as an enabler for the industry’s 
+ 
+decarbonization efforts
+USD 32 million in social 
+investment aligned with 
+UN SDGs
+2
+Schlumberger Limited
+   
+|
+   
+2021 Sustainability Report
+CLIMATE ACTION
+OUR APPROACH TO SUSTAINABILITY
+NATURE
+PEOPLE
+MESSAGE FROM THE CEO
+MESSAGE FROM THE CSSO
+STAKEHOLDER ENGAGEMENT
+TCFD
+INDEX
+PERFORMANCE DATA TABLE
+GOVERNANCE
+HSE
+By the end of 2021, our renewable
+ 
+power consumption represented
+25% of our total facilities’
+electricity consumption
+
+Message from the Chief Strategy and Sustainability Officer
+The dynamics in the energy industry have shifted, 
+and the result has been an emphasis on energy 
+security and diversification of supply. Society is re-
+examining strategies to provide people with a mix of 
+affordable, reliable, and sustainable energy, and our 
+industry has a key role to play. At the same time, it is of 
+utmost importance that we remain wholly committed 
+to advancing sustainability in our company and the 
+industry—for Schlumberger, it is a key priority. 
+We need to use all the energy sources we have to design a 
+transition that meets the growing energy need while avoiding the 
+worst impacts of climate change. Short-term challenges are not 
+distracting us from the big picture and the massive investment 
+needed to realize transition. Strategy and sustainability are deeply 
+connected, and our strategy is based on two central beliefs. 
+First, the energy system is not ready to go completely carbon free 
+in the short term, and that is why we are using our capabilities 
+and expertise to decarbonize industry operations now with 
+technology we have, and by developing new solutions to reduce 
+industry emissions as fast as possible. Second, as a technology 
+innovator with scale, we know we have a lot to contribute to the 
+energy system of the future. We are applying our expertise in 
+Carbon Capture and Sequestration (CCS) to help other industries 
+decarbonize, while investing in technologies that will generate 
+lower-carbon energy tomorrow.
+Our momentum is strong, and we are accelerating action to 
+drive sustainability impacts and meaningfully contribute to 
+both the UN Sustainable Development Goals (SDGs) and the 
+Paris Agreement. We are developing robust road maps to net 
+zero and decarbonized operations, while providing in-country 
+value, respecting human rights, and fully embracing all aspects 
+of diversity, equity, and inclusion. And our local teams are 
+empowered to invest in projects that make positive impacts 
+aligning to their local communities’ priority SDGs, in addition  
+to stakeholder and business impact. 
+We constantly challenge ourselves to deliver results and elevate 
+our impact through collaboration with strategic partners.
+Technology and innovation, which are deeply rooted in 
+Schlumberger culture, are of course fundamental to driving  
+this positive change. 
+This is an exciting time for us as we work to operationalize 
+sustainability and align ourselves with the goals and expectations 
+of our customers, our suppliers, and the communities where we 
+live and work. I am proud of what we have already achieved and 
+look forward to what we can do in the future.
+Dr. Katharina Beumelburg
+Chief Strategy and Sustainability Officer 
+INDUSTRY AWARDS AND RECOGNITION
+ESG Ratings 2021:  
+   
+ MSCI AA  
+Sustainalytics 24.3 Medium Risk Rating,  28th percentile among global peers.
+S&P Global Sustainability Yearbook 2021’s Energy Equipment & Services category:  
+   Schlumberger named among Sustainability leaders. 
+Institutional Investor’s America’s Most Honored Companies:  
+   Schlumberger among the 23 companies recognized for sustainability.  
+Hart’s inaugural Energy ESG Awards:  
+   Schlumberger named a Top Performer in the public service company category. 
+Hart Energy’s E&P’s Meritorious Award for Engineering Innovation (Middle East and Asia):  
+   Schlumberger recognized in two categories (Onshore Rigs and Drill Bits).  
+International SOS Foundation’s Duty of Care Awards:  
+   Schlumberger shortlisted in the Communication category. 
+American Made Challenges Awards:  
+   A Schlumberger team qualified as a quarterfinalist for the Geothermal Prize.  
+Energy Council’s Annual Awards:  
+   Schlumberger shortlisted in the Oilfield Services Company of the Year category.
+3Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+have been incorporated into the management cash incentive 
+program across our geographies. Delivering on our ambitions 
+represents a substantial opportunity for the company in 
+the coming decade, 
+while enabling us to 
+contribute to the SDGs 
+in cooperation with 
+communities where  
+we operate.  
+By operationalizing sustainability, we seek to drive alignment of 
+business decisions with our sustainability objectives, where we 
+need consistent, timely, and detailed data; have sustainability 
+embedded into decision-making tools and processes; and have 
+a forward-looking view of climate impacts and energy demand 
+with scenario planning to enable proactive decisions.
+Our strategy is strongly focused on digital enablement, aimed 
+at investing in sustainability data that meets regulatory and 
+auditing requirements and is supported by a robust governance 
+structure. Innovation and technology are fundamental to 
+accelerating our journey. We believe strategic partnerships  
+in key areas will allow us to act now for a better future.
+Schlumberger is committed to providing technologies and 
+Our Approach to Sustainability
+As a global technology company for the energy 
+industry, we are committed to being at the forefront  
+of the global shift toward more sustainable energy 
+production—challenging not only ourselves, but 
+also our customers, suppliers, and peers to partner 
+on delivering measurable social and environmental 
+progress. This translates into making measurable 
+strides to accelerate innovation in energy transition 
+and to achieving these goals in a way that contributes 
+to energy access and economic development with 
+both a global and local lens. In that context, our 
+sustainability focus for the near to medium term has 
+three priorities: Climate Action, People, and Nature. 
+Our approach to operationalizing our sustainability strategy 
+is described in this report. We seek to leverage our unique 
+capabilities, invest in technology and innovation, develop 
+strategic partnerships, and engage the entire Schlumberger 
+organization to achieve our sustainability goals. Every named 
+executive officer had at least one strategic personal objective 
+related to sustainability in 2021. In addition, emissions 
+reduction goals and gender balance targets  
+OUR PURPOSE 
+Together, we create amazing 
+technology that unlocks access 
+to energy for the benefit of all.
+OUR VISION 
+With our purpose in mind, our 
+vision is to define and drive 
+high performance for the 
+energy industry, sustainably.
+OUR FOUNDATION
+Our sustainability strategy  
+is built on the foundation  
+of protecting the health  
+of our employees and 
+managing health, safety, and 
+environment (HSE) risks in the 
+workplace and our operations, 
+along with a commitment to 
+operating ethically and through 
+responsible sourcing.
+services that enhance and optimize our customers’ performance 
+while making the most of our unique assets. To that end, we  
+look to three long-established values that guide the decisions  
+we make as we pursue our ambitions:
+•    People: Exceptional people join us from around the 
+world because of who we are, and then they make 
+us what we are. Committed to customers, constantly 
+learning and growing, we thrive on the world’s biggest 
+technical challenges. This is the pulse and spirit 
+of Schlumberger.
+•    Technology: We were founded through invention, and 
+we grow, prosper, and lead through continuous innovation 
+and a commitment to practical excellence. Today, we are 
+engineering a sustainable future for the energy industry 
+and helping to create a better world for all.
+•    Profits: Financial strength gives us the independence 
+and resources to make brave calls about the future 
+and drive bold, visionary innovation for the long term. 
+Investment discipline matters: the returns we generate 
+ensure our talent and technology are best in class, and 
+the value we create is widely shared.
+Our sustainability reporting 
+is guided by our stakeholders 
+and third-party frameworks, 
+including
+•  Sustainability Accounting 
+Standards Board (SASB) 
+Standards
+•  Task Force on Climate-Related 
+Financial Disclosure (TCFD) 
+Recommendations
+•  UN Sustainable Development 
+Goals 
+•  UN Guiding Principles on 
+Business and Human Rights 
+Reporting Framework.
+SUSTAINABILITY ACCELERATORS
+Technology and Innovation
+Navigating the energy transition 
+and getting to net zero by 
+leveraging our AI, digital, and 
+technology innovation 
+.
+Partnerships
+Engaging employees and 
+collaborating with business 
+partners, customers, and the 
+communities in which we 
+live and work to broaden our 
+positive impact and expand 
+into energy verticals. 
+SUSTAINABILITY ENABLERS
+Governance  
+Assuring that we act  
+responsibly and transparently 
+across all operations in our 
+business relationships and 
+supply chain. 
+E
+mpowering Local Teams
+Supporting societies and  
+communities in contributing  
+to the SDGs by understanding  
+local impacts, aligning with  
+local priorities, and  
+accelerating action
+ 
+. 
+Climate Action
+Our Roadmap to Net Zero
+Decarbonizing Operations
+New Energy and Transition Opportunities
+Creating In-Country Value
+Respecting Human Rights
+Promoting Diversity, Equity, and Inclusion
+Safeguarding Biodiversity 
+Protecting Natural Resources
+Enabling Circularity
+People Nature
+4Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Partnerships for Goals 
+Schlumberger is a  
+Partner of the Solar 
+Impulse Foundation, 
+tasked with selecting 
+1,000 solutions that protect the environment 
+in profitable ways. Celsius Energy* , a  
+Schlumberger low carbon business venture 
+located in France focused on geoenergy for 
+heating and cooling buildings, has received 
+the 1,000 solutions label. 
+Affordable and  
+Clean Energy
+ 
+In Turkmenistan, we 
+installed 112 solar panels 
+at our Balkanabat facility 
+to reduce electricity consumption. This was the 
+first time that a solar installation of this capacity 
+had been constructed in the country.
+Climate Action 
+In China, we replaced  
+18 light vehicles with  
+hybrid or pure-electric 
+cars. This initiative  
+prevented the consumption of 53,000 liters  
+of gasoline annually and represents an  
+annual reduction of 130 metric tons of  
+CO2 emissions. 
+No Poverty 
+In Mozambique, in 
+collaboration with a 
+customer, we launched 
+a project to rehabilitate 
+community infrastructure in conflict-affected 
+districts of Cabo Delgado, helping facilitate the 
+return of internally displaced peoples. 
+The content of this publication has not been 
+approved by the United Nations and does 
+not reflect the views of the United Nations 
+or its officials or Member States.  
+https://www.un.org/sustainabledevelopment/  
+Clean Water 
+and Sanitation
+ 
+In Mexico, a new water 
+cycle management 
+system within our onsite 
+wastewater plant has resulted in a 7% reduction 
+in water consumption and a 13% reduction in 
+waste discharge. 
+Decent Work and 
+Economic Growth 
+ 
+In Ecuador, as part of the 
+PURE initiative, we are 
+supporting and offering 
+expertise for community enterprise projects—such 
+as a water purification and commercialization 
+enterprise that benefits indigenous communities. 
+Our teams also sponsored and volunteered at 
+a baking and pastry workshop to help create 
+businesses and new sources of income for families. 
+Life Below Water 
+In Brunei, Schlumberger  
+volunteers collected 
+more than 80 bags  
+of waste from a single  
+beach in Kuala Belait.  
+ 
+Zero Hunger 
+In Brazil, following the 
+devastating effects of 
+heavy rains in Petrópolis, 
+Schlumberger employees 
+donated 700 kg of food and basic hygene, and 
+cleaning items to help families in need.
+Industry, Innovation 
+and Infrastructure 
+In the United  
+Kingdom, we are  
+moving to a green  
+electricity grid, upgrading to LED lighting, and 
+replacing diesel generators with natural gas. 
+These initiatives resulted in a 19% reduction in  
+our 2021 GHG emissions compared to 2020.
+Life on Land
+ 
+In Turkey, our teams 
+worked with the  
+General Directorate of 
+Forestry to plant 10,000 
+trees to restore the local ecosystem in Ankara.  
+Good Health and 
+Wellbeing 
+In India, Schlumberger 
+partnered with a local 
+nonprofit organization 
+to set up a pressure swing adsorption oxygen 
+plant. The facility delivered onsite, piped  
+oxygen to rural hospitals to cater to the needs 
+of people in more than 190 villages in the Pune 
+district of Maharashtra. 
+Reduced Inequalities 
+As part of our  
+Reconciliation Action 
+Plan, which is  
+focused on developing  
+respectful relationships with Aboriginal  
+Australian and Torres Strait Islander peoples, 
+we invest in future generations through our 
+scholarship program at Murdoch University 
+in Australia, as well as local traineeship and 
+apprenticeship programs. 
+Peace, Justice and 
+Strong Institutions
+ 
+We performed  
+operations assurance 
+reviews of locations 
+using a risk-based approach. Findings are 
+addressed as needed.
+Quality Education 
+In Egypt, we are running 
+coding and robotic 
+workshops at a school to 
+inspire students about 
+STEM. Our team has also equipped the school 
+with refurbished computers and furniture to set 
+up a computer lab. 
+Sustainable Cities 
+and Communities
+In Angola, we have  
+partnered with a  
+center that supports  
+approximately 200 homeless or displaced  
+children. We are helping to build an additional 
+facility that will be used to provide vocational 
+training to support future employment  
+opportunities.  
+Gender Equality 
+In Malaysia, we have 
+mentored 77 women 
+as part of our global 
+WISE (Women Inspiring, 
+Supporting and Empowering each other) 
+program. Since the program’s launch in 2020, 
+we have organized more than 650 mentoring 
+sessions around the globe, each designed to 
+accelerate women’s readiness to assume key 
+leadership roles.
+Responsible 
+Consumption  
+and Production
+In the United States, 
+550 of our laptops were 
+refurbished and donated to communities in 
+need. This saved an estimated 566 metric tons 
+of CO2e through responsible recycling and  
+reuse efforts. 
+Our SDG-Aligned Initiatives
+5Schlumberger Limited   |   2021 Sustainability Report
+CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSEOUR APPROACH TO SUSTAINABILITY
+
+Climate Action
+Our industry has an important role to play in the global energy 
+transition, and Schlumberger is evolving for that exciting future. 
+Our vision is to define and drive high performance, sustainably, 
+sharing the responsibility to act now and to act fast to 
+decarbonize the world’s energy system. 
+Our Roadmap to Net Zero
+Our climate action strategy is 
+underpinned by our commitment 
+to achieve net zero emissions 
+by 2050, with interim targets in 
+2025 and 2030 to track progress. 
+To achieve these goals across  
+all three scopes of emissions,  
+we are implementing a detailed 
+roadmap of emissions reduction 
+actions within each Division  
+and geography and across the 
+short-, medium-, and long-term 
+time horizons. 
+ 
+Decarbonizing Operations
+As we work to reduce our 
+emissions footprint across our 
+own operations, we also have the 
+opportunity to help our customers 
+decarbonize their operations and 
+avoid additional GHG emissions. 
+ 
+New Energy & Transition 
+Opportunities
+The energy transition represents 
+an opportunity to leverage our 
+domain and technology expertise 
+in a changing industry landscape. 
+Our diverse and growing portfolio 
+of New Energy investments and  
+technologies includes hydrogen, 
+lithium, energy storage, CCS,  
+geothermal power, and 
+geoenergy for heating and 
+cooling buildings.
+.
+.
+1
+2
+3
+OUR COMMITMENTS
+reduction in 
+Scopes 1 and 2 
+by 2025
+reduction in 
+Scopes 1and 2 
+by 2030
+reduction in 
+Scope 3 by 
+2030
+by 2050
+All reduction targets are measured against our 2019 baseline.
+Net Zero
+30
+%
+50
+%
+30
+%
+The all-electric actuator enables energy and 
+emissions reductions by replacing traditional 
+hydraulic operated systems. 
+6Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+NET ZERO BY 2050
+Schlumberger is committed to 
+achieving net zero greenhouse gas 
+emissions by 2050. Schlumberger’s 
+commitment is aligned with the 
+ 
+1.5-degC target of the Paris Agreement. 
+This commitment follows 18 months of 
+extensive analysis of Schlumberger’s 
+carbon footprint in close collaboration 
+with climate experts. Schlumberger’s 
+net zero targets encompass all the 
+company’s Scope 1, 2, and 3 GHG 
+emissions, thus covering the entire 
+company’s value chain—a first in the 
+energy services industry. 
+Scope 1 and 2 emissions constitute 
+ 
+5% of the company’s baseline footprint.
+ 
+Scope 3 emissions comprise 95% of our 
+baseline emissions inventory. 
+ 
+In addition, carbon negative actions 
+such as bioenergy with carbon capture 
+and storage, are meant to help us 
+achieve our net zero goals with minimal 
+reliance on offsets.
+2019 EMISSION BASELINE INVENTORY
+ 
+(All emissions stated in metric tons of CO
+2
+e)
+Scope 1 
+1,700,000
+Scope 2 
+650,000
+Scope 3 
+44,400,000
+Aligned with 1.5-degC scenario of the Paris Agreement
+30% reduction by 2030
+Net Zero by 2050
+30% reduction by 2025 
+50% reduction by 2030
+Electricity
+0.65 million
+Capital  
+Goods
+0.1 million
+Energy  
+Activities
+0.1 million
+Operations  
+Waste
+0.1 million
+31.8 million
+Employee  
+Commuting
+0.1 million
+Business  
+Travel
+0.2 million
+Fuel
+1.7 million
+Purchased  
+Goods and  
+Services
+6.3 million
+Investments 
+3.4 million
+Upstream   
+Transportation & 
+Distribution
+0.6 million
+Upstream
+Leased  
+Assets
+1.1 million
+Downstream 
+Leased Assets
+Use of  
+Products
+End of Life  
+Treatment
+0.6 million
+TOTAL GHG EMISSIONS
+ 1
+In million metric tons CO
+2
+29.2
+32.1
+46.7
+2019
+2020
+2021
+Scope 1 & 2
+Scope 3
+GHG Emissions Intensity
+ 
+Unit
+ 
+2019
+ 
+2020
+ 
+2021
+ 
+Scopes 1 and 2
+ 
+m
+etric tonnes of CO
+2
+e per dollar of revenue
+ 
+0
+.070
+ 
+0
+.083
+ 
+0
+.076
+ 
+Scope 3
+ 
+m
+etric tonnes of CO
+2
+e per dollar of revenue
+ 
+1
+.348
+ 
+1
+.277
+ 
+1
+.194
+ 
+Total (Scopes 1, 2, and 3)
+ 
+m
+etric tonnes of CO
+2
+e per dollar of revenue
+ 
+1
+.419
+ 
+1
+.360
+ 
+1
+.270
+ 
+1
+ 
+ 
+W
+e use the procedures established in the Greenhouse 
+Gas Protocol: A Corporate Accounting and Reporting 
+Standard (Revised Edition) to calculate our annual CO
+2
+e 
+emissions in Schlumberger. As part of that process, we apply 
+conversion factors to energy consumption data to derive 
+CO
+2
+e values. Those conversion factors are taken from the 
+IPCC Fifth Assessment Report (AR5 - 20 year and 100 year). 
+Schlumberger’s Scope 1 emissions of 2019 and 2020 have been 
+restated after review of managed production facilities. 2019 
+Scope 1 and 2 GHG estimates have been restated to exclude 
+emissions associated with our North American fracturing 
+business, which was sold at the end of 2020. In addition, 
+a small portion of our 2020 Scope 3 category 1 emissions 
+related to that business were incorrectly included in the 2020 
+Sustainability Report, and are herein restated to exclude those 
+emissions. Our Scope 3 greenhouse gas estimates for 2019 
+and 2020 have also been restated to remove approximately 7.8 
+million metric tons of CO
+2
+e in 2019 and 8.0 million metric tons 
+of CO
+2
+e in 2020, following a determination (in consultation 
+with third-party climate consultants) that such emissions 
+had been incorrectly included in Schlumberger’s previously 
+disclosed Scope 3 estimates. This calculation method is 
+consistent for years 2019, 2020, and 2021 in this report.
+7
+Schlumberger Limited
+   
+|
+   
+2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY
+CLIMATE ACTION
+NATURE
+PEOPLE
+MESSAGE FROM THE CSSO
+MESSAGE FROM THE CEO
+STAKEHOLDER ENGAGEMENT
+TCFD
+INDEX
+PERFORMANCE DATA TABLE
+GOVERNANCE
+HSE
+Our Roadmap to Net Zero
+We have implemented many programs to reduce
+our carbon emissions and energy use across
+our value chain.
+In 2021 we continued our journey to build comprehensive
+ 
+roadmaps for Scopes 1, 2, and 3 to achieve net zero emissions by
+ 
+2050, as well as our interim targets. Our Scope 1 and 2 roadmaps
+ 
+focus on the emissions generated in our operations and facilities
+ 
+and are tailored to each geography. Our Scope 3 roadmaps focuses
+ 
+on the emissions generated from the use of our technologies and
+ 
+are prioritized within each Division and business line by emission
+ 
+source. We improved and partially automated our GHG emissions
+ 
+data collection and controls across all scopes to track progress
+ 
+and aid in strategic decision making.
+To reduce GHG emissions at our facilities, we are focused
+on reducing energy use, in line with our interim target to
+reduce GHG emissions from our fuel and power consumption
+by 30%  by 2025. Our global Lean and Green environmental
+ 
+program implements facilities-driven environmental efficiency
+ 
+opportunities for reducing energy use and sourcing renewable
+ 
+energy. Our facilities’ initiatives to reduce power consumption
+ 
+focus on educating our workforce on energy conservation
+best practices to promote behavior change, implementing
+ 
+renewable energy solutions at sites where feasible, updating
+ 
+HVAC systems and optimizing facility heating and cooling
+cycles, and strengthening our renewables strategy, targeting
+our facilities located on independent power grids. By the end of
+ 
+2021, our renewable power consumed represented 25% of our
+ 
+total facilities’ electricity consumption, equaling 205,000 MWh
+ 
+including Texas Renewable Energy Certificates (RECs), Europe,
+and Brazil Green tariffs, as well as onsite generation projects in
+ 
+Egypt, India, and Mexico.
+Achieving our emissions reductions goals will require the
+support and engagement of our employees. To that end, in
+2021 we created an ESG Capex fund to support and promote
+ 
+employee-driven environment-related initiatives around the
+globe. Employees from more than 40 countries submitted more
+ 
+than 140 projects, of which 32 were selected for having the
+ 
+highest impact in emissions reduction, water savings, and
+waste management.
+
+Our Roadmap to Net Zero continued
+Footprint Rationalization Actions
+In Canada, we consolidated six facilities, which reduced  
+our carbon footprint by 1,500 metric tons of CO 2e per year.
+In the Mexico and Central America region, we consolidated 
+seven facilities, which reduced our carbon footprint by  
+200 metric tons of CO 2e per year. 
+Alternative Energy
+In 2021, several of our facilities converted to renewable  
+energy sources, reducing our CO2e emissions by 14,500 metric 
+tons per year. This includes all facilities across the United 
+Kingdom, and a number of facilities in France, the Netherlands, 
+Italy, Romania, and Germany.
+In Angola, our Malembo and Cabinda facilities installed power 
+connections to the national grid, reducing our diesel usage by 
+80%, which in turn, reduced our carbon emissions and resulted 
+in annual savings of USD 75,000.
+ 
+In Mexico, our Veracruz facility completed installation of solar 
+panels to reduce its GHG emissions by 480 metric tons of  
+CO2e each year. 
+In Malaysia, we purchased 6,000 MWh of renewable energy 
+credits in 2021, which is expected to result in a 13% CO 2e 
+reduction for the entire footprint of our East Asia operations.
+In Turkmenistan, we built a solar farm at a Schlumberger facility 
+that produces approximately 35,000 kWh per month. This will 
+help us reduce 200 metric tons of CO 2e annually, corresponding 
+to about 15% of the total carbon footprint of the facility. 
+ 
+We evaluated more than 140 facility-level environmental 
+ sustainability projects, and we awarded funding to   
+32 projects that provided a  
+significant environmental and  
+financial return.
+In 2021 we progressed in our Scope 1 and 2 emissions reductions 
+through efforts to increase energy efficiency, switch to renewable 
+power, and rationalize our operational footprint. Below are some 
+examples of these activities.
+Energy Efficiency
+In Australia, our Kewdale facility implemented 651 LED fittings 
+to replace existing lighting. We anticipate this initiative will 
+result in annual reductions of 189,000 kWh of electricity 
+consumption, USD 49,000 of facility energy cost, and  
+128 metric tons of CO2e. 
+Also in Australia, our Jandakot facility upgraded three 
+compressors in 2021, which reduced the facility’s carbon 
+emissions by 123 metric tons of CO2e per year.
+LED retrofit in Australia.
+Utilizing solar power in Turkmenistan.
+In 2021, we launched 
+an open collaborative 
+quarterly review for 
+our global facilities’ 
+teams, through which 
+employees from different 
+geographies share 
+experiences, success 
+stories, know-how and 
+lessons learned around 
+energy and emissions. 
+These engagement 
+sessions are playing a 
+major role in proactively 
+engaging facility teams 
+around the world to 
+incentivize and support 
+their local sustainability 
+journeys. 
+8Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Address Methane Emissions
+Methane is a potent greenhouse gas and represents over 50% 
+of the oil and gas industry’s overall GHG footprint in terms of 
+CO2e. Therefore, it is a key focus for industry reduction efforts 
+and is targeted by the Transition Technologies portfolio. Using 
+the Symmetry* Process software solution, we can design out 
+methane leaks and minimize fugitive methane leak paths from 
+a variety of industry-specific processes. To further address 
+fugitive methane, we have the industry’s broadest portfolio of 
+ISO- and API-certified low-emissions valves. Our Vx* multiphase 
+well testing technology can replace a conventional separator for 
+well-by-well flow metering applications. In doing so, Vx Spectra* 
+surface multiphase flowmeter eliminates multiple sources of both 
+vented and fugitive methane. 
+Electrification of Infrastructure
+The electrification of oilfield infrastructure has sustainability 
+benefits at multiple levels. Transitioning large-scale power 
+systems like those on offshore platforms to run on electric  
+power instead of diesel generators enables an infrastructure 
+powered by lower-carbon energy sources, including renewable 
+power. Additionally, replacing electro-hydraulic systems 
+with electric-only systems can result in immediate energy 
+consumption reduction, enabling near-term emissions  
+reductions for our customers.
+Minimize Well Construction CO2 Footprint 
+Within the well construction process there are various sources  
+of emissions, including
+•   the rig itself
+•   associated transport of personnel and equipment
+•   manufacturing of infrastructure
+•   consumables and waste processing.
+The Transition Technologies portfolio includes products and 
+services that minimize emissions from these sources, including
+•   cements and fracturing fluids with reduced embodied  
+CO2 footprint
+•   automated software for rig power management combined 
+with energy storage solutions
+•   automated software to enable autonomous remote 
+operation to reduce personnel transport costs
+•   solutions that minimize emissions related to the 
+transportation and onshore processing of waste
+•   best-in-class efficiency, enabling minimalization of  
+rig time and rig emissions.
+Decarbonizing Operations 
+In addition to decarbonizing our own operations and 
+investing in new energy technology ventures, a key 
+part of our strategy to advance sustainability within our 
+industry is by developing technologies and services that 
+help our customers reduce their environmental footprint 
+across the exploration and production (E&P) life cycle. 
+Transition Technologies Portfolio
+In 2021 we announced our comprehensive 2050 net zero 
+commitment inclusive of Scope 3 emissions—a first for the 
+energy services sector. We also announced the launch of 
+our Transition Technology portfolio to address sustainability 
+challenges and opportunities across the oil and gas industry 
+value chain. 
+Our Transition Technologies portfolio includes a select group  
+of products and services that quantifiably reduce our 
+customers’ GHG emissions footprint, while continuing to drive 
+high performance, reliability, and efficiency. Supported by an 
+industry-leading impact quantification framework, this portfolio 
+is set to grow as we further embed sustainability into our 
+research and development processes.
+Given the short- and long-term need for oil and gas as part of the 
+energy mix to meet global demand, Schlumberger is committed 
+to developing innovative technologies aimed at enhancing 
+oilfield efficiency, reducing E&P costs, improving productivity, 
+maximizing reserve recovery, and increasing asset value—while 
+simultaneously driving and improving sustainability impact. 
+In 2021, we invested 
+2.4% of our revenue  
+in research and development across  
+our technology portfolio.
+CUSTOMER EMISSIONS 
+The use of Schlumberger 
+technologies by our customers 
+accounts for approximately 
+70% of Schlumberger’s 2019 
+GHG footprint baseline. 
+To address this, Schlumberger 
+has introduced the Transition 
+Technologies portfolio, which 
+is designed to help customers 
+reduce their emissions, while 
+in turn enabling Schlumberger 
+to meet its Scope 3 emissions 
+targets. This portfolio aims 
+at reducing emissions in 
+production operations by 
+addressing industry emissions-
+related priorities such as
+•  methane emissions 
+•  flaring reduction  
+•  electrification  
+•   well construction emissions   
+•   full field development solutions 
+Full Field 
+Development 
+Solutions 
+Address Fugitive 
+& Vented Methane 
+Emissions
+Reduce or 
+Eliminate Flaring
+Minimize Well 
+Construction CO2 
+Footprint
+Electrification of
+Infrastructure
+TRANSITION TECHNOLOGIES  
+Portfolio as of December 2021
+In Kazakhstan, Schlumberger 
+deployed a zero-flaring well 
+test and cleanup solution with 
+customers, which has avoided 
+the equivalent of more than 
+240,000 metric tons of CO2e 
+emissions to date. 
+More than
+technology solutions  
+are currently in  
+development.100
+9Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Customer Avoided Emissions
+With 70% of our total emissions footprint occurring during 
+customer operations, we know that we can make the largest 
+impact in terms of GHG emissions reductions by helping our 
+customers achieve their own emissions reduction goals. As such, 
+we collaborate with our customers to look at GHG footprint 
+challenges through their perspective. The Transition Technologies 
+address these challenges, with each product or service in the 
+portfolio offering a quantified reduction to our customers’ GHG 
+emissions footprint when compared to a reference technology 
+ 
+or industry standard.
+ 
+ 
+Full Field Development Solutions
+ 
+This theme of the Transition Technologies portfolio focuses 
+on reducing the impact of production operations, where the 
+cumulative impact of a reduced footprint technology can last 
+years or decades. Advanced technologies such as subsea 
+boosting and subsea compression systems can reduce emissions 
+by hundreds of thousands of metric tons of CO
+2
+e per year due 
+ 
+to a reduction in energy consumption. 
+Decarbonizing Operations
+ continued
+The all-electric surface actuator demonstrator enables remote valve operation and health 
+monitoring savings costs by reducing visits to offshore platforms and remote locations.
+IMPACT QUANTIFICATION FRAMEWORK FOR OUR PRODUCTS AND SERVICES
+A key part of our net zero goal and overall climate ambition is to reduce our customers’ 
+greenhouse gas footprint using Schlumberger technology—throughout the full life cycle of our 
+services and products. To support this goal, Schlumberger has developed a framework to quantify 
+the environmental impact of our broad portfolio of products and services—both currently 
+existing and in development. The framework focuses on oil and gas operations and facilitates 
+a materiality assessment of the impactful lifecycle phases of a product or service and includes 
+impact quantification methodology for assessing those phases. Comparing our technologies or 
+processes to industry standards enables us to quantify the possible emissions reductions and 
+allows our customers to make better, data-driven decisions to optimize the sustainability of their 
+field development programs. 
+Offshore Angola, Schlumberger Reservoir 
+Performance enabled Eni to confirm 
+minimum hydrocarbons in place and reservoir 
+deliverability in just six weeks on its first 
+2021 well without flaring using a combination 
+of the Quanta Geo* photorealistic reservoir 
+geology service and the deep transient testing 
+capability of the Ora* intelligent wireline 
+formation testing platform. Compared to 
+traditional methods, this completely eliminated 
+flaring-related greenhouse gas emissions.
+ 
+10
+Schlumberger Limited
+   
+|
+   
+2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY
+CLIMATE ACTION
+NATURE
+PEOPLE
+MESSAGE FROM THE CSSO
+MESSAGE FROM THE CEO
+STAKEHOLDER ENGAGEMENT
+TCFD
+INDEX
+PERFORMANCE DATA TABLE
+GOVERNANCE
+HSE
+ 
+ 
+ 
+ 
+Reduce or Eliminate Flaring
+Flaring represents about 5% of oil and gas operational emissions
+ 
+and includes both routine flaring and non-routine flaring.
+Complementing the Schlumberger End-to-end Emissions 
+Solutions
+ 
+(SEES) solution, which is focused on elimination of 
+routine flaring
+ 
+operations, our portfolio of Transition Technologies 
+includes
+ 
+technologies and techniques that enable non-routine 
+flaring
+ 
+elimination from activities such as well testing and cleanups. 
+We
+ 
+also offer solutions to maximize flaring efficiency and 
+minimize
+ 
+unburned methane when flaring activity cannot be 
+avoided.
+Schlumberger End-to-end Emissions Solutions: Measure,
+Monitor, Report, and Eliminate Methane and Flaring Emissions
+Complementing the Transition Technologies portfolio, during 2021
+ 
+we incubated the SEES concept ahead of a launch in early 2022.
+SEES is a new set of services and cutting-edge technologies
+ 
+designed to give operators a robust and scalable solution for
+ 
+measuring, monitoring, reporting, and ultimately eliminating
+ 
+methane and routine flaring emissions from their operations.
+
+New Energy & Transition Opportunities 
+The Celsius Energy dashboard shows the building’s 
+thermal energy usage in real-time.
+New Energy & Transition Opportunities 
+We launched Schlumberger New Energy in 2020 to 
+explore new opportunities in lower-carbon or carbon-
+neutral energy technologies. Our approach is to 
+apply our domain expertise in areas adjacent to our 
+existing activities and leverage our global footprint and 
+execution platform to deliver at scale. We are using 
+partnership models and our experience in technology 
+industrialization to expand into energy verticals beyond 
+oil and gas. Our diverse New Energy portfolio includes 
+ventures in CCS, energy storage, geothermal power, 
+geoenergy for heating and cooling, sustainable battery-
+grade lithium, and hydrogen as an energy carrier. 
+Carbon Capture and Sequestration 
+CCS is a critical component of advancing decarbonization 
+and achieving the Paris Agreement’s climate change goals. 
+As a technology leader in CCS and in the development of 
+decarbonization and alternative energy solutions, Schlumberger 
+is actively progressing CCS technologies and business models 
+to enable widespread adoption. Recently, Schlumberger has 
+explored creating strategic partnerships to assess, develop,  
+and operate projects spanning the entire CCS value chain,  
+from capture to storage. 
+Hydrogen as an Energy Carrier
+In a unique private-public partnership model, Genvia* combines 
+Schlumberger’s expertise and experience with that of the French 
+Alternative Energies and Atomic Energy Commission (CEA) and 
+partners. Genvia will accelerate the development and the first 
+industrial deployment of the CEA’s high-temperature solid-oxide 
+electrolyzer technology. The aim of the venture is to deliver the 
+most efficient and cost-effective technology for producing clean 
+hydrogen, a versatile energy and key component of the energy 
+transition. Genvia is partnering with industry leaders to scale 
+technologies and accelerate the decarbonization of multiple 
+industrial sectors. The first demonstrator projects will focus 
+on efficiency, performance, and decarbonization of industrial 
+processes for the steel and cement industries. The projects 
+include collaboration with ArcelorMittal Méditerranée; Ugitech, 
+part of Swiss Steel Group; Vicat; and Hynamics, a subsidiary  
+of EDF group. 
+Sustainable Battery-Grade Lithium
+Our NeoLith Energy technology venture uses a differentiated 
+direct lithium extraction process to produce high-purity, battery-
+grade lithium material while reducing the production time from 
+over a year to just weeks. This unique process is in sharp contrast 
+to conventional evaporative methods of extracting lithium, with 
+a significantly reduced groundwater usage physical footprint and 
+related environmental impacts of traditional lithium extraction.
+Geoenergy for Heating and Cooling 
+Celsius Energy has eight ongoing projects in Europe and an 
+expansion to the US. Our Celsius Energy venture uses geoenergy 
+to provide heating and cooling solutions for new or existing 
+construction, powered by the Earth. Leveraging our extensive 
+knowledge of subsurface behavior, operational automation 
+technology, and deep science expertise, the Celsius Energy 
+solution helps meet global goals for reduced emissions. In 
+2020, Celsius Energy replaced the heating and cooling setup in 
+a 60-year-old Schlumberger manufacturing facility in Clamart, 
+France, with a renewable geoenergy source. The project delivered 
+a 60% reduction in energy consumption and 90% reduction in 
+carbon emissions. 
+Geothermal Power
+Geothermal power uses the heat of the Earth to generate 
+electricity by tapping hot water and steam zones that are 
+continuously recharged naturally. With decades of expertise in 
+the geothermal sector, GeothermEx, a Schlumberger company, 
+provides the full spectrum of geothermal resource development 
+services—from exploration and drilling through to analysis, 
+resource modeling and management, financial modeling, and 
+operational support. GeothermEx’s multidisciplinary approach 
+has continuously served the geothermal industry since 1973. In 
+2021, GeothermEx worked closely with Turkey’s Yerka Electricity 
+Generation Co. to spearhead the country’s electricity generation 
+diversification efforts. Currently, we are involved in approximately 
+60 active geothermal projects globally.
+ 
+11Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Creating In-Country Value
+We invest in societies and 
+communities by building 
+partnerships to focus our social 
+efforts: recruiting, hiring, and 
+training where we work; sourcing 
+from diverse local suppliers; and 
+creating regional technology 
+strategies with a high degree of 
+local content.
+Respecting Human Rights
+We are committed to conducting 
+business in a manner that 
+preserves and respects 
+human dignity and working 
+with suppliers who share this 
+commitment. Our respect for 
+human rights is integral to the 
+way we work.
+Promoting Diversity,  
+Equity, and Inclusion
+Wherever we operate, we  
+strive to put people first by  
+building a truly diverse  
+workforce, safeguarding  
+peoples’ mental health and 
+wellbeing, and endeavoring 
+to create more inclusive 
+environments—in the  
+workplace, in our supply  
+chains, and in host  
+communities—so that every 
+individual feels welcomed, 
+accepted, respected, safe, 
+and able to fully contribute.
+People
+We put people first by acting ethically, respecting human rights, 
+keeping people safe, building a more diverse and inclusive 
+workplace, driving positive social and economic outcomes, and 
+managing our approach to climate change and energy transition 
+in a fair and socially inclusive way.
+1
+2
+Our People framework explains 
+how we manage our impacts,  
+meet high-level societal 
+expectations and local  
+obligations, and support the  
+sustainable development goals 
+where we work and live.
+AWARDS
+Colombia’s Campetrol 
+Sustainability Awards:
+Schlumberger winner in SDG 10: 
+Reduction of Inequalities
+2021 Empresa Socialmente 
+Responsible, Distintivo ESR® 
+2021 Progressive Aboriginal 
+Relations (PAR), Committed: 
+ 
+In recognition of indigenous 
+relations by the Canadian 
+Council of Aboriginal Business 
+Awarded Military Friendly* 
+Employer in 2021 for
+the fifth year in a row.
+3
+12Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Creating In-Country Value
+We Create In-Country Value By 
+•    investing in communities by building local partnerships 
+to drive action in support of achieving the UN SDGs, 
+while addressing local challenges of most relevance  
+to Schlumberger and the communities where we work 
+and live
+•   supporting economic opportunity by recruiting,  
+hiring, and training where we work; sourcing from 
+diverse local suppliers; and building regional  
+technology and manufacturing strategies with  
+a high degree of local content
+•   managing a Schlumberger SAFE environment that 
+reduces exposure to safety incidents and safeguards 
+people’s mental health and wellbeing.
+Investing in Communities
+We strive to avoid harm to people, to make a marked and positive 
+impact wherever we work, and to partner with our customers to 
+support a stable operating environment in which communities 
+and the energy industry can prosper. 
+Schlumberger focuses on understanding and managing the 
+impacts of our operations, business relationships, and supply 
+chain on people and society. Since 2014, Schlumberger’s 
+Social Investment Management Guidelines have supported our 
+operations by planning, designing, implementing, overseeing, and 
+disseminating social programs at the country and business level. 
+By engaging with customers, local authorities, and community 
+representatives to provide insights on local needs, resources, and 
+systems and focusing on issues that matter locally, we are able to 
+leverage our experience and resources to establish partnerships, 
+empower communities, and drive positive impact that meets the 
+expectations of all our stakeholders.
+SOCIAL INVESTMENT PLANNING
+ 
+In 2021, each of our GeoUnits 
+submitted social investment 
+plans with commitments totalling 
+USD 32 million. These plans 
+covered both mandatory and 
+discretionary social investments 
+and are reviewed through our 
+online portal for 
+• community relations impact
+• SDG alignment 
+•  lo cal partnership opportunities 
+with customers, suppliers, or 
+local organizations 
+•  l inks to business objectives 
+such as cost, growth, and  
+business continuity risk  
+mitigation
+•  em ployee engagement  
+opportunities.
+PROMOTING DIGITAL INCLUSION IN ECUADOR
+In the Amazonia Region, we are collaborating with the Telecommunications Ministry of Ecuador 
+to install the “last mile” of fiber optics needed to connect nine schools and their surrounding 
+communities to the internet. By promoting digital connectivity in schools, we are increasing 
+students’ access to quality education, in line with SDG 4, and supporting infrastructure 
+improvements to help the next generation access the information they will need to lead  
+the energy transition.
+SUPPORTING WATER SERVICES IN MOZAMBIQUE
+In Cabo Delgado province, Mozambique, the Schlumberger 
+team is working with local authorities and partners on 
+making potable water more available to rural and remote 
+communities, in line with SDG 6, clean water  
+and sanitation.
+In 2021, we began planning a physical inventory check  
+of water wells in our target area. The project continues 
+in 2022 as we focus on diagnosing issues, helping 
+repair wells, and supporting 16 communities to become 
+autonomous in sustainably managing their drinking water  
+supply systems.
+In the UAE, employees ran a series of workshops 
+for children to help raise awareness of climate 
+change and prepare them for transitioning back  
+to school after COVID-19 lockdowns.
+In the US, employees presented at the Ocean  
+Star Oilfield Energy Center Career Fair where they 
+discussed professional trajectories and provided  
+career advice to high school students.
+13Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Education Outreach
+One of our focus areas for social investment is education, which 
+we deliver in alignment with SDG 4, promoting quality education 
+and lifelong learning opportunities for all. Today our education 
+outreach efforts are centered on three main programs:
+•   Faculty for the Future – funding women from 
+developing economies to pursue PHD or post-doctoral 
+studies in STEM subjects at top universities worldwide, 
+managed by the Schlumberger Foundation, a  
+nonprofit organization
+•   Schlumberger Excellence in Education Development 
+(SEED) – providing STEM learning opportunities for 
+young people since 1998
+•   HSE for Youth – helping students understand and make 
+safe HSE-related decisions
+Creating In-Country Value continued
+SEED
+Worldwide, nearly 246,000 young  
+people participated across 30 countries 
+in nearly 600 SEED events in 2021. 
+ 
+ 2021  
+SEED Events   
+ ~
+600 
+ 
+Students Involved ~
+246,000
+Teachers Participating 
+ ~
+1,700
+Schlumberger Employee Volunteers ~
+700
+HSE FOR YOUTH
+ 
+ 
+ 2021 Workshops  
+COVID-19 
+ 2
+47 
+ 
+Climate Change and Environment 3
+5
+Road Safety
+ 9
+P
+ersonal Security
+ 8
+ 
+E
+bola 
+8
+ 
+Injury Prevention
+ 6
+M
+alaria 
+ 6
+ 
+F
+irst Aid
+ 5
+I
+nternet Safety 
+ 3
+W
+ater Sanitation 3
+ 
+H
+IV / AIDS 
+ 1
+In Brazil, employees hosted an
+online session with engineering 
+students, technical high school 
+students, and their teachers to 
+discuss career opportunities for 
+women in the energy industry.
+In Nigeria, 
+Schlumberger 
+employees 
+established a book 
+reading project, 
+visiting two local 
+schools to inspire a 
+love of literature and 
+a passion for STEM 
+learning. 
+FACULTY FOR THE FUTURE  
+  2020 2021  
+New Fellowships Awarded
+  3
+8
+ 3
+1 
+ 
+Fellowships Renewed
+  9
+3
+ 5
+5
+ 
+Total Fellows and Alumnae Since 2004
+ 7
+39
+ 7
+70
+ 
+Total Host Universities and Research Institutions Since 2004
+ 2
+76
+ 2
+81
+The Faculty for the Future program seeks to positively impact gender balance in science disciplines  
+by reinforcing the presence and qualifications of women in developing and emerging economies.
+14Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Supply Chain Localization
+Schlumberger is committed to optimizing the opportunities 
+afforded to local suppliers based in the countries where we 
+operate wherever technically feasible lawful and where it 
+makes business sense. For example, we cultivate and engage 
+local suppliers by implementing local content plans and supplier 
+development programs in the communities affected by our 
+operations. A focus of these programs is to ensure that our local 
+suppliers have the skills necessary to deliver our required scope 
+of work and are afforded the same opportunities to participate 
+in our procurement process as other supply chain participants.
+Regional Technical Capabilities
+With a focus on local economies, Schlumberger is investing 
+in regional technical strategies that facilitate regional energy 
+access with a high degree of local content.
+We have two themes relating to regional technology strategies:
+Fit for Basin and Technology Access. In both cases, our ambition 
+is to create additional growth and return opportunities for
+Schlumberger in a basin, while creating local value and 
+opportunity in the basin or country and indirectly contributing 
+to energy access. In-Country value creation and local 
+partnerships are key components of these solutions.
+In Technology Access projects, we partner with local service 
+providers by selling, leasing, or licensing to them selected 
+Schlumberger technologies, which they in turn operate for their 
+customers. In these ventures, Schlumberger gains access to 
+new markets, our partners get the opportunity to work with 
+established Schlumberger technologies, and customers gain 
+access to technologies they would otherwise not have had the 
+opportunity to use as part of their local commercial agreements. 
+This approach also supports our corporate transition to a more 
+asset-light portfolio, especially when implemented in business 
+lines that are traditionally capital intensive.
+In Fit for Basin, we develop technology to address a specific
+technical challenge inside a basin that cannot be addressed 
+from within the global technology portfolio, due to technical 
+specifications or commercial challenges. These solutions 
+could incorporate both hardware and software customization. 
+They also provide enhanced customer engagement and, in 
+many cases, an opportunity to accelerate development and 
+consequently energy access in the region.
+LOCAL CONTENT PRINCIPLES
+In addition to complying with 
+regulatory and contractual 
+local content requirements, 
+Schlumberger seeks to 
+contribute to sustainable 
+development by implementing 
+local content plans and in-house 
+programs that support supplier 
+development and enhance 
+the scale and quality of local 
+procurement. Our approach  
+is outlined in our Local  
+Content guide.
+PROCURING SALT IN ANGOLA
+In 2021, our Angola team 
+developed a tailored salt 
+procurement strategy to 
+support local suppliers, reduce 
+lead times for import, decrease 
+our carbon footprint through 
+reduced freight, and maintain 
+flexibility for our customers.
+Working with local mining 
+companies, Schlumberger 
+created supplier development 
+plans focused on quality 
+control and facilitated logistics 
+requirements, enabling local 
+suppliers to access contracts 
+valued at over USD 1 million in 
+2021 and 2022.
+FIT FOR BASIN 
+ 
+Fit for Basin describes not only our approach to developing discrete technologies to address regional operational challenges,  
+but also encompasses using the local value chain and tailored contract models where the challenge is commercial.  
+One example is a portfolio of completions products adapted for the local market in Saudi Arabia. To manufacture these fit-for-
+basin technologies, we opened a new technology manufacturing center in the Saudi Aramco-operated King Salman Energy 
+Park, or SPARK. This facility is now delivering, creating in-country value local supply, and positions us as regional leaders in 
+production systems equipment.
+An example of using different commercial models is our wireline technology access collaboration in China, which enables  
+us to participate in a new market. We are contributing to the growth of the capabilities of our partner, China Petroleum Logging 
+Company, with our ThruBit* through-the-bit logging services and leveraging local manufacturing and support.
+Fit-for-Basin is an approach that we believe will amplify our sustainability impact.  In all cases, the goal is to create shared value.
+Creating In-Country Value continued
+15Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Recruiting Where We Work
+We recognize that our ability to attract, develop, motivate, and 
+retain a highly competent and diverse workforce has been key 
+to our success for many decades. As a global company focused 
+on creating and optimizing value for our customers, we believe 
+it is critical for our people to be able to communicate with our 
+customers in their native languages and to share the values 
+of the people in the countries where we work. We are known 
+as a company with global resources and local expertise, able 
+to understand, respect, and work in the local culture of our 
+customers. As such, we recognize that diversity and inclusion 
+are business imperatives for attracting the best talent from 
+around the world and enabling creativity and innovation to drive 
+business success.
+Human Capital Management
+Employee Recruitment and Retention
+We have developed programs designed to recruit and 
+retain employees and to identify ways to increase employee 
+engagement and satisfaction across the organization.
+To help identify future employees, we also offer several 
+internships for students. Interns generally progress through  
+a period of intensive off-the-job technical training or receive  
+on-the-job training interspersed with formal seminars.
+Employee Development
+The energy industry and the global work environment have 
+shifted drastically in the last few years, making the mission 
+of business leaders more complex and challenging. At 
+Schlumberger, we are committed to fostering the growth 
+and development of our employees. For both our current and 
+future leaders, we focus on instilling a leadership skillset and 
+mindset from day 1 of our onboarding training, through ongoing 
+classroom training, digital content, and personalized coaching 
+at various levels of management.
+HUMAN CAPITAL AWARDS
+Top 10 most appreciated 
+employers in Romania: 
+Schlumberger awarded in the 
+Industrial production category.  
+In Malaysia, Schlumberger was 
+recognized as a top employer 
+across several annual rankings: 
+The Graduates’ Choice Awards, 
+Malaysia’s 100 Leading 
+Graduate Employers rankings, 
+the Graduan Brand Awards, and 
+the HR Asia Best Companies to 
+Work For - Malaysia Edition. 
+The African Shapers’ 100 
+Female Executives in the Oil 
+and Gas Industry in Africa: 
+Schlumberger employees were 
+recognized as recipients in the 
+Drilling and Completion Services 
+category and in the ESG 
+Environment category. 
+UK’s Most Attractive Employers 
+2021: Schlumberger made the 
+Top 100 Employer list. 
+In 2021, Schlumberger onboarded approximately 
+new employees and  
+contractors almost  
+entirely digitally.  
+ 16,000
+We target less than 11 
+months from onboarding 
+to autonomous job 
+performance.  
+ 
+Compensation Arrangements
+As part of our total rewards package, we systematically offer 
+to full-time and part-time employees benefits related to life 
+and accident insurance, short-term and long-term disability 
+coverage, and retirement savings plans. All Schlumberger 
+employees are eligible to receive equity-based compensation 
+awards under Schlumberger’s stock plans.
+In addition, as of January 2022, approximately 98% of full-time 
+Schlumberger employees were eligible to participate in the 
+Company’s employee discounted stock purchase plan (with the 
+remaining 2% ineligible primarily due to local legal restrictions).
+Schlumberger employees are encouraged to freely discuss  
+their occupational interests with management, in good faith 
+and in accordance with local laws. Schlumberger actively 
+participates in collective bargaining agreements with 
+employees in several countries.
+Creating In-Country Value continued
+16Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Schlumberger is committed to conducting business in 
+a manner that preserves and respects human dignity, 
+which is fundamental to our purpose—to create 
+amazing technology that unlocks access to energy for 
+the benefit of all. By respecting human rights, we look 
+to avoid harm, and we have the potential to contribute 
+to more inclusive societies.
+We Respect Human Rights By
+•   making human rights a topic our employees and 
+contractors can understand, speak about and act upon
+•   working with suppliers who respect and comply with our 
+Working Conditions Requirements
+•   providing mechanisms for employees and suppliers to 
+report any human rights concerns. 
+Human Rights Position Statement
+Our Human Rights Position Statement provides additional  
+details about our approach to human rights. It incorporates 
+international recognized human rights standards including the  
+UN Guiding Principles on Business and Human Rights and 
+relevant ILO Conventions.
+UN Global Compact
+Our 2021 Communications on Progress outlines our progress on 
+the 10 United Nations Global Compact Principles  
+on human rights, labor, environment, and anti-corruption.  
+Modern Slavery
+We prohibit any use or contracting, directly or indirectly, of 
+child labor, forced labor, human trafficking, or other form of 
+modern slavery. Our 2021 Modern Slavery Statement outlines 
+our policies and goals with respect to the prevention of slavery 
+and human trafficking within our own operations, value chain, 
+and relationships, as well as relevant actions taken in 2021 in 
+furtherance of these policies and goals.
+Respecting Human Rights
+NINE FUNDAMENTAL PRINCIPLES OF SCHLUMBERGER’S WORKING CONDITIONS REQUIREMENTS 
+2
+Child Labor Shall  
+Not Be Used
+3
+No Discrimination
+is Practiced
+4
+No Harsh or Inhumane 
+Treatment is Allowed
+1
+Employment is
+Freely Chosen
+5
+Wages are
+Respected
+8
+Complaints and Feedback Systems 
+for Workers are in Place
+7
+Freedom of Association 
+is Respected
+9
+Working Conditions 
+are Safe and Hygienic
+6
+No Workers Should 
+Pay a Fee for a Job
+Indigenous People: Australia 
+Reconciliation Action Plan
+Our Innovate Reconciliation 
+Action Plan (RAP) for Australia 
+is our roadmap to build stronger 
+relationships with Aboriginal and 
+Torres Strait Islander peoples, 
+reduce Aboriginal inequalities 
+in line with the UN SDGs and 
+reinforce our commitment 
+to perform with purpose in 
+Australia.  
+Our RAP supports culturally 
+safe worksites, culturally aware 
+non-Aboriginal and Torres 
+Strait Islander workforce, and 
+provides avenues for innovative 
+and targeted meaningful 
+engagement through longer-
+term business and employment 
+opportunities.
+Our Human Rights programs 
+are focused on identifying 
+appropriate measures to verify 
+that workers in our supply  
+chain are treated in 
+accordance with our nine 
+fundamental principles for 
+enhancing respect for the 
+rights of workers, as shown  
+in the graphic at the left.
+17Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Developed global guidelines for  
+human rights due diligence in our
+supply chain.
+Deployed the IPIECA and Building  
+Responsibly modern slavery training materials in  
+the Schlumberger eLearning Platform and developed 
+tr
+aining pathways for employees and contractors  
+with touchpoints to human rights.
+Integrated human rights moments into 
+our HSE Communications Toolbox to 
+facilitate discussion of human rights at the 
+beginning of a meeting or a work shift.
+Delivered tailored training on  
+ethical recruitment and the  
+Employer Pays Principle to more than 
+100 employees
+6
+independent human  
+rights audits of our  
+facilities and suppliers  
+in five countries.
+Completed
+Began development  
+of an Introduction to  
+Human Rights video  
+training, which will  
+become mandatory 
+for all employees and  
+contractors and be 
+rolled out in 2022. 
+Updated our Respect 
+and Professionalism in 
+the Workplace training, 
+which is mandatory 
+for all employees and 
+contractors, as we 
+continue our drive 
+to a more inclusive 
+environment.
+Piloted an industry-standard  
+self-assessment questionnaire  
+(SAQ) in several GeoUnits.
+Respecting Human Rights continued
+Launched a campaign  
+on United Nations  
+Human Rights Day to  
+raise awareness and 
+engagement levels  
+among employees.
+For more than                          years,  
+Schlumberger has been focused  
+on Human Rights.
+2021 ACHIEVEMENTS
+18Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Promoting Talent & DEI 
+One of Schlumberger’s greatest strengths is the 
+diversity of our workforce. Achieving increased 
+nationality and cultural diversity and gender balance 
+across all parts of our organization has been a focus for 
+Schlumberger for many years. Our ability to attract and 
+retain top talent enables us to develop innovative, fit-for-
+basin solutions for our customers and to implement our 
+business strategies. We strive to promote and cultivate 
+an atmosphere of equity and inclusion where every 
+member of the Schlumberger team is encouraged to 
+share ideas and positively contribute to our organization.
+Diversity as a Competitive Advantage 
+Our focus on putting people first is the first element of our 
+corporate strategy, because our ability to attract, develop, 
+motivate, and retain a highly competent and diverse workforce 
+has been key to our success for many decades.
+Our diverse workforce positions us to effectively deliver 
+services and products that meet the unique expectations and 
+requirements of our stakeholders, including customers, suppliers 
+and shareholders. At Schlumberger, we recognize that cultivating 
+diversity and promoting inclusion are not just the right thing to 
+do—they are essential to attracting the best talent from around 
+the world and enabling creativity and innovation to drive business 
+success.  
+Energy transition and changing geopolitics are both increasingly 
+driving regionalization. Schlumberger is competitively well 
+positioned from both a workforce and a technology perspective 
+to manage this risk and capture the opportunity that it represents 
+for the company and for the countries where we work.  
+National and Cultural Diversity  
+Our employees represent more than 160 nationalities and have 
+experience in more than 120 countries. Schlumberger recruits 
+and develops people in alignment with our business objectives, 
+and we have continued to maintain a workforce nationality 
+mix aligned to the revenue derived from the countries in which 
+we work, as reflected in the charts at right. Our long-standing 
+commitment to national and cultural diversity fosters a culture 
+that is global in outlook, yet local in practice, which permeates 
+every layer of the company. This commitment is particularly 
+important in the context of increasing regionalization and 
+deglobalization and represents a competitive advantage  
+for Schlumberger.
+Employees from non-Western countries and emerging economies 
+are integrated into every level of our workforce, including senior 
+management. Our executive leadership team includes officers 
+from Europe, North America, Australia, Asia, North Africa, and 
+the Middle East. In addition, our geographically diverse Board 
+of Directors collectively represent 10 nationalities across five 
+continents, as detailed in our 2022 proxy statement.
+Gender Balance  
+Gender balance is another important pillar of our diversity and 
+inclusion strategy. We are committed to lead our industry in 
+gender diversity, and we incentivize Schlumberger managers to 
+continuously challenge gender stereotypes and to monitor and 
+increase the representation of women within their teams. We 
+are on track to reach our interim milestone of 25% women in our 
+salaried employee population by 2025. As a result, in 2021, we 
+set our next milestone to continue our progress—for women to 
+comprise 30% of our salaried employee population by 2030. This 
+target includes executive roles and all other salaried positions.
+In 2021, we continued the progress we made in 2020 toward our 
+gender balance milestone, across all levels and particularly in 
+leadership roles. Women held 18% of all senior management roles 
+at the Company in 2021, a 4% increase year over year, and made 
+up 30% of our executive leadership team at year-end. In addition, 
+approximately 18% of our total workforce and 23% of our salaried 
+employee population were women at year-end 2021. Women 
+also represented approximately 48% of our 2021 new hires for 
+salaried roles with STEM backgrounds, up from 45% in 2020. 
+39%
+Middle East and Asia
+33%
+Europe, CIS, and Africa
+15%
+Latin America
+13%
+North America
+2021 NATIONALITY MIX
+1%
+Others
+19%
+North America
+19%
+Latin America
+25%
+Europe, CIS, and Africa
+36%
+Middle East and Asia
+2021 REVENUE CONTRIBUTION
+Our equal pay gap is 2.68%  
+in favor of men and is tied 
+to the gap in experience.
+Our efforts to recruit more  
+women and our culture of  
+promotion from within lead  
+to a positive momentum for  
+gender balance that translates 
+into an experience gap within 
+similar roles.
+ 
+Nationalities  
+in Our  
+Workforce
+160+  
+Nationalities  
+on Our Executive  
+Leadership Team
+9  
+Nationalities
+Among Our 
+Managers
+110
+as of year-end 2021
+Our main focus 
+remains to increase 
+representation of 
+women at all levels  
+of the organization.
+19Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Employee Resource Groups (ERGs) 
+In 2021, we launched ThisAbility, a new ERG that expands on 
+our preexisting groups: Connect Women; Black Organization for 
+Leadership & Diversity (BOLD); and LGBT + Allies. ThisAbility aims 
+to build a community of employees across the company while 
+providing a space for employees with disabilities and employee 
+caregivers to share experiences if they wish to do so.
+No Discrimination  
+Schlumberger obeys the employment laws of the countries in 
+which it operates and does not engage in discrimination based 
+on race, color, gender, age, sexual orientation, ethnicity, disability, 
+religion, union membership, or marital status in hiring and 
+employment practices such as promotions, rewards, and access 
+to training, as indicated in our Code of Conduct and our Human 
+Rights Position Statement. 
+Employees receive training on the Code of Conduct during their 
+onboarding. This training is tracked in our system of record. 
+ 
+A focus on discrimination is also included in the training of our 
+recruiters, hiring managers, and campus managers prior to 
+university or hiring events. We regularly review our historical 
+hiring data to identify any biases that might have occurred in the 
+selection process. This information is then communicated to our 
+hiring manager and recruiters in reviewing our hiring practices. 
+We encourage employees to report any concerns.
+We target parity  
+in hiring and 50%  
+gender balance.
+ 
+Equal Pay Gap Tied to Experience
+We recently published our 2021 Women and Pay report, the 
+industry’s first global pay gap report. We reported that our equal 
+pay gap is 2.68% in favor of men and is tied to a two-year gap in 
+experience within similar roles. 
+Our efforts to recruit more women and our culture of promotion 
+from within lead to a positive momentum for gender balance 
+that translates into an experience gap within similar roles. Our 
+main focus remains to increase representation of women at all 
+levels of the organization.
+Supplier Diversity Programs 
+We believe supplier diversity is important for business continuity 
+ 
+as well as a pathway to economic prosperity for underrepresented 
+groups. As a result, we have developed supplier diversity 
+programs in several countries, including the United States 
+ 
+and Canada. 
+United States Supplier Diversity Program
+In 2021, we enhanced our internal business systems to 
+ 
+better visualize and identify diverse suppliers. We developed 
+ 
+a standardized process to facilitate more inclusive sourcing,
+ 
+ along with tools to increase awareness and participation of 
+ 
+the program within the Schlumberger supply chain team. We
+ 
+ believe this initiative will ultimately allow Schlumberger to 
+ 
+Promoting Talent & DEI
+ continued
+Hires with STEM Background, 
+ 
+% Women
+ 
+ 
+ 
+2
+020   
+ 
+4
+5%
+ 
+2021
+ 
+4
+8%
+ 
+Female to 
+ 
+%
+The purpose of our US supplier 
+diversity program is to provide 
+opportunities to historically 
+underrepresented businesses 
+ 
+to become a customer of choice, 
+while supporting the participation 
+ 
+of diverse local suppliers, making 
+ 
+a contribution to economic growth 
+ 
+in the communities where we work 
+and live.
+30
+%
+Executive Team
+New STEM Hires
+2021 WOMEN IN LEADERSHIP
+We are on track to reach our interim milestone of 25% women 
+in our salaried employee population by 2025 and have set the 
+next milestone of 30% by 2030 to continue progress.
+realize untapped potential in the supply market, positively impact 
+local communities, and continue to be the customer of choice for 
+our partners.
+To further strengthen our collaboration with diverse suppliers, 
+ 
+we engage them in
+•  
+ 
+small and diverse supplier workshops
+•  
+ 
+innovation forums
+•  
+ 
+diversity advocacy organization engagements.
+Canada Supplier Diversity and Aboriginal Relations
+This program’s vision is to engage with Aboriginal communities 
+and demonstrate our commitment through our actions and 
+partnerships.
+We engage Canadian Aboriginal suppliers through
+•  
+ 
+progressive Aboriginal Relations Program
+•  
+ 
+partnerships with Aboriginal hiring organizations
+•  
+ 
+engaging with customers on Aboriginal initiatives
+•  
+ 
+membership in the Canadian Council for Aboriginal 
+ 
+Business (CCAB).
+Schlumberger’s US supplier 
+diversity goal is to increase 
+ 
+and maintain diverse spend to 
+ 
+at least 10% of our total spend 
+ 
+on US-based businesses.
+20
+Schlumberger Limited
+   
+|
+   
+2021 Sustainability Report
+CLIMATE ACTION
+OUR APPROACH TO SUSTAINABILITY
+PEOPLE
+NATURE
+MESSAGE FROM THE CSSO
+MESSAGE FROM THE CEO
+STAKEHOLDER ENGAGEMENT
+TCFD
+INDEX
+PERFORMANCE DATA TABLE
+GOVERNANCE
+HSE
+49
+ 
+A
+M
+c
+a
+h
+l
+i
+e
+e
+ 
+v
+H
+e
+ir
+d
+i
+ 
+n
+in
+g
+ 
+ 
+2
+R
+0
+a
+2
+te
+1
+2
+Man
+ 
+2
+ageme
+%
+nt-Level Roles
+ 
+48
+ 
+%
+
+Nature
+Schlumberger has identified three key environmental priorities 
+that are significant for our operations: safeguarding biodiversity, 
+protecting natural resources, and enabling circularity. These 
+priorities were chosen based on customer and industry 
+imperatives, applicability, impact, and risk.
+Safeguarding Biodiversity
+Schlumberger designs and 
+manages its operations  
+to minimize the impact  
+on ecosystems and  
+biodiversity across the  
+lifecycle of each facility,  
+activity, product, or service.
+Protecting Natural Resources
+We strive to minimize our  
+impact on the environment by 
+preventing pollution, reducing 
+natural resource consumption 
+and emissions, and reducing  
+and recycling waste. 
+ 
+Enabling Circularity
+Schlumberger enables circularity 
+through responsible resource 
+procurement in conjunction with 
+engineered solutions to promote 
+the longevity of product use.
+1
+2
+3
+21Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Safeguarding Biodiversity
+Schlumberger has developed a risk-based procedure for 
+the creation of ecosystem and biodiversity management 
+plans to minimize, mitigate, and manage ecosystem 
+and biodiversity impacts. These plans are designed 
+to protect sensitive wildlife areas, flora and fauna, 
+ecosystems, and conservation areas. They are designed 
+to prevent the introduction of invasive species, and 
+they establish conditions to facilitate the rehabilitation 
+or restoration of land areas impacted by Schlumberger 
+activities. 
+Risk assessments are performed before the initiation of any 
+business activities, to assess potential impacts of current and 
+planned activities on biodiversity. This is done to mitigate and 
+monitor impacts throughout the contract life cycle. Schlumberger 
+facilities are designed to minimize the physical footprint to reduce 
+potential environmental impacts. 
+Schlumberger designs and manages its operations to minimize 
+the impact on ecosystems and biodiversity across the life cycle 
+of each facility, activity, product, and service. Appropriate 
+risk controls are applied when Schlumberger operates in 
+environmentally sensitive areas, including areas that have the 
+potential for impact to wildlife or where operations could possibly 
+introduce invasive species or could impact a large body of 
+land or water. Furthermore, we aim to preserve the indigenous 
+vegetation of the land when we build worksites and use native 
+plants and species when rehabilitating worksites. 
+Schlumberger endeavors to use existing infrastructure to avoid 
+or reduce the need for land clearance for construction and seeks 
+to avoid environmentally sensitive areas when building new 
+infrastructure. We strive to minimize environmental disturbance, 
+restrict the movement of machinery and equipment during work 
+activities, plan land restoration, and schedule activities that may 
+cause disruption and disturbance to wildlife as appropriate to 
+avoid sensitive periods of the year. 
+Our biodiversity actions focus mainly on these four areas: 
+•   Protecting Wildlife - Measures are taken to avoid 
+interactions with wildlife to prevent potential health 
+and safety incidents associated with our activities 
+and operations. Furthermore, activities are planned to 
+avoid disruption of wildlife movements and habitats. In 
+locations where wildlife interactions cannot be avoided, 
+arrangements are made to accommodate movements to 
+minimize potential harm. 
+•   Rehabilitation and Restoration of Land - Planning is 
+undertaken to rehabilitate and restore land associated 
+with our assets and infrastructure to either the condition 
+of the site prior to activities or a condition suitable 
+for the land’s next intended use. Our ecosystem and 
+biodiversity risk management processes and our 
+environmental spill and emergency response procedures 
+set forth that all required remediation and restoration 
+activities occur concurrently with our operations, both at 
+Schlumberger facilities and at our customers’ worksites. 
+•   Prevention and Management of Land Contamination -  
+Environmental assessments are conducted prior to 
+acquisition and entry onto new facilities, to evaluate 
+past and current impacts to soil, bodies of water, and 
+any environmentally sensitive receptors as part of the 
+due diligence process. Minimum setback distances or 
+restrictions are put in place for activity infrastructure in 
+proximity to flood-prone areas, watercourses, wetlands, 
+and individual and public water supplies.  
+ 
+During the disassembly of surface facilities or  
+equipment, land contamination is avoided by using 
+ground protection measures inclusive of secondary 
+containment and impermeable layers. 
+•   Decommissioning and Abandonment - Worksites 
+that show visible signs of impact of our activities or 
+are known sites of previous spills and releases are 
+remediated, and soil samples are tested to show that 
+the soil has been returned to either the condition of the 
+site prior to activities, or a condition suitable for the next 
+intended use in accordance with commitments made in 
+contracts, permits and legislation. 
+METRICS AND TARGETS
+As part of our ecosystem and biodiversity management plans, we develop measuring and 
+monitoring plans that include, but are not limited to
+•   progress toward land restoration objectives 
+•   evidence of positive contributions to conservation efforts, such as outreach programs, 
+education, research, and proactive conservation actions 
+•   allocation and protection of land within the contract area that has been designated for 
+biodiversity conservation and management 
+•   evidence for incorporation of adaptive management of impacts on biodiversity and 
+ecosystems. 
+We track key environmental metrics internally through our centralized HSE reporting system.
+Having transparency on this data enables us to better manage our environmental impact. 
+22Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Protecting Natural Resources
+As a company in an extractive industry, Schlumberger 
+realizes the importance of respecting and protecting 
+the world’s natural resources. To that effect, we are 
+currently developing a formal water stewardship 
+strategy—beyond our existing water management 
+process—that will include metering and future water 
+risk assessments. These actions will help us identify 
+water conservation opportunities and better understand 
+the locations where our facilities, employees, and 
+suppliers are most vulnerable to water risks.
+Water and Waste Conservation Practices
+Schlumberger is committed to responsibly managing shared 
+water resources by minimizing water use and effluent discharge. 
+We require that our activities, products, and services be 
+designed, procured, and used with the goal of efficiently 
+managing resource consumption. Schlumberger operations and 
+activities involving water resources must seek to maximize the 
+reuse of water; investigate opportunities for rainwater collection 
+and the potential for using suitable effluent from other processes 
+as the source of water; minimize freshwater use, especially 
+in areas prone to seasonal, sporadic, or year-round water 
+shortages; and if cooling water is required, use recirculating 
+systems where feasible. 
+When we take actions relating to water resources, we consider 
+local circumstances such as environmental sensitivities 
+and water availability. We also develop site-specific water 
+resource management procedures that address the water 
+usage requirements at our facilities and operations, as well as 
+controls and procedures to manage related impacts. A resource 
+management procedure for water generally identifies the 
+applicable sources of water supply and the principal uses of 
+water and includes the following  
+•   risk assessment of the suitability, quality, sustainability, 
+and reliability of the water supply to Schlumberger and 
+to other relevant stakeholders  
+•   assessment of opportunities to improve water  
+use efficiency  
+•   assessment of the requirements for process and potable 
+water over the lifetime of the operation or project  
+•   details of applicable permits and licenses that are 
+required to be obtained prior to sourcing water supplies  
+•   planned inspection and maintenance programs for 
+water storage and supply infrastructure. 
+COMMITMENT TO REDUCING WASTE AND EFFLUENT DISCHARGES
+Schlumberger is committed to managing and reducing waste materials and effluent discharges throughout our facilities, and we  
+have set internal objectives and targets focused on effluent management. Most Schlumberger sites have internal waste minimization  
+plans, and certain sites are required to submit waste minimization and pollution prevention progress reports. Our waste suppliers  
+are contractually required to comply with all applicable laws, ordinances, and regulations at the federal, state, provincial, and local 
+levels. We periodically audit our approved waste suppliers, and we hold at least one annual environmental business review with our 
+top suppliers. Our waste data covers 100% of our business operations and includes waste from facilities, manufacturing, building, 
+remodeling, and discarded sand from wellsite operations. We reuse materials when possible and continue to seek opportunities to 
+reduce both our direct consumption of resources and the waste we generate. 
+270,000 25%
+The closed-loop water recycling system at our largest facility in Guyana helps to conserve water while reducing disposal to sewers.
+1.6ML /year water saved
+188 metric tons CO2 saved
+Reduce Waste 
+Generation
+-2.4%
+footprint reduction
+-7%
+consumption / year
+-12.5%
+/year
+liters of water processed in 2021 of this water recycled in 2021
+Wastewater Plant Project Villahermosa to Recycle Water 
+23Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Controlling our Discharges
+We have procedures in place designed to minimize, respond  
+to, and control the environmental impact of uncontained spills  
+at company worksites and at some third-party-controlled 
+worksites. These procedures are risk based and rely on 
+accurately assessing the activities that have potential spill risk.  
+A specific protocol is then developed to appropriately address 
+potential spill scenarios. We have an oil spill response plan in 
+place that covers 100% of our operations. 
+Chemical Management
+Schlumberger has a chemical management process in place  
+to manage the risks associated with chemicals used in our 
+activities, products, and services, to protect Schlumberger 
+employees, customers, contractors, suppliers, and property,  
+as well as the environment. Our chemical management 
+process also serves to promote compliance with regulatory 
+and contractual requirements. We have a formal chemical 
+management process as part of our global Chemical Standard, 
+covering the life cycle of a chemical from product development, 
+sourcing, procurement, manufacturing, and sale, to use and 
+safe handling, transportation, and storage, to the end of the life 
+cycle at disposal. The objective of the standard is to eliminate 
+or mitigate the impact of chemical-related incidents—including 
+impacts to biodiversity—by assessing and controlling the risks 
+related to the different phases of the life cycle of chemicals  
+sold as products, used in the delivery of services, or processed 
+by Schlumberger.
+Schlumberger is committed to reducing risks associated with 
+hazardous chemicals through waste minimization and waste 
+elimination programs. We apply a risk-based approach including 
+a risk assessment process prior to introducing new chemicals and 
+compounds to our operations to maintain compliance with our 
+strict safety standards.
+All engineered and Schlumberger trade name chemicals go 
+through our Lifecycle Management System, which includes an 
+HSE and regulatory assessment. At the beginning of the life cycle 
+of a product, we evaluate its chemistry to identify appropriate 
+methods of mitigating chemical-related risks. Our dedicated 
+chemical regulatory team works in close coordination with our 
+research and development team to identify and reduce HSE and 
+regulatory risks early. Our product development and sustaining 
+teams focus on identifying chemical-related opportunities 
+and developing and using more environmentally sustainable 
+chemicals. When purchasing and designing chemicals, 
+Schlumberger considers the chemical’s life cycle up to and 
+including disposal of the chemical.
+We have long been committed to transparency in our chemical 
+disclosure. We also require our suppliers to provide us with full 
+disclosure regarding any chemicals that we purchase from them 
+before we can include such chemicals in our portfolio.
+Protecting Natural Resources continued
+ADDITIVE MANUFACTURING
+ 
+For more than two decades we have been evaluating and incorporating Additive Manufacturing 
+(AM) techniques in our operations. 
+AM is the process of creating an object by building it one layer at a time—usually through  
+3D printing rather than casting—with any number of materials, such as polymers, metals,  
+ceramics, elastomers, gels, or biomaterials. In addition to improving efficiency for our  
+manufacturing, AM provides a number of sustainability benefits, such as
+•   reducing material consumption and waste 
+•   lessening time and investment, as it does not rely on traditional manufacturing’s supply chain
+•   producing small lot sizes, as the setup cost for small quantities is often prohibitive
+•   allowing for better customization and R&D
+•   reducing material, waste, energy, inventory, and transportation, which leads  
+to fewer emissions.
+We employ multiple AM technologies, both internally and with service providers globally, and we 
+have a centralized dedicated AM technology team working on de-risking, developing, Design for 
+AM training, tech-watch, and coordinating with internal project teams, external suppliers, research 
+laboratories, and universities.
+We find that the digital fabrication process is enabling localized distributed production, benefiting 
+the environment by reducing transportation and thus, GHG emissions.
+In Kuwait, our team is reusing  
+and recycling waste material by  
+transforming it into garden products  
+so the local community can grow  
+its own fruits and vegetables.  
+The Schlumberger team is also  
+planting trees and flowers in  
+community gardens.
+24Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+For Schlumberger, managing environmental impacts 
+such as air emissions, discharge prevention, and  
+l
+eading conservation practices around the world  
+is crucial.
+ 
+Managing Environmental Impacts
+Schlumberger’s QHSE Policy Statement, which is signed  
+by our CEO, requires from all employees and contractors  
+an active commitment to, and accountability for, quality,  
+health, safety, and the environment (QHSE). Our QHSE 
+commitments include minimizing our impact on the 
+ 
+environment through pollution prevention, reduction of  
+natural resource consumption, emission minimization, recycling, 
+and waste reduction. Line
+ 
+management has a leadership  
+role in the communication and implementation of and 
+maintaining compliance with QHSE policies and
+ 
+standards.
+   
+T
+he management and mitigation of the environmental  
+impact of our operations is the direct responsibility of  
+our line management. Our environmental management  
+system and standard are the responsibility of our Vice President 
+of HSE, supported by our Global Environmental Manager. 
+Our global sustainability strategy—including environmental 
+sustainability programs and initiatives to  
+improve aspects of biodiversity—is the responsibility of  
+our Vice President of Sustainability, supported by our  
+Director of Environmental Sustainability. 
+Schlumberger uses a flexible, risk-based approach to manage 
+and mitigate the environmental aspects and impacts of 
+our activities, products, and services. This includes our 
+environmental impact on nature and biodiversity, as well as 
+operational emissions. Our commitment to environmental 
+protection requires that a minimum standard of environmental 
+performance is established at each of the company’s facilities  
+in conjunction with local regulatory requirements. 
+ENVIRONMENTAL MANAGEMENT 
+STANDARDS AND CERTIFICATIONS 
+ 2021  
+ISO 14001 Certified Sites  
+ 7
+3 
+ 
+Number of sites subject 
+  
+t
+o environmental audit 
+ 5
+45 
+requirement
+% of sites subject to 
+ 1
+3 
+environmental  
+audit requirement  
+AIR EMISSIONS
+We are committed to reducing air emissions from our operations. Schlumberger’s Environmental Management Standard  
+sets forth our requirements for monitoring emissions and complying with local air quality standards. 
+For BP in Oman, 80,000 metric tons of  
+CO2e emissions were avoided during cleanup  
+operations on 10 wells by implementing  
+a Fit for Basin solution.
+Protecting Natural Resources continued
+25Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Enabling Circularity
+Our Technology Lifecycle Management (TLM)  
+function oversees the lifecycle of Schlumberger assets 
+from manufacture to retirement, to optimize our 
+technology’s reliability, sustainability, and performance.
+Schlumberger has many assets ranging from land vehicles to 
+downhole mechanical and electrical tools to meet our clients’ 
+operational needs.
+The TLM function unites the Sustaining Engineering and 
+Maintenance organizations to focus on more reliable and 
+efficient maintenance of our assets throughout our global 
+maintenance network. A key capability that comes from the 
+TLM function is the return on experience provided by our 
+technicians and engineers on the condition of our assets while 
+they are maintained. Through this we continually seek to extend 
+performance, life, and circularity.
+Some examples of how the TLM function relates to the circular 
+economy are measures to maintain and prolong, reuse and 
+redistribute, refurbish and remanufacture, and recycle.
+Maintain and Prolong
+Our TLM function focuses on moving assets through  
+the maintenance process efficiently while continuing  
+to service them to full operational readiness. To trigger 
+these maintenance events, TLM is moving from traditional 
+time-based maintenance, which can result in excessive 
+transportation and servicing of assets, to condition-based 
+maintenance, which optimizes the maintenance schedule 
+based on the operational environment and measurable 
+criteria. This capability is being further enhanced through 
+new digital capabilities with intelligent health analyzers 
+that advise on tool health and maintenance needs. 
+Through optimizing maintenance programs, we can  
+reduce the number of assets required along with 
+resources consumed to maintain them.
+In addition to optimizing the maintenance events of our 
+assets, the TLM function has a framework and structure 
+to maximize the life of our assets. Our maintenance 
+and operations personnel work collaboratively with 
+the technology, sustaining, and engineering teams to 
+identify asset and component life limiters and continually 
+implement maintenance program and design changes to 
+extend their lifetime use. 
+Reuse and Redistribute
+To meet our clients’ needs across differing requirements, 
+we aim to design our technologies in a modular manner. 
+This enables assets to be reconfigured as required and 
+avoids the manufacture of additional variants. This asset 
+modularity is then combined with a strong focus on 
+asset efficiency to maximize the global availability and 
+redistribution of our fleet to avoid additional manufacture 
+and distribution costs.
+Refurbish and Remanufacture
+Schlumberger continually optimizes our maintenance 
+programs to minimize wasteful servicing of assets. 
+However, due to the nature of the demands on our 
+technology, when assets are disassembled to component 
+level, some parts will be required to be replaced.
+To further reduce the waste from this maintenance 
+program, the TLM function has a network of trained repair 
+resources who work with sustaining engineering and 
+third-party experts to repair and recover components that 
+would have historically been disposed of, returning them 
+to as-new condition.
+Recycle
+When it is no longer possible to maintain, reuse, or 
+remanufacture our assets or products, Schlumberger  
+works with its suppliers to identify economically  
+viable recycling opportunities.
+At our Houston technology center, 
+drilling bits that have reached their  
+end of life are recycled. Most bits 
+are made of tungsten-carbide matrix 
+material that can be pulverized,  
+decontaminated, and resintered  
+to make new bits. Up to 30% of the 
+consumed matrix powder can come 
+from recycled materials, and this has 
+enabled us to reclaim between  
+150 and 300 tons of scrap bits per year.
+In the Well Construction Division, through our repair and  
+recover process, we have been able to repair and extend 
+the life of tool collars. Since 2018, this process has 
+saved 330,000 metric tons of CO2e as compared to the 
+alternative of manufacturing a replacement.
+26Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Schlumberger has a long-standing HSE commitment 
+to the highest standards for the health, safety, and 
+wellbeing of our employees and contractors, as well as 
+to the protection of the environment in the communities 
+in which we live and work.
+Keeping People Safe
+A significant proportion of injuries in our industry involve 
+personnel with less than one year of service within a company. 
+As a result, all new Schlumberger employees, as well as 
+applicable contractors, are included in our New Employee Safety 
+Training (NEST) program, which provides critical safety training 
+to manage new employees’ increased HSE risks. We also have 
+specific NEST trainings for contracted employees.  
+ 
+HSE AWARDS 
+EnergyPoint Research’s 2021 
+Oilfield Services Customer 
+Satisfaction Survey: 
+Schlumberger ranked # 3  
+in the HSE category. 
+Energy Institute Awards: 
+Schlumberger shortlisted  
+in the Health and Safety 
+category for the company’s 
+COVID-19 response. 
+International SOS Foundation’s 
+Duty of Care Awards:  
+Schlumberger shortlisted in the 
+Communication category for 
+our global COVID-19 response.
+TRIF (Total Recordable Injury Frequency)
+per 1 million work-hours, as per International 
+Association of Oil & Gas Producers (IOGP)
+Safety
+EMPLOYEE WELLBEING 
+In 2021, we launched our 
+BlueFlex program and our 
+Flexible Work policy to reflect 
+our commitment to implement 
+models that benefit employees’ 
+work-life balance.
+2021
+2020 .71
+2019 1.07
+Improvement
+.75
+30%
+In 2021, we assigned our first Global Health and Wellbeing Manager, 
+recognizing the strategic need to support employees to live their 
+best lives. The Live Well program was launched with the vision for 
+Schlumberger employees to be the healthiest and happiest people in our 
+industry, and our mission is to provide a positive environment for people 
+to flourish and for business to thrive.
+FACILITATED HSE CLASSES  
+(Excluding online training) 
+  # Students # C lasses  
+NEST (New Employee Safety Training)
+ 4
+,811
+ 4
+25 
+ 
+Facilitator Level 2
+  2
+17
+ 2
+7
+ 
+HSE Level 2
+  3
+,112
+ 2
+54
+HSE Level 3
+  5
+19
+ 5
+2
+ 
+HSE-Event Investigation Level 2
+  1
+6
+ 3
+H
+SE-Auditing Level 2 
+  4
+9
+ 6
+ 
+F
+irst Aid Level 2
+  3
+01
+ 4
+3
+ 
+CPR (Cardiopulmonary Resuscitation) 1
+20 1
+4
+Driving Training  1
+,617 1
+82
+ 
+Overhead Crane Operator
+  5
+6
+ 1
+2
+Onshore Mobile Crane Supervisor Level 2 
+ 3
+57
+ 6
+0
+ 
+Forklift Operations Level 2
+  1
+34
+ 1
+8
+ 
+Banksman Slingers 
+  8
+0 1
+4
+More than 1,100 NEST classes, both virtual and  
+in person, were held at Schlumberger in 2021.
+ 
+In 2021, we recorded more than 
+million HSE training 
+hours, averaging 
+approximately 41.5  
+HSE training hours per person.
+4.5
+Final audited TRIF rate for 2021 reflects a 0.01 
+increase to correct the 2021 data published in 
+Schlumberger’s Annual Report.
+Health, Safety, and Environment
+ACHIEVEMENT (1)
+2021 objective: 22% reduction 
+ACHIEVED
+2021 objective: 22% reduction 
+ACHIEVED
+2021 objective: Compliance  
+level exceeding 95% overall
+ACHIEVED
+2021 objective: more than  
+55 RIRs per person
+ACHIEVED
+100% 
+ACHIEVED
+OBJECTIVES
+We annually set company-wide and  
+geographic-specific TRIR objectives  
+as percentage improvement compared 
+with prior year’s performance
+We annually set company-wide and  
+geographic-specific AARm objectives  
+as percentage improvement compared 
+with prior year’s performance
+We annually set company-wide and  
+geographic-specific objectives for  
+compliance with required HSE  
+training programs
+We annually set company-wide  
+and geographic-specific objectives  
+to increase our risk identification  
+reporting rate
+100% High Potential Event Reporting 
+investigation, review, and closure
+HSE INDICATOR
+Total Recordable Incident Rate  
+per million work hours (internal) (2) 
+(employees and applicable contractors)
+Automotive Accident Rate  
+per million miles (AARm)  
+(internal) (2)   
+(employees and applicable contractors) (3)
+Overall Training Coefficient  
+(employees and applicable contractors)
+Risk Identification Report Rate 
+(employees and applicable contractors)
+Reporting Rate for Higher  
+Potential Events
+1 Reflects only company-wide objectives and achievement levels. Geographic- and business line-specific objectives and achievement levels are not reflected.
+2 Internal TRIF and AARm metrics reflect all Schlumberger-involved incidents or accidents, as applicable, including incidents that are not required to be recorded
+by IOGP or OSHA (such as incidents occurring during off-duty hours). As a result, these internal performance metrics do not match our industry-recognized TRIF
+and AARm figures in the performance data table.
+3 “Applicable contractors” refers to the approximately 28,000 whose performance was included in our global QHSE business system as of December 31, 2021.
+These contractors are to some degree under Schlumberger’s operational control, and so are included in our safety metrics in accordance with IOGP best
+practices relating to contractor management (Mode 1 and Mode 2 contractors, as defined in IOGP Report 423). 
+EXAMPLES OF SCHLUMBERGER NON-ZERO 2021 HSE PERFORMANCE OBJECTIVES
+AND APPLICABLE ACHIEVEMENT LEVELS FOR EMPLOYEES AND CONTRACTORS
+27Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Stakeholder engagement is critical to supporting 
+our sustainability strategy. By actively listening to 
+stakeholder feedback, we gain key insight that helps 
+us to manage sustainability risks; align our business 
+processes with local and national priorities, needs, 
+and expectations; identify new business opportunities; 
+maintain our social license to operate; and increase the 
+productivity of our workforce. 
+We engage with our stakeholders in various ways, including  
+as follows:
+•    Customers: Continuous engagement with our customers 
+enables us to respond to and keep pace with their 
+changing expectations around many issues in the energy 
+industry. We strive to understand from our customers 
+their unique energy transition journeys and inform them 
+of our technological solutions that can enable their 
+efforts as they strive to decarbonize. We collaborate 
+with our customers to identify ways they can leverage 
+our Transition Technologies portfolio of products and 
+services to reduce their Scope 1 and 2 emissions. 
+•    Employees: Our employees are highly professional 
+people in the energy services industry, so we 
+consider them to be the most credible ambassadors 
+of Schlumberger and one of the company’s most 
+important stakeholder groups. Therefore, engagement 
+with our employees is used to develop internal policies, 
+standards, and processes. 
+Stakeholder Engagement
+OUR COMMITMENT  
+TO STAKEHOLDERS
+ 
+Schlumberger strives to 
+maintain and grow the  
+trust and confidence  
+of our customers and 
+shareholders as well as all 
+other stakeholders affected 
+by our operations. When 
+we clearly behave in an 
+ethical manner, we enhance 
+our reputation as a partner, 
+employer, and community 
+member.
+28Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Stakeholder Engagement continued 
+Sustainability Culture 
+As Schlumberger sets ambitious sustainability targets, it is 
+crucial for our workforce to be aware of and engage with our 
+sustainability goals, as employees are the key driver of our 
+sustainability performance. In 2021, we implemented various 
+initiatives to operationalize sustainability across our organization, 
+including as follows: 
+ 
+ 
+•   We rolled out sustainability training for new hires, where they 
+learn about our corporate sustainability strategy, as well as 
+corporate and local initiatives, which they are encouraged to 
+lead and get involved with. 
+•    We included sustainability-related trainings developed  
+by third-party organizations (edX, AWS, Degreed Meta, 
+FutureLearn and others) on our learning management platform, 
+available to all full-time employees to complete at their own 
+pace. The training topics include sustainability in supply chain 
+and circularity to technology, energy transition, renewable 
+energy, and communications. 
+•    We added a question to our annual employee engagement 
+survey to track perception of our sustainability efforts.  
+Seventy-two percent of employees viewed our sustainability 
+efforts positively. Our ambition is for more than 85% of our 
+workforce to respond positively to this question.  
+ORGANIZATION EXAMPLES: 
+Solar Impulse Foundation
+SINTEF Low Emission Centre 
+Columbia University SIPA 
+Center on Global Energy 
+Policy
+IPIECA
+UN Global Compact
+Rice University’s Baker 
+Institute of Public Policy 
+Carbon Capture in Texas 
+Working Group
+Stanford University’s Natural 
+Gas Initiative 
+Stanford University’s Center 
+for Induced and Triggered 
+Seismicity industrial affiliates 
+program
+World Petroleum Council
+Carbon Capture and Storage 
+Association
+•    Communities: 
+– 
+ S
+chlumberger focuses on understanding and managing 
+the impacts of our operations, business relationships, 
+and supply chain on people and society. Engaging with 
+local authorities and community representatives provides 
+us insights on local needs, resources, and systems and 
+helps us focus on issues that matter locally. We are 
+then able to leverage our experience and resources to 
+establish partnerships, empower communities, and drive 
+positive impact that meets the expectations of all our 
+stakeholders.
+–   S
+chlumberger’s long-established values have always 
+included a commitment to invest in our people and local 
+communities, and we continually look for opportunities 
+to create positive impacts. We are involved in a variety 
+of community programs worldwide, many of which are 
+coordinated by employees who volunteer their time and 
+expertise at the local level.
+•    Investors: Our investor relations, sustainability, legal, 
+and human resources teams engage with shareholders 
+throughout the year to seek their views on key matters and 
+then inform our Board and management about the issues 
+and emerging governance trends that our stockholders tell 
+us matter most to them. These engagements routinely cover 
+executive compensation, corporate governance, company 
+strategy and performance, sustainability, human rights, and  
+other current and emerging issues. 
+•    Industry Trade Associations: Schlumberger has a long-
+standing commitment to sharing best practices and our HSE 
+technical expertise through industry associations. We have 
+active relationships in numerous industry organizations, through 
+which we collaborate to make improvements in our own 
+operations, while also moving the industry forward.
+•    Our University engagement initiatives play a key role in 
+our recruiting and sustainability strategies. Through these 
+collaborations, we support education and research in STEM 
+subjects, and we attract talented diverse graduates of local 
+universities from the countries in which we work. We also 
+select certain institutions for our University Ambassador 
+Program, through which we assign a senior-level Schlumberger 
+manager as an “Ambassador” to an institution targeted for 
+recruiting, research, community outreach, and technology 
+transfer opportunities. 
+ 
+ 
+•    Governments and Policymakers: Government and regulatory 
+officials and other policy makers seek out Schlumberger experts 
+for their knowledge of and experience in many aspects of the 
+oil and gas industry. Although we are politically neutral and 
+do not lobby, we often provide technical support to regulatory 
+officials who are interested in gaining practical understanding 
+of the technologies and processes that can reduce emissions 
+and our industry’s carbon footprint. We have a policy prohibiting 
+lobbying; expenditures for lobbying purposes in 2021 were 
+zero. Additionally, we work with various think tanks and 
+nongovernmental organizations—some of which influence 
+policy—to collaboratively drive sustainability across our industry.
+In 2021, we participated in  
+17 sell-side investor conferences 
+and held more than 400 buy-side 
+investor meetings  
+(primarily virtual) across more than 250 investor firms. 
+    2021  
+University Interns  
+    5
+50 
+ 
+Recruiting Job Applications 
+   1
+39,000 
+(approximate)
+Number of Countries Recruited In 
+    7
+9
+Number of Universities Recruited At
+   6
+54
+Disciplines Recruited 
+    8
+8+
+PERMIAN STRATEGIC 
+PARTNERSHIP
+Since 2018, Schlumberger 
+has been an active member 
+of the Permian Strategic 
+Partnership, a coalition 
+of leading Permian Basin 
+energy companies that 
+works in partnership 
+with leaders across the 
+region’s communities 
+to address current and 
+future challenges. The 
+partnership’s activities 
+include initiatives focused 
+on making roads safer, 
+improving education, 
+upgrading healthcare, 
+increasing affordable 
+housing, and training the 
+next generation of workers.
+29Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+CDP Supply Chain Program 
+Supplier disclosure is a first step in understanding our suppliers’ 
+maturity on our carbon reduction journey to net zero and helps 
+us better manage the environmental footprint of our supply chain 
+while encouraging suppliers on their own journeys toward a low-
+carbon economy. In 2021, we engaged CDP Supply Chain to work 
+with approximately 500 of our logistics and purchased goods 
+and services suppliers on emissions disclosure. These suppliers 
+represented 35% of our 2020 spend, and approximately 3.4 
+million metric tons of CO2e of our Scope 3 emissions. For this first 
+year of participation, our supplier response rate was 43%. 
+As part of our CDP Supply Chain program, we engage with our 
+suppliers through trainings and webinars to help them identify 
+risks and opportunities for improvement around climate and 
+emissions. They receive feedback on their performance through 
+CDP scoring, which enables them to track progress year on 
+year. This engagement allows our suppliers to build awareness 
+on their climate disclosures while CDP team members provide 
+additional expertise and education on climate change reporting, 
+risks and opportunities, and strategy for improvement in climate 
+and emissions.
+Schlumberger supplier managers collaborate closely with  
+our suppliers and provide feedback on their CDP disclosure  
+as well as their emissions reduction targets and initiatives.
+We intend to expand our  
+CDP supply chain program  
+in 2022.
+We want our suppliers to understand our sustainability 
+focus so they can identify, assess, and respond 
+appropriately to supply chain sustainability risks. 
+Engagement on sustainability priorities is integrated  
+into our supplier communication plans and often  
+works most effectively through a blend of channels, 
+including the tender process, kickoff meetings,  
+quarterly business reviews, supplier forums, trainings, 
+and written communications. 
+Our sustainability engagement efforts focus on continuously 
+improving our suppliers’ performance in relation to worker 
+welfare; conflict minerals; health, safety, and environmental 
+performance and goals to reduce our GHG emissions and  
+support GHG emissions reduction for our customers.
+Supplier Audits 
+We conduct routine audits of our critical suppliers, which  
+may incorporate supplier performance, finance, contract,  
+HSE, quality, and ethics and compliance components, including  
+human rights and labor questions. All suppliers, contractors,  
+and agents must be approved and managed in accordance  
+with internal requirements. Our program includes audits and 
+business reviews as needed.
+Response Rate
+(answered 2021 CDP  
+Supply Chain survey)43
+%
+First-Time Responders  
+to CDP Supply Chain,  
+per CDP110
+Suppliers Engaged 
+Representing:
+35% 2020 spend 500
+WE EXPECT OUR SUPPLIERS TO
+•  promote and abide by our Code of Conduct and Human Rights Position Statement 
+•   implement policies, procedures, or processes that meet or exceed the Working  
+Conditions Requirements
+•  flow down equivalent principles and communicate similar requirements to their suppliers
+•  agree to be audited to ensure compliance with the above
+Responsible Supply Chain
+CDP SUPPLY CHAIN PROGRAM:
+Approximately
+30Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Sustainability Governance
+We have embedded environmental, social, and 
+governance (ESG) management at all levels of  
+our company. 
+ 
+Schlumberger’s management team is responsible for the 
+development and implementation of our ESG strategies and 
+programs, with the oversight of our Board of Directors (Board)  
+and its committees. In 2021, we announced the addition of a 
+Chief Strategy and Sustainability Officer (CSSO) on our  
+executive leadership team—reinforcing that sustainability is 
+at the core of our corporate strategy. The CSSO oversees our 
+corporate strategy, sustainability, and marketing activities.  
+The Vice President of Sustainability, who reports to the CSSO,  
+is directly responsible for social and environmental sustainability 
+in the company and engages with Schlumberger leadership, 
+employees, investors, and customers on sustainability topics, 
+including climate-related issues. Our line management is 
+directly responsible for the management and mitigation of the 
+environmental impact of our operations, with our environmental 
+management systems and standards being the responsibility of 
+our Vice President of HSE. 
+The Schlumberger Blue Print in Action  
+Our Code of Conduct 
+Board Oversight of Sustainability
+The Board and its committees oversee the performance and 
+management of various environmental, social, and other 
+sustainability issues, including our energy transition strategy; 
+emissions reduction targets; climate change; sustainability 
+reporting; workforce health and safety; human rights; diversity, 
+equity, and inclusion of our workforce; and ethics  
+and compliance. 
+•    The Board oversees the Company’s long- and short-term 
+strategy, including the launch of our Transition Technology 
+and emissions monitoring portfolios, which focus on 
+decarbonizing our core businesses, as well as our new 
+investments in low-carbon and carbon-neutral energy 
+technologies. In addition, the full Board supported the 
+decision to establish our comprehensive 2050 net zero 
+commitment including Scope 3 emissions, together with 
+interim Scope 1, 2, and 3 emissions reduction milestones. 
+•    The Board also oversees the company’s enterprise risk 
+management process and reviews major risks facing the 
+company, including acute and chronic climate risks and 
+energy transition risks.
+•      The Nominating and Governance Committee oversees 
+our sustainability programs, initiatives, and activities, and 
+receives quarterly updates from senior management on the 
+progress we are making toward a low-carbon future. This 
+committee also monitors and reviews the effectiveness of 
+the company’s ethics and compliance program, including 
+The Schlumberger Blue Print in Action—Our Code of 
+Conduct and all significant compliance allegations.
+•    The New Energy and Innovation Committee—newly formed 
+in 2021—evaluates our Schlumberger New Energy and 
+Transition Technology investments and the sustainability 
+impacts of growth opportunities.
+•    The Board’s other committees oversee sustainability-related 
+topics within their respective areas of responsibility, such as 
+incorporation of sustainability and diversity metrics into our 
+short-term incentive compensation programs (Compensation); 
+the conduct of sustainability-related reviews by our internal 
+audit team (Audit); the operational risks, such as cybersecurity 
+(Audit); disclosure of ESG risks (Audit and Nominating and 
+Governance, jointly); and the development of our sustainable 
+finance strategy, including financial instruments with rates 
+linked to climate commitments (Finance).
+Nominating and Governance Committee of the Schlumberger Limited Board of Directors
+ 
+Oversees Schlumberger’s sustainability programs, initiatives and activities,  
+including acute and chronic climate risks
+Chief Strategy and Sustainability Officer  
+Reporting to the CEO, is the owner of our Sustainability Strategy
+Vice President Sustainability 
+Develops, drives and operationalizes the overall sustainability strategy
+Divisions & 
+Technology TeamsBasins
+Human Resources, 
+Legal, Ethics & 
+Compliance, HSE, 
+Planning &  
+Supply Chain
+Sustainability Team 
+CYBERSECURITY 
+Schlumberger successfully 
+completed the System and 
+Organization Controls type 2 
+(SOC2) accreditation for its 
+DELFI E&P . SOC2 accreditation 
+is an industry recognized, 
+independent standard set forth 
+by the American Institute of 
+Certified Public Accountants 
+and attained by cloud service 
+providers and SaaS providers to 
+provide assurance to customers 
+on the security and availability  
+of their data services.
+31Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Ethics and Compliance 
+Our commitment to sound principles of corporate 
+governance and ethics sets the foundation of our 
+Sustainability program. Furthermore, our reputation for 
+integrity and fair dealing is vitally important in winning 
+and retaining the trust of our stakeholders. When we 
+are clearly seen to behave in an ethical manner, we 
+enhance our reputation for integrity, which helps us 
+attract and retain customers, employees and investors. 
+ 
+The Blue Print in Action—Our Code of Conduct applies to all 
+Schlumberger directors, officers, employees, security providers, 
+suppliers, and contractors. It is designed to help every employee 
+and contractor handle business situations professionally and fairly. 
+Our Code of Conduct describes Schlumberger’s anti-bribery and 
+anti-corruption policy, which prohibits offering, paying, soliciting, 
+or accepting bribes in any form or under any circumstance, 
+including facilitation payments, and prohibits making payments 
+to government officials. Schlumberger’s anti-corruption program 
+applies to all of our operating locations and geographies and to all 
+our employees, contractors, suppliers, and agents. 
+Our Ethics and Compliance (E&C) function is led by our global 
+Legal Director, Governance and Integrity, and staffed by a team 
+of E&C professionals dedicated to specific subject matter and 
+business units relevant to our global operations, facilitating a 
+cohesive approach to mitigating corruption risks. Our E&C team 
+uses training, communications, audits, and risk management 
+tools to effectively implement our ethics programs (including 
+anti-corruption programs) in the countries where we operate. 
+The E&C team leverages our internal systems to identify real-
+time corruption red flags by applying a risk-based approach. 
+Schlumberger uses a well-established accountability program to 
+identify and remediate in a timely manner any policy deviations. 
+By identifying, tracking, and mitigating these policy deviations, 
+we gain valuable lessons learned and are able to focus on 
+continuous improvement of our best practices.
+Schlumberger maintains a robust allegation and incident  
+review program, which supports independent review of any 
+report of a potential violation of our corporate policies, as 
+outlined in our Code of Conduct and in our Human Rights 
+Position Statement. Our Allegation Reporting and Management 
+Standard sets out our detailed response procedures, including 
+requirements for assessment, investigation and remediation, as 
+well as a clear prohibition on retaliation for reporting concerns.
+We have a range of reporting mechanisms, including an online 
+portal and third-party managed 24-hour EthicsLine system, 
+as described in our Code of Conduct.  A confidential and 
+anonymous report can be made by anyone inside or outside of the 
+organization in 150+ languages.
+In 2021, we introduced 
+our Leadership by 
+Integrity model, through 
+which all managers 
+show and model integrity 
+to further integrate 
+E&C throughout the 
+organization.
+To effectively implement 
+our ethics programs 
+(including anti-corruption) 
+in the countries where  
+we operate, our E&C  
+team uses
+•  trainings
+•  communications
+•  audits
+•  risk management tools.
+E&C PROGRAM ELEMENTS
+ANALYTICS
+E C&
+TONE AT TOP
+ASSURANCE & ACCOUNTABILITY REGULATORY MONITORING
+THIRD-PARTY MANAGEMENT GOVERNACE DOCUMENTS
+RISK MANAGEMENT AWARENESS
+32Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Guided by the recommendations of the Task Force  
+or Climate-Related Financial Disclosures (TCFD), we 
+discuss in this section our governance, strategy, risk 
+identification, and management and measurement  
+of climate risks and opportunities. For more details  
+on our climate risk management, please see our latest 
+CDP climate change questionnaire. 
+Governance
+Board Oversight of Climate Risk 
+Our Board of Directors oversees the long-term health and viability 
+of our business, including the company’s long- and short-term 
+strategy, vision, and risk profile. The Board also oversees the 
+company’s enterprise risk management process and reviews 
+major risks facing the Company, including acute and chronic 
+climate risks and energy transition risks. 
+The Board’s Nominating and Governance Committee oversees  
+our sustainability programs, initiatives, and activities, including 
+acute and chronic climate risks. This committee also receives 
+quarterly updates from our Vice President of Sustainability  
+on the progress we are making toward a low-carbon future, 
+including our progress toward achieving our carbon emission 
+reduction and net zero emissions goals. 
+The Board’s New Energy and Innovation Committee—newly 
+formed in 2021—evaluates our Schlumberger New Energy and 
+Transition Technology investments and the sustainability impacts 
+of growth opportunities. 
+Additional information regarding the Board’s role in climate risk 
+oversight is included in the “Sustainability Governance” section  
+of this report and in our 2022 Proxy Statement. 
+Management Oversight of Climate Risk 
+Our senior management team is responsible for the  
+day-to-day management and mitigation of climate and  
+transition risk, including 
+•    identifying, assessing, monitoring, and managing the 
+major risks to the company through our enterprise risk 
+management process (described below in the “Risk 
+Management” section of this report) 
+•   implementing effective risk mitigation measures, 
+response plans, and controls 
+•   integrating risk analysis into business decisions and 
+performance objectives. 
+Our Chief Strategy & Sustainability Officer (CSSO), who reports 
+to the CEO, oversees our corporate strategy, sustainability, 
+and marketing activities. This position demonstrates how 
+sustainability is at the core of our corporate strategy. The 
+CSSO was involved in the launch of Schlumberger’s net zero 
+commitment and short-term, mid-term, and long-term targets 
+spanning Scope 1, 2, and 3 emissions. Scenario analyses, 
+including scenarios associated with climate change and the 
+energy transition, are the responsibility of the CSSO. 
+The VP of Sustainability, who reports to the CSSO, is directly 
+responsible for social and environmental sustainability in the 
+company and engages with Schlumberger leadership, employees, 
+investors, and customers on sustainability topics, including 
+climate-related issues. 
+The CEO and Chief Financial Officer (CFO) annually approve the 
+capital investment budget, including investments in technology to 
+reduce emissions in oil and gas and low-carbon businesses in the 
+Schlumberger New Energy portfolio. 
+Our CSSO and our Chief Legal Officer jointly oversee the 
+company’s Enterprise Risk Management (ERM) Program.
+Strategy 
+Our corporate strategy around climate is described in the 
+“Climate Action” section of this report. Our focus areas include 
+achieving net zero emissions by 2050, decarbonizing oil and gas 
+operations for Schlumberger and our customers, and investing in 
+New Energy and transition opportunities. Our strategy to achieve 
+our 2050 net zero ambition involves three key components: 
+reducing operational emissions, reducing customer emissions that 
+occur while using our technology, and taking carbon-negative 
+actions of sufficient scale to offset any residual operational and 
+technology emissions we may have in 2050. We will reduce 
+emissions from our operations through utility efficiency and 
+use of renewable energy and hybrid vehicles. We will reduce 
+customer emissions with our Transition Technologies portfolio. 
+For emissions that cannot be reduced, rather than relying on 
+traditional offsets, we will rely on our carbon-negative actions 
+that are technology-centric, where we can play a role, such as 
+through our Schlumberger New Energy portfolio described above 
+under “Climate Action”—New Energy & Transition Opportunities.  
+Climate-Related Risks and Opportunities
+A key aspect of our Climate Action strategy is managing physical 
+climate and transition risks and opportunities. We take a data-
+centric, scenario-based approach, and we use both TCFD and 
+SASB as disclosure frameworks and methodology guides. 
+Because we realize that climate change and energy transition will 
+impact our business, understanding and managing these risks 
+and opportunities provides a competitive advantage that  
+will help us be more resilient to potential risks and stay ahead  
+of the competition. 
+To deliver on our strategy, we assess, monitor, and manage risks 
+and opportunities based on the following time horizons:  
+•    Short term:  We assess geopolitical risks and risks 
+related to unpredictable weather patterns—including 
+cyclones, hurricanes, and tropical storms that have the 
+potential to affect our bases in coastal areas—on a one- 
+to three-year timeframe.  
+•    Medium term: We consider capital expenditures and 
+operational planning, including development of new 
+technologies that have the potential to reduce our 
+customers’ GHG emissions, over a three- to ten-year 
+timeframe.  
+•    Long term: The Board and senior management take a 
+longer view in considering strategic planning, including 
+climate-related risks and opportunities that have the 
+potential to negatively or positively affect our business 
+over the medium term (three to ten years) and long term 
+(ten to 20 years). Included in long-term risks are energy 
+transition and climate change. 
+ 
+Managing Climate and Transition Risk—TCFD Alignment 
+33Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Some of the key risk types that we assess, monitor, and manage 
+as part of our climate-related risk assessments are as follows: 
+•    Current regulatory risks: We are committed to 
+complying with or exceeding existing regulations 
+in every country in which we work. Schlumberger 
+management has implemented strategies to reduce 
+fuel consumption for our largest sources of emissions, 
+such as pumps, fleet vehicles, and marine vessels. 
+Additionally, we continue to monitor GHG emission 
+reporting requirements in the countries where  
+we operate. 
+•    Emerging regulatory risks: Emerging regulation 
+spans all three time horizons discussed above. Various 
+international, federal, and state agencies are currently 
+developing climate-related legislation and regulations 
+intended to reduce GHG emissions and regulations 
+related to emissions disclosure. As an example, the 
+US Environmental Protection Agency has taken steps 
+to regulate GHGs via the Clean Air Act as well as 
+proposing additional reporting rules focused on oil 
+and gas industry operations. The US Securities and 
+Exchange Commission has also proposed detailed 
+climate risk and GHG emissions disclosure rules. We 
+monitor these changes closely through our legal, 
+compliance, corporate governance, and environmental 
+teams. We evaluate the likelihood and severity of 
+changes in regulatory requirements and political trends 
+related to climate change and the energy transition 
+through risk assessments and risk mapping in line with 
+the recommendations of TCFD. As an action related 
+to emerging climate risks, in 2021 we launched our 
+Transition Technology portfolio to reduce emissions 
+across the E&P value chain with lower carbon 
+technology solutions. These technologies can help 
+decarbonize our operations and those of our clients.
+•    Technology risks: We believe that increasing customer 
+focus on emerging legislation and sustainability 
+priorities could lead to a shift in customer behavior 
+and a decrease in demand for certain products and 
+services and increased demand for others. We engage 
+with customers to anticipate these shifts, which 
+generally occur in the medium- to long-term time 
+horizons. In parallel, we work with our customers 
+to find new opportunities to mitigate potential 
+negative environmental and social impacts of oil and 
+gas operations. For example, Schlumberger offers a 
+portfolio of more than 100 technologies with a reduced 
+environmental impact based on the following attributes: 
+emissions reduction, energy consumption reduction, 
+electrification, surveillance and assessment, hazardous 
+materials reduction, water stewardship, waste reduction, 
+and size reduction. These attributes have been 
+incorporated into new product development evaluation. 
+Specifically, to address customer emissions, we recently 
+launched our Transition Technologies portfolio, which is 
+focused on reducing our customers’ emissions. 
+•    Legal risks: Legal risks and liability across multiple 
+lenses (including, but not limited to climate-related 
+issues) are considered as part of the financial severity 
+assessment of our enterprise risk management process. 
+This is informed by both current and emerging regulation 
+as well as a scheduled quarterly review, internally 
+and with the Board’s Nominating and Governance 
+Committee, of compliance incidents and incident trends. 
+•    Market risks: As a business-to-business company 
+providing services to industry operators, potential 
+changes in a portion of our revenue are directly tied 
+to the market outlook of oil and gas operators, and 
+therefore indirectly tied to market demand for fuels 
+and other petroleum products. We routinely monitor oil 
+and gas industry operations and investment activity to 
+determine the market outlook for the oil and gas services 
+industry and how our business will be impacted. For 
+example, a market risk we review regularly is the 
+International Energy Agency’s (IEA) research outlining 
+the energy mix and their market predictions between 
+now and 2040. 
+•    Reputational risks: In the context of climate, 
+reputational risk exists across all three time horizons 
+discussed in this section. It presents itself in various 
+ways, including but not limited to the following: 
+– 
+ Workforce motivation and engagement risk:  
+Because corporate sustainability efforts, including 
+the management of climate-related issues, 
+increasingly affect workforce engagement, we 
+incorporated into our annual employee engagement 
+survey a question to measure workforce perception 
+of our corporate sustainability efforts. Employee 
+respondents to the survey in 2021 scored our 
+corporate sustainability efforts higher than at other 
+companies, based on similar questions asked in 
+other companies’ internal surveys. We also include 
+content related to our climate action strategy in both 
+recruiting and onboarding materials.
+– 
+ Media coverage and public perception risk: 
+Stakeholder engagement, monitoring and reporting 
+trends, and comprehensive governance are the 
+primary vehicles for managing this risk. Transparency 
+through our nonfinancial disclosures, guided by 
+frameworks like TCFD and SASB, are another way to 
+mitigate this risk.
+– 
+ Well integrity risk: Extreme weather can potentially 
+introduce well integrity risk, which in turn is a risk 
+to reputation. We have addressed well integrity risk, 
+regardless of the root cause, by developing a Well 
+Integrity Barrier Standard containing ten critical 
+requirements that must be followed by all employees 
+and contractors of Schlumberger. Development of 
+this standard was a company-wide initiative to raise 
+awareness and to impose mandatory rules defining 
+the minimum requirements in training, certification, 
+and knowledge of the barriers we provide.
+Managing Climate and Transition Risk—TCFD Alignment continued 
+In 2021 we launched our 
+Transition Technology 
+portfolio to reduce 
+emissions across the E&P 
+value chain with lower 
+carbon technology solutions. 
+These technologies can help 
+decarbonize Schlumberger 
+operations and those of  
+our clients.
+34Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Risk Management 
+Our senior management team has developed a comprehensive 
+strategic planning and enterprise risk management process for 
+identifying, assessing, and managing risk. Through this process, 
+we identify key risks through an annual corporate-level risk 
+mapping exercise, which involves the CEO and other members  
+of senior management, along with a bottom-up operational (field-
+level) risk assessment by the company’s various geographies, 
+businesses, and functions. In 2021, the process also included 
+a third-party assessment by an internationally recognized 
+accounting firm, external risk surveys, and facilitated workshops 
+with Schlumberger executives. The Executive Leadership Team 
+has established an enterprise risk management committee to 
+oversee the annual risk identification and mitigation process and 
+updates the Board on the results of this process annually. 
+We believe that our comprehensive risk assessment program 
+is reasonably designed to identify and manage climate change 
+related enterprise-wide risks that have the potential to 
+significantly affect our businesses over the short, medium, and 
+longer terms. Our risk assessments cover exposures to both 
+physical and transition climate-related risks and their respective 
+financial impact.
+The climate-related risks we routinely monitor as part of our 
+enterprise risk management process include potential loss of 
+containment and well control, country-specific legislation and 
+regulations, environmental compliance, financial risk associated 
+with climate change, perception of industry due to climate 
+change dialogue, and extreme weather. At a corporate level, 
+business risks related to climate change are identified based on 
+input from a variety of internal and external sources, including 
+local risk assessments, country-specific climate assessments 
+aligned with TCFD recommendations, and feedback from 
+customers, investors, the Board, and other stakeholders. 
+Identified enterprise-level risks are then developed into various 
+scenarios, guided by subject matter experts, and these scenarios 
+are modeled to assess potential financial impacts. In the case of 
+acute physical risks, crisis management scenarios are created 
+and tested in desktop exercises at the local and corporate 
+Managing Climate and Transition Risk—TCFD Alignment continued 
+level by the respective management teams. Enterprise-level 
+risks are also included in our operational risk maps, which help 
+to identify and assess potential threats to the mid- to long-
+term strategic objectives. A risk owner is assigned from among 
+senior management for each enterprise-level risk to manage 
+the risk management and mitigation plans. Oversight of the 
+management plan for each enterprise level risk is assigned to 
+the Board or Board Committee as appropriate. As an example, 
+certain potential impacts of a cybersecurity event have been 
+determined to be an enterprise-level risk. The Chief Information 
+Officer is the risk owner, and the Audit Committee oversees the 
+Company’s comprehensive monitoring, prevention, and response 
+capabilities. In addition, Board Committees with specific oversight 
+responsibilities receive more frequent updates related to those 
+specific risks. These risks are monitored and embedded into the 
+business planning cycle. Risks are scored on likelihood, severity, 
+time horizon, and financial impact. Where applicable, management 
+objectives include management and mitigation of risk.
+Climate Risk Assessments  
+Country-level climate risk assessments provide a practical 
+way to understand climate-related risks and common issues 
+across our organization. For these assessments, we work with a 
+leading sustainability consultant to review the potential impact 
+of climate issues on our direct operations. Climate-related risks 
+(physical and financial, including transition risks) are assessed 
+using scenario-based analysis. While there are country-specific 
+concerns, some commonalities across geographies are: 
+ 
+•   acute physical risks associated with extreme weather, 
+such as storm surges, droughts, heat waves, flooding, 
+rain, and snow  
+•   chronic physical risks, such as the potential impact of 
+sea-level rise on our global footprint, water availability, 
+and protected marine life; and  
+•   transition risks, such as policy and legal risks, the impact 
+of a carbon tax on Schlumberger and our customers, 
+the cost of electrifying our operations, and adapting our 
+technology portfolio to changing customer preference.  
+In 2021 we continued our 
+efforts to quantify our 
+climate-related risks by 
+launching a global study 
+on the effects of global 
+temperature rise on our 
+facility cooling costs and 
+workforce productivity. 
+All Schlumberger facilities 
+across our 30 geographies 
+are in scope of the study, 
+with a deep dive planned for 
+high-risk sites.
+We have also completed several global climate risk assessment 
+projects, including projects relating to the risks of coastal 
+flooding from sea level rise, physical risks from more severe and 
+frequent storms, and the regulatory risks of carbon taxation. 
+We review acute physical risks associated with extreme weather 
+in areas susceptible to increased severity and frequency of 
+extreme weather related to water (e.g., hurricane, excessive rain, 
+or flooding) or increased severity and frequency of extreme heat. 
+Those variances may impact our business by causing extreme 
+changes in precipitation patterns that may result in flooding, 
+changes in road or wellsite conditions, or damage to facilities. 
+This may result in increased operating costs or decreases in 
+revenue through disruptions at our facilities, in our supply chain, 
+or at wellsites; equipment damage and repair requirements; and 
+increased insurance premiums. 
+To manage extreme weather risks, we work with a third-party 
+loss prevention firm to conduct site visits, assess potential risks 
+to our facilities, and propose mitigating actions. We also consider 
+the potential impact of sea-level rise on our global footprint. 
+Additionally, Schlumberger has business continuity and crisis 
+management processes in place to mitigate potential disruptions 
+caused by extreme weather events. Additionally, our insurance 
+policies help mitigate the risk of material loss of assets  
+at our facilities.  
+Transition Risk Management  
+Climate-related transition risks include policy and legal risks, 
+such as the potential impact of a carbon tax on Schlumberger 
+and our customers, and technology risks, such as equipment 
+obsolescence driven by our customers’ increased focus on 
+emissions reductions and the associated costs to develop new 
+technologies with a reduced environmental impact.  
+Our Transition Technologies portfolio and Schlumberger New 
+Energy business offer a strategic response to the management 
+of energy transition risks, as discussed in the “Climate Action” 
+section of this report.  
+ 
+35Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Climate Resilience
+Climate-related scenarios are an integral part of our scenarios-
+based portfolio strategy. We review different scenarios to 
+evaluate our business resilience and confirm our portfolio’s 
+alignment with our energy transition ambitions related to those 
+scenarios. For example, both 2DS and IEA NZE were useful in 
+understanding the role that CCS will play in the path to net zero. 
+Although we have been in the carbon capture business for
+more than two decades, the scenarios gave us confidence that 
+the potential addressable market in carbon capture warranted 
+continued investment and integration of that business into our
+Schlumberger New Energy portfolio. IHS and Rystad both had 
+scenarios that informed our view of regional and local distribution 
+of the energy mix and therefore influenced our specific regional 
+technology strategies. Reviewing scenarios with a 2040 time 
+horizon against those with a 2050 time horizon helped inform 
+certain of our long-term portfolio mix decisions.
+We will continue to use scenarios to inform our strategy 
+and financial planning, including those that offer a range of 
+time horizons, ambition with respect to transition, and varied 
+perspectives to help us better understand the risks and 
+opportunities that climate change and the energy transition 
+present. We also will continue to review the accuracy of our 
+scenario predictions with the goal of working from best available
+predictive information regarding the coming decades. All of the 
+scenarios we used in building our strategy allocate some share of 
+the energy mix to oil and gas in the coming decades. Our strategy 
+considers that there is a wide range of possibilities with respect 
+to the future energy mix and the pace of energy transition and, 
+as such, our strategy addresses opportunities across multiple 
+time horizons. Regardless of the contribution of oil and gas to 
+the energy mix, Schlumberger recognizes the need to reduce 
+the carbon footprint of oil and gas operations, and therefore our 
+strategy considers that as well.
+36Schlumberger Limited   |   2021 Sustainability Report
+Managing Climate and Transition Risk—TCFD Alignment continued 
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Topic
+Accounting Metric
+Code
+Information Location
+Corporate Governance
+Business Ethics & Payments Transparency
+Amount of net revenue in countries that have the 20 lowest rankings in Transparency International’s Corruption Perception Index
+EM-SV-510a.1
+<5% of our consolidated 2021 revenue
+Description of the management system for prevention of corruption and bribery throughout the value chain
+EM-SV-510a.2
+Page 32 and see slb.com
+Management of the Legal & Regulatory Environment
+Discussion of corporate positions related to government regulations and/or policy proposals that address environmental and social factors affecting the industry
+EM-SV-530a.1
+Page 31–36 and our CDP response
+Critical Incident Risk Management
+Description of management systems used to identify and mitigate catastrophic and tail-end risks
+EM-SV-540a.1
+Pages 21–25 and 33–36  
+and our CDP response
+Environmental
+Emissions Reduction Services & Fuels Management
+Total fuel consumed, percentage renewable, percentage used in: (1) on-road equipment and vehicles and (2) off-road equipment
+EM-SV-110.a.1
+Pages 42–43 and our CDP response
+Discussion of strategy or plans to address air emissions-related risks, opportunities, and impacts
+EM-SV-110.a.2
+Pages 6–12 and 33–36 and our CDP response
+Percentage of engines in service that meet Tier 4 compliance for non-road diesel engine emissions
+EM-SV-110.a.3
+Not Reported
+Water Management Services
+(1) Total volume of fresh water handled in operations, (2) percentage recycled
+EM-SV-140a.1
+Page 45
+Discussion of strategy or plans to address water consumption and disposal-related risks, opportunities, and impacts
+EM-SV-140a.2
+Pages 23–24
+Chemicals Management
+Volume of hydraulic fracturing fluid used, percentage hazardous
+EM-SV-150a.1
+Page 45
+Discussion of strategy or plans to address chemical-related risks, opportunities, and impacts
+EM-SV-150a.2
+Page 24
+Ecological Impact Management
+Average disturbed acreage per (1) oil and (2) gas well site
+EM-SV-160a.1
+Not Reported
+Discussion of strategy or plan to address risks and opportunities related to ecological impacts from core activities
+EM-SV-160a.2
+Page 23–25
+Social
+Workforce Health and Safety
+(1) Total recordable incident rate (TRIR), (2) fatality rate, (3) near miss frequency rate (NMFR), (4) total vehicle incident rate (TVIR), and (5) average hours of 
+health, safety, and emergency response training for (a) full-time employees, (b) contract employees, and (c) short-service employees
+EM-SV-320a.1
+Pages 27 and 43–44
+Description of management systems used to integrate a culture of safety throughout the value chain and project lifecycle
+EM-SV-320a.2
+Page 27 and see 
+slb.com
+Activity Metric
+Code
+Information Location
+Number of active rig sites
+EM-SV-000.A
+Not Reported
+Number of active well sites
+EM-SV-000.B
+Not Reported
+Total amount of drilling performed
+EM-SV-000.C
+Not Reported
+Total number of hours worked by all employees
+EM-SV-000.D
+Page 43
+37
+Schlumberger Limited
+   
+|
+   
+2021 Sustainability Report
+CLIMATE ACTION
+OUR APPROACH TO SUSTAINABILITY
+NATURE
+PEOPLE
+MESSAGE FROM THE CSSO
+MESSAGE FROM THE CEO
+STAKEHOLDER ENGAGEMENT
+TCFD
+INDEX
+PERFORMANCE DATA TABLE
+GOVERNANCE
+HSE
+Sustainability Accounting Standards Board
+ 
+(
+SASB
+)
+ 
+Index
+PricewaterhouseCoopers (PwC) auditors reviewed our processes and procedures for 2021 and verified a selected subset of our 2021 data. We partner with PwC to audit our GHG emissions data annually.
+
+Task Force on Climate-Related Disclosures 
+(
+TCFD
+)
+ Index
+Activity Metric
+Governance
+a) Describe the board’s oversight of climate-related risks and opportunities
+b) Describe management's role in assessing and managing climate-related risks and opportunities
+Pages 33-36
+Strategy
+a) Describe the climate-related risks and opportunities the organization has identified over the short, medium, and long term
+Pages 33–36
+b) Describe the impact of climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning
+Pages 33–36
+Pages 33–36
+c) Describe the resilience of the organization’s strategy, taking into consideration different climate-related scenarios, including a 2°C or lower scenario
+Risk Management
+a) Describe the organization’s processes for identifying and assessing climate-related risks
+Pages 35–36
+b) Describe the organization’s processes for managing climate-related risks
+Pages 35–36
+Pages 35–36
+c) Describe how processes for identifying, assessing, and managing climate-related risks are integrated into the organization’s overall risk management
+Metrics and Targets
+a) Disclose the metrics used by the organization to assess climate-related risks and opportunities in line with its strategy and risk management process
+Pages 6–7 
+b) Disclose Scope 1, 2, and, if appropriate, Scope 3 GHG emissions, and the related risks
+Pages 6–7 and 42–43
+c) Describe targets used by the organization to manage climate-related risks and opportunities and performance against targets
+Pages 6–7
+38
+Schlumberger Limited
+   
+|
+   
+2021 Sustainability Report
+CLIMATE ACTION
+OUR APPROACH TO SUSTAINABILITY
+NATURE
+PEOPLE
+MESSAGE FROM THE CSSO
+MESSAGE FROM THE CEO
+STAKEHOLDER ENGAGEMENT
+TCFD
+INDEX
+PERFORMANCE DATA TABLE
+GOVERNANCE
+HSE
+Information Location
+Pages 31 and 33–36
+Proxy Statement Pages 21–22
+
+Goal Schlumberger Focus Areas
+Working Conditions Requirements
+Local Investments
+Community Outreach
+Working Conditions Requirements 
+Local Investments 
+Community Outreach
+COVID-19 Response
+HSE Management System
+HSE Training
+ACTIVE Schlumberger Program
+Contractor & Supplier Management
+Stakeholder Engagement
+Local Investments 
+Employee Benefits & Compensation
+Veterans Program
+Permian Strategic Partnership
+Fatality-Free Mindset
+Life-Saving Rules
+Global Driver training, Skill Assessment and
+   Performance Monitoring Program
+HSE for Youth
+Wellbeing programs and training including Building  
+   Blocks for Positive Mental Health and Unlock  
+   Your Power
+Malaria Management Program 
+Global medical assistance for all international  
+   assignees, dependents, and travelers
+Medical screening and health screening programs
+Occupational health surveillance programs
+Health insurance programs (including dental) for  
+   
+ em
+ployees and family members to supplement 
+public health system in many countries
+Global team of medical professionals
+Employee access to HSE special interest groups
+Workforce representation within local 
+   HSE-focused empowerment teams 
+Appointed a Global Wellbeing Manager and  
+   Mental Health Lead and local mental health  
+   first aiders
+Schlumberger Excellence in Education Development (SEED)
+Schlumberger Foundation–Faculty for the Future
+HSE for Youth
+University Relations
+Knowledge Management 
+Permian Strategic Partnership 
+In-Kind Giving
+Creating In-Country Value
+Promoting Talent, Diversity, Equity, and Inclusion
+Regional Technical Capabilities
+Employee Development
+Goal Schlumberger Focus Areas
+Employee Resource Groups
+Gender Balance Goal 
+Creating In-Country Value
+Respecting Human Rights
+Promoting Talent, Diversity, Equity, and Inclusion
+Schlumberger Foundation
+Faculty for the Future
+Equal Pay Gap Report
+HSE Management System
+Water Use
+Water Recycling
+Integrated Water Solutions
+Safeguarding Biodiversity
+Protecting Natural Resources
+Enabling Circularity
+Lean and Green Program
+Climate Action
+Our Roadmap to Net Zero
+Schlumberger New Energy 
+Transition Technologies Portfolio 
+Schlumberger end-to-end Emissions Solutions (SEES)
+Drilling Emissions Management 
+Lean and Green Program
+Alternative Energy Projects at Schlumberger Facilities 
+Schlumberger Foundation–Faculty for the Future
+Responsible Supply Chain
+Knowledge Management
+Training & Development 
+Veterans Program
+Permian Strategic Partnership
+Local Technology Access Strategic Initiative
+People Analytics
+Employee Benefits & Compensation
+Creating In-Country Value
+Respecting Human Rights
+Promoting Talent, Diversity, Equity, and Inclusion
+Regional Technical Capabilities
+Fit for Basin
+Equal Pay Gap Report
+Schlumberger New Energy
+Fit for Basin
+Regional Technical Capabilities
+Transition Technologies Portfolio 
+Impact Quantification Framework for our  
+   Products and Services
+Decarbonizing Operations:
+   Customer Avoided Emissions
+   Electrification of Infrastructure
+   Address Methane Emissions
+   Reduce or Eliminate Flaring 
+   Schlumberger end-to-end Emissions Solutions (SEES)  
+39Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Goal Schlumberger Focus Areas
+Code of Conduct
+Human Rights Position Statement
+Working Conditions Requirement
+Creating In-Country Value
+Respecting Human Rights
+Promoting Talent, Diversity, Equity, and Inclusion
+Equal Pay Gap Report
+Celsius Energy
+Solar Impulse Foundation
+Transition Technologies Portfolio
+HSE Management System
+Environmental Management System
+Creating In-Country Value
+Respecting Human Rights
+Promoting Talent, Diversity, Equity, and Inclusion
+Regional Technical Capabilities
+Fit for Basin
+Supply Chain Management
+Lean & Green Program
+Research & Innovation
+Transition Technologies Portfolio
+Solar Impulse Foundation
+Safeguarding Biodiversity
+Protecting Natural Resources
+Enabling Circularity
+Carbon Emissions Reduction Goal
+TCFD Support
+Country Climate Assessments
+Third-Party Assurance Report 
+Schlumberger New Energy
+Global Sea-Level Rise Risk Assessment
+Solar Impulse Foundation 
+Climate Action
+Our Roadmap to Net Zero 
+Transition Technologies Portfolio
+Energy Efficiency 
+Footprint Rationalization Actions
+Reduce or Eliminate Flaring
+Customer Avoided Emissions
+Address Methane Emissions
+Schlumberger end-to-end Emissions Solutions (SEES)
+CDP Supply Chain Program 
+Drilling Emissions Management
+Goal Schlumberger Focus Areas
+HSE Management System
+Chemicals Management 
+Safeguarding Biodiversity
+Protecting Natural Resources
+Enabling Circularity
+Environmental Management System
+Transition Technologies Portfolio
+HSE Management System
+Chemicals Management
+Safeguarding Biodiversity
+Protecting Natural Resources
+Enabling Circularity
+Lean and Green Program
+Environmental Management System
+Transition Technologies Portfolio
+Board Oversight
+Executive Compensation
+Ethics, Integrity, Compliance, & Transparency
+Fiscal Responsibility
+Investor ESG Engagement Program
+IPIECA
+Solar Impulse Foundation
+UK Carbon Capture & Storage Association
+GHGSat
+Global CCS Institute
+Energy Workforce and Technology Council
+National Petroleum Council (NPC)
+Stanford University Natural Gas Initiative
+American Petroleum Institute (API)
+International Oil and Gas Producers (IOGP)
+French Alternative Energies and Atomic Energy   
+    Commission (CEA)
+Worldwide Initiatives for Grantmaker Support 
+    (WINGS)
+40Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+2021 Performance Data Table 
+2021 DATA AUDITED INCLUDES: 
+Environmental
+- Spill
+- Water
+- Waste
+Emissions
+- Scope 1 and 2 from Schlumberger facilities
+- 
+ S
+cope 1 and 2 from energy consumed by Schlumberger  
+equipment during service delivery in the field
+- Scope 3 use-phase
+- Scope 3 downstream lease of Schlumberger products
+- Scope 3 purchased goods and services
+Health and Safety
+- Employee and contractor LTIFR
+- LTIR (frequency) (OIFR)
+- Fatalities
+PricewaterhouseCoopers (PwC) auditors reviewed our processes and procedures for 2021 and verified a selected subset of our 2021 data. We partner with PwC to audit our GHG emissions data annually. 
+41Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Topic
+Units
+Year
+Metric
+2019
+2020
+2021
+Revenue
+in US dollars
+32,917
+23,601
+22,929
+CLIMATE ACTION
+2019
+2020
+2021
+EMISSIONS
+CO
+2
+e Emitted
+ 1
+ 
+Scope 1
+thousands of metric tonnes
+1,668
+1,424
+1,369
+Scope 2
+thousands of metric tonnes
+650
+527
+375
+Scopes 1 and 2
+thousands of metric tonnes
+2,318
+1,951
+1,744
+Scope 3 
+thousands of metric tonnes
+44,384
+30,137
+27,375
+Total Emissions (Scopes 1, 2, and 3)
+thousands of metric tonnes
+46,703
+32,088
+29,118
+Scope 3 Categories:
+ 
+Category 1: Purchased goods and services
+thousands of metric tonnes of CO
+2
+e
+6,280
+4,582
+4,622
+Category 2: Capital goods
+thousands of metric tonnes of CO
+2
+e
+105
+68
+61
+Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2)
+thousands of metric tonnes of CO
+2
+e
+66
+40
+49
+Category 4: Upstream transportation and distribution
+ 2
+thousands of metric tonnes of CO
+2
+e
+603
+351
+499
+Category 5: Waste generated in operations
+thousands of metric tonnes of CO
+2
+e
+129
+120
+50
+Category 6: Business travel
+thousands of metric tonnes of CO
+2
+e
+165
+54
+68
+Category 7: Employee commuting
+thousands of metric tonnes of CO
+2
+e
+100
+50
+50
+Category 8: Upstream leased assets
+thousands of metric tonnes of CO
+2
+e
+1,056
+841
+525
+Category 9: Downstream transportation and distribution
+thousands of metric tonnes of CO
+2
+e
+2
+1
+1
+Category 10: Processing of sold products
+thousands of metric tonnes of CO
+2
+e
+NR
+NR
+NR
+Category 11: Use of sold products
+thousands of metric tonnes of CO
+2
+e
+28,385
+17,457
+16,632
+Category 12: End-of-life treatment of sold products
+thousands of metric tonnes of CO
+2
+e
+640
+333
+191
+Category 13: Downstream leased assets
+thousands of metric tonnes of CO
+2
+e
+3,435
+2,937
+3,005
+Category 14: Franchises
+thousands of metric tonnes of CO
+2
+e
+NR
+NR
+NR
+Category 15: Investments 
+thousands of metric tonnes of CO
+2
+e
+3,419
+3,304
+1,622
+GHG Emissions Intensity - Scopes 1 and 2
+metric tonnes of C0
+2
+e per US dollar of revenue
+0.070
+0.083
+0.076
+GHG Emissions Intensity - Scope 3
+metric tonnes of C0
+2
+e per US dollar of revenue
+1.348
+1.277
+1.194
+Total GHG Emissions Intensity - Scopes 1, 2, and 3
+metric tonnes of C0
+2
+e per US dollar of revenue
+1.419
+1.360
+1.270
+NR = not relevant
+1
+  
+ 
+W
+e use the procedures established in the Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised Edition) to calculate our annual CO
+2
+e emissions in Schlumberger. As part of that process, we apply conversion factors to energy consumption data to derive CO
+2
+e values. Those conversion factors are taken from the IPCC Fifth Assessment Report (AR5 - 20 year and 100 year). Schlumberger’s Scope 
+1 emissions of 2019 and 2020 have been restated after review of managed production facilities. 2019 Scope 1 and 2 greenhouse gas estimates have been restated to exclude emissions associated with our North American fracturing business, which was sold at the end of 2020. In addition, a small portion of our 2020 Scope 3 category 1 emissions related to that business were incorrectly included in the 2020 Sustainability 
+  
+ 
+42
+Schlumberger Limited
+   
+|
+   
+2021 Sustainability Report
+CLIMATE ACTION
+OUR APPROACH TO SUSTAINABILITY
+NATURE
+PEOPLE
+MESSAGE FROM THE CSSO
+MESSAGE FROM THE CEO
+STAKEHOLDER ENGAGEMENT
+TCFD
+INDEX
+PERFORMANCE DATA TABLE
+GOVERNANCE
+HSE
+Report, and are herein restated to exclude those emissions. Our Scope 3 greenhouse gas estimates for 2019 and 2020 have also been restated to remove approximately 7.8 million metric tons of CO
+2
+e in 2019 and 8.0 million metric tons of CO2e in 2020, following a determination (in consultation with third-party climate consultants) that such emissions had been incorrectly included in Schlumberger’s previously disclosed Scope 
+3
+ 
+estimates. This calculation method is consistent for years 2019, 2020 and 2021 in this report..
+2
+ 
+For 2021, we have established the use of standard weights for specific types of trucks, this allowed for a recalculation of prior years which includes 2019 and 2020 in this report.
+
+Topic Units Year
+CLIMATE ACTION 2019 2020 2021
+Energy and Fuels 3
+Total Energy Consumption thousands of MWh 8,701 7,547 7,194
+Purchased Energy (Electricity Use, Hot Water, Chilled Water) thousands of MWh 1,352 1,119 1,081
+Fuel Used - Natural Gas thousands of MWh 2,905 3,026 2,677
+Fuel Used - Oil and Diesel thousands of MWh 4,444 3,401 3,435
+3   W e have established norms for consumption per person in North America, which are reviewed annually and updated when necessary. We use these norms to calculate estimated consumption of natural gas, electricity, and water at facilities that do 
+not report this data directly, using applicable employee headcount. For Cameron and for engineering and manufacturing facilities in North America, consumption values are directly reported. The headcount-based estimates are used for other office 
+and operational facilities in North America.
+4   T o convert from per million work hours to per 200,000 work hours, divide by 5.
+5   F inal audited TRIF (Total Recordable Injury Frequency) rate for 2021 reflects a 0.01 increase to correct the 2021 data published in Schlumberger’s Annual Report.
+Topic Units Year
+PEOPLE 2019 2020 2021
+Community
+Corporate Giving
+In-Kind Commercial Initiatives approximate number of software licenses donated 70,000 72,000 68,000
+Community Initiatives millions of dollars 9 9 7
+Health and Safety
+Employees trained on HAZWOPER during year approximate number of employees Not available 3,000 4,000
+Fatalities
+Employee — 2 1 2
+Contractor — 1 2 3
+Company Total — 3 3 5
+Third Party — 3 3 —
+Fatal Accident Rate per 100 million work hours 0.75 0.95 1.72
+Automotive Accident Rate (Employees + Contractors) per million miles 0.30 0.23 0.21
+% data coverage as % of employee work hours for injury and illness percentage 100 100 100
+% data coverage as % of contractor work hours for injury and illness percentage 100 100 100
+Third-party (PwC) verification for injury and illness data — Yes Yes Yes
+Total Hours Worked Employees — 281,135,730 230,078,830 230,271,210
+Total Recordable Incidents Workforce (Employees + Contractors) — 438 232 219
+Total Recordable Injury Rate (Frequency) 4 Workforce (Employees + Contractors) per million work hours 1.10 0.73 0.75
+Total Recordable Incident Rate (Frequency) 4 Employees per million work hours 1.12 0.73 0.75
+Lost Time Incident Rate (Frequency) 4 Workforce (Employees + Contractors) per million work hours 0.52 0.37 0.45
+Total Recordable Injury Rate (Frequency) 4 Workforce (Employees + Contractors) per million work hours 1.07 0.71 0.75 5
+43Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+4
+  
+ 
+T
+o convert from per million work hours to per 200,000 work hours, divide by 5.
+6
+  
+ 
+In
+cludes salaried and nonsalaried  positions. Nonsalaried positions refer to hourly-based.
+Topic
+Units
+Year
+Health and Safety
+2019
+2020
+2021
+Lost Time Injury Rate (Frequency) (LTIFR)
+ 4
+Employees 
+per million work hours
+0.52
+0.36
+0.42
+Lost Time Injury Rate (Frequency) (LTIFR)
+ 4
+Contractors
+per million work hours
+0.50
+0.37
+0.52
+Lost Time Injury Events (Lost Work Day Cases + Fatalities)
+Employees 
+number of events
+145
+83
+87
+Lost Time Illness Rate (Frequency) (OIFR)
+ 4
+Employees
+per million work hours
+0.007
+0.013
+—
+PEOPLE
+2019
+2020
+2021
+Training
+Investment for Operations Engineers, Petrotechnical Experts, and Specialists
+Training Days
+days
+277,100
+187,350
+274,707
+NExT Training
+Professionals Trained
+—
+19,000+
+13,000+
+16,000+ 
+Classes Held Worldwide
+—
+1,500+
+1,250+
+1,700+ 
+Practical Courses & Programs
+—
+700+
+700+
+700+ 
+Diversity, Equity, and Inclusion
+Schlumberger Global Workforce
+approximate number of persons
+105,000
+86,000
+92,000
+Nationality Mix
+Latin America
+percentage
+9
+9
+15
+North America
+percentage
+24
+23
+13
+Middle East, Asia
+percentage
+33
+36
+39
+Europe, CIS, Africa
+percentage
+34
+32
+33
+Percentage of Revenue by Region
+Latin America
+percentage
+13
+15
+19
+North America
+percentage
+33
+23
+19
+Middle East, Asia
+percentage
+30
+36
+36
+Europe, CIS, Africa
+percentage
+23
+25
+25
+Other
+percentage
+1
+1
+1
+Women in Company (total)
+ 6
+percentage
+16.9
+18.5
+18.7
+Women in Salaried Positions
+percentage
+20.9
+22.6
+22.9
+Overall Women in Management Positions
+percentage
+19.7
+21.2
+21.6
+Women in Junior Management Positions
+percentage
+21.1
+23.4
+23.8
+Women in Middle Management Positions
+percentage
+16.3
+17.2
+17.9
+Women in Senior Management Positions
+percentage
+13.2
+17.3
+18.0
+New Hires with a STEM Background, % Women
+percentage
+40
+45
+44
+Schlumberger Limited
+   
+|
+   
+2021 Sustainability Report
+CLIMATE ACTION
+OUR APPROACH TO SUSTAINABILITY
+NATURE
+PEOPLE
+MESSAGE FROM THE CSSO
+MESSAGE FROM THE CEO
+STAKEHOLDER ENGAGEMENT
+TCFD
+INDEX
+PERFORMANCE DATA TABLE
+GOVERNANCE
+HSE
+48
+
+Topic Units Year
+NATURE 2019 2020 2021
+Water
+Water Use 7 thousands of cubic meters 5,602 4,651 3,625
+Total Water Recycled thousands of cubic meters 131 187 186
+% Water Recycled 7 percentage 28 38 42
+Total Waste Water thousands of cubic meters 464 487 443
+Waste 8
+Total Waste Generated thousands of metric tonnes 639 140 110
+Total Waste Recycled thousands of metric tonnes 185 31 28
+Site Activity
+ISO 14001 Certified Sites number of sites 53 62 73
+Volume of Hydraulic Fracturing Fluid Used 8 thousands of cubic meters 77,549 40,438 7,397
+Number of Industry-Recognized Incidents >1 bbl of Oil — 28 26 15
+Hydrocarbon Bulk Fluids Spilled 9 number of barrels 536 353 3,670
+Sites Subject to Environmental Audit Requirement
+number of sites 739 609 545
+percentage 7 10 13
+7   S tarting with 2020 data, we have expressed recycled wastewater as a percentage of total wastewater.
+8   In cludes water and chemical additives.
+9   H ydrocarbon Bulk Fluids Spilled has been restated from liters to barrels. Where available, volumes of hydrocarbon spills are reported using information provided by customers or by third-party spill response contractors. Additionally, when applicable,  
+known volumes of stored liquids may be used to determine spill quantities. Finally, in situations where none of the above procedures are applicable, estimates of spilled volume may be made from measurements in impacted areas.
+45Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+Topic Units Year
+SUPPLY CHAIN 2019 2020 2021
+General Supply Chain Metrics
+Critical Suppliers with Spend number of suppliers 2,712 759 983
+% of Total Spend on Critical Suppliers percentage Not available 10 18
+SM Level 1 Suppliers with Spend number of suppliers Not available 1,555 643
+% of Total Spend on SM Level 1 Suppliers percentage Not available 36 20
+Total Suppliers with Spend number of suppliers 44,389 40,200 38,025
+Critical Suppliers for which More than 40% of their Revenue Comes from SLB
+percentage 5 5 7
+number of suppliers 229 36 67
+Spend Analysis covers 100% of Suppliers with Spend percentage 100 100 100
+% of Spend Covered in Supplier Risk Analysis 10 percentage 68 90 71
+% of Suppliers Considered High Risk 10 percentage <1 <1 <1
+Critical Supplier Audits Conducted number of audits 387 363 1,489
+% of Audited Suppliers with a Documented Development Plan percentage 37 54 80
+US Supplier Diversity Program
+Diverse Suppliers Used
+Certified Diverse number of suppliers Not available 250 273
+Classified/Self-Reported Diverse number of suppliers Not available 1,454 1,883
+Total number of suppliers Not available 1,704 2,156
+Spend on Diverse Suppliers
+Certified Diverse thousands of US dollars 97 68 47
+Classified/Self-Reported Diverse thousands of US dollars 582 351 284
+Total thousands of US dollars 679 419 331
+CDP Supply Chain Engagements
+Total Suppliers Engaged in CDP Supply Chain Program number of suppliers — — 496
+Total Responsive Suppliers number of suppliers Not applicable Not applicable 215
+Supplier Participation Rate percentage Not applicable Not applicable 43
+% of Prior Year's Spend that Engaged Suppliers Represent percentage Not applicable Not applicable 35
+Total Scope 3 Emissions Covered by Engaged Suppliers millions of metric tons of CO2e Not applicable Not applicable 3.4
+10   S upplier risk is evaluated based on probability of failure; supplier organization (conglomerate, public, private, family owned, individually owned); dependency on Schlumberger; type of contract; visibility to supplier performance; and dependency on supplier. 
+46Schlumberger Limited   |   2021 Sustainability Report
+OUR APPROACH TO SUSTAINABILITY CLIMATE ACTION PEOPLE NATUREMESSAGE FROM THE CEO MESSAGE FROM THE CSSO STAKEHOLDER ENGAGEMENT TCFD INDEX PERFORMANCE DATA TABLEGOVERNANCEHSE
+
+*  M ark of Schlumberger or a Schlumberger company. 
+Other company, product, and service names are the  
+properties of their respective owners.
+DISCLAIMER
+This report, as well as other statements we make, contains “forward-looking statements” within the meaning of the U.S. federal 
+securities laws—that is, any statements that are not historical facts. Such statements often contain words such as “expect,” 
+“may,” “can,” “believe,” “predict,” “plan,” “potential,” “projected,” “projections,” “forecast,” “estimate,” “intend,” “commit,” 
+“pledge,” “anticipate,” “aim,” “ambition,” “goal,” “target,” “think,” “should,” “could,” “would,” “will,” “see,” “likely,” and other 
+similar words. Forward-looking statements address matters that are, to varying degrees, uncertain, such as statements about  
+our goals, plans and projections with respect to sustainability and environmental matters; financial and performance targets  
+and other forecasts or expectations regarding, or dependent on, our business outlook; growth for Schlumberger as a whole and 
+for each of its Divisions (and for specified business lines, geographic areas, or technologies within each Division); forecasts or 
+expectations regarding energy transition and global climate change; improvements in operating procedures and technology;  
+our business strategies and the strategies of our customers, including their respective decarbonization strategies; future global 
+economic and geopolitical conditions; future liquidity; and future results of operations, such as margin levels. These statements 
+are subject to risks and uncertainties, including, but not limited to, changing global economic and geopolitical conditions; the 
+results of operations and financial condition of our customers and suppliers; our inability to achieve our financial and performance 
+targets and other forecasts and expectations; our inability to achieve net-zero carbon emissions goals or interim emissions 
+reduction goals; our inability to meet workforce expectations and perform at desired ESG and stewardship standards; general 
+economic, geopolitical, and business conditions in key regions of the world; the ongoing conflict in Ukraine; foreign currency risk; 
+inflation; pricing pressure; weather and seasonal factors; unfavorable effects of health pandemics; availability and cost of raw 
+materials; operational modifications, delays, or cancellations; challenges in our supply chain; production declines; our inability  
+to recognize efficiencies and other intended benefits from our business strategies and initiatives, such as digital or Schlumberger 
+New Energy; as well as our cost reduction strategies; changes in government regulations and regulatory requirements, including 
+those related to offshore oil and gas exploration, radioactive sources, explosives, chemicals, and climate-related initiatives; the 
+inability of technology to meet new challenges in sustainability and exploration; the competitiveness of alternative energy 
+sources or product substitutes; and other risks and uncertainties detailed in our most recent Forms 10-K, 10-Q, and 8-K filed with 
+or furnished to the U.S. Securities and Exchange Commission. If one or more of these or other risks or uncertainties materialize  
+(or the consequences of any such development changes), or should our underlying assumptions prove incorrect, actual results  
+or outcomes may vary materially from those reflected in our forward-looking statements. Forward-looking statements are 
+aspirational and not guarantees or promises that goals or targets will be met. Forward-looking and other statements in this 
+report regarding our environmental, social, and other sustainability plans and goals are not an indication that these statements 
+are necessarily material to investors or required to be disclosed in our filings with the SEC. In addition, historical, current, and 
+forward-looking environmental, social, and sustainability-related statements may be based on standards for measuring progress 
+that are still developing, internal controls and processes that continue to evolve, and assumptions that are subject to change in 
+the future. The forward-looking statements in this report speak only as of July 1, 2022, and Schlumberger disclaims any intention 
+or obligation to update publicly or revise such statements, whether as a result of new information, future events, or otherwise.
+Schlumberger Limited
+42 rue Saint-Dominique
+75007 Paris
+France
+5599 San Felipe
+Houston, Texas 77056
+United States
+62 Buckingham Gate
+London SW1E 6AJ
+United Kingdom
+Parkstraat 83
+2514 JG The Hague
+The Netherlands
+www.slb.com
+Many of the terms found in this report are defined in the 
+award-winning Schlumberger Oilfield Glossary. Launched 
+in 1998, this collection of industry terms includes more than 
+4,600 entries for oilfield-related activities and technologies. 
+The Oilfield Glossary mobile app can be downloaded from 
+the Apple App Store. 
+Aligned with our environmental efforts, this report is available in PDF format only.
