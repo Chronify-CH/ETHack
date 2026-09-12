@@ -58,13 +58,33 @@ ITEMS: tuple[DisclosureItem, ...] = (
     DisclosureItem(
         id="scope3_category_breakdown",
         pillar="INTEGRITY",
+        # Rewritten after run 5 measured precision 60% (4 false positives:
+        # ExxonMobil, Chevron, JPMorgan, Goldman) on 10/10 detections. The old
+        # anchors included the bare token "category", which matched Bank of
+        # America's Equator Principles "Category A / Category B / Category C"
+        # project classifications and Goldman's "asset class breakdown", neither
+        # of which is a Scope 3 category. The hypothesis also failed to require
+        # per-category figures, so any methodology paragraph mentioning Scope 3
+        # could satisfy it.
         hypothesis=(
-            "The company disclosed a breakdown of its Scope 3 greenhouse gas "
-            "emissions by individual category (such as purchased goods and "
-            "services, use of sold products, or investments), not just a single "
-            "combined Scope 3 total."
+            "The company reported a numeric breakdown of its Scope 3 greenhouse "
+            "gas emissions across individual GHG Protocol categories, giving "
+            "separate figures for categories such as purchased goods and "
+            "services, business travel, or use of sold products, rather than a "
+            "single combined Scope 3 total."
         ),
-        regex_anchors=("scope 3", "scope3", "category 1", "category 11", "category 15", "purchased goods", "use of sold products"),
+        # Only category names specific enough that they cannot occur as ordinary
+        # English. "investments" and "capital goods" are deliberately excluded:
+        # both appear constantly in financial reports in their everyday sense.
+        regex_anchors=(
+            "scope 3", "scope3",
+            "purchased goods and services", "use of sold products",
+            "employee commuting", "business travel",
+            "fuel- and energy-related", "upstream transportation",
+            "downstream transportation", "processing of sold products",
+            "end-of-life treatment", "waste generated in operations",
+            "category 1:", "category 11:", "category 15:",
+        ),
     ),
     DisclosureItem(
         id="target_net_zero_year",
@@ -106,12 +126,32 @@ ITEMS: tuple[DisclosureItem, ...] = (
     DisclosureItem(
         id="scenario_analysis_quantified",
         pillar="OPTIONALITY",
+        # Rewritten after run 5 measured precision 0% -- seven detections, all
+        # false. Verified ground truth: no company in this corpus attaches a
+        # monetary figure to scenario-analysis results (six discuss scenario
+        # analysis; none quantify it), so every detection was wrong. The old
+        # anchors included the bare tokens "$", "million" and "billion", which
+        # match any financial passage in documents full of them: the detections
+        # landed on a G-SIB capital surcharge, a Green Fund, a Climate
+        # Innovation Fund, an industry initiative and a non-GAAP header. The
+        # hypothesis also said "quantified dollar financial impact" without
+        # tying the figure to scenario analysis as its source.
         hypothesis=(
-            "The company disclosed a quantified dollar financial impact from "
-            "climate scenario analysis, not merely a statement that scenario "
-            "analysis was conducted."
+            "The company estimated, using climate scenario analysis, a specific "
+            "monetary amount of financial impact on its business -- for example "
+            "expected losses, asset write-downs, or costs expressed in dollars "
+            "under a named climate scenario."
         ),
-        regex_anchors=("scenario analysis", "climate scenario", "1.5", "2 degree", "physical risk", "transition risk", "$", "billion", "million"),
+        # Scenario-identifying terms only. No bare currency or magnitude tokens:
+        # the monetary requirement belongs in the hypothesis, which the NLI model
+        # evaluates, not in retrieval, which cannot tell a scenario-derived
+        # figure from any other number.
+        regex_anchors=(
+            "scenario analysis", "climate scenario", "scenario planning",
+            "ngfs", "iea scenario", "sds scenario", "net zero 2050 scenario",
+            "1.5°c scenario", "2°c scenario", "below 2°c", "orderly transition",
+            "disorderly transition", "climate stress test", "stress testing",
+        ),
     ),
 )
 
