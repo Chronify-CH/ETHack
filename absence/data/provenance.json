@@ -9,7 +9,7 @@
     "retrieved_at": "2026-09-12T14:35:28.718372Z",
     "extracted_text_sha256": "07258e011e9c5846773c83bdeec524283bc662b0080caadb8b7188052b42fea9",
     "extracted_text_chars": 405050,
-    "local_path": "absence/data/raw/apple_technology.txt"
+    "local_path": "absence/reports/apple_technology/source.txt"
   },
   {
     "slug": "msft_technology",
@@ -21,7 +21,7 @@
     "retrieved_at": "2026-09-12T14:35:28.727398Z",
     "extracted_text_sha256": "0449c87f16ec3317da5ce7ac38fa086a5bd017071518161bd32b907402812624",
     "extracted_text_chars": 232714,
-    "local_path": "absence/data/raw/msft_technology.txt"
+    "local_path": "absence/reports/msft_technology/source.txt"
   },
   {
     "slug": "googl_technology",
@@ -33,7 +33,7 @@
     "retrieved_at": "2026-09-12T14:35:28.729376Z",
     "extracted_text_sha256": "f76f7c2a40f90ec0cd8664fc248d0411ffd99fc2b522877d45e270cb1fe15678",
     "extracted_text_chars": 355405,
-    "local_path": "absence/data/raw/googl_technology.txt"
+    "local_path": "absence/reports/googl_technology/source.txt"
   },
   {
     "slug": "xom_energy",
@@ -45,7 +45,7 @@
     "retrieved_at": "2026-09-12T14:35:28.729765Z",
     "extracted_text_sha256": "8e3ebd6101d75084b3832dd6acb2f6e38296db5cc1e8efa446ee4b4983f75df6",
     "extracted_text_chars": 37080,
-    "local_path": "absence/data/raw/xom_energy.txt"
+    "local_path": "absence/reports/xom_energy/source.txt"
   },
   {
     "slug": "cvx_energy",
@@ -57,7 +57,7 @@
     "retrieved_at": "2026-09-12T14:35:28.733107Z",
     "extracted_text_sha256": "e8f2e862140e1d667878c681dbeb43bdf6611d65e72373fa13689515b23d67fc",
     "extracted_text_chars": 165535,
-    "local_path": "absence/data/raw/cvx_energy.txt"
+    "local_path": "absence/reports/cvx_energy/source.txt"
   },
   {
     "slug": "cop_energy",
@@ -69,7 +69,7 @@
     "retrieved_at": "2026-09-12T14:35:28.739339Z",
     "extracted_text_sha256": "91197559a339fdb645f0fdf6f4b315e317470a47f2b5f4152952382d5edd1445",
     "extracted_text_chars": 536681,
-    "local_path": "absence/data/raw/cop_energy.txt"
+    "local_path": "absence/reports/cop_energy/source.txt"
   },
   {
     "slug": "oxy_energy",
@@ -81,7 +81,7 @@
     "retrieved_at": "2026-09-12T14:35:28.741908Z",
     "extracted_text_sha256": "f1d3f7d36aa2a5416dff509d1784a8a939fea4b154792f2b9e28502fc2aad38f",
     "extracted_text_chars": 272303,
-    "local_path": "absence/data/raw/oxy_energy.txt"
+    "local_path": "absence/reports/oxy_energy/source.txt"
   },
   {
     "slug": "jpm_financials",
@@ -93,7 +93,7 @@
     "retrieved_at": "2026-09-12T14:35:28.743463Z",
     "extracted_text_sha256": "d4a29d7b8e543413ecb2b2525aa9f8fda8046fb424d1870e38bb96c8c6d4036a",
     "extracted_text_chars": 261455,
-    "local_path": "absence/data/raw/jpm_financials.txt"
+    "local_path": "absence/reports/jpm_financials/source.txt"
   },
   {
     "slug": "bac_financials",
@@ -105,7 +105,7 @@
     "retrieved_at": "2026-09-12T14:35:28.744637Z",
     "extracted_text_sha256": "bb4370c23de4122ab5f67093ac27d9166d4a630bc4fa640c2d3d4d6414fb317d",
     "extracted_text_chars": 230222,
-    "local_path": "absence/data/raw/bac_financials.txt"
+    "local_path": "absence/reports/bac_financials/source.txt"
   },
   {
     "slug": "gs_financials",
@@ -117,6 +117,6 @@
     "retrieved_at": "2026-09-12T14:35:28.746233Z",
     "extracted_text_sha256": "70e953785408c49d1667c21fa7957afd65d0e6c018ab96897b96d94d4a14ad4b",
     "extracted_text_chars": 249024,
-    "local_path": "absence/data/raw/gs_financials.txt"
+    "local_path": "absence/reports/gs_financials/source.txt"
   }
 ]

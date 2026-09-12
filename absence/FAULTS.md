@@ -40,7 +40,7 @@ from absence.detect.entail import retrieve_candidates, score_paragraphs_batch
 from absence.detect.items import ITEMS_BY_ID
 from absence.corpus.extract import segment_paragraphs, rechunk
 item=ITEMS_BY_ID['assurance_provider_named']
-paras=rechunk(segment_paragraphs(open('absence/data/raw/apple_technology.txt').read()))
+paras=rechunk(segment_paragraphs(open('absence/reports/apple_technology/source.txt').read()))
 gold=[p for p in paras if 'Apex Companies' in p.text]
 print(list(zip([p.idx for p in gold], score_paragraphs_batch(item,[p.text for p in gold]))))
 print([p.idx for p in retrieve_candidates(item,paras,k=8)])"

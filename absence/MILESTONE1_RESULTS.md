@@ -21,8 +21,9 @@ downward after the models caught an error in my own ground truth.
   (Apple, Microsoft, Alphabet/Google), Energy (ExxonMobil, Chevron, ConocoPhillips,
   Occidental Petroleum), Financials (JPMorgan Chase, Bank of America, Goldman Sachs).
   Fetched via the TinyFish web-fetch connector (see "Environment deviations" below);
-  provenance in `absence/data/provenance.json`, raw text cached in
-  `absence/data/raw/*.txt`.
+  provenance in `absence/data/provenance.json`, and each analysed document
+  cached beside its own audit trail in `absence/reports/<slug>/`
+  (`source.txt` + `analysis.md`, indexed in `absence/reports/INDEX.md`).
 - **Extraction**: `absence/corpus/extract.py` segments extracted text into
   paragraphs (blank-line delimited, boilerplate/short-fragment filtering).
 - **Items**: 8 of the ~50-item Section 7 inventory (`absence/detect/items.py`).

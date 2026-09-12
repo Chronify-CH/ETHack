@@ -70,7 +70,7 @@ GROUND_TRUTH_TERMS: dict[str, tuple[str, ...]] = {
 def probe(slug: str, item_id: str, context_chars: int = 110) -> list[str]:
     if item_id not in GROUND_TRUTH_TERMS:
         raise KeyError(f"no ground-truth terms defined for {item_id!r}")
-    text = open(f"absence/data/raw/{slug}.txt").read()
+    text = open(f"absence/reports/{slug}/source.txt").read()
     hits: list[str] = []
     seen_spans: list[tuple[int, int]] = []
     for pattern in GROUND_TRUTH_TERMS[item_id]:

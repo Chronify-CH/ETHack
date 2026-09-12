@@ -3,6 +3,14 @@
 Three kinds of file matter. This is a guide to all three, plus the traps to avoid
 when reading them.
 
+> **Start here instead if you want one document at a time.**
+> `absence/reports/INDEX.md` lists all ten analysed reports. Each
+> `absence/reports/<slug>/` folder holds `source.txt` — the exact extracted text
+> that was scored — next to `analysis.md`, which gives that document's per-item
+> score, threshold, gate, decision, hand-verified label and the evidence span
+> the score came from. That is the fastest way to check a single company; the
+> three file types below are the corpus-wide view.
+
 ## 1. The console silence table (`python -m absence.milestone1`)
 
 ```
