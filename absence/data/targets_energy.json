@@ -1,0 +1,39 @@
+{
+  "_README": "Fetch plan for the Energy-sector expansion: 20 companies in five subsectors, three most recent report editions each. Years are the years ResponsibilityReports.com actually hosts, discovered by reading each company's archive page -- not assumed from a URL pattern. Where fewer than three editions exist the shortfall is recorded here rather than padded with an older edition, so a company contributing two documents is visibly a two-document company. 'status' is filled in by absence/ingest_reports.py as each document is fetched; 'unavailable' entries stay in this file with their reason, per ABSENCE_BRIEF.md Section 4 (a failed fetch is logged and marked, never silently dropped).",
+  "_archive_url_pattern": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/<first letter of company name>/<EXCHANGE>_<TICKER>_<YEAR>.pdf",
+  "_caveat_vintage": "The three most recent editions are not the same three years across companies: Expand Energy reaches 2024 while Williams, Kinder Morgan, ONEOK, EQT, EOG, Marathon and Schlumberger stop at 2022. Any cross-company comparison over this corpus therefore mixes company differences with disclosure-practice drift over time. Compare within a year where possible, and never read a year gap as a company difference.",
+  "_caveat_site_sector": "ResponsibilityReports.com labels XOM, CVX, COP and OXY 'Basic Materials'. The subsector field below follows the GICS-style Energy taxonomy requested for this assessment, not the site's labels.",
+  "companies": [
+    {"ticker": "XOM",  "company": "ExxonMobil",                  "subsector": "Integrated",             "rr_slug": "exxon-mobil-corporation",            "letter": "e", "exchange": "NYSE", "years": [2023, 2022, 2021]},
+    {"ticker": "CVX",  "company": "Chevron Corporation",         "subsector": "Integrated",             "rr_slug": "chevron-corporation",                "letter": "c", "exchange": "NYSE", "years": [2023, 2022, 2021]},
+
+    {"ticker": "COP",  "company": "ConocoPhillips",              "subsector": "Exploration & Production", "rr_slug": "conocophillips",                   "letter": "c", "exchange": "NYSE", "years": [2022, 2021, 2020]},
+    {"ticker": "EOG",  "company": "EOG Resources",               "subsector": "Exploration & Production", "rr_slug": "eog-resources",                    "letter": "e", "exchange": "NYSE", "years": [2022, 2021, 2020]},
+    {"ticker": "OXY",  "company": "Occidental Petroleum",        "subsector": "Exploration & Production", "rr_slug": "occidental-petroleum-corporation", "letter": "o", "exchange": "NYSE", "years": [2023, 2021],
+     "shortfall": "Only two editions are archived (2023 and 2021). The 2024 report is listed on the site as most-recent but is not served from the archive path."},
+    {"ticker": "FANG", "company": "Diamondback Energy",          "subsector": "Exploration & Production", "rr_slug": "diamondback-energy-inc",           "letter": "d", "exchange": "NASDAQ", "years": [2023, 2022, 2021]},
+    {"ticker": "EXE",  "company": "Expand Energy",               "subsector": "Exploration & Production", "rr_slug": "expand-energy-corporation",        "letter": "e", "exchange": "NASDAQ", "years": [2024, 2023, 2022],
+     "note": "Formerly Chesapeake Energy; earlier editions in this archive may carry the Chesapeake name."},
+    {"ticker": "EQT",  "company": "EQT Corporation",             "subsector": "Exploration & Production", "rr_slug": "eqt-corp",                         "letter": "e", "exchange": "NYSE", "years": [2022, 2021, 2020]},
+    {"ticker": "DVN",  "company": "Devon Energy",                "subsector": "Exploration & Production", "rr_slug": "devon-energy-corporation",         "letter": "d", "exchange": "NYSE", "years": [2023, 2022, 2021]},
+    {"ticker": "CTRA", "company": "Coterra Energy",              "subsector": "Exploration & Production", "rr_slug": "coterra-energy-inc",               "letter": "c", "exchange": "NYSE", "years": [2023, 2022],
+     "shortfall": "Only two editions are archived. Coterra was formed in 2021 from the Cabot/Cimarex merger, so a third prior-year edition under this name may not exist."},
+
+    {"ticker": "WMB",  "company": "Williams Companies",          "subsector": "Midstream",              "rr_slug": "williams-companies-inc",             "letter": "w", "exchange": "NYSE", "years": [2022, 2021, 2020]},
+    {"ticker": "KMI",  "company": "Kinder Morgan",               "subsector": "Midstream",              "rr_slug": "kinder-morgan",                      "letter": "k", "exchange": "NYSE", "years": [2022, 2021, 2020]},
+    {"ticker": "OKE",  "company": "ONEOK",                       "subsector": "Midstream",              "rr_slug": "oneok",                              "letter": "o", "exchange": "NYSE", "years": [2022, 2021, 2020]},
+    {"ticker": "TRGP", "company": "Targa Resources",             "subsector": "Midstream",              "rr_slug": null,                                 "letter": "t", "exchange": "NYSE", "years": [],
+     "shortfall": "Not resolved on ResponsibilityReports.com: the only Targa entity indexed is Targa Resources Partners LP, the partnership, not TRGP the corporation. To be sourced from the company's own site."},
+
+    {"ticker": "MPC",  "company": "Marathon Petroleum",          "subsector": "Refining & Marketing",   "rr_slug": "marathon-petroleum-corporation",     "letter": "m", "exchange": "NYSE", "years": [2022, 2021, 2020]},
+    {"ticker": "PSX",  "company": "Phillips 66",                 "subsector": "Refining & Marketing",   "rr_slug": null,                                 "letter": "p", "exchange": "NYSE", "years": [],
+     "shortfall": "Not resolved: the site's 'phillips-66' page is Phillips 66 Partners LP (PSXP) and hosts no archive PDFs. To be sourced from the company's own site."},
+    {"ticker": "VLO",  "company": "Valero Energy",               "subsector": "Refining & Marketing",   "rr_slug": "valero-energy-corp",                 "letter": "v", "exchange": "NYSE", "years": [2023, 2022, 2020],
+     "note": "No 2021 edition is archived; 2020 is the third most recent, so this company's three documents span a four-year window."},
+
+    {"ticker": "SLB",  "company": "Schlumberger",                "subsector": "Equipment & Services",   "rr_slug": "schlumberger-limited",               "letter": "s", "exchange": "NYSE", "years": [2022, 2021, 2020]},
+    {"ticker": "BKR",  "company": "Baker Hughes",                "subsector": "Equipment & Services",   "rr_slug": "baker-hughes-inc",                   "letter": "b", "exchange": "NYSE", "years": [],
+     "shortfall": "Indexed only under the pre-merger 'Baker Hughes Inc' entity; archive coverage unverified. To be checked, then sourced from the company's own site if needed."},
+    {"ticker": "HAL",  "company": "Halliburton",                 "subsector": "Equipment & Services",   "rr_slug": "halliburton-company",                "letter": "h", "exchange": "NYSE", "years": [2023, 2022, 2021]}
+  ]
+}
