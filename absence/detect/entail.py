@@ -39,6 +39,24 @@ MODEL_ID = "MoritzLaurer/deberta-v3-base-zeroshot-v2.0"
 # Uncalibrated -- a placeholder cut point only, see module docstring.
 STUB_FOUND_THRESHOLD = 0.5
 
+# CPU-only performance tuning (measured empirically on this environment's
+# 4-core machine against real corpus text, not synthetic samples): this
+# corpus's paragraphs average ~2,800 characters because the naive blank-line
+# segmentation in extract.py merges table blocks into oversized blocks (a
+# known, documented side effect of not doing real PyMuPDF table separation --
+# see extract.py's module docstring). At MAX_SEQ_LEN=512 nearly every
+# candidate hits the truncation cap, making each pair ~8s/sequence on this
+# machine; a full 10-document x 8-item x k-candidate run took 66s per batch
+# of 8 candidates for the largest document, i.e. over an hour end to end.
+# MAX_SEQ_LEN=256 and DEFAULT_K=4 cut that to ~12s per batch for the same
+# worst-case document (~10-15 min for the full corpus) at the cost of
+# truncating long merged blocks more aggressively -- occasionally cutting off
+# the actual disclosed fact inside an oversized block. This is a speed/
+# accuracy tradeoff made explicit here, not a silent default.
+MAX_SEQ_LEN = 256
+DEFAULT_K = 4
+torch.set_num_threads(4)
+
 _tokenizer = None
 _model = None
 
@@ -60,7 +78,7 @@ def _anchor_hits(item: DisclosureItem, text: str) -> int:
     return sum(1 for anchor in item.regex_anchors if anchor.lower() in lowered)
 
 
-def retrieve_candidates(item: DisclosureItem, paragraphs: list[Paragraph], k: int = 8) -> list[Paragraph]:
+def retrieve_candidates(item: DisclosureItem, paragraphs: list[Paragraph], k: int = DEFAULT_K) -> list[Paragraph]:
     """Cheap anchor-term retrieval standing in for prefilter.py's BM25 pass."""
     scored = [(p, _anchor_hits(item, p.text)) for p in paragraphs]
     scored = [(p, s) for p, s in scored if s > 0]
@@ -81,7 +99,7 @@ def score_paragraphs_batch(item: DisclosureItem, paragraph_texts: list[str]) -> 
         return_tensors="pt",
         truncation=True,
         padding=True,
-        max_length=512,
+        max_length=MAX_SEQ_LEN,
     )
     logits = model(**inputs).logits
     probs = torch.softmax(logits, dim=-1)
@@ -92,7 +110,7 @@ def score_paragraph(item: DisclosureItem, paragraph_text: str) -> float:
     return round(score_paragraphs_batch(item, [paragraph_text])[0], 3)
 
 
-def detect_item(item: DisclosureItem, paragraphs: list[Paragraph], k: int = 8):
+def detect_item(item: DisclosureItem, paragraphs: list[Paragraph], k: int = DEFAULT_K):
     """Returns (found: bool, best_score: float, best_paragraph: Paragraph | None)."""
     candidates = retrieve_candidates(item, paragraphs, k=k)
     if not candidates:
