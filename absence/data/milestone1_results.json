@@ -9,52 +9,68 @@
         "found": true,
         "score": 0.843,
         "evidence": "hout offsets) (metric tons CO2e)12 20,600,000 23,200,000 22,600,000 25,100,000 25,200,000 Total net carbon footprint (after applying offsets) (metric tons CO2e)12 20,300,000 22,530,000 22,530,000 25,100,000 25,200,000 Notes: For data on years prior to 2018, please reference past Environmental Progress Reports. T otals might not add up due to rounding. 1 Apple\u2019s carbon footprint boundary is aligned with the Greenhouse Gas (GHG) Protocol framework and includes emissions that are material and relevant to Apple, where data is available.",
-        "source_chunk_idx": 381
+        "source_chunk_idx": 381,
+        "threshold": 0.2,
+        "scored_item": true
       },
       "scope2_market_based": {
         "applicable": true,
         "found": true,
         "score": 0.937,
         "evidence": "2e)2 Gross emissions 324,100 166,380 334,430 573,730 586,170 Scope 1 55,200 55,200 47,4 30 52,730 57 ,440 Natural gas, diesel, propane 39,700 40,070 39,340 40,910 42,840 Fleet vehicles 12,600 12,090 4,270 6,950 11,110 Other emissions3 2,900 3,040 3,830 4,870 3,490 Scope 2 (market-based)4 3,000 2,780 0 0 8,730 Electricity 0 0 0 0 8,730 Steam, heating, and cooling5 3,000 2,780 0 0 0 Scope 3 265,800 108,400 287 ,000 521,000 520,000 Business travel 113,500 22,850 153,000 326,000 337 ,000 Employee commute6 134,200 85,570 134,000 195,000 183,000 Upstream fuel 10,600 0 0 0 0 Work from home (market-based) 7,5 0 0 0 0 0 0 Transmission and distribution loss (market-based) 0 N/A N/A N/A N/A Third-party cloud (market-based) 0 0 0 0 0 Carbon removals Corporate carbon offsets7 \u2013324,100 \u2013167 ,0008 \u201370,0009 0 0 Product life cycle emissions (metric tons CO2e)10 Gross emissions (Scope 3) 20,280,000 23,020",
-        "source_chunk_idx": 379
+        "source_chunk_idx": 379,
+        "threshold": 0.5,
+        "scored_item": false
       },
       "scope3_category_breakdown": {
         "applicable": true,
         "found": true,
-        "score": 0.956,
-        "evidence": "to recycled materials in our products, or use of low-carbon aluminum, as described on page 14. ** Net carbon emissions represents our total gross footprint minus carbon offsets applied to each category. Percentages shown for each emissions category represent the share of Apple\u2019s gross footprint.",
-        "source_chunk_idx": 37
+        "score": 0.461,
+        "evidence": "business commute, work from home, and third-party cloud services. 2 Apple follows the GHG Protocol Corporate Accounting and Reporting Standard (GHG Protocol) to calculate value chain emissions. The GHG Protocol defines scope 1 emissions as direct greenhouse gas emissions that occur from sources that are owned or controlled by the company; scope 2 emissions as the indirect greenhouse gas emissions from the generation of purchased electricity, steam, heat, and cooling consumed by the company; and scope 3 emissions as all \u201cother indirect emissions\u201d that occur in the value chain of the reporting company, including both upstream and downstream emissions.",
+        "source_chunk_idx": 569,
+        "rescored": true,
+        "threshold": 0.46,
+        "scored_item": false
       },
       "target_net_zero_year": {
         "applicable": true,
         "found": true,
         "score": 0.943,
         "evidence": "We\u2019ve committed to achieving carbon neutrality across our entire value chain by 2030 \u2014 reducing emissions by 75 percent compared with 2015 and balancing the residual emissions with high-quality carbon removal.7 This means that our goal to be carbon neutral also extends to all our products.",
-        "source_chunk_idx": 26
+        "source_chunk_idx": 26,
+        "threshold": 0.03,
+        "scored_item": false
       },
       "assurance_provider_named": {
         "applicable": true,
         "found": true,
         "score": 0.987,
         "evidence": "chain was 10.6 gigawatts, generating 18.6 million megawatt-hours and avoiding 14.2 million metric tons of carbon emissions. 2 Apple\u2019s independent assurance provider for the Supplier Clean Energy Program conducts work against standard procedures and guidelines for external verification of sustainability reports, based on current best practice in independent assurance.",
-        "source_chunk_idx": 457
+        "source_chunk_idx": 457,
+        "threshold": 0.8,
+        "scored_item": true
       },
       "board_committee_climate_mandate": {
         "applicable": true,
         "found": false,
         "score": 0.028,
         "evidence": "These include our role on the steering committee of the Responsible Minerals Initiative (RMI).",
-        "source_chunk_idx": 158
+        "source_chunk_idx": 158,
+        "threshold": 0.93,
+        "scored_item": true
       },
       "injury_rate_trir": {
         "applicable": false
       },
       "scenario_analysis_quantified": {
         "applicable": true,
-        "found": true,
-        "score": 0.979,
-        "evidence": "a Green Fund, which Apple launched in 2019 to help provide energy efficiency expertise and finance capital- intensive energy efficiency projects. In 2022, $8.9 million of investments have been made in supplier efficiency projects using the Asia Green Fund.",
-        "source_chunk_idx": 72
+        "found": false,
+        "score": 0.08,
+        "evidence": "For example, in 2022, we expanded our corporate footprint to include work from home emissions, third-party cloud services, electricity transmission and distribution losses, and upstream impacts from scope 1 fuels.",
+        "source_chunk_idx": 45,
+        "rescored": true,
+        "threshold": 0.99,
+        "scored_item": false
       }
     }
   },
@@ -68,52 +84,68 @@
         "found": false,
         "score": 0.078,
         "evidence": "Scope 1A Current year Base year Metric tons CO2e Scope 2B Scope 3C 0M 3M 6M 9M 12M 15M FY21 FY20 FY22 B C C C A A A B 12,511,000 10,870,000 12,571,000 429,405 123,704 456,119 118,100 288,029 139,413 B -8M -6M -4M -2M 0M 2M 4M 6M 8M 10M 12M 14MMetric tons CO2e FY21FY22 Current year FY20 Base year FY30 Target year A Microsoft emissions Retirements from avoided emissionsB B E Retirements from carbon removalC Projected carbon removalEContracted carbon removalD C CC DD A A A A Carbon Table 1 Tracking our yearly progress toward carbon negative by 2030 In FY22, we procured 1.44 million metric tons and retired 514,156 metric tons of carbon removal as part of our effort toward achieving our annual carbon commitment to be carbon neutral. Carbon removal contracted each year includes credits retired in the same year and to be retired in future years.",
-        "source_chunk_idx": 47
+        "source_chunk_idx": 47,
+        "threshold": 0.2,
+        "scored_item": true
       },
       "scope2_market_based": {
         "applicable": true,
         "found": true,
         "score": 0.931,
         "evidence": "Our total company emissions were just under 13 million metric tons of carbon dioxide equivalents (mtCO2e) (market- based and management-defined criteria for Scope 3 Category 11). Taking into account our renewable energy purchases, our Scope 1 and 2 emissions were approximately 428,000 mtCO2e.",
-        "source_chunk_idx": 39
+        "source_chunk_idx": 39,
+        "threshold": 0.5,
+        "scored_item": false
       },
       "scope3_category_breakdown": {
         "applicable": true,
         "found": true,
-        "score": 0.987,
-        "evidence": "Microsoft\u2019s Scope 3 emissions account for more than 96 percent of our total emissions, with the vast majority of these emissions coming from three categories: Purchased Goods and Services (Category 1), Capital Goods (Category 2), and Use of Sold Products (Category 11). Overall, our Scope 3 emissions increased by 0.5 percent in FY22 compared to FY21.",
-        "source_chunk_idx": 62
+        "score": 0.974,
+        "evidence": "Scope 3 Categories Waste Purchased Goods & Services Capital Goods Fuel-and Energy-Related Activities (Market-Based) Upstream Transportation Business Travel Employee Commuting Downstream Transportation Use of Sold Products End of Life of Sold Products Downstream Leased Assets 47.24% 30.97% 3.46% 1.85% 0.06% 1.07% 1.08% 0.53% 10.25% 0.14% 0.06% 96.71% Scope 3Scope 1 1.07% Scope 2 2.22% Carbon Table 3 Breaking down our FY22 Scope 3 emissions by source Microsoft\u2019s Scope 3 emissions account for more than 96 percent of our total emissions, with the vast majority of these emissions coming from two categories upstream, Purchased Goods and Services (Category 1) and Capital Goods (Category 2), and one downstream, Use of Sold Products (Category 11).",
+        "source_chunk_idx": 50,
+        "rescored": true,
+        "threshold": 0.46,
+        "scored_item": false
       },
       "target_net_zero_year": {
         "applicable": true,
         "found": true,
         "score": 0.97,
         "evidence": "Commitments and progress Carbon negative by 2030 We are committed to being carbon negative by 2030 and by 2050 remove from the atmosphere an equivalent amount of all the carbon dioxide our company has emitted either directly or by our electricity consumption since we were founded in 1975.",
-        "source_chunk_idx": 43
+        "source_chunk_idx": 43,
+        "threshold": 0.03,
+        "scored_item": false
       },
       "assurance_provider_named": {
         "applicable": true,
         "found": true,
         "score": 0.805,
         "evidence": "crosoft which provide an objective basis for measuring and reporting metrics as specified in section 1.10 of our Environmental Data Fact Sheet. 4.",
-        "source_chunk_idx": 326
+        "source_chunk_idx": 326,
+        "threshold": 0.8,
+        "scored_item": true
       },
       "board_committee_climate_mandate": {
         "applicable": true,
         "found": true,
         "score": 0.966,
         "evidence": "Governance The Environmental, Social, and Public Policy Committee of Microsoft's Board of Directors provides oversight and guidance on Microsoft's environmental sustainability strategy and commitments. During at least one meeting each year and on an as-needed basis, our President and Vice Chair and our Chief Environmental Officer present to this committee on our overall sustainability agenda, including our climate-related work, and solicit high-level input on new and emerging initiatives.",
-        "source_chunk_idx": 322
+        "source_chunk_idx": 322,
+        "threshold": 0.93,
+        "scored_item": true
       },
       "injury_rate_trir": {
         "applicable": false
       },
       "scenario_analysis_quantified": {
         "applicable": true,
-        "found": true,
-        "score": 0.966,
-        "evidence": "Investing in climate innovation We have created a $1 billion Climate Innovation Fund to accelerate the global development of carbon reduction and removal technologies, as well as related climate solutions to reduce water and waste.",
-        "source_chunk_idx": 259
+        "found": false,
+        "score": 0.139,
+        "evidence": "Transform to Net Zero (TONZ) Microsoft is a founding member of TONZ, a cross- sector initiative to accelerate the transition to an inclusive net zero global economy. The group's 2025 goal is for the world's largest 1,000 companies to have targets backed up by transformation plans to achieve net zero no later than 2050.",
+        "source_chunk_idx": 298,
+        "rescored": true,
+        "threshold": 0.99,
+        "scored_item": false
       }
     }
   },
@@ -127,42 +159,55 @@
         "found": true,
         "score": 0.652,
         "evidence": "l- and energy-related activities (not included in Scope 1 or 2) 1,186,000 8% Scope 3: (4) Upstream transportation 584,000 4% Scope 3: (5) Waste generated in operations 10,000 <1% Scope 3: (6) Business travel 283,000 2% Scope 3: (7) Employee commuting (including teleworking) 113,000 <1% Scope 3: Other categories 2,993,000 21% Scope 3 (total) 10,812,000 75% Total emissions 14,314,800 100% Scope 1 emissions In 2023, our Scope 1 emissions were approximately 79,400 tCO2e, representing approximately 1% of our total carbon footprint. Compared to 2022, we reduced our Scope 1 emissions by 13% due to building electrification and decreases in emissions from transportation and data center generator use.",
-        "source_chunk_idx": 126
+        "source_chunk_idx": 126,
+        "threshold": 0.2,
+        "scored_item": true
       },
       "scope2_market_based": {
         "applicable": true,
         "found": true,
         "score": 0.985,
         "evidence": "Target year: 2030 2023 PROGRESS Emissions reductions: Total GHG emissions were 14.3 million tCO 2e, representing a 48% increase compared to 2019 Residual emissions: Signed offtake deals for approximately 62,500 tCO 2e of removal credits TREND Emissions reductions: In 2023, our total GHG emissions increased 13% year-over- year, partially driven by a 37% year-over-year increase in our Scope 2 (market-based) emissions.",
-        "source_chunk_idx": 122
+        "source_chunk_idx": 122,
+        "threshold": 0.5,
+        "scored_item": false
       },
       "scope3_category_breakdown": {
         "applicable": true,
         "found": true,
-        "score": 0.989,
+        "score": 0.973,
         "evidence": "1.0), in the following categories identified as relevant: Category 1: Purchased goods and services Category 2: Capital goods Category 3: Fuel- and energy-related activities not included in Scope 1 or Scope 2 Category 4: Upstream transportation and distribution Category 5: Waste generated in operations Category 6: Business travel Category 7: Employee commuting, including teleworking Category 11: Use of sold products Category 12: End-of-life treatment of sold products None of the Scope 3 categories have associated biogenic CO 2 emissions. For all reported Scope 3 categories, we report emissions according to their minimum boundaries listed by the Greenhouse Gas Protocol.",
-        "source_chunk_idx": 375
+        "source_chunk_idx": 375,
+        "rescored": true,
+        "threshold": 0.46,
+        "scored_item": false
       },
       "target_net_zero_year": {
         "applicable": true,
         "found": true,
         "score": 1.0,
         "evidence": "In 2021, we set an ambitious goal to reach net- zero emissions across all of our operations and value chain by 2030. We\u2019re working toward this goal in two key ways: first, we\u2019re focused on reducing emissions across our operations and value chain (including advancing 24/7 CFE), and after reducing our emissions, we\u2019re addressing our residual emissions with carbon removals (see Figure 15).",
-        "source_chunk_idx": 112
+        "source_chunk_idx": 112,
+        "threshold": 0.03,
+        "scored_item": false
       },
       "assurance_provider_named": {
         "applicable": true,
         "found": true,
         "score": 0.86,
         "evidence": "To calculate full supply chain emissions generated from manufacturing consumer devices, we perform third-party-verified Life Cycle Assessments (LCAs) in accordance with ISO 14040 and ISO 14044. To calculate emissions generated from our food program, we use LCA emission factors from WRI and annual procurement volumes from our offices.",
-        "source_chunk_idx": 376
+        "source_chunk_idx": 376,
+        "threshold": 0.8,
+        "scored_item": true
       },
       "board_committee_climate_mandate": {
         "applicable": true,
         "found": false,
         "score": 0.414,
         "evidence": "This powers the emissions estimates you see on Google Flights as well as other leading travel sites through our work in the Travalyst coalition. We\u2019ve seen positive industry adoption of our model in aviation and, in 2023, we formalized our efforts by establishing an independent advisory committee to oversee future changes to the TIM.",
-        "source_chunk_idx": 77
+        "source_chunk_idx": 77,
+        "threshold": 0.93,
+        "scored_item": true
       },
       "injury_rate_trir": {
         "applicable": false
@@ -170,9 +215,12 @@
       "scenario_analysis_quantified": {
         "applicable": true,
         "found": false,
-        "score": 0.091,
-        "evidence": "That\u2019s why we partnered with the WEF\u2019s Giving to Amplify Earth Action initiative and joined a community of like-minded corporate philanthropies and leading foundations to help launch the Corporate Philanthropy Challenge for People and Planet, with the shared goal of mobilizing $1 billion in catalytic capital for climate and nature solutions by 2030. The Google.org Impact Challenge on Climate Innovation supports breakthrough projects that use data and technology to accelerate climate action.",
-        "source_chunk_idx": 360
+        "score": 0.039,
+        "evidence": "pabilities can have a meaningful impact.",
+        "source_chunk_idx": 14,
+        "rescored": true,
+        "threshold": 0.99,
+        "scored_item": false
       }
     }
   },
@@ -186,56 +234,74 @@
         "found": false,
         "score": 0.077,
         "evidence": "echnical or operational difficulties; the outcome of research efforts and future technology developments, including the ability to scale projects and technologies such as electrification of operations, advanced recycling, CCS, hydrogen production, or direct lithium extraction on a commercially competitive basis; availability of feedstocks for lower-emission fuels, hydrogen, or advanced recycling; changes in the relative energy mix across activities and geographies; the actions of competitors; changes in regional and global economic growth rates and consumer preferences; actions taken by governments and consumers resulting from a pandemic; changes in population growth, economic development or migration patterns; military build-ups, armed conflicts, or terrorism; and other factors discussed in this release and in Item 1A.",
-        "source_chunk_idx": 32
+        "source_chunk_idx": 32,
+        "threshold": 0.2,
+        "scored_item": true
       },
       "scope2_market_based": {
         "applicable": true,
         "found": false,
         "score": 0.042,
         "evidence": "ExxonMobil has also provided links in this report to third-party websites for ease of reference. ExxonMobil\u2019s use of the third-party content is not an endorsement or adoption of such information.",
-        "source_chunk_idx": 43
+        "source_chunk_idx": 43,
+        "threshold": 0.5,
+        "scored_item": false
       },
       "scope3_category_breakdown": {
         "applicable": true,
-        "found": true,
-        "score": 0.962,
-        "evidence": "| 2023 Sustainability Report | Executive Summary Creating sustainable solutions We\u2019re pursuing more than $20 billion in lower-emission investments from 2022 through 2027. About 50% of those investments are targeted at reducing emissions from our operated assets, with the balance going toward enabling other companies to reduce their emissions through technologies such as carbon capture and storage, as well as the use of hydrogen, lithium, and biofuels.",
-        "source_chunk_idx": 16
+        "found": false,
+        "score": 0.328,
+        "evidence": "Our scientists and product stewardship professionals collaborate with industry and academic researchers, regulatory bodies, and policy makers to help ensure that the best available science informs industry product safety policy. We work to identify and manage risks associated with our products and to avoid the manufacture and sale of products that cannot meet an appropriate level of safety for people and the environment.",
+        "source_chunk_idx": 17,
+        "rescored": true,
+        "threshold": 0.46,
+        "scored_item": false
       },
       "target_net_zero_year": {
         "applicable": true,
-        "found": false,
+        "found": true,
         "score": 0.087,
         "evidence": "Actions needed to advance ExxonMobil\u2019s 2030 greenhouse gas emission-reductions plans are incorporated into its medium-term business plans, which are updated annually. The reference case for planning beyond 2030 is based on the Company\u2019s Global Outlook research and publication.",
-        "source_chunk_idx": 39
+        "source_chunk_idx": 39,
+        "threshold": 0.03,
+        "scored_item": false
       },
       "assurance_provider_named": {
         "applicable": true,
         "found": false,
         "score": 0.007,
         "evidence": "See \u201cABOUT THE ADVANCING CLIMATE SOLUTIONS AND SUSTAINABILITY REPORTS\u201d at the end of this document for additional information on these reports and the use of non-GAAP and other financial measures. ABOUT THE ADVANCING CLIMATE SOLUTIONS AND SUSTAINABILITY REPORTS The Advancing Climate Solutions Report contains terms used by the TCFD, as well as information about how the disclosures in this report are consistent with the recommendations of the TCFD.",
-        "source_chunk_idx": 35
+        "source_chunk_idx": 35,
+        "threshold": 0.8,
+        "scored_item": true
       },
       "board_committee_climate_mandate": {
         "applicable": true,
         "found": false,
         "score": 0.003,
         "evidence": "echnical or operational difficulties; the outcome of research efforts and future technology developments, including the ability to scale projects and technologies such as electrification of operations, advanced recycling, CCS, hydrogen production, or direct lithium extraction on a commercially competitive basis; availability of feedstocks for lower-emission fuels, hydrogen, or advanced recycling; changes in the relative energy mix across activities and geographies; the actions of competitors; changes in regional and global economic growth rates and consumer preferences; actions taken by governments and consumers resulting from a pandemic; changes in population growth, economic development or migration patterns; military build-ups, armed conflicts, or terrorism; and other factors discussed in this release and in Item 1A.",
-        "source_chunk_idx": 32
+        "source_chunk_idx": 32,
+        "threshold": 0.93,
+        "scored_item": true
       },
       "injury_rate_trir": {
         "applicable": true,
         "found": true,
         "score": 0.941,
         "evidence": "ExxonMobil's Core Values 33% overall board diversity as of May 31, 2023 >50% increase in women and minority executives from 2016 to 2022 0.02 LTIR our industry-leading lost-time incident rate per 200,000 work hours ~12,000 internal job rotations in support of development plans",
-        "source_chunk_idx": 23
+        "source_chunk_idx": 23,
+        "threshold": 0.94,
+        "scored_item": false
       },
       "scenario_analysis_quantified": {
         "applicable": true,
-        "found": true,
-        "score": 0.968,
-        "evidence": "SUPPLEMENTAL INFORMATION FOR NON-GAAP AND OTHER MEASURES The Resiliency section of the Advancing Climate Solutions Report mentions modeled operating cash flow in comparing different businesses over time in a future scenario. Historic operating cash flow is defined as net income, plus depreciation, depletion and amortization for consolidated and equity companies, plus noncash adjustments related to asset retirement obligations plus proceeds from asset sales.",
-        "source_chunk_idx": 52
+        "found": false,
+        "score": 0.843,
+        "evidence": "\u201cRisk Factors\u201d in ExxonMobil\u2019s Annual Report on Form 10-K for 2022 and subsequent Quarterly Reports on Forms 10-Q, as well as under the heading \u201cFactors Affecting Future Results\u201d on the Investors page of ExxonMobil\u2019s website at www.exxonmobil.com. The Advancing Climate Solutions Report includes 2022 greenhouse gas emissions performance data and Scope 3 Category 11 estimates for full-year 2022 as of March 1, 2023.",
+        "source_chunk_idx": 33,
+        "rescored": true,
+        "threshold": 0.99,
+        "scored_item": false
       }
     }
   },
@@ -246,59 +312,77 @@
     "items": {
       "scope1_absolute": {
         "applicable": true,
-        "found": false,
+        "found": true,
         "score": 0.381,
         "evidence": "GHG mitigation projects Permian Basin, U.S.: We lowered the carbon intensity of our Permian Basin drilling and completion activities by replacing diesel as the primary fuel in drilling operations. Since the initiative began in 2020, we\u2019ve saved $87 million and reduced approximately 270,000 tonnes of carbon dioxide equivalent (CO2e) emissions.",
-        "source_chunk_idx": 48
+        "source_chunk_idx": 48,
+        "threshold": 0.2,
+        "scored_item": true
       },
       "scope2_market_based": {
         "applicable": true,
         "found": false,
         "score": 0.262,
         "evidence": "introduction socialclimate environment governance performance targets to lower the carbon intensity of our operations $2.0 billion in carbon reduction projects from 2021 through 2028 $8.0 billion in lower carbon energy investments from 2021 through 2028 71 g CO\u2082e/MJ portfolio carbon intensity (Scope 1, 2 and 3) by 2028 24 kg CO\u2082e/boe gas carbon intensity (Scope 1 and 2) by 2028 36 kg CO\u2082e/boe refining carbon intensity (Scope 1 and 2) by 2028 24 kg CO\u2082e/boe oil carbon intensity (Scope 1 and 2) by 2028 planned capital allocation our outlook The world\u2019s energy demand is greater now than at any time in human history. The world\u2019s energy needs continue to grow as populations and incomes rise, urban areas expand, and billions of people in less-developed countries seek a higher standard of living.",
-        "source_chunk_idx": 37
+        "source_chunk_idx": 37,
+        "threshold": 0.5,
+        "scored_item": false
       },
       "scope3_category_breakdown": {
         "applicable": true,
         "found": true,
-        "score": 0.849,
-        "evidence": "of achieving our objectives. Growth or decline in production from different assets, acquisitions or divestitures, or from changes in operations and accounting guidelines, may result in emissions performance changes.",
-        "source_chunk_idx": 42
+        "score": 0.836,
+        "evidence": "Methane intensity The amount of methane per unit of measure.",
+        "source_chunk_idx": 200,
+        "rescored": true,
+        "threshold": 0.46,
+        "scored_item": false
       },
       "target_net_zero_year": {
         "applicable": true,
-        "found": false,
+        "found": true,
         "score": 0.034,
         "evidence": "Net zero upstream aspiration (Scope 1 and 2) Chevron aspires to reach net zero upstream emissions (Scope 1 and 2) by 2050.",
-        "source_chunk_idx": 208
+        "source_chunk_idx": 208,
+        "threshold": 0.03,
+        "scored_item": false
       },
       "assurance_provider_named": {
         "applicable": true,
         "found": true,
         "score": 0.989,
         "evidence": "In 2023, Chevron contracted GHGSat to monitor 18 onshore assets worldwide. verifying methane performance While methane detection technology is maturing, challenges remain in quantification accuracy.",
-        "source_chunk_idx": 52
+        "source_chunk_idx": 52,
+        "threshold": 0.8,
+        "scored_item": true
       },
       "board_committee_climate_mandate": {
         "applicable": true,
         "found": false,
         "score": 0.328,
         "evidence": "The Board also oversees Chevron\u2019s strategic and business planning process and related climate and sustainability matters. executive committee The Executive Committee comprises corporate officers and is chartered by the Board of Directors to carry out policies in managing the company\u2019s business.",
-        "source_chunk_idx": 150
+        "source_chunk_idx": 150,
+        "threshold": 0.93,
+        "scored_item": true
       },
       "injury_rate_trir": {
         "applicable": true,
-        "found": true,
+        "found": false,
         "score": 0.936,
         "evidence": "In 2023, we experienced 17 Tier 1 LOC events, which repre- sents an improvement over the previous two years. Chevron safety performance (Process) Safety fundamentals Chevron is a member of IOGP and participates in several of its committees.",
-        "source_chunk_idx": 113
+        "source_chunk_idx": 113,
+        "threshold": 0.94,
+        "scored_item": false
       },
       "scenario_analysis_quantified": {
         "applicable": true,
-        "found": true,
-        "score": 0.942,
-        "evidence": "Oil and Gas Climate Initiative (OGCI) OGCI is a CEO-led initiative that is aiming to accelerate the oil and gas industry\u2019s response to climate change. Chevron joined OGCI in 2018 and pledged $100 million to the $1 billion+ OGCI Climate Investments fund, which invests in technologies to reduce GHG emissions within the oil and gas value chain and hard-to-abate sectors.",
-        "source_chunk_idx": 171
+        "found": false,
+        "score": 0.042,
+        "evidence": "This report builds on our previous editions and has updates throughout as we outline our governance framework, risk management, strategy, portfolio, performance and policy, and metrics.",
+        "source_chunk_idx": 195,
+        "rescored": true,
+        "threshold": 0.99,
+        "scored_item": false
       }
     }
   },
@@ -312,56 +396,74 @@
         "found": true,
         "score": 0.904,
         "evidence": "INDICATOR UNITS 2021 2022 1. Direct GHG Emissions (Scope 1) 1.1 Direct GHG Emissions (Scope 1) \u2013 All GHGs million metric tons CO2e 17.7 15.0 1.1.1 Upstream \u2013 All GHGs million metric tons CO2e 15.3 12.5 1.1.1.1 Methane (CH4) million metric tons CO2e 1.7 1.7 1.1.1.2 Upstream Flaring \u2013 All GHGs (subset of Direct GHG Emissions \u2013 Scope 1) million metric tons CO2e 1.9 1.5 1.1.1.3 Volume of Flares mmcf 19,615 17,182 1.1.2 Midstream \u2013 All GHGs million metric tons CO2e n/a n/a 1.1.2.1 Methane (CH4) million metric tons CO2e n/a n/a 1.1.3 Downstream \u2013 All GHGs million metric tons CO2e n/a n/a 1.1.4 LNG \u2013 All GHGs million metric tons CO2e 2.1 2.1 1.1.5 Oil and Natural Gas Field Services \u2013 All GHGs million metric tons CO2e 0.3 0.3 2.",
-        "source_chunk_idx": 720
+        "source_chunk_idx": 720,
+        "threshold": 0.2,
+        "scored_item": true
       },
       "scope2_market_based": {
         "applicable": true,
         "found": true,
         "score": 0.966,
         "evidence": "Indirect GHG Emissions from Imported Energy (Scope 2) 2.1 Indirect GHG Emissions from Imported Electricity + Heat + Steam + Cooling (Scope 2, Market-based) 1.03 1.06 2.1.1 Upstream \u2013 All GHGs million metric tons CO2e 1.01 1.06 2.1.2 Midstream \u2013 All GHGs million metric tons CO2e n/a n/a 2.1.3 Downstream \u2013 All GHGs million metric tons CO2e n/a n/a 2.1.4 LNG \u2013 All GHGs million metric tons CO2e 0 0 2.1.5 Oil and Natural Gas Field Services \u2013 All GHGs million metric tons CO2e 0.02 0.002 3. GHG Mitigation 3.1 GHG Mitigation from CCUS, Credits, and Offsets million metric tons CO2e n/a n/a 3.1.1 Carbon Capture Utilization and Storage (CCUS) \u2013 All GHGs million metric tons CO2e n/a n/a 3.1.2 Renewable Energy Credits \u2013 (RECs for Indirect Emissions) \u2013 All GHGs million metric tons CO2e n/a n/a 3.1.3 Offsets \u2013 All GHGs million metric tons CO2e n/a n/a 4.",
-        "source_chunk_idx": 721
+        "source_chunk_idx": 721,
+        "threshold": 0.5,
+        "scored_item": false
       },
       "scope3_category_breakdown": {
         "applicable": true,
-        "found": true,
-        "score": 0.965,
+        "found": false,
+        "score": 0.091,
         "evidence": "Similarly, in response to previous years\u2019 increased wildfire activity in Alberta, our Surmont team undertook reactive forest fuel reductions near critical infrastructure and completed a Fire Smart hazard assessment where we are working on an integrated land management plan with a local forest company to strategically reduce forest fuel loading in areas of future infrastructure development. We have 4 Upstream Scope 3 emissions covered under the strategy include Category 1, purchased goods and services and Category 2, capital goods.",
-        "source_chunk_idx": 197
+        "source_chunk_idx": 197,
+        "rescored": true,
+        "threshold": 0.46,
+        "scored_item": false
       },
       "target_net_zero_year": {
         "applicable": true,
         "found": true,
         "score": 0.889,
         "evidence": "These targets include: Achieving our stated ambition to reach net\u2011zero emissions for Scope 1 and 2 emissions by 2050. Strengthening our previously announced operational GHG emissions intensity reduction target to 50\u201160% by 2030 on both a gross operated and net equity basis.",
-        "source_chunk_idx": 269
+        "source_chunk_idx": 269,
+        "threshold": 0.03,
+        "scored_item": false
       },
       "assurance_provider_named": {
         "applicable": true,
         "found": true,
         "score": 0.898,
         "evidence": "Limited assurance1 is performed by an external third party, ERM CVS, on all environmental metrics as well as reasonable assurance2 in countries with a regulatory requirement to verify reported greenhouse gas (GHG) emissions and energy (where relevant), including Australia, Canada and Norway.",
-        "source_chunk_idx": 730
+        "source_chunk_idx": 730,
+        "threshold": 0.8,
+        "scored_item": true
       },
       "board_committee_climate_mandate": {
         "applicable": true,
         "found": true,
         "score": 0.939,
         "evidence": "Reviewing and endorsing agenda and meeting content for the Public Policy and Sustainability Committee (PPSC) of the board. The SPEC is also the governance link to the PPSC, whose oversight covers SD matters including climate and nature related risks.",
-        "source_chunk_idx": 24
+        "source_chunk_idx": 24,
+        "threshold": 0.93,
+        "scored_item": true
       },
       "injury_rate_trir": {
         "applicable": true,
         "found": true,
         "score": 0.976,
         "evidence": "Including lost workday cases related to COVID\u201119, our 2022 total recordable rate (TRR) was 0.28. Excluding COVID\u201119 cases, our TRR was 0.14.",
-        "source_chunk_idx": 659
+        "source_chunk_idx": 659,
+        "threshold": 0.94,
+        "scored_item": false
       },
       "scenario_analysis_quantified": {
         "applicable": true,
-        "found": true,
-        "score": 0.875,
-        "evidence": "We have acted to: Use a fully burdened cost of supply, including cost of carbon aligned with our current probability\u2011weighted energy scenario, as an important metric in our project authorization process. In 2023, we had a resource base of ~20 billion barrels of oil equivalent (BOE) with $40 per barrel (or lower) cost of supply and an average cost of supply of $32 per barrel.3 Our strategic objective is to provide resilience in lower price environments, with any oil price above our cost of supply generating an after\u2011tax fully burdened rate of return greater than 10%.",
-        "source_chunk_idx": 165
+        "found": false,
+        "score": 0.956,
+        "evidence": "IEA estimates this to average $394 billion each year from 2022 to 2050 globally in the Announced Pledges Scenario (APS) and $255 billion per year from 2022 to 2050 in the Net Zero Emissions scenario, a total of approximately $11.4 trillion globally and $7 .4 trillion respectively for the period 2022 to 2050. Achieving the IEA APS (limiting temperature to 1.7 degrees Celsius) requires significant progress on several fronts:1 Improving energy efficiency of power generation, transportation and industrial processes.",
+        "source_chunk_idx": 138,
+        "rescored": true,
+        "threshold": 0.99,
+        "scored_item": false
       }
     }
   },
@@ -372,59 +474,77 @@
     "items": {
       "scope1_absolute": {
         "applicable": true,
-        "found": false,
+        "found": true,
         "score": 0.294,
         "evidence": "n-based) [million metric tonnes CO2e] \uf0b7 Total GHG Emissions (Scope 1 and Scope 2 (location-based)) [million metric tonnes CO2e] \uf0b7 Total Methane Emissions [thousand metric tonnes CH4] \uf0b7 Total Scope 3 GHG Emissions1, covering the following organizational boundaries [million metric tonnes CO2e]: \uf0b7 Operated basis; and \uf0b7 Equity basis.",
-        "source_chunk_idx": 357
+        "source_chunk_idx": 357,
+        "threshold": 0.2,
+        "scored_item": true
       },
       "scope2_market_based": {
         "applicable": true,
         "found": false,
         "score": 0.196,
         "evidence": "ed)): \u00bb Total Methane Emissions 2020 (Occidental Oil & Gas) \u00bb Total GHG Emissions (Scope 1 and Scope 2 (location-based)): 2020 (OxyChem) \u00bb Total GHG Emissions (Scope 1 and Scope 2 (location-based)): 2019 (Occidental Oil & Gas) \u00bb Total GHG Emissions (Scope 1 and Scope 2 (location-based)): 2019 (OxyChem) \u00bb Total GHG Emissions (Scope 1 and Scope 2 (location-based)): 18.50 million metric tonnes CO2e 4.84 million metric tonnes CO2e 23.34 million metric tonnes CO2e",
-        "source_chunk_idx": 380
+        "source_chunk_idx": 380,
+        "threshold": 0.5,
+        "scored_item": false
       },
       "scope3_category_breakdown": {
         "applicable": true,
         "found": true,
-        "score": 0.983,
-        "evidence": "revised, or estimates are supplemented by measurements, and to reflect significant changes to Oxy\u2019s assets, operations or organizational boundaries. Oxy has estimated direct GHG emissions from our operations (Scope 1), emissions associated with the generation by others of electricity, steam or heat that we purchase for use in our operations (Scope 2), and the three categories of emissions generated by others in our downstream oil and gas value chain (Scope 3) that we believe are most relevant \u2014 downstream transportation and distribution of the oil and gas products we make to our customers (Category 9), processing and refining of our oil and gas products by our customers (Category 10), and use of our sold oil and gas products by consumers (Category 11).",
-        "source_chunk_idx": 116
+        "score": 0.896,
+        "evidence": "Oxy has estimated direct GHG emissions from our operations (Scope 1), emissions associated with the generation by others of electricity, steam or heat that we purchase for use in our operations (Scope 2), and the three categories of emissions generated by others in our downstream oil and gas value chain (Scope 3) that we believe are most relevant \u2014 downstream transportation and distribution of the oil and gas products we make to our customers (Category 9), processing and refining of our oil and gas products by our customers (Category 10), and use of our sold oil and gas products by consumers (Category 11).",
+        "source_chunk_idx": 116,
+        "rescored": true,
+        "threshold": 0.46,
+        "scored_item": false
       },
       "target_net_zero_year": {
         "applicable": true,
         "found": true,
         "score": 0.926,
         "evidence": "SUSTAINABILITY STRATEGY In 2020, Oxy was the first U.S. oil and gas company to announce goals to achieve net-zero GHG emissions for its total emissions inventory including use of sold products. These goals include achieving net-zero GHG emissions (i) from our operations and energy use before 2040, with an ambition to do so before 2035, and (ii) from our sold products, with an ambition to do so before 2050.",
-        "source_chunk_idx": 49
+        "source_chunk_idx": 49,
+        "threshold": 0.03,
+        "scored_item": false
       },
       "assurance_provider_named": {
         "applicable": true,
         "found": true,
         "score": 0.997,
         "evidence": "ERM Certification and Verification Services, Inc., a qualified independent external reviewer, has issued Independent Assurance Statements this year for 2022 emissions and last year for 2019-2021 emissions.",
-        "source_chunk_idx": 117
+        "source_chunk_idx": 117,
+        "threshold": 0.8,
+        "scored_item": true
       },
       "board_committee_climate_mandate": {
         "applicable": true,
         "found": true,
         "score": 0.98,
         "evidence": "The Executive Compensation Committee reviews and approves the parameters and goals that determine executive compensation, including annual sustainability metrics that tie to Scope 1, 2 and 3 emissions and climate- related targets. Additional details for each of the committees are available in their respective charters and described in Oxy\u2019s Proxy Statement.",
-        "source_chunk_idx": 62
+        "source_chunk_idx": 62,
+        "threshold": 0.93,
+        "scored_item": true
       },
       "injury_rate_trir": {
         "applicable": true,
         "found": true,
         "score": 0.991,
         "evidence": "In 2022, Oxy's employee safety performance remained better than our robust pre-Covid levels with an OSHA injury and illness incidence rate for employees of 0.26, excluding Covid cases. We safely completed multiple major maintenance turnarounds across our operations.",
-        "source_chunk_idx": 3
+        "source_chunk_idx": 3,
+        "threshold": 0.94,
+        "scored_item": false
       },
       "scenario_analysis_quantified": {
         "applicable": true,
         "found": false,
-        "score": 0.034,
-        "evidence": "2) operated basis *Items verified by ERM CVS 14.55 * 16.25 * 16.07 * 19.42 * CCE-4: C3 Not Applicable GRI 305-1 GRI 305-2 11.1.5 11.1.6 Direct GHGs (Scope 1) equity basis 9.03 9.13 8.75 9.75 CCE-4: C3 EM-EP-110a.1 EM-MD-110a.1 GRI 305-1 11.1.5 Indirect GHGs (Scope 2) equity basis 1.94 2.20 2.22 2.85 CCE-4: C3 Not Applicable GRI 305-2 11.1.6 Total GHGs (Scope 1 and 2) equity basis 10.97 11.33 10.97 12.60 CCE-4: C3 Not Applicable GRI 305-1 GRI 305-2 11.1.5 11.1.6 Scope 3 GHG Emissions (million metric tons CO2 equivalent) \u2014 Oil & Gas [1] [2] [3] Scope 3 GHG emissions \u2013 operated basis, Transportation, Refining and Use of Sold Products *Item verified by ERM CVS[2] 217 * 212 * 226 259 CCE-4: A2, A7 Not Applicable GRI 305-3 11.1.7 Scope 3 GHG emissions \u2013 equity basis, Transportation, Refining and Use of Sold Products *Item verified by ERM CVS[2] 175 * 176 * 196 151 CCE-4: A2, A7 Not Applicable",
-        "source_chunk_idx": 297
+        "score": 0.07,
+        "evidence": "P Paris Agreement: An international treaty on climate change adopted by 196 Parties at the UN Climate Change Conference (COP21) in Paris, France in December 2015 and administered under the 1992 United Nations Framework Convention on Climate Change.",
+        "source_chunk_idx": 396,
+        "rescored": true,
+        "threshold": 0.99,
+        "scored_item": false
       }
     }
   },
@@ -435,55 +555,71 @@
     "items": {
       "scope1_absolute": {
         "applicable": true,
-        "found": false,
+        "found": true,
         "score": 0.203,
         "evidence": "The table on the right summarizes our 2024 operational GHG emissions. 2024 2023 GHG emissions (tCO2e) Scope 1 GHG emissionsi 100,024 115,294 Natural gas 49,354 48,232 Propane 50 50 Fuel oil 422 420 Jet fuel 12,414 13,059 Fugitive emissionsii 33,121 48,658 Diesel 2,384 2,855 Fleet 1,627 1,892 Other energy useiii, iv 652 128 Scope 2 GHG emissions (location-based)i 773,852 792,479 Purchased electricity 767,046 788,837 Purchased steam, district heat and chilled wateriv",
-        "source_chunk_idx": 98
+        "source_chunk_idx": 98,
+        "threshold": 0.2,
+        "scored_item": true
       },
       "scope2_market_based": {
         "applicable": true,
         "found": true,
         "score": 0.63,
         "evidence": "Includes Scope 1 and Scope 2 (location-based) GHG emissions; tCO2e/million USD revenue. vi. Market-based emissions for purchased electricity are reported as zero due to the purchase of renewable electricity through unbundled EACs and contractual instruments, including PPAs, virtual pow er purchase agreements and renewable electricity supply contracts. vii.",
-        "source_chunk_idx": 101
+        "source_chunk_idx": 101,
+        "threshold": 0.5,
+        "scored_item": false
       },
       "scope3_category_breakdown": {
         "applicable": true,
-        "found": true,
-        "score": 0.658,
-        "evidence": "We plan to continue to review and consider opportunities to enhance the quality of our GHG emissions inventory over time. Electric power Since 2020, we have sourced renewable electricity for our global electric power needs through a combination of on-site solar installations at JPMorganChase commercial and retail locations, and the purchase of renewable electricity via both long-term power purchase agreements and applicable EACs.",
-        "source_chunk_idx": 102
+        "found": false,
+        "score": 0.105,
+        "evidence": "loyees Risk management Governance Appendices Supporting secure and affordable energy and a transition to a low-carbon economy PORTFOLIO DETAILS BASELINEi TARGET JPMORGANCHASE PROGRESS Scope(s) included Unit of measurement Baseline year Portfolio carbon intensity baseline Portfolio carb on intensity as of December 31, 202 Change in portfolio carbon intensity from baselineii Energy Mixiii Scope 3 (end use) gCO2 / MJ 2019 45.9 29.5 -36% from baseline 30.6 -33.2% Oil & Gas Operational Scopes 1 and 2 gCO2e / MJ 2019 4.9 -45.0% from baseline 4.0 -17.2% Electric Power Scope 1 kgCO2 / MWh 2019 342.6 105.3 -69% from baseline 248.4 -2 7.5% Auto Manufacturing Scopes 1, 2 and 3 (tank-to-wheel) gCO2e / km 2019 164.8 86.1 -48% from baseline 131.3 -20.3% Aviation Scope 1 (tank-to-wake) gCO2 / RTK 2021 972.6 625.0 -36% from baseline 777 .3 -20.1% Shipping Scope 1 (tank-to-wake) gCO2 / t-nm 2021 10.9 (re",
+        "source_chunk_idx": 126,
+        "rescored": true,
+        "threshold": 0.46,
+        "scored_item": false
       },
       "target_net_zero_year": {
         "applicable": true,
-        "found": false,
+        "found": true,
         "score": 0.178,
         "evidence": "We constructed our targets for 2030 as portfolio-level targets by sector, using output-based emissions intensity metrics and aligned to the International Ener gy Agency\u2019s Net Zero Emissions by 2050 scenario21. We set targets using our own independent assessment of what we determined to be reasonable and science-based, and what would serve the best interests of our business and clients.",
-        "source_chunk_idx": 119
+        "source_chunk_idx": 119,
+        "threshold": 0.03,
+        "scored_item": false
       },
       "assurance_provider_named": {
         "applicable": true,
         "found": false,
         "score": 0.094,
         "evidence": "2 128 Scope 2 GHG emissions (location-based)i 773,852 792,479 Purchased electricity 767,046 788,837 Purchased steam, district heat and chilled wateriv 6,806 3,642 Scope 1 GHG emissions + Scope 2 GHG emissions (location-based) 873,876 907 ,773 GHG emissions intensityv 4.9 5.7 Scope 2 GHG emissions (market-based)i 6,806 3,642 Purchased electricityvi \u2014 \u2014 Purchased steam, district heat and chilled wateriv 6,806 3,642 Scope 1 GHG emissions + Scope 2 GHG emissions (market-based)i 106,830 118,936 Verified carbon credits i, vii 367,311 374,417 2024 2023 Electric power (MWh) Electricity production (on-site solar) 57,420 47,4 43 Purchased electricityi 2,041,374 2,016,262 Purchased renewable electricityi, ii 2,041,374 2,016,262 i. We engaged an external third-party to perform a limited assurance engagement over these metrics presented for 2023 and 2024.",
-        "source_chunk_idx": 99
+        "source_chunk_idx": 99,
+        "threshold": 0.8,
+        "scored_item": true
       },
       "board_committee_climate_mandate": {
         "applicable": true,
         "found": false,
         "score": 0.008,
         "evidence": "The information in this table is not considered when making employment decisions. As of December 31, 2024 T otal employees Senior level emplo yees 35 Operating Committee Board of Directors Race/Ethnicity36 White 43% 74% 86% 80% Hispanic 21% 6% 7% \u2014% Asian 20% 14% 7% \u2014% Black 13% 5% \u2014% 20% Other37 3% 1% \u2014% \u2014% Gender38 Men 51% 71% 53% 50% Women 49% 29% 47% 50% LGBTQ+39 4% 2% 7% \u2014% Military veterans39 3% 2% \u2014% 10% People with Disabilities39 5% 3% \u2014% \u2014%40 35 Senior level employees represents employees with the titles of Managing Director and above. 36 Based on EEO metrics.",
-        "source_chunk_idx": 237
+        "source_chunk_idx": 237,
+        "threshold": 0.93,
+        "scored_item": true
       },
       "injury_rate_trir": {
         "applicable": false
       },
       "scenario_analysis_quantified": {
         "applicable": true,
-        "found": true,
-        "score": 0.982,
-        "evidence": "For clients operating in sectors more vulnerable to transition risk (e.g., Oil & Gas, Automotive Manufacturing, Power G eneration, Aviation, Steel and Cement Manufacturing), the Firm estimates the potential impact of a climate transition scenario on their credit rating by projecting detailed cashflows within the context of a transition scenario (refer to Scenario Analysis on page 51).",
-        "source_chunk_idx": 303
+        "found": false,
+        "score": 0.938,
+        "evidence": "Additionally, companies may need to increase their capital expenditures through investments that improve resilience to a low-carbon transition (e.g., power companies investing in renewables). For clients operating in sectors more vulnerable to transition risk (e.g., Oil & Gas, Automotive Manufacturing, Power G eneration, Aviation, Steel and Cement Manufacturing), the Firm estimates the potential impact of a climate transition scenario on their credit rating by projecting detailed cashflows within the context of a transition scenario (refer to Scenario Analysis on page 51).",
+        "source_chunk_idx": 303,
+        "rescored": true,
+        "threshold": 0.99,
+        "scored_item": false
       }
     }
   },
@@ -494,45 +630,58 @@
     "items": {
       "scope1_absolute": {
         "applicable": true,
-        "found": false,
+        "found": true,
         "score": 0.203,
         "evidence": "All of the environmental metrics we disclose in the following pages undergo internal review, controls and governance and several undergo third-party verification each year (see bankofamerica.com/sustainabilityreports). GHG emissions Units 2010 (baseline) 2022 2023 2024 Scope 1 and location-based Scope 2 emissions Scope 1 direct emissions Metric tons CO2e 106,870 66,775 68,050 65,763 Location-based Scope 2 indirect emissions Metric tons CO2e 1,678,547 634,510 610,013 617,413 Total Scope 1 and location-based Scope 2 emissions Metric tons CO2e 1,78",
-        "source_chunk_idx": 207
+        "source_chunk_idx": 207,
+        "threshold": 0.2,
+        "scored_item": true
       },
       "scope2_market_based": {
         "applicable": true,
         "found": false,
         "score": 0.046,
         "evidence": "9 0 0 0 Reduction in total net Scope 1 and market-based Scope 2 emissions Percent decrease from base year Not applicable 100% 100% 100% Scope 3 indirect emissions Category 1 - Purchased goods and services Metric tons CO2e Not available 1,571,077 1,722,654 1,625,076 Category 2 - Capital goods Metric tons CO2e Not available 47,621 48,570 35,375 Category 3 - Fuel and energy-related activities Metric tons CO2e 341,783 164,599 168,018 150,799 Category 4 - Upstream transportation and distribution Metric tons CO2e 243,881 176,322 152,752 147,437 Category 5 - Waste (traditional disposal) Metric tons CO2e Not available 18,826 18,406 19,090 Category 6 - Business travel Metric tons CO2e 189,977 82,583 92,818 96,359 Business Travel Carbon Credits Retired Metric tons CO2e 0 80,172 92,819 96,359 Total Net Scope 3 Business Travel Emissions Metric tons CO2e 189,977 2,411 0 0 Category 7 - Employee commut",
-        "source_chunk_idx": 209
+        "source_chunk_idx": 209,
+        "threshold": 0.5,
+        "scored_item": false
       },
       "scope3_category_breakdown": {
         "applicable": true,
         "found": true,
-        "score": 0.896,
-        "evidence": "Project Finance transactions - Sectors Category A Category B Category C POWER (Total) 32 4 Battery Energy Storage Systems (BESS) 3 (2, U.S.; 1, Chile) 4, U.S.",
-        "source_chunk_idx": 238
+        "score": 0.771,
+        "evidence": "Utilize sustainable aviation fuel (SAF) for at least 20% of the company\u2019s total annual corporate and commercial jet fuel usage, equivalent to 100% of corporate jet fuel and a significant percentage of fuel associated with employee travel on commercial airlines. Financing activity Auto manufacturing Reduce intensity by 48% by 2030 (gCO2e/km Scopes 1, 2 and 3 end use) from 2019 baseline.",
+        "source_chunk_idx": 40,
+        "rescored": true,
+        "threshold": 0.46,
+        "scored_item": false
       },
       "target_net_zero_year": {
         "applicable": true,
         "found": true,
         "score": 0.809,
         "evidence": "ry 2030 financing activity targets as a part of our Net Zero Goal for the following sectors: auto manufacturing, aviation, cement, energy, iron and steel, maritime shipping and power generation.",
-        "source_chunk_idx": 179
+        "source_chunk_idx": 179,
+        "threshold": 0.03,
+        "scored_item": false
       },
       "assurance_provider_named": {
         "applicable": true,
         "found": false,
         "score": 0.01,
         "evidence": "Calculations disclosed herein were subject to multiple levels of review and challenge as well as third- party limited assurance review and validation - the resulting Environmental Assurance Statements can be found on bankofamerica.com/sustainabilityreports.",
-        "source_chunk_idx": 180
+        "source_chunk_idx": 180,
+        "threshold": 0.8,
+        "scored_item": true
       },
       "board_committee_climate_mandate": {
         "applicable": true,
         "found": true,
         "score": 0.966,
         "evidence": "The Board\u2019s Enterprise Risk Committee oversees risk and receives updates on our company\u2019s risk management efforts, including periodically on climate risk. The Board and the ERC receive risk reporting on key and emerging risks.",
-        "source_chunk_idx": 166
+        "source_chunk_idx": 166,
+        "threshold": 0.93,
+        "scored_item": true
       },
       "injury_rate_trir": {
         "applicable": false
@@ -540,9 +689,12 @@
       "scenario_analysis_quantified": {
         "applicable": true,
         "found": false,
-        "score": 0.016,
-        "evidence": "Compliance and operational risk Compliance risk is the risk of legal or regulatory sanctions, material financial loss or damage to the reputation of the company arising from the failure of the company to comply with the requirements of applicable laws, rules and regulations or our internal policies and procedures. We evaluate the applicability and impact of new and amended climate-related laws, rules and regulations related to climate topics, and then execute changes needed to comply.",
-        "source_chunk_idx": 154
+        "score": 0.073,
+        "evidence": "Operational risk is the risk of loss resulting from inadequate or failed int",
+        "source_chunk_idx": 154,
+        "rescored": true,
+        "threshold": 0.99,
+        "scored_item": false
       }
     }
   },
@@ -556,52 +708,68 @@
         "found": true,
         "score": 0.627,
         "evidence": "Trend1 2021-2022 2022 2021 2020 2017 [Baseline] Energy (cont.) Energy use intensity for offices (kWh/sq. ft.)2 , 6 \u2191 21.5 21.4 20.7 32.7 \u25ca Reduction in energy use intensity for offices from baseline (%)4 -34% -35% -37% n/a Global renewable energy consumption (MWh)2 \u2191 448,939 416,660 399,572 453,518 \u25ca Percent renewable energy2 , 4, 7 100% 100% 100% 94% Greenhouse Gas (GHG) Emissions Scope 1 \u2014 Direct (metric tons CO2 equivalent [tCO2 e])2, 5, 6 \u2191 11,980 11,847 9,330 10,750 Natural gas6 43% 47% 56% 63% Other fuels5 , 6 31% 27% 12% 11% HFC refrigerants 26% 26% 32% 26% Scope 2 (location) \u2014 Indirect (tCO2 e)2, 6 \u2191 158,151 145,264 142,990 192,296 Purchased electricity6 98% 98% 98% 99% Purchased steam & chilled water 2% 2% 2% 1% Scope 2 (market) \u2014 Indirect (tCO2 e)2, 6 \u2193 9,840 12,635 6,776 21,107 Purchased electricity6 66% 73% 61% 89% Purchased steam & chilled water 34% 27% 39% 11% Scope 3: Cate",
-        "source_chunk_idx": 255
+        "source_chunk_idx": 255,
+        "threshold": 0.2,
+        "scored_item": true
       },
       "scope2_market_based": {
         "applicable": true,
         "found": false,
         "score": 0.157,
         "evidence": "Indirect (tCO2 e)2, 6 \u2193 9,840 12,635 6,776 21,107 Purchased electricity6 66% 73% 61% 89% Purchased steam & chilled water 34% 27% 39% 11% Scope 3: Category 6 \u2014 Business Travel (tCO2e) \u2191 57,233 23,802 29,295 120,001 Commercial air 86% 68% 69% 88% Other travel8 14% 32% 31% 12% Total Emissions: Scope 1 & 2 (location) (tCO2 e)2, 6 \u2191 170,131 157,111 152,320 203,046 Total Emissions: Scope 1 & 2 (market) (tCO2 e)2, 6 \u2193 21,820 24,482 16,105 31,857 Total Emissions: Scope 1, 2 (market) and 3 Category 6 (tCO2 e)2, 6 \u2191 79,053 48,284 45,400 151,858 \u25ca Net Emissions: Scope 1, 2 (market) and 3 Category 6 (tCO2 e)2, 4 0 0 0 0 Verified carbon avoidance credits (tCO2 e) 57,233 26,116 43,225 146,950 Verified carbon removals (tCO2 e) 21,820 20,000 0 0 1 Many metrics trending upward from 2021 to 2022 are primarily due to lifting COVID restrictions and employees returning to the office. 2 Historical energy, wat",
-        "source_chunk_idx": 256
+        "source_chunk_idx": 256,
+        "threshold": 0.5,
+        "scored_item": false
       },
       "scope3_category_breakdown": {
         "applicable": true,
         "found": true,
-        "score": 0.971,
-        "evidence": "Special Purpose Vehicles) 6% The table below presents the asset class breakdown of our $14.9 billion of equity securities at fair value (substantially all reported within our Asset & Wealth Management and Global Banking & Markets segments): Corporate 71% Real Estate 29% For further information about loans and investments, please see pages 110 and 158\u2013159, respectively, of our 2022 Form 10-K.",
-        "source_chunk_idx": 283
+        "score": 0.495,
+        "evidence": "Indirect (tCO2 e)2, 6 \u2193 9,840 12,635 6,776 21,107 Purchased electricity6 66% 73% 61% 89% Purchased steam & chilled water 34% 27% 39% 11% Scope 3: Category 6 \u2014 Business Travel (tCO2e) \u2191 57,233 23,802 29,295 120,001 Commercial air 86% 68% 69% 88% Other travel8 14% 32% 31% 12% Total Emissions: Scope 1 & 2 (location) (tCO2 e)2, 6 \u2191 170,131 157,111 152,320 203,046 Total Emissions: Scope 1 & 2 (market) (tCO2 e)2, 6 \u2193 21,820 24,482 16,105 31,857 Total Emissions: Scope 1, 2 (market) and 3 Category 6 (tCO2 e)2, 6 \u2191 79,053 48,284 45,400 151,858 \u25ca Net Emissions: Scope 1, 2 (market) and 3 Category 6 (tCO2 e)2, 4 0 0 0 0 Verified carbon avoidance credits (tCO2 e) 57,233 26,116 43,225 146,950 Verified carbon removals (tCO2 e) 21,820 20,000 0 0 1 Many metrics trending upward from 2021 to 2022 are primarily due to lifting COVID restrictions and employees returning to the office. 2 Historical energy, wat",
+        "source_chunk_idx": 256,
+        "rescored": true,
+        "threshold": 0.46,
+        "scored_item": false
       },
       "target_net_zero_year": {
         "applicable": true,
-        "found": false,
+        "found": true,
         "score": 0.056,
         "evidence": "Global renewable energy consumption and verified carbon credits reflect the totals at the time of original reporting (excluding the acquisition activities). 4 This symbol \u25ca before an indicator denotes a commitment through Goldman Sachs\u2019 2025 ESG and Net Zero Commitments and ongoing 2020 Operational Commitments. Net Emissions represent achievement of ongoing Carbon Neutral commitment.",
-        "source_chunk_idx": 257
+        "source_chunk_idx": 257,
+        "threshold": 0.03,
+        "scored_item": false
       },
       "assurance_provider_named": {
         "applicable": true,
         "found": false,
         "score": 0.026,
         "evidence": "Reports will continue to be published on our website annually until the proceeds of all outstanding sustainable instruments are fully allocated to eligible assets. External Assurance Goldman Sachs engages an independent accountant to provide external assurance of our allocation on an annual basis until the net proceeds of each issuance are fully allocated to eligible assets.",
-        "source_chunk_idx": 298
+        "source_chunk_idx": 298,
+        "threshold": 0.8,
+        "scored_item": true
       },
       "board_committee_climate_mandate": {
         "applicable": true,
         "found": false,
         "score": 0.475,
         "evidence": "Our Firmwide Climate Steering Group provides oversight of key climate-related risk and opportunity decisions, reviews progress, and provides feedback on climate-related and environmental strategy, risk management, integration and capabilities more broadly. Our Physical Commodities Review Group ensures that we maintain a consistent approach to evaluating and managing environmental, health, and safety (EHS) risks associated with engaging in, investing in or financing physical commodity-related activities.",
-        "source_chunk_idx": 235
+        "source_chunk_idx": 235,
+        "threshold": 0.93,
+        "scored_item": true
       },
       "injury_rate_trir": {
         "applicable": false
       },
       "scenario_analysis_quantified": {
         "applicable": true,
-        "found": true,
-        "score": 0.898,
-        "evidence": "Beginning on January 1, 2023, our G-SIB surcharge increased to 3.0%. Please see pages 12\u201313, 84-86 and 195\u2013196 of our 2022 Form 10-K for further information.",
-        "source_chunk_idx": 270
+        "found": false,
+        "score": 0.655,
+        "evidence": "We are bound by Method 2, and our applicable G-SIB buffer is 2.5% as of December 31, 2022. Beginning on January 1, 2023, our G-SIB surcharge increased to 3.0%.",
+        "source_chunk_idx": 270,
+        "rescored": true,
+        "threshold": 0.99,
+        "scored_item": false
       }
     }
   }

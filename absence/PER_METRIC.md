@@ -229,3 +229,93 @@ publishable. Three items must be excluded from scored output
 (`scenario_analysis_quantified`, `scope3_category_breakdown` pending
 verification, `target_net_zero_year` at 60% recall), and the threshold
 remains uncalibrated at a new, higher-N operating point.
+
+---
+
+# Run 6: two items rewritten, thresholds calibrated
+
+## The calibration result, stated first because it is the important one
+
+`absence/calibrate.py` fits thresholds against `absence/data/labels.json`
+(60 hand-verified cells; unverified cells are `null` and excluded, never
+guessed). Leave-one-out is reported rather than in-sample, because choosing a
+threshold on these cells and then reporting accuracy on the same cells is
+circular.
+
+**There is no usable global threshold.** Best global cut is 0.17 by f1;
+leave-one-out accuracy **0.73 against a 0.57 base rate**. Per-item fitted cut
+points span **0.03 to 0.94** — a 30x spread. That is Fault 3 measured: the
+items' score distributions are not on a common scale, so one cut cannot serve
+them all. Thresholds are now per-item (`items.py: calibrated_threshold`) and
+`detect_item` uses them.
+
+## Which items survive validation
+
+Leave-one-out accuracy against each item's own base rate — an item whose LOO
+does not beat its base rate is carrying no information:
+
+| Item | n | LOO acc | Base rate | Threshold | Scored? |
+|---|---|---|---|---|---|
+| `scope1_absolute` | 10 | **0.90** | 0.70 | 0.20 | ✅ keep |
+| `board_committee_climate_mandate` | 8 | **0.88** | 0.50 | 0.93 | ✅ keep |
+| `assurance_provider_named` | 10 | **0.70** | 0.60 | 0.80 | ✅ keep |
+| `scope3_category_breakdown` | 9 | 0.44 | 0.67 | 0.46 | ❌ **anti-informative** |
+| `target_net_zero_year` | 10 | 0.90 | **1.00** | 0.03 | ❌ no negatives |
+| `injury_rate_trir` | 3 | 0.67 | **1.00** | 0.94 | ❌ no negatives, n=3 |
+| `scenario_analysis_quantified` | 10 | 1.00 | **1.00** | 0.99 | ❌ no positives |
+| `scope2_market_based` | 0 | — | — | 0.50 | ❌ never labelled |
+
+**Three of eight items are eligible for scored output.** Five are excluded,
+each with the reason recorded in `items.py: exclusion_reason`.
+
+## The structural problem this exposes
+
+Four of the excluded items fail for the same reason and it is not the
+detector's fault: **their label distribution is degenerate on this corpus.**
+All 10 companies state a net-zero target year; none quantify a scenario
+impact; all 3 labelled injury cells are positive. With one class absent,
+precision or recall is undefined and no threshold can be fitted or validated.
+
+This is a corpus-design finding for Milestone 2, and it changes what Section
+11's "200 hand-labelled pairs" has to mean: the pairs must be **sampled to
+contain both classes per item**, not drawn at random from ten large-cap
+reports that all do roughly the same thing. Ten S&P 500 sustainability
+reports are too homogeneous to calibrate against.
+
+## Did the two rewrites work?
+
+**`scenario_analysis_quantified` — improved, still unvalidatable.** False
+positives at the old 0.5 cut fell **7 → 4** (remaining: ExxonMobil 0.843,
+ConocoPhillips 0.956, JPMorgan 0.938, Goldman 0.655). Dropping the bare `$` /
+`million` / `billion` anchors removed the G-SIB-surcharge and Green-Fund
+matches. But with zero positives in the corpus, recall is undefined and the
+item cannot be validated here at all.
+
+**`scope3_category_breakdown` — not fixed.** In-sample precision rose
+0.60 → 0.83, which looks like progress and is not: leave-one-out accuracy is
+**0.44 against a 0.67 base rate**, meaning the score is *anti-correlated* with
+ground truth. The rewrite changed which cells are wrong rather than making the
+ordering right. The two decisive cells:
+
+- **ConocoPhillips discloses** "Category 1, purchased goods and services and
+  Category 2, capital goods" — and scores **0.091**, because retrieval
+  returned a paragraph about wildfire mitigation in Alberta.
+- **Chevron discloses no breakdown at all** — and scores **0.836** on a
+  glossary line reading "Methane intensity The amount of methane per unit of
+  measure."
+
+That is a retrieval failure, not a hypothesis failure, so rewriting the
+hypothesis again will not help. The item stays excluded.
+
+## Sixth ground-truth error
+
+Goldman's `scope3_category_breakdown` was labelled `false` on the strength of a
+regex whose character class contained an en-dash but not an em-dash — which
+hid the document's actual "Scope 3: Category 6 — Business Travel (tCO2e)
+57,233". Re-reading, Goldman breaks out exactly one category with figures,
+which is a genuinely borderline partial breakdown, so it is now labelled
+`null` and excluded rather than forced either way.
+
+Six ground-truth errors so far, every one from pattern-matching instead of
+reading. The labels file now records the reasoning per item so the next reader
+can check the judgement rather than inherit it.

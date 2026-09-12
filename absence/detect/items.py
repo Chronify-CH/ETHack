@@ -27,6 +27,20 @@ class DisclosureItem:
     hypothesis: str
     regex_anchors: tuple[str, ...]
     sector_applicability: tuple[str, ...] = field(default_factory=tuple)
+    # Per-item threshold fitted by absence/calibrate.py against
+    # absence/data/labels.json. There is no single global threshold: fitted
+    # per-item cut points span 0.03 to 0.94 across these seven items, because
+    # their score distributions are not on a common scale (FAULTS.md Fault 3).
+    # A global cut scored 0.73 leave-one-out against a 0.57 base rate.
+    calibrated_threshold: float = 0.5
+    # False when the item failed validation and must be excluded from scored
+    # output, per ABSENCE_BRIEF.md Section 11 ("items with recall below 0.7
+    # should be dropped ... and reported as unreliable rather than left in to
+    # add noise"). The reason is recorded on each item below. Excluded items
+    # are still scored and reported -- they are simply not eligible to feed a
+    # Conditional Silence Score or any other aggregate.
+    scored: bool = True
+    exclusion_reason: str = ""
     granularity_levels: tuple[str, ...] = (
         "0 absent",
         "1 qualitative mention only",
@@ -45,6 +59,8 @@ ITEMS: tuple[DisclosureItem, ...] = (
             "in tonnes of CO2 equivalent."
         ),
         regex_anchors=("scope 1", "scope1", "direct emissions", "co2e", "co2-e", "mtco2"),
+        calibrated_threshold=0.2,
+        scored=True,
     ),
     DisclosureItem(
         id="scope2_market_based",
@@ -54,6 +70,11 @@ ITEMS: tuple[DisclosureItem, ...] = (
             "emissions in tonnes of CO2 equivalent."
         ),
         regex_anchors=("scope 2", "scope2", "market-based", "market based"),
+        calibrated_threshold=0.5,
+        scored=False,
+        exclusion_reason=(
+            "Never validated: no labelled cells exist for this item, so neither precision nor recall is known."
+        ),
     ),
     DisclosureItem(
         id="scope3_category_breakdown",
@@ -85,6 +106,11 @@ ITEMS: tuple[DisclosureItem, ...] = (
             "end-of-life treatment", "waste generated in operations",
             "category 1:", "category 11:", "category 15:",
         ),
+        calibrated_threshold=0.46,
+        scored=False,
+        exclusion_reason=(
+            "Anti-informative: leave-one-out accuracy 0.44 against a 0.67 base rate -- the score does not track ground truth. ConocoPhillips discloses 'Category 1, purchased goods and services and Category 2, capital goods' yet scores 0.091 (retrieval returned a paragraph about Alberta wildfires), while Chevron discloses no breakdown at all yet scores 0.836 on a methane-intensity glossary definition. The rewrite improved in-sample precision from 0.60 to 0.83 but changed which cells are wrong rather than making the ordering correct."
+        ),
     ),
     DisclosureItem(
         id="target_net_zero_year",
@@ -94,6 +120,11 @@ ITEMS: tuple[DisclosureItem, ...] = (
             "reach net-zero greenhouse gas emissions."
         ),
         regex_anchors=("net zero", "net-zero", "carbon neutral", "by 2050", "by 2030", "by 2040"),
+        calibrated_threshold=0.03,
+        scored=False,
+        exclusion_reason=(
+            "Cannot be validated on this corpus: all 10 companies state a target year, so there are no negative examples and precision is unmeasurable. Needs a corpus containing companies that do not state one."
+        ),
     ),
     DisclosureItem(
         id="assurance_provider_named",
@@ -103,6 +134,8 @@ ITEMS: tuple[DisclosureItem, ...] = (
             "external assurance or verification over its reported emissions data."
         ),
         regex_anchors=("assurance", "independent verification", "verified by", "assured by", "limited assurance", "reasonable assurance"),
+        calibrated_threshold=0.8,
+        scored=True,
     ),
     DisclosureItem(
         id="board_committee_climate_mandate",
@@ -112,6 +145,8 @@ ITEMS: tuple[DisclosureItem, ...] = (
             "explicit oversight responsibility for climate-related risks."
         ),
         regex_anchors=("board committee", "board of directors", "oversight", "governance committee", "risk committee"),
+        calibrated_threshold=0.93,
+        scored=True,
     ),
     DisclosureItem(
         id="injury_rate_trir",
@@ -122,6 +157,11 @@ ITEMS: tuple[DisclosureItem, ...] = (
         ),
         regex_anchors=("trir", "total recordable incident rate", "recordable injury", "lost time incident", "safety performance"),
         sector_applicability=("Energy",),
+        calibrated_threshold=0.94,
+        scored=False,
+        exclusion_reason=(
+            "Cannot be validated: only 3 labelled cells (Energy-only item) and all 3 are positive, so there are no negatives and the base rate is 1.00."
+        ),
     ),
     DisclosureItem(
         id="scenario_analysis_quantified",
@@ -151,6 +191,11 @@ ITEMS: tuple[DisclosureItem, ...] = (
             "ngfs", "iea scenario", "sds scenario", "net zero 2050 scenario",
             "1.5°c scenario", "2°c scenario", "below 2°c", "orderly transition",
             "disorderly transition", "climate stress test", "stress testing",
+        ),
+        calibrated_threshold=0.99,
+        scored=False,
+        exclusion_reason=(
+            "Cannot be validated on this corpus and still produces false positives: no company here attaches a monetary figure to scenario-analysis results, so there are zero positives and recall is undefined. The rewrite cut false positives at the old 0.5 cut from 7 to 4, but 4 remain (ExxonMobil 0.843, ConocoPhillips 0.956, JPMorgan 0.938, Goldman 0.655)."
         ),
     ),
 )

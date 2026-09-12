@@ -51,9 +51,13 @@ HISTORY, kept because the failure modes are the point:
   cells the incumbent already fails cannot surface regressions, so it can
   only ever look favourable.
 
-STUB_FOUND_THRESHOLD is still an uncalibrated placeholder cut point -- formal
-calibration against 200 hand-labelled item/report pairs, with per-item
-precision/recall, is Milestone 2's job (Section 11), not this one's.
+Thresholds are now calibrated per item (items.py `calibrated_threshold`),
+fitted by absence/calibrate.py against 60 hand-verified labels. There is no
+usable global threshold: fitted per-item cut points span 0.03 to 0.94, and the
+best global cut scored 0.73 leave-one-out against a 0.57 base rate. Section 11
+asks for 200 labelled pairs; this is 60, verified by reading rather than
+keyword matching, because six ground-truth errors in this project came from
+labelling faster than that.
 """
 
 import re
@@ -110,7 +114,7 @@ def _build_query(item: DisclosureItem) -> list[str]:
 MODEL_ID = "MoritzLaurer/deberta-v3-base-zeroshot-v2.0"
 
 # Uncalibrated -- a placeholder cut point only, see module docstring.
-STUB_FOUND_THRESHOLD = 0.5
+STUB_FOUND_THRESHOLD = 0.5  # legacy default; superseded by per-item calibrated_threshold
 
 # CPU-only performance tuning (measured empirically on this environment's
 # 4-core machine against real corpus text via extract.rechunk()-bounded
@@ -269,4 +273,8 @@ def detect_item(item: DisclosureItem, paragraphs: list[Paragraph], k: int = DEFA
     scores = score_paragraphs_batch(item, premises)
     best_i = max(range(len(scores)), key=lambda i: scores[i])
     best_score = round(scores[best_i], 3)
-    return best_score >= STUB_FOUND_THRESHOLD, best_score, premises[best_i], origins[best_i]
+    # Per-item calibrated cut, not the old global 0.5. Fitted cut points span
+    # 0.03 to 0.94 across these items because their score distributions are not
+    # comparable; a single global cut scored 0.73 leave-one-out against a 0.57
+    # base rate. See absence/calibrate.py and items.py.
+    return best_score >= item.calibrated_threshold, best_score, premises[best_i], origins[best_i]

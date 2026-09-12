@@ -1,0 +1,35 @@
+[Apple Inc.] 594 chunks
+/usr/local/lib/python3.11/dist-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  19%|█▉        | 39/202 [00:00<00:00, 369.18it/s]Loading weights:  43%|████▎     | 86/202 [00:00<00:00, 425.87it/s]Loading weights:  64%|██████▍   | 129/202 [00:00<00:00, 405.29it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 593.80it/s]
+    scenario_analysis_quantified     0.979 -> 0.080 absent (89s)
+    scope3_category_breakdown        0.956 -> 0.461 absent (58s)
+[Microsoft Corporation] 329 chunks
+    scenario_analysis_quantified     0.966 -> 0.139 absent (99s)
+    scope3_category_breakdown        0.987 -> 0.974 FOUND (86s)
+[Alphabet Inc. (Google)] 492 chunks
+    scenario_analysis_quantified     0.091 -> 0.039 absent (69s)
+    scope3_category_breakdown        0.989 -> 0.973 FOUND (75s)
+[ExxonMobil] 54 chunks
+    scenario_analysis_quantified     0.968 -> 0.843 FOUND (86s)
+    scope3_category_breakdown        0.962 -> 0.328 absent (61s)
+[Chevron Corporation] 232 chunks
+    scenario_analysis_quantified     0.942 -> 0.042 absent (84s)
+    scope3_category_breakdown        0.849 -> 0.836 FOUND (69s)
+[ConocoPhillips] 754 chunks
+    scenario_analysis_quantified     0.875 -> 0.956 FOUND (76s)
+    scope3_category_breakdown        0.965 -> 0.091 absent (81s)
+[Occidental Petroleum] 400 chunks
+    scenario_analysis_quantified     0.034 -> 0.070 absent (69s)
+    scope3_category_breakdown        0.983 -> 0.896 FOUND (55s)
+[JPMorgan Chase & Co.] 368 chunks
+    scenario_analysis_quantified     0.982 -> 0.938 FOUND (64s)
+    scope3_category_breakdown        0.658 -> 0.105 absent (93s)
+[Bank of America] 324 chunks
+    scenario_analysis_quantified     0.016 -> 0.073 absent (50s)
+    scope3_category_breakdown        0.896 -> 0.771 FOUND (79s)
+[Goldman Sachs Group Inc.] 363 chunks
+    scenario_analysis_quantified     0.898 -> 0.655 FOUND (88s)
+    scope3_category_breakdown        0.971 -> 0.495 absent (83s)
+
+merged into absence/data/milestone1_results.json; re-scored items: scenario_analysis_quantified, scope3_category_breakdown
