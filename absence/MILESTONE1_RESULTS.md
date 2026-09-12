@@ -2,16 +2,18 @@
 
 Per `ABSENCE_BRIEF.md` Section 13: 10 hand-picked reports across 3 sectors, extract
 → paragraphs → 8 disclosure items → silence table, validated by eye, fraction
-correct reported. This report now covers three runs. **Read the comparison
+correct reported. This report covers four runs. **Read the comparison
 below before trusting any single number** — accuracy did not improve
 monotonically with "more sophisticated" methods; it got worse, then much
-better, for identifiable reasons.
+better, for identifiable reasons. One reported number was also corrected
+downward after the models caught an error in my own ground truth.
 
-| Run | Retrieval | Chunking | Scoring | By-eye accuracy (12 audited cells) |
+| Run | Retrieval | Chunking | Scoring | By-eye accuracy |
 |---|---|---|---|---|
-| 1 | Raw anchor-term count | Blank-line paragraphs (~2,800 char avg) | Keyword heuristic | 65% (11/17, different sample size) |
+| 1 | Raw anchor-term count | Blank-line paragraphs (~2,800 char avg) | Keyword heuristic | 59% (10/17, corrected -- see below) |
 | 2 | Raw anchor-term count, k=4 | Same, unbounded | Real DeBERTa-v3-MNLI (base), 256-token truncation | 33% (4/12) |
 | 3 | Real BM25, k=8 | `rechunk()`-bounded to ~900 chars | Same model | **83% (10/12)** |
+| 4 | Same as run 3 | Same as run 3 | DeBERTa-v3-**large**-zeroshot-v2.0 | in progress at time of writing |
 
 ## What actually ran
 
@@ -55,10 +57,39 @@ great deal (see below).
 
 **Run 1 (keyword-heuristic stub, `entail.py` before this milestone's later
 commits):** anchor-term overlap + number-presence, `k=8` candidates,
-uncalibrated. By-eye accuracy on 17 grep-verified item/company cells: **65%
-(11/17)**, with every miss traced to retrieval surfacing boilerplate or a
+uncalibrated. By-eye accuracy on 17 grep-verified item/company cells: **59%
+(10/17)** — originally reported as 65% (11/17); corrected downward after run 4
+exposed an error in my own ground truth (see "A correction to the ground
+truth" below). Misses traced to retrieval surfacing boilerplate or a
 glossary page over the real supporting text. Full methodology preserved in
 git history of this file.
+
+### A correction to the ground truth (found by the model, not by me)
+
+In run 1's audit I recorded ExxonMobil's `injury_rate_trir` as correctly
+`absent`, on the strength of `grep -i "trir\|recordable incident"` returning
+nothing in that document. **That ground truth was wrong.** ExxonMobil's
+Executive Summary discloses "0.02 LTIR — our industry-leading lost-time
+incident rate per 200,000 work hours": a numeric workplace injury rate, which
+is exactly what the item's hypothesis asks for ("total recordable incident
+rate (TRIR) **or equivalent workplace injury rate statistic**"). My grep
+terms were narrower than the item definition, so the disclosure was invisible
+to my manual check.
+
+This surfaced only because run 4's large model returned `FOUND 0.846` on that
+cell, contradicting my recorded ground truth and prompting a re-check. The
+consequences:
+- Run 1's ExxonMobil `injury_rate_trir` was a **false negative**, not a true
+  negative → run 1 drops from 11/17 to 10/17.
+- Run 3's base model also scored this `absent` — also a false negative, and
+  also one I would not have caught.
+- **Methodological warning for Milestone 2's 200-pair hand-labelling:** if
+  the hand-labeller greps for the item's *name* rather than the full space of
+  phrasings its *hypothesis* admits, the labels themselves will be wrong, and
+  every precision/recall number computed from them will inherit the error in
+  the direction that flatters a keyword-based detector and penalises a
+  semantic one. Label from the hypothesis text, and search for synonyms
+  (LTIR, TRR, DART, lost-time, recordable) before recording an absence.
 
 **Run 2 (real DeBERTa-v3-MNLI entailment):** same retrieval design, but tuned
 down to `k=4` candidates and `max_length=256` tokens purely for CPU runtime
@@ -89,7 +120,7 @@ covering the same companies as before plus new spot-checks:
 | Occidental | assurance_provider_named | FOUND (0.92) | Present | ✅ **correct, excellent evidence** ("Independent Limited Assurance Report... ERM Certification and Verification Services, Inc. ('ERM CVS') was engaged...") |
 | Goldman Sachs | scenario_analysis_quantified | FOUND (0.772) | Absent (no scenario-analysis dollar impact in retrieved text) | ❌ **false positive** — retrieved a green-bond issuance paragraph ($100 million notes), unrelated to scenario analysis |
 
-**Result: 4 / 12 correct (33%) — worse than the stub's 65% on a comparable audit.**
+**Result: 4 / 12 correct (33%) — worse than the stub's 59% on a comparable audit.**
 
 ## This is the actual finding of Milestone 1, and it is not flattering
 
