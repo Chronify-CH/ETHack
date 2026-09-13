@@ -64,6 +64,18 @@ def _targets_by_ticker() -> dict:
     return {c["ticker"].upper(): c for c in json.load(open(TARGETS_PATH))["companies"]}
 
 
+# Documents fetched from a company's own site instead of the archive. Their
+# URLs carry no ticker or year, so the mapping is stated explicitly here rather
+# than parsed. Every entry is provisional until verify_years() confirms the
+# edition against the document's own title page: where a site lists assets by
+# opaque id, the year is an inference from page order and nothing else.
+MANUAL_URL_MAP: dict[str, tuple[str, int]] = {
+    "https://www.targaresources.com/static-files/13aa5b46-c3a6-4086-8455-6e26ac7807f9": ("TRGP", 2022),
+    "https://www.targaresources.com/static-files/c7f9001a-da7e-44ff-b6bd-0f7b73a30a1c": ("TRGP", 2024),
+    "https://www.targaresources.com/static-files/f16d011c-8387-4f94-a4c5-212888a49db8": ("TRGP", 2023),
+}
+
+
 def ingest(paths: list[str]) -> None:
     prov = json.loads(PROVENANCE_PATH.read_text())
     by_slug = {e["slug"]: e for e in prov}
@@ -101,10 +113,13 @@ def ingest(paths: list[str]) -> None:
         for r in payload.get("results", []):
             url = r.get("url", "")
             m = ARCHIVE_RE.search(url)
-            if not m:
+            if m:
+                ticker, year = m.group(2).upper(), int(m.group(3))
+            elif url in MANUAL_URL_MAP:
+                ticker, year = MANUAL_URL_MAP[url]
+            else:
                 print(f"  ?? no ticker/year in URL, skipped: {url}")
                 continue
-            _, ticker, year = m.group(1), m.group(2).upper(), int(m.group(3))
             alias_note = ""
             if ticker in TICKER_ALIASES:
                 ticker, alias_note = TICKER_ALIASES[ticker]

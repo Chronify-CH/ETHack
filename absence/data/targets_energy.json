@@ -180,10 +180,14 @@
       "company": "Targa Resources",
       "subsector": "Midstream",
       "rr_slug": null,
-      "letter": "t",
+      "letter": null,
       "exchange": "NYSE",
-      "years": [],
-      "shortfall": "Not resolved on ResponsibilityReports.com: the only Targa entity indexed is Targa Resources Partners LP, the partnership, not TRGP the corporation. To be sourced from the company's own site."
+      "years": [
+        2024,
+        2023,
+        2022
+      ],
+      "note": "Not on ResponsibilityReports.com (only the Targa Resources Partners LP entity is). Sourced from the company's own site, where assets carry opaque UUIDs; the year of each was inferred from listing order and then confirmed against the document's own title page. See MANUAL_URL_MAP in absence/ingest_reports.py."
     },
     {
       "ticker": "MPC",
@@ -202,11 +206,15 @@
       "ticker": "PSX",
       "company": "Phillips 66",
       "subsector": "Refining & Marketing",
-      "rr_slug": null,
+      "rr_slug": "phillips",
       "letter": "p",
       "exchange": "NYSE",
-      "years": [],
-      "shortfall": "Not resolved: the site's 'phillips-66' page is Phillips 66 Partners LP (PSXP) and hosts no archive PDFs. To be sourced from the company's own site."
+      "years": [
+        2023,
+        2022,
+        2021
+      ],
+      "note": "The site's company page is /Company/phillips, not /Company/phillips-66 -- the latter is Phillips 66 Partners LP (PSXP), a different entity that hosts no archive PDFs. I initially ruled PSX out on that page and was wrong."
     },
     {
       "ticker": "VLO",
@@ -242,8 +250,12 @@
       "rr_slug": "baker-hughes-inc",
       "letter": "b",
       "exchange": "NYSE",
-      "years": [],
-      "shortfall": "Indexed only under the pre-merger 'Baker Hughes Inc' entity; archive coverage unverified. To be checked, then sourced from the company's own site if needed."
+      "years": [
+        2024,
+        2023,
+        2022
+      ],
+      "note": "Indexed under the pre-merger page name 'Baker Hughes Inc.', but the archive files use the current BKR ticker."
     },
     {
       "ticker": "HAL",
