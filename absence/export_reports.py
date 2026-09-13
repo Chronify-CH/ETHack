@@ -155,33 +155,93 @@ def render_index(prov, results_by_slug, labels_all) -> str:
     a = lines.append
     a("# Analysed reports")
     a("")
-    a("One folder per document the pipeline read. Each holds `source.txt` — the "
-      "exact extracted text that was scored, hash-verified in "
-      "`absence/data/provenance.json` — and `analysis.md`, its per-item audit "
-      "trail. Regenerate the analyses with `python -m absence.export_reports`.")
+    ok = [e for e in prov if e.get("status") == "ok"]
+    missing = [e for e in prov if e.get("status") != "ok"]
+    scored_docs = [e for e in ok if e["slug"] in results_by_slug]
+    a(f"{len(ok)} report documents, one folder each. Every folder holds `source.txt` — the exact "
+      "extracted text, hash-verified in `absence/data/provenance.json`. Folders for documents that "
+      "have been through the detector also hold `analysis.md`, their per-item audit trail.")
     a("")
-    a("| folder | company | sector | year | chars | scored items agreeing with the hand read |")
-    a("|---|---|---|---:|---:|---|")
-    for entry in prov:
-        row = results_by_slug[entry["slug"]]
-        labels = labels_all.get(entry["slug"], {})
-        checkable = [
-            (i, row["items"][i.id], labels.get(i.id))
-            for i in ITEMS
-            if i.scored and row["items"].get(i.id, {}).get("applicable")
-            and labels.get(i.id) is not None
-        ]
-        agree = sum(1 for _, c, l in checkable if bool(c.get("found")) == bool(l))
-        frac = f"{agree}/{len(checkable)}" if checkable else "—"
-        a(f"| [`{entry['slug']}/`]({entry['slug']}/analysis.md) | {entry['company']} | "
-          f"{entry['sector']} | {entry['report_year']} | {entry['extracted_text_chars']:,} | {frac} |")
+    a(f"**{len(scored_docs)} of {len(ok)} documents have been scored.** The rest are fetched and "
+      "cached but not yet run through the pipeline; they are listed below as *not yet scored*, "
+      "which means exactly that and nothing about the companies concerned.")
+    a("")
+    a("Regenerate this file and the analyses with `python -m absence.export_reports`.")
+    a("")
+
+    order = ["Energy", "Technology", "Financials"]
+    sectors = sorted({e["sector"] for e in ok}, key=lambda s: (order.index(s) if s in order else 99, s))
+    for sector in sectors:
+        a(f"## {sector}")
+        a("")
+        rows = [e for e in ok if e["sector"] == sector]
+        subs = sorted({e.get("subsector") or "" for e in rows})
+        for sub in subs:
+            group = sorted((e for e in rows if (e.get("subsector") or "") == sub),
+                           key=lambda e: (e["ticker"], -e["report_year"]))
+            if sub:
+                a(f"### {sub}")
+                a("")
+            a("| folder | company | year | chars | status |")
+            a("|---|---|---:|---:|---|")
+            for e in group:
+                row = results_by_slug.get(e["slug"])
+                if row is None:
+                    status = "not yet scored"
+                    link = f"`{e['slug']}/`"
+                else:
+                    labels = labels_all.get(e["slug"], {})
+                    checkable = [
+                        (i, row["items"][i.id], labels.get(i.id))
+                        for i in ITEMS
+                        if i.scored and row["items"].get(i.id, {}).get("applicable")
+                        and labels.get(i.id) is not None
+                    ]
+                    agree = sum(1 for _, c, l in checkable if bool(c.get("found")) == bool(l))
+                    status = (f"scored, {agree}/{len(checkable)} agree with the hand read"
+                              if checkable else "scored, no hand-labelled cells")
+                    link = f"[`{e['slug']}/`]({e['slug']}/analysis.md)"
+                caveat = " ⚠︎" if e.get("document_type_caveat") else ""
+                a(f"| {link} | {e['company']}{caveat} | {e['report_year']} | "
+                  f"{e['extracted_text_chars']:,} | {status} |")
+            a("")
+
+    if missing:
+        a("## Documents that could not be retrieved")
+        a("")
+        a("Recorded rather than omitted, so the corpus can never look more complete than it is. "
+          "None of these is evidence about the company: each is a fact about the source.")
+        a("")
+        a("| intended document | company | year | why not retrieved |")
+        a("|---|---|---:|---|")
+        for e in sorted(missing, key=lambda e: e["slug"]):
+            reason = (e.get("unavailable_reason") or "").replace("|", "/")
+            a(f"| `{e['slug']}` | {e['company']} | {e.get('report_year_from_url', '')} | {reason} |")
+        a("")
+
+    caveated = [e for e in ok if e.get("document_type_caveat")]
+    if caveated:
+        a("## ⚠︎ Document-type caveats")
+        a("")
+        for e in caveated:
+            a(f"- **{e['slug']}** — {e['document_type_caveat']}")
+        a("")
+
+    a("## Reading the year column")
+    a("")
+    a("Every year here was confirmed against the document's own title page, not taken from its "
+      "filename. The three editions held for one company are its three most recent available, "
+      "which are not the same three years across companies: some archives reach 2024 or 2025 and "
+      "others stop at 2022. A difference between two companies in this corpus can therefore be a "
+      "difference in reporting year rather than in disclosure. Compare within a year where the "
+      "corpus allows it.")
     a("")
     scored_ids = [i.id for i in ITEMS if i.scored]
-    a(f"Only the {len(scored_ids)} validated items count toward those fractions: "
+    a(f"Only the {len(scored_ids)} validated items count toward the agreement figures above: "
       + ", ".join(f"`{i}`" for i in scored_ids) + ". The other "
-      f"{len(ITEMS) - len(scored_ids)} items appear in every analysis file, marked "
-      "excluded with the reason, because their evidence is still worth auditing "
-      "even though their accuracy is unknown or measurably poor.")
+      f"{len(ITEMS) - len(scored_ids)} appear in each analysis file marked excluded, with the "
+      "reason, because their evidence is still worth auditing even though their accuracy is "
+      "unknown or measurably poor.")
     a("")
     return "\n".join(lines)
 

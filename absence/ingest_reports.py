@@ -189,6 +189,7 @@ def verify_years() -> None:
     downstream table.
     """
     prov = json.loads(PROVENANCE_PATH.read_text())
+    write = "--write-titles" in sys.argv
     for e in prov:
         if e.get("status") == "unavailable" or not e.get("local_path"):
             continue
@@ -199,6 +200,13 @@ def verify_years() -> None:
         flag = "" if claimed in years else "   <-- filename year not on title page"
         print(f"{e['slug']:24} url={claimed} title-page years={years}{flag}")
         print(f"    {head_flat[:150]}")
+        if write and not e.get("report_title_as_printed"):
+            # The document's opening line, quoted rather than paraphrased, so the
+            # edition can be checked without opening the source.
+            e["report_title_as_printed"] = head_flat[:120].strip()
+    if write:
+        PROVENANCE_PATH.write_text(json.dumps(prov, indent=2) + "\n")
+        print("\ntitles written to provenance")
 
 
 if __name__ == "__main__":
